@@ -934,6 +934,38 @@ class Manager
         }
     }
 
+    public static function getActionsAuth($action = '', $exceptions = [])
+    {
+        $actionsAuth = [];
+        if ($action != '') {
+            $getActions = self::getAction($action);
+            $actions = $getActions[ACTION_ACTIONS];
+        } else {
+            $actions = self::$actions;
+        }
+        if (count($actions) > 0) {
+            foreach ($actions as $i => $group) {
+                if (in_array($i, $exceptions)) {
+                    continue;
+                }
+                $hasAccessGroup = ($group[ACTION_ACCESS] == '') || self::$instance->checkAccess($group[ACTION_TRANSACTION], $group[ACTION_ACCESS]);
+                if ($hasAccessGroup) {
+                    $actionsAuth[$i] = [$group[ACTION_CAPTION], $group[ACTION_PATH],$group[ACTION_ICON],$group[ACTION_TRANSACTION], $group[ACTION_ACCESS],[]];
+                    $groupActions = $group[ACTION_ACTIONS];
+                    foreach ($groupActions as $j => $action) {
+                        $hasAccessAction = ($action[ACTION_ACCESS] == '') || Manager::checkAccess($action[ACTION_TRANSACTION], $action[ACTION_ACCESS]);
+                        if ($hasAccessAction) {
+                            $handler = MAction::isAction($action[ACTION_PATH]) ? $action[ACTION_PATH] : '>' . $action[ACTION_PATH];
+                            $actionsAuth[$i][ACTION_ACTIONS][] = [$action[ACTION_CAPTION], $handler,$action[ACTION_ICON],$action[ACTION_TRANSACTION], $action[ACTION_ACCESS],[]];
+                        }
+                    }
+                }
+            }
+        }
+        mdump($actionsAuth);
+        return $actionsAuth;
+    }
+
     public static function getAction($action)
     {
         $actions = self::$actions;
@@ -943,6 +975,34 @@ class Manager
             $actions = $actions[ACTION_ACTIONS][$k[$i]];
         }
         return $actions;
+    }
+
+
+    public function getL0Menu()
+    {
+        $l0Menu = Manager::getAppPath("conf/L0Menu.php");
+        if (file_exists($l0Menu)) {
+            return require($l0Menu);
+        }
+        return [];
+    }
+
+    public function getL1TitleBar()
+    {
+        $l1TitleBar = Manager::getAppPath("conf/L1TitleBar.php");
+        if (file_exists($l1TitleBar)) {
+            return require($l1TitleBar);
+        }
+        return [];
+    }
+
+    public function getAppSwitcher()
+    {
+        $switcher = Manager::getAppPath("conf/AppSwitcher.php");
+        if (file_exists($switcher)) {
+            return require($switcher);
+        }
+        return [];
     }
 
     public static function getOptions($key)

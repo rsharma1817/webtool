@@ -1,0 +1,278 @@
+/*
+ * Tools Icons
+ */
+.toolIcon {
+  background-color: transparent;
+  cursor: pointer;
+  margin: 0;
+  overflow: hidden;
+  display: block;
+  fill: $icon-01;
+}
+.mBoxPaneTitleBar .toolIcon {
+  margin-left: 2px;
+}
+.mBoxPaneTitleBar .toolIcon {
+  margin-bottom: 2px;
+}
+.toolIconPlaceholder {
+  visibility: hidden;
+}
+.toolIconToggle {
+  background-position: 0 -60px;
+}
+.toolIconHover .toolIconToggle {
+  background-position: -15px -60px;
+}
+.mBoxPaneTitleBar .toolIconToggle {
+  background-position: 0 -75px;
+}
+.mBoxPaneTitleBar .toolIconHover .toolIconToggle {
+  background-position: -15px -75px;
+}
+.toolIconClose {
+  background: url("../../icons/carbon/header--close.svg");
+  height: 16px;
+  width: 16px;
+  background-size: 16px 16px;
+}
+.toolIconMinimize {
+  background: url("../../icons/carbon/minimize.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconMaximize {
+  background: url("../../icons/carbon/maximize.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconRestore {
+  background: url("../../icons/carbon/restart.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconGear {
+  background: url("../../icons/carbon/settings.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconPrev {
+  background: url("../../icons/carbon/caret--left.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconNext {
+  background: url("../../icons/carbon/caret--right.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconPin {
+  background: url("../../icons/carbon/link.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconUnpin {
+  background: url("../../icons/carbon/link.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconRight {
+  background: url("../../icons/carbon/arrow--right.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconLeft {
+  background: url("../../icons/carbon/arrow--left.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconHelp {
+  background: url("../../icons/carbon/header--help.svg");
+  height: 16px;
+  width: 16px;
+  background-size: 16px 16px;
+}
+.toolIconSave {
+  background: url("../../icons/carbon/save.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconSearch {
+  background: url("../../icons/carbon/search.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconMinus {
+  background: url("../../icons/carbon/subtract--outline.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconPlus {
+  background: url("../../icons/carbon/add--outline.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconRefresh {
+  background: url("../../icons/carbon/restart.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconUp {
+  background: url("../../icons/carbon/caret--up.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconDown {
+  background: url("../../icons/carbon/caret--down.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconMove {
+  background: url("../../icons/carbon/crash.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconResize {
+  background: url("../../icons/carbon/predictive.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconCollapse {
+  background: url("../../icons/carbon/minimize.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconExpand {
+  background: url("../../icons/carbon/maximize.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconPrint {
+  background: url("../../icons/carbon/portfolio.svg");
+  height: 12px;
+  width: 12px;
+  background-size: 12px 12px;
+}
+.toolIconExpandBottom,
+.toolIconCollapseBottom {
+}
+.toolIconExpandTop,
+.toolIconCollapseTop {
+}
+.toolIconExpandLeft,
+.toolIconCollapseLeft {
+}
+.toolIconExpandRight,
+.toolIconCollapseRight {
+}
+.toolIconHover .toolIconClose {
+}
+.toolIconHover .toolIconMinimize {
+}
+.toolIconHover .toolIconMaximize {
+}
+.toolIconHover .toolIconRestore {
+}
+.toolIconHover .toolIconGear {
+}
+.toolIconHover .toolIconPrev {
+}
+.toolIconHover .toolIconNext {
+}
+.toolIconHover .toolIconPin {
+}
+.toolIconHover .toolIconUnpin {
+}
+.toolIconHover .toolIconRight {
+}
+.toolIconHover .toolIconLeft {
+}
+.toolIconHover .toolIconDown {
+}
+.toolIconHover .toolIconUp {
+}
+.toolIconHover .toolIconRefresh {
+}
+.toolIconHover .toolIconPlus {
+}
+.toolIconHover .toolIconMinus {
+}
+.toolIconHover .toolIconSearch {
+}
+.toolIconHover .toolIconSave {
+}
+.toolIconHover .toolIconHelp {
+}
+.toolIconHover .toolIconPrint {
+}
+.toolIconHover .toolIconExpand {
+}
+.toolIconHover .toolIconCollapse {
+}
+.toolIconHover .toolIconResize {
+}
+.toolIconHover .toolIconMove {
+}
+.toolIconHover .toolIconExpandBottom,
+.toolIconHover .toolIconCollapseBottom {
+}
+.toolIconHover .toolIconExpandTop,
+.toolIconHover .toolIconCollapseTop {
+}
+.toolIconHover .toolIconExpandLeft,
+.toolIconHover .toolIconCollapseLeft {
+}
+.toolIconHover .toolIconExpandRight,
+.toolIconHover .toolIconCollapseRight {
+}
+._toolIconFind {
+  background-color: transparent;
+  background: url("../manager/images/patriglyphsSprite.png") no-repeat top left;
+  background-position: -66px -858px;
+  border: 1px solid #bbb;
+  height: 16px;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  overflow: hidden;
+  width: 16px;
+}
+.toolIconFind {
+  background: url("../../icons/carbon/search.svg");
+}
+.toolIconExcel {
+  background: url("../manager/images/excel.gif") no-repeat top left !important;
+  width: 16px !important;
+  height: 16px !important;
+}
+.toolIconCSV {
+  background: url("../manager/images/csv.gif") no-repeat !important;
+  height: 16px !important;
+  width: 16px !important;
+}
+.toolIconPDF {
+  background: url("../manager/images/pdf.gif") no-repeat !important;
+  height: 16px !important;
+  width: 16px !important;
+}

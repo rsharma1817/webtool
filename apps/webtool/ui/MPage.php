@@ -138,6 +138,7 @@ class MPage extends MBase
         $this->template->context('page', $this);
         $this->template->context('charset', Manager::getOptions('charset'));
         $this->template->context('template', $this->template);
+        $this->template->context('icon', new MIcon());
     }
 
     public function getTemplate()
@@ -386,10 +387,9 @@ class MPage extends MBase
         return $this->scripts->generate($this->getName());
     }
 
-    public function fetch($template = '')
-    {
+    public function fetch($template = '', $params = null) {
         $template = $template ? : $this->getTemplateName();
-        $html = $template != '' ? $this->template->fetch($template . '.html') : $this->generate();
+        $html = $template != '' ? $this->template->fetch($template . '.html', ($params ? $params : [])) : $this->generate();
         return $html;
     }
 

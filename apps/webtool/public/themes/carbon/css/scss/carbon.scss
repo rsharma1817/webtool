@@ -1,0 +1,75 @@
+$css--font-face: true;
+$font-path: "../../node_modules/carbon-components/src/globals/fonts/";
+
+$feature-flags: (
+    components-x: true,
+    ui-shell: true
+);
+
+@import "../../node_modules/carbon-components/src/globals/scss/styles";
+
+/*
+.bx--side-nav {
+    border: 0px;
+    background-color: #fff;
+}
+*/
+/*
+.bx--content {
+    position: fixed;
+    background-color: $ui-01;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: mini-units(1);
+}
+*/
+.bx--header__nav {
+    left: 0;
+    margin-left: mini-units(32);
+    height: 100%;
+    position: absolute;
+}
+
+/* copied from  a.#{$prefix}--header__menu-item[role='menuitem'] */
+.#{$prefix}--header__global-text {
+    display: flex;
+    align-items: center;
+    color: $shell-header-text-01;
+    padding: 0 mini-units(2);
+    // Used for links that are directly in the menubar to span the full height
+    height: 100%;
+    // Text styles
+    font-size: rem(14px);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: rem(18px);
+    // Reset link styles and make sure the text isn't selectable
+    text-decoration: none;
+    user-select: none;
+    // Used for focus styles
+    border: 4px solid transparent;
+}
+/*
+.#{$prefix}--side-nav {
+    width: 0;
+}
+
+.#{$prefix}--side-nav ~ .#{$prefix}--content {
+    margin-left: 3rem;
+}
+
+.#{$prefix}--side-nav--fixed {
+    width: 13rem;
+}
+
+.#{$prefix}--side-nav--expanded {
+    width: mini-units(26);
+}
+
+.#{$prefix}--side-nav:not(.#{$prefix}--side-nav--fixed):hover,
+.#{$prefix}--side-nav--expanded {
+    width: mini-units(26);
+}
+*/

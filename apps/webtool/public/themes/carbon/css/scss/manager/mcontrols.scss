@@ -1,0 +1,376 @@
+/*
+ Controls 
+ */
+.mSpacer {
+  clear: both;
+  line-height: 0px;
+  background-color: transparent;
+  height: 0px;
+}
+.mHr {
+  width: 100%;
+  height: 0px;
+  line-height: 0px;
+  font-size: 0px;
+  margin: 0px;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #ffffff;
+}
+.mSeparator {
+  color: #999999;
+  width: 95%;
+  vertical-align: top;
+  font-weight: normal;
+  border: none !important;
+  margin: 0px;
+}
+.mHint {
+  font-size: 9px;
+  color: #888888;
+  display: block;
+}
+.mFieldLabel {
+  display: block;
+  top: 0;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1rem;
+  letter-spacing: 0.32px;
+  font-weight: 400;
+}
+.mFieldLabel .managerIconButtonHelp {
+  display: inline-block;
+  width: 16px;
+  height: 13px;
+  vertical-align: middle;
+}
+.mLabel,
+.mCaption {
+  margin-left: 2px;
+}
+.mLabelBold {
+  font-weight: bold;
+}
+.mLabelText {
+  font-weight: bold;
+  margin: 2px;
+}
+.mText {
+  margin: 2px;
+}
+.mMultilineField,
+textarea {
+  font-size: 1em;
+  font-family: "lucida grande,​tahoma,​verdana,​arial,​sans-serif helvetica,​geneva";
+  vertical-align: top;
+  margin: 2px;
+  height: auto;
+}
+.mButtonIcon {
+  background-color: white;
+  background-position: center;
+  border-bottom: 1px solid #333333;
+  border-right: 1px solid #333333;
+  border-left: 1px solid #cccccc;
+  border-top: 1px solid #cccccc;
+  width: 17px;
+  height: 17px;
+  vertical-align: top;
+  cursor: pointer;
+}
+.mBaseGroup {
+  display: block;
+  border: 1px solid #c0c0c0;
+  padding: 3px;
+}
+.mRadiobuttonGroup {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  vertical-align: 20%;
+}
+.mCheckboxGroup {
+  margin-top: 2px;
+  margin-bottom: 1px;
+  vertical-align: 50%;
+}
+.mScrollableField {
+  background-color: #ededed;
+  border: solid #c0c0c0 1px;
+  overflow: auto;
+}
+.mMultitextField .select {
+  width: 180px;
+  background-color: #e5f2fe;
+  border: #b5bcc7;
+  margin: 2px;
+}
+.mMultitextField .label {
+  color: #000000;
+  font-size: 9px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  vertical-align: top;
+}
+.mMultitextField .button {
+  width: 70px;
+  text-align: center;
+  display: block;
+}
+.mMultitextField .buttonPosH {
+  float: left;
+}
+.mMultitextField .fieldPosH {
+  float: left;
+  width: 200px;
+}
+.mMultitextField .selectPosH {
+  float: left;
+}
+.mMultitextField .selection {
+  float: left;
+  width: 280px;
+}
+.mMultitextField fieldset {
+  padding: 10px;
+  border: 1px solid #cccccc;
+}
+.mLookupTextField .textfield {
+  float: left;
+  margin-right: -1px;
+}
+.mLookupTextField .mButtonFind {
+  float: left;
+}
+.mLookupFieldValue .textfield {
+  float: left;
+}
+.mLookupFieldValue .mButtonFind {
+  float: left;
+  margin-right: -1px;
+}
+.mFileContent {
+  font: message-box;
+  font-weight: bold;
+  text-align: left;
+}
+.mHelp {
+  width: 550px;
+  max-height: 400px;
+  overflow: auto;
+}
+.mLink {
+  font-weight: normal;
+  text-decoration: none;
+  /*color: #3b5998;*/
+  color: black;
+}
+.mLink:link {
+  text-decoration: none;
+}
+.mLink:visited {
+  text-decoration: none;
+}
+.mLink:hover {
+  color: #3b5998;
+  text-decoration: underline;
+}
+.mLink:active {
+  color: #3b5998;
+  text-decoration: none;
+}
+.mNoImage {
+  background-color: transparent;
+  background-image: url("../manager/images/noImage.png");
+  background-repeat: no-repeat;
+  height: 113px;
+  width: 113px;
+  margin: 0;
+  overflow: hidden;
+  display: block;
+}
+.mImageCSS {
+  display: block;
+}
+.mImageLink {
+  text-decoration: none;
+}
+.mImageCentered {
+  padding-left: 90px;
+  padding-bottom: 32px;
+  width: 0;
+  text-align: center;
+  display: block;
+  background-position: top center;
+  background-repeat: no-repeat;
+  height: 0;
+}
+.mImageSource {
+  text-align: center;
+  height: auto;
+}
+.mImageIcon {
+  background-position: left;
+  vertical-align: middle;
+  margin: 2px;
+  padding: 0px;
+  width: 16px;
+  height: 16px;
+  border: none;
+  float: left;
+}
+.mImageLabel {
+  text-align: center;
+  margin: 3px 3px 3px 3px;
+  display: block;
+}
+.mImageLinkLabel {
+  text-decoration: none;
+}
+.mImageLinkLabel:hover {
+  text-decoration: underline;
+}
+.mImageLinkLabel:active {
+  text-decoration: none;
+}
+.mImageLinkLabelIcon {
+  display: block;
+  height: 16px;
+  padding-left: 18px;
+  margin: 2px;
+  vertical-align: middle;
+}
+
+.mButtonFind {
+  cursor: pointer;
+  margin: 0;
+  overflow: hidden;
+  display: block;
+  fill: $ui-01;
+  background: url(../../icons/carbon/search--glyph.svg);
+  height: 25px;
+  width: 25px;
+  background-size: 16px 16px;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1px #ccc solid;
+}
+
+/*
+.mButtonFind {
+  background: url("../manager/images/patriglyphsSprite.png") no-repeat top left;
+  background-position: -66px -858px;
+  height: 16px;
+  cursor: pointer;
+  height: 16px;
+  margin: 0;
+  overflow: hidden;
+  width: 16px;
+  border: 1px solid #759dc0;
+  background-color: #e5f2fe;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+}
+.mButtonFind:hover {
+  background-color: #abd6ff;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+*/
+
+.mToolIcon {
+  vertical-align: middle;
+}
+.mToolbar {
+  padding: 2px 0 2px 4px;
+  zoom: 1;
+}
+.default .dijitButtonText {
+  padding: 0px;
+  text-align: center;
+}
+/* 
+ Controls 
+ */
+.mForm {
+  width: 100%;
+  text-align: left;
+  border-right: 0 none;
+  background: transparent;
+  height: 100%;
+}
+.mFormOuter {
+  margin-left: auto;
+  margin-right: auto;
+}
+.mFormBody {
+  padding: 0px;
+  text-align: left;
+}

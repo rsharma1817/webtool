@@ -1,0 +1,80 @@
+/*
+ Prompt 
+ */
+.mPrompt {
+  text-align: center;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mPrompt .title .mBoxPaneTitle {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  vertical-align: top;
+  margin: 0;
+}
+.mPrompt .titleError {
+  background-color: #c80000;
+  padding-left: 25px;
+}
+.mPrompt .titleInformation {
+  background-color: #008800;
+  padding-left: 25px;
+}
+.mPrompt .titleConfirmation {
+  background-color: #0000ef;
+  padding-left: 25px;
+}
+.mPrompt .titleQuestion {
+  background-color: #0000ef;
+  padding-left: 25px;
+}
+.mPrompt .mBoxPaneActionBar {
+  text-align: center;
+}
+.mPrompt .mBoxPaneActionBar div.button {
+  width: 100px;
+}
+.mPrompt .mBoxPaneContentArea {
+  height: 50px;
+}
+.mPrompt .mBoxPaneContentArea .text {
+  font-weight: bold;
+  height: 50px;
+  margin: -35px 0 0;
+  padding-left: 50px;
+  text-align: left;
+  top: 50%;
+  width: 330px;
+}
+.mPrompt .mBoxPaneContentArea .icon {
+  width: 32px;
+  height: 32px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 9px;
+  margin-top: 9px;
+}
+.mPrompt .mBoxPaneContentArea .iconError {
+  background-image: url("../manager/images/promptError.png");
+}
+.mPrompt .mBoxPaneContentArea .iconInformation {
+  background-image: url("../manager/images/promptInformation.png");
+}
+.mPrompt .mBoxPaneContentArea .iconConfirmation {
+  background-image: url("../manager/images/promptConfirmation.png");
+}
+.mPrompt .mBoxPaneContentArea .iconQuestion {
+  background-image: url("../manager/images/promptQuestion.png");
+}
+.mPrompt .mBoxPaneContentArea {
+    height: auto;
+    max-height: 100px;
+    overflow: auto;
+}
+.mPromptBox li {
+    text-align: left;
+    width: 277px;
+}
+

@@ -1,0 +1,32 @@
+
+/*
+Carbon icons
+ */
+.carbonIcon {
+    background-color: transparent;
+    cursor: pointer;
+    margin: 0;
+    overflow: hidden;
+    display: block;
+    fill: $icon-01;
+}
+
+.iconClose {
+    background: url("../icons/carbon/header--close.svg");
+}
+
+.iconUser {
+    background: url("../icons/carbon/user.svg");
+}
+
+.iconNotificationOn {
+    background: url("../icons/carbon/notification-on.svg");
+}
+
+.iconNotificationOff {
+    background: url("../icons/carbon/notification-off.svg");
+}
+
+.iconApps {
+    background: url("../icons/carbon/apps.svg");
+}

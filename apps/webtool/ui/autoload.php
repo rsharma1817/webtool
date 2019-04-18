@@ -10,6 +10,7 @@ return [
     'mdatagrid' => $baseDir . '/MDataGrid.php',
     'mdialog' => $baseDir . '/MDialog.php',
     'measyuipainter' => $baseDir . '/MEasyUIPainter.php',
+    'micon' => $baseDir . '/MIcon.php',
     'mform' => $baseDir . '/MForm.php',
     'mformdialog' => $baseDir . '/MFormDialog.php',
     'mpage' => $baseDir . '/MPage.php',
