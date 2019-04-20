@@ -1,0 +1,67 @@
+<div id="domainDialog" style="width: 400px">
+    <div id="domainDialogToolbar">
+        <div>
+            <a id="btnAdd" href="#">New</a>
+            <input id="inputSearch"/>
+        </div>
+    </div>
+    <table id="domainGrid"></table>
+</div>
+
+<script type="application/javascript">
+
+
+    $('#domainDialog').dialog({
+        title: 'Domain',
+        closed: false,
+        cache: false,
+        modal: true,
+        toolbar: '#domainDialogToolbar',
+        onClose: function() {
+            $('#domainDialog').dialog('destroy', true);
+        }
+    });
+
+    $('#domainGrid').datagrid({
+        singleSelect: true,
+        url: '/webtooldev/index.php/webtool/admin/domain/gridData',
+        pagination: true,
+        pageSize: 15,
+        pageList: [5,10,15,20,30,50],
+        columns: [[
+            {"field":"idDomain","title":null,"hidden":true},
+            {"field":"entry","title":"Entry","hidden":false,formatter: function(value,row,index) {
+                return "<a>" + value + "</a>";
+            }}
+        ]],
+        onClickCell: function(index,field,value){
+            if (field == 'entry') {
+                manager.doAction("^structure/entry/formUpdate/" + value + "|dlgFormObject");
+            }
+        },
+        onLoadSuccess: function() {
+            $('#domainDialog').dialog('resize',{width:'auto',height:'auto'});
+            $('#domainDialog').dialog('vcenter');
+            console.log('datagid loaded');
+        }
+
+    });
+
+    $('#inputSearch').textbox({
+        buttonIcon: 'icon-search',
+        iconAlign:'right',
+        prompt: 'Search',
+        onClickButton: function() {
+            $('#gridFind').datagrid('filter',$('#inputSearch').textbox('getValue'));
+        }
+    });
+
+    $('#btnAdd').linkbutton({
+        iconCls: 'icon-add',
+        onClick: function() {
+            manager.doAction('^admin/domain/formObject|dlgFormObject');
+        }
+    });
+
+</script>
+

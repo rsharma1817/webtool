@@ -24,6 +24,13 @@
     background-size: 12px 12px;
 }
 
+.icon-add {
+    background: url("../icons/carbon/add.svg");
+    height: 12px;
+    width: 12px;
+    background-size: 12px 12px;
+}
+
 .bx--header__action .l-btn-icon {
     display: inline-block;
     width: 16px;

@@ -849,6 +849,7 @@ EOT;
         $onLoad = <<<EOT
 $('#{$control->property->id}').dialog({closed: {$state}});
 $('#{$control->property->id}').dialog('resize',{width:'auto',height:'auto'});
+$('#{$control->property->id}').dialog({onLoad: function() { console.log('onload window'); $('#{$control->property->id}').dialog('center'); } });
 EOT;
         $this->page->onLoad($onLoad);
         $tools = $control->generateTools();
