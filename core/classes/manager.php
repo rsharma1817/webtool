@@ -962,7 +962,7 @@ class Manager
                 }
             }
         }
-        mdump($actionsAuth);
+        //mdump($actionsAuth);
         return $actionsAuth;
     }
 

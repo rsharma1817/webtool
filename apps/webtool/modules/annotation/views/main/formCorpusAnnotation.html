@@ -1,20 +1,22 @@
-<div id="annoLayout" style="width:100%;height:100%;">
-    <div id="annoLeftPane" region="west" split="true" title="Corpus" style="height: 100%">
-        <div style="padding:5px">
-            <input id="corpus" name="corpus" type="text" style="width:200px; padding:5px" placeholder="{{_'Search Corpus'}}">
-        </div>
-        <div style="padding:5px">
-            <input id="idSentence" name="idSentence" type="text" style="width:200px; padding:5px" placeholder="{{_'#sentence'}}">
-        </div>
-        <ul id="corpusTree"></ul>
-    </div>
-    <div id="annoCenterPane" region="center" title="{{_'Corpus Annotation'}}" style="height: 100%">
-        <div class="easyui-layout" style="width:100%;height:100%;">
-            <div id="sentencesPane" region="center" style="width:100%;height:100%"   split="true" data-options="border:1"></div>
-        </div>
-    </div>
+{{layout '../../../../views/commonLayout.latte'}}
+{{block title}}Corpus Annotation{{/block}}
+{{block north}}
+<div>
+    <input id="corpus" name="corpus" type="text" style="width:200px; padding:5px" placeholder="{{_'Search Corpus'}}">
 </div>
+{{/block}}
+{{block left}}
+<div>
+    <input id="idSentence" name="idSentence" type="text" style="width:200px; padding:5px" placeholder="#sentence">
+</div>
+<ul id="corpusTree"></ul>
+{{/block}}
+{{block controls}}{{/block}}
+{{block center}}
+    <div id="sentencesPane" region="center" style="width:100%;height:100%"   split="true" data-options="border:1"></div>
+{{/block}}
 
+{{block script}}
 <script type="text/javascript">
     var annotation = {
         type: 'c',
@@ -27,36 +29,34 @@
     };
 
     annotation.showDocument = function (document) {
-        $('#layersPane').html('');
+        //$('#layersPane').html('');
         manager.doGet({{$manager->getURL('annotation/main/sentences')}} + '/' + document,'sentencesPane');
     }
 
     annotation.showSubCorpus = function (subCorpus) {
-        $('#layersPane').html('');
+        //$('#layersPane').html('');
         manager.doGet({{$manager->getURL('annotation/main/sentences')}} + '/' + subCorpus,'sentencesPane');
     }
 
     $(function () {
 
-        $('#annoLayout').layout({
-            fit:true
-        });
-        
         $('#corpus').textbox({
-            buttonText:{{_'Search Corpus'}},
+            //buttonText:{{_'Search Corpus'}},
+            prompt: 'Search Corpus',
+            buttonIcon: 'icon-search',
             //iconCls:'icon-search',
             iconAlign:'right',
-            prompt: {{_'Search Corpus'}},
             onClickButton: function() {
                 $('#corpusTree').tree({queryParams: {corpus: $('#corpus').textbox('getValue')}});
             }
         });
 
         $('#idSentence').textbox({
-            buttonText:{{_'Annotate Sentence'}},
+            width:150,
             //iconCls:'icon-search',
             iconAlign:'right',
-            prompt: {{_'#sentence'}},
+            buttonIcon: 'icon-search',
+            prompt: '#sentence',
             onClickButton: function() {
                 var idSentence = $('#idSentence').textbox('getValue');
                 window.open({{$manager->getURL('annotation/main/annotation')}} + '/' + idSentence + '/0/' + annotation.type, '_blank');
@@ -74,3 +74,4 @@
         });
     });
 </script>
+{{/block}}

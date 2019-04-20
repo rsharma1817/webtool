@@ -1,0 +1,65 @@
+.panel-body::before, .panel-body::after {
+    content:"";
+    display:block;
+}
+
+.fa16px {
+    font-size: 16px;
+    color: #428bca;    
+}
+
+.fa12px {
+    font-size: 12px;
+    color: #428bca;
+}
+
+.layout-panel-west {
+    width: auto;
+}
+
+.icon-search {
+    background: url("../icons/carbon/search.svg");
+    height: 12px;
+    width: 12px;
+    background-size: 12px 12px;
+}
+
+.bx--header__action .l-btn-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    position: relative;
+    font-size: 1px;
+}
+.bx--product-list__item .l-btn-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    position: relative;
+    font-size: 1px;
+    margin-top: 0px;
+}
+
+#commonLayoutNorthPane div {
+    padding: 8px;
+}
+
+.datagrid-header td, .datagrid-body td, .datagrid-footer td {
+    border-color: #ccc;
+}
+.datagrid-header td, .datagrid-body td, .datagrid-footer td {
+    border-width: 0 1px 1px 0;
+    border-style: dotted;
+    margin: 0;
+    padding: 0;
+}
+
+.datagrid-cell {
+    line-height: 24px;
+}
+
+.datagrid-body .datagrid-cell {
+    height:auto;
+}

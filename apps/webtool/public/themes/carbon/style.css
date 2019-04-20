@@ -1,5 +1,6 @@
 @CHARSET "UTF-8";
 @import url('css/layout.css');   /* Estrutura da página */
-@import url('css/custom.css');   /* Customizações de estilos definidos previamente */
+@import url('css/easyui_custom.css');   /* Customizações de estilos definidos previamente */
 @import url('css/icons.css');
 @import url('css/carbon.css');
+@import url('css/webtool.css');

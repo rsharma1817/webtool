@@ -1,0 +1,15 @@
+<div id="structureLayout" style="height:100%;">
+    <div id="structureNorthPane" data-options="collapsible:false, region:'north', title:'{{block title}}{{/block}}'" >
+        {{block north}}{{/block}}
+    </div>
+
+    <div id="structureCenterPane" region="center" style="height: 100%">
+
+    </div>
+    <div id="structureLeftPane" region="west" split="true" style="width:25%;height: 100%">
+        {{block left}}{{/block}}
+    </div>
+</div>
+
+{{block controls}}{{/block}}
+{{block script}}{{/block}}

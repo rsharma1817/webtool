@@ -296,7 +296,7 @@ class AnnotationService extends MService
         );
 
         foreach ($chars as $i => $char) {
-            $width = 13;
+            $width = 15;
             if ($language == 'jp') {
                 if ($char['char'] == ' ') {
                     continue;

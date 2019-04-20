@@ -16,5 +16,6 @@ manager.defaultApp = 'webtool';
 
 jQuery(function ($) {
     // Remove a mensagem de loading
-    $("#loader").hide();
+    // $("#loader").hide();
+    console.log('theme,js');
 });

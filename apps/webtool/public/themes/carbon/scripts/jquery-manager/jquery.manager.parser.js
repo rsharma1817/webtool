@@ -15,11 +15,11 @@
  */
 
 /**
- * Maestro 2.0 - Manager Parser Plugin
+ * Maestro 3.0 - Manager Parser Plugin
  */
 
 manager.parser = {
-    version: 'Manager 2.0',
+    version: 'Manager 3.0',
     auto: true,
     //onComplete: function (context) {
     //    console.log('pq!!!!');
@@ -38,6 +38,7 @@ manager.parser = {
             var r = $('.' + name, context);
             if (r.length) {
                 if (r[name]) {
+                    console.log('has r');
                     r[name]();
                 } else {
                     aa.push({name: name, jq: r});

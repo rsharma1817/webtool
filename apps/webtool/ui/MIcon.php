@@ -18,4 +18,15 @@ HERE;
 
     }
 
+    public function svg($icon, $class = "icon-16") {
+        $path = Manager::getThemePath();
+        $svg = file_get_contents("{$path}/icons/carbon/{$icon}.svg" );
+        return <<< HERE
+  <svg class="{$class}" aria-hidden="false">
+    {$svg}
+  </svg>
+HERE;
+
+    }
+
 }

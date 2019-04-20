@@ -1,74 +1,144 @@
 <script src={{$manager->getStaticURL($manager->getApp(), 'scripts/auth0/lock.min.js')}}></script>
 
 <script>
-  var AUTH0_CLIENT_ID = {{$data->client_id}};
-  var AUTH0_DOMAIN = {{$data->domain}};
-  var AUTH0_CALLBACK_URL = {{$data->redirect_uri}};
+    var AUTH0_CLIENT_ID = {{$data->client_id}};
+    var AUTH0_DOMAIN = {{$data->domain}};
+    var AUTH0_CALLBACK_URL = {{$data->redirect_uri}};
 
-  $(document).ready(function() {
-      var lock = new Auth0Lock(AUTH0_CLIENT_ID, AUTH0_DOMAIN, { auth: {
-          redirectUrl: AUTH0_CALLBACK_URL
-          , responseType: 'code'
-          , params: {
-              scope: 'openid'
-          }
-      }});
+    $(document).ready(function () {
+        var lock = new Auth0Lock(AUTH0_CLIENT_ID, AUTH0_DOMAIN, {
+            auth: {
+                redirectUrl: AUTH0_CALLBACK_URL
+                , responseType: 'code'
+                , params: {
+                    scope: 'openid'
+                }
+            }
+        });
 
-      $('.btn-login').click(function(e) {
-          e.preventDefault();
-          lock.show();
-      });
+        $('.btnAuth0').click(function (e) {
+            e.preventDefault();
+            lock.show();
+        });
 
-      $('.btn-logout').click(function(e) {
-          e.preventDefault();
-          window.location={{$manager->getAppURL($manager->getApp(),'auth/login/logout')}};
-      });
-  });
+        $('.btn-logout').click(function (e) {
+            e.preventDefault();
+            window.location = {{$manager->getAppURL($manager->getApp(), 'auth/login/logout')}};
+        });
+    });
 </script>
 
 <style>
-    div.containerLogin {
-        height: 100%;
-    }
-    div.containerLogin > .login-page {
-        margin: 0;
-        background: white;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        margin-right: -50%;
-        margin-bottom: -50%;
-        transform: translate(-50%, -50%)
-    }
-    .btn {
-        font-size: 140%;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        border: 0;
-        background-color: #b30000;
+
+
+    .welcome {
+        font-size: 2rem;
+        display: block;
         color: white;
     }
-    .btn:hover {
-        background-color: #ff6666;
+
+    .webtool {
+        font-size: 5.75rem;
+        display: block;
+        color: white;
     }
-    .btn:focus {
-        outline: none !important;
+    .homepage-img--main, .homepage-img--wrapper {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index:1;
+        background-image: url("{{$manager->getThemeURL()}}images/home_background.jpg");
     }
-    .btn.btn-lg {
-        /*padding: 20px 30px;*/
+
+    .homepage--img--overlay {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: #000;
+        opacity: .6;
+        z-index:1;
     }
-    .btn:disabled {
-        background-color: #333;
-        color: #666;
+
+    .homepage--dots {
+        position: absolute;
+        z-index: 2;
+        width: 100%;
+        height: 50%;
+        background-image: url("{{$manager->getThemeURL()}}icons/carbon/dot.svg");
+        background-repeat: repeat;
+        background-size: 16px;
+        opacity: .6;
     }
+        .container--homepage {
+        /*background: #171717;
+        color: #fff;
+        */
+        }
+
+    .text1 {
+        width: 100%;
+        height: 50%;
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index:3;
+        padding: 3rem;
+    }
+
+    .text2 {
+        position: absolute;
+        top: calc(50vh);
+        right: 0;
+        width: 100%;
+        height: 50%;
+        z-index:3;
+        padding: 3rem;
+    }
+
+    .btnAuth0 {
+        font-size: 1.75rem;
+        padding: 16px;
+        letter-spacing: 1px;
+        border: 2px solid white;
+        background-color: transparent;;
+    }
+    .btnAuth0 a {
+        color: white;
+        text-decoration: none;
+    }
+
 </style>
+<div class="container--homepage">
 
-
-<div class="containerLogin">
-    <div class="login-page">
-      <div class="login-box auth0-box before">
-            <img src = {{$manager->getStaticURL($manager->getApp(),'images/fnbr_logo.png')}} />
-            <a class="btn btn-primary btn-lg btn-login btn-block">SignIn</a>
-      </div>
+    <span class="homepage--dots"></span>
+    <div class="homepage-img--main">
+    <div class="homepage-img--wrapper">
+        <!--
+        <img src="{{$manager->getThemeURL()}}images/home_background.jpg">
+        -->
+    </div>
+        <div class="homepage--img--overlay"></div>
+</div>
+    <div class="text1">
+        <span class="welcome">Welcome to</span>
+        <span class="webtool">FNBr Webtool</span>
+    </div>
+    <div class="text2">
+        <button  class="btnAuth0">
+            <a>SignIn via Auth0</a>
+        </button>
     </div>
 </div>
+<!--
+<div class="containerLogin">
+    <div class="login-page">
+        <div class="login-box auth0-box before">
+            <a class="btn btn-primary btn-lg btn-login btn-block">SignIn</a>
+        </div>
+    </div>
+</div>
+-->

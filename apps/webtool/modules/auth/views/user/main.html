@@ -1,22 +1,20 @@
-<div id="authUserLayout" style="width:100%;height:100%;">
-    <div id="authUserNorthPane" data-options="collapsible:false, region:'north', title:'{{_'User'}}'" style="height:70px">
-        <div style="float:left;padding:5px">
-            <input id="login" name="login" type="text" style="width:200px; padding:5px" placeholder="{{_'Search Login'}}">
-        </div>
-        <div style="float:left;padding:5px">
-            <input id="name" name="name" type="text" style="width:200px; padding:5px" placeholder="{{_'Search Name'}}">
-        </div>
-        <div style="float:left;padding:5px">
-           <input id="status" name="Status" placeholder="{{_'Status'}}">
-        </div>
-    </div>
-    <div id="authUserLeftPane" region="west" split="true" style="height: 100%;width:200px">
-        <ul id="authUserTree"></ul>
-    </div>
-    <div id="authUserCenterPane" region="center" style="height: 100%">
-        
-    </div>
+{{layout '../../../../views/commonLayout.latte'}}
+{{block title}}User{{/block}}
+{{block north}}
+<div style="float:left;padding:5px">
+    <input id="login" name="login" type="text" style="width:200px; padding:5px" placeholder="{{_'Search Login'}}">
 </div>
+<div style="float:left;padding:5px">
+    <input id="name" name="name" type="text" style="width:200px; padding:5px" placeholder="{{_'Search Name'}}">
+</div>
+<div style="float:left;padding:5px">
+    <input id="status" name="Status" placeholder="{{_'Status'}}">
+</div>
+{{/block}}
+{{block left}}
+<ul id="authUserTree"></ul>
+{{/block}}
+{{block controls}}
 <div id="authUserMenuMain" style="display:none;width:120px;">
     <div onclick="authUser.newUser()" data-options="iconCls:'icon-add'">{{_'New User'}}</div>
 </div>
@@ -66,7 +64,13 @@
         </div>
     </form>
 </div>
+{{/block}}
 
+{{block center}}
+<div id="sentencesPane" region="center" style="width:100%;height:100%"   split="true" data-options="border:1"></div>
+{{/block}}
+
+{{block script}}
 <script type="text/javascript">
     var authUser = {
         app: {{$manager->getApp()}},
@@ -74,10 +78,6 @@
         node: null
     };
     $(function () {
-        $('#authUserLayout').layout({
-            fit:true
-        });
-
         authUser.showUser = function (id) {
             authUser.editUser(id);
         }
@@ -236,3 +236,4 @@
 
     });
 </script>
+{{/block}}

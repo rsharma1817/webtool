@@ -82,6 +82,7 @@ class MainController extends MController
 
     public function annotation()
     {
+        Manager::getPage()->setTemplateName('fullcenter');
         $this->data->idSentence = $this->data->id;
         $this->data->idAnnotationSet = Manager::getContext()->get(1);
         $this->data->type = Manager::getContext()->get(2);

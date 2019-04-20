@@ -1,0 +1,44 @@
+<aside id="sideMenu" class="bx--side-nav__navigation bx--side-nav bx--side-nav--expanded side-nav side-nav__closed bx--side-nav--website" aria-label="Side navigation" data-side-nav>
+
+        <ul class="bx--side-nav__items">
+            {{var $items = $manager->getActionsAuth('fnbr',['language','profile'])}}
+            {{var $i = 0}}
+            {{foreach $items as $i => $item}}
+
+            {{if count($item[5]) > 0}}
+            <li class="bx--side-nav__item">
+                <button class="bx--side-nav__submenu" role="button" aria-haspopup="true" aria-expanded="false">
+          <span class="bx--side-nav__submenu-title">
+            {{$item[0]}}
+          </span>
+                    <div
+                            class="bx--side-nav__icon bx--side-nav__icon--small bx--side-nav__submenu-chevron">
+                        <svg aria-hidden="true" width="20" height="20" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 32 32">
+                            <path d="M16 22L6 12l1.414-1.414L16 19.172l8.586-8.586L26 12 16 22z"/>
+                        </svg>
+                    </div>
+                </button>
+                <ul class="bx--side-nav__menu" role="menu" hidden="">
+                    {{foreach $item[5] as $j => $menuItem}}
+                    {{var $action = MAction::parseAction($menuItem[1])}}
+                    {{var $idLink = 'sideMenu_' . $i . '_' . $j}}
+                    <li class="bx--side-nav__menu-item" role="none">
+                        <a id="{{$idLink}}" class="bx--side-nav__link maction" data-manager="action:'{{$action|noescape}}'" role="menuitem">
+                            {{$menuItem[0]}}
+                        </a>
+                    </li>
+                    {{/foreach}}
+                </ul>
+            </li>
+            {{else}}
+            <li class="bx--side-nav__item">
+                <a class="bx--side-nav__link" href="{{$item[1]}}">
+                    <span class="bx--side-nav__link-text">{{$item[0]}}</span>
+                </a>
+            </li>
+            {{/if}}
+            {{/foreach}}
+        </ul>
+
+</aside>

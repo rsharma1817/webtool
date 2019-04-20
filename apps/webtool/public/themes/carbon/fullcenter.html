@@ -1,0 +1,11 @@
+{{$page->fetch('header')|noescape}}
+
+{{$page->generateStyleSheetCode()|noescape}}
+
+{{$page->fetch('components/layout/header')|noescape}}
+
+{{$page->fetch('components/layout/content')|noescape}}
+
+{{$page->generateScripts()|noescape}}
+
+{{$page->fetch('footer')|noescape}}

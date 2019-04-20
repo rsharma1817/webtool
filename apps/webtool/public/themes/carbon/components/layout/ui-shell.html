@@ -106,6 +106,21 @@
     </ul>
 </nav>
 <nav id="switcherUser" class="bx--panel--overlay" aria-label="user switcher">
+
+    <ul class="bx--product-switcher__product-list">
+        {{var $items = $manager->getActionsAuth('fnbr.profile')}}
+        {{foreach $items as $i => $item}}
+
+        <li class="bx--product-list__item">
+            {{var $action = MAction::parseAction($item[1])}}
+            {{var $idLink = 'switchUser_' . $i}}
+            <a class="bx--product-link" tabindex="0" href="{{$item[1]}}" aria-label="{{$item[0]}}">
+                <span class="bx--product-link__name">{{$item[0]}}</span>
+            </a>
+        </li>
+        {{/foreach}}
+    </ul>
+<!--
     <ul class="bx--product-switcher__product-list" style>
         <li class="bx--product-list__item">
             <span class="bx--product-link__name"
@@ -129,6 +144,7 @@
             </a>
         </li>
     </ul>
+    -->
 </nav>
 <nav id="switcherNotification" class="bx--panel--overlay" aria-label="product switcher">
     <ul class="bx--product-switcher__product-list" style>
@@ -155,9 +171,9 @@
                 </div>
             </li>
 -->
-            {{var $items = $manager->getActionsAuth('fnbr')}}
+            {{var $items = $manager->getActionsAuth('fnbr',['language','profile'])}}
             {{var $i = 0}}
-            {{foreach $items as $item}}
+            {{foreach $items as $i => $item}}
 
             {{if count($item[5]) > 0}}
             <li class="bx--side-nav__item">
@@ -174,9 +190,11 @@
                     </div>
                 </button>
                 <ul class="bx--side-nav__menu" role="menu" hidden="">
-                    {{foreach $item[5] as $menuItem}}
+                    {{foreach $item[5] as $j => $menuItem}}
+                    {{var $action = MAction::parseAction($menuItem[1])}}
+                    {{var $idLink = 'sideMenu_' . $i . '_' . $j}}
                     <li class="bx--side-nav__menu-item" role="none">
-                        <a class="bx--side-nav__link" href="{{$menuItem[1]}}" role="menuitem">
+                        <a id="{{$idLink}}" class="bx--side-nav__link maction" data-manager="action:'{{$action|noescape}}'" role="menuitem">
                             {{$menuItem[0]}}
                         </a>
                     </li>
@@ -195,6 +213,20 @@
 
 </aside>
 
+
 <div id="centerPane" class="bx--content">
-    {{$page->generate('content')|noescape}}
+        {{$page->generate('content')|noescape}}
 </div>
+
+<style>
+
+    #appContainer {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index:1;
+        background-image: url("{{$manager->getThemeURL()}}images/home_background.jpg");
+    }
+</style>

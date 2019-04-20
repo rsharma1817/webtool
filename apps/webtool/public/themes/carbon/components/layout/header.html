@@ -1,0 +1,160 @@
+
+
+<!--
+  Copyright IBM Corp. 2016, 2018
+
+  This source code is licensed under the Apache-2.0 license found in the
+  LICENSE file in the root directory of this source tree.
+-->
+
+<header class="bx--header" role="banner" aria-label="SIGA3" data-header>
+    <a class="bx--skip-to-content" href="#main-content" tabindex="0">Skip to main content</a>
+    <!--
+    <button class="bx--header__menu-trigger bx--header__action" aria-label="Open menu" title="Open menu"
+            data-navigation-menu-panel-label-expand="Open menu" data-navigation-menu-panel-label-collapse="Close menu"
+            data-navigation-menu-target="#navigation-menu-{{$navigationMenuIdSuffix}}">
+        {{$page->fetch('components/widget/cv-icon',['class'=> 'icon-16
+        bx--navigation-menu-panel-expand-icon','icon'=>'menu'])|noescape}}
+        {{$page->fetch('components/widget/cv-icon',['class'=> 'icon-16
+        bx--navigation-menu-panel-collapse-icon','icon'=>'close'])|noescape}}
+    </button>
+    -->
+    <a class="bx--header__name" href="javascript:void(0)" title="{{$manager->getOptions('platform')}}">
+    <span class="bx--header__name--prefix">
+      {{$manager->getOptions('project')}}
+      &nbsp;
+    </span>
+        {{$manager->getOptions('platform')}}
+    </a>
+    <nav class="bx--header__nav" aria-label="Platform Name" data-header-nav>
+        <ul class="bx--header__menu-bar" role="menubar" aria-label="Platform Name">
+            {{var $items = $manager->getL0Menu()}}
+
+            {{foreach $items as $item}}
+            {{if count($item[5]) > 0}}
+            <li class="bx--header__submenu" data-header-submenu>
+                <a class="bx--header__menu-item bx--header__menu-title" role="menuitem" aria-haspopup="true"
+                   aria-expanded="false" href="javascript:void(0)" tabindex="0">
+                    {{$item[0]}}
+                    <svg class="bx--header__menu-arrow" width="12" height="7" aria-hidden="true">
+                        <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z"/>
+                    </svg>
+                </a>
+                <ul class="bx--header__menu" role="menu" aria-label="{{$item[0]}}">
+                    {{foreach $item[5] as $menuItem}}
+                    <li role="none">
+                        <a class="bx--header__menu-item" role="menuitem" href="{{$menuItem[1]}}" tabindex="-1">
+            <span class="bx--text-truncate--end">
+              {{$menuItem[0]}}
+            </span>
+                        </a>
+                    </li>
+                    {{/foreach}}
+                </ul>
+            </li>
+            {{else}}
+            <li>
+                <a class="bx--header__menu-item" href="javascript:void(0)" role="menuitem" tabindex="0">
+                    {{$item[0]}}
+                </a>
+            </li>
+            {{/if}}
+            {{/foreach}}
+        </ul>
+    </nav>
+    <nav class="bx--header__global">
+        {{if ($manager->isLogged())}}
+        <div class="bx--header__global-text">
+            <span>{{$manager->getLogin()->getLogin()}}</span>
+        </div>
+        {{/if}}
+        <button class="bx--header__menu-trigger bx--header__action" aria-label="{{$title}}"
+                title="{{$title}}" data-navigation-menu-panel-label-expand="{{$title}}"
+                data-navigation-menu-panel-label-collapse="Close menu"
+                data-product-switcher-target="#switcherLanguage">
+            {{var $lang = fnbr\models\Base::languages()[Manager::getSession()->idLanguage]}}
+            {{var $iconFlag = 'fnbrFlag' . ucfirst($lang)}}
+            <span class="l-btn-icon {{$iconFlag}} icon-16 bx--navigation-menu-panel-expand-icon">&nbsp;</span>
+            {{$icon->carbon('close', "icon-16 bx--navigation-menu-panel-collapse-icon")|noescape}}
+        </button>
+        {{if (null !== $manager->getLogin())}}
+        <button class="bx--header__menu-trigger bx--header__action" aria-label="{{$title}}"
+                title="{{$title}}" data-navigation-menu-panel-label-expand="{{$title}}"
+                data-navigation-menu-panel-label-collapse="Close menu"
+                data-product-switcher-target="#switcherNotification">
+            {{$icon->carbon('notification-on', "icon-16 bx--navigation-menu-panel-expand-icon")|noescape}}
+            {{$icon->carbon('close', "icon-16 bx--navigation-menu-panel-collapse-icon")|noescape}}
+        </button>
+        <button class="bx--header__menu-trigger bx--header__action" aria-label="{{$title}}"
+                title="{{$title}}" data-navigation-menu-panel-label-expand="{{$title}}"
+                data-navigation-menu-panel-label-collapse="Close menu"
+                data-product-switcher-target="#switcherUser">
+            {{$icon->carbon('user', "icon-16 bx--navigation-menu-panel-expand-icon")|noescape}}
+            {{$icon->carbon('close', "icon-16 bx--navigation-menu-panel-collapse-icon")|noescape}}
+        </button>
+        {{/if}}
+        <button class="bx--header__menu-trigger bx--header__action" aria-label="{{$title}}"
+                title="{{$title}}" data-navigation-menu-panel-label-expand="{{$title}}"
+                data-navigation-menu-panel-label-collapse="Close menu"
+                data-product-switcher-target="#switcherPanel">
+            {{$icon->carbon('apps', "icon-16 bx--navigation-menu-panel-expand-icon")|noescape}}
+            {{$icon->carbon('close', "icon-16 bx--navigation-menu-panel-collapse-icon")|noescape}}
+        </button>
+    </nav>
+</header>
+<nav id="switcherPanel" class="bx--panel--overlay" aria-label="product switcher">
+    <ul class="bx--product-switcher__product-list" style>
+        {{var $items = $manager->getAppSwitcher()}}
+        {{foreach $items as $item}}
+        <li class="bx--product-list__item">
+            <a class="bx--product-link" tabindex="0" href="{{$item[1]}}" aria-label="{{$item[0]}}">
+                <span class="bx--product-link__name">{{$item[0]}}</span>
+            </a>
+        </li>
+        {{/foreach}}
+    </ul>
+</nav>
+<nav id="switcherUser" class="bx--panel--overlay" aria-label="user switcher">
+
+    <ul class="bx--product-switcher__product-list">
+        {{var $items = $manager->getActionsAuth('fnbr.profile')}}
+        {{foreach $items as $i => $item}}
+
+        <li class="bx--product-list__item">
+            {{var $action = MAction::parseAction($item[1])}}
+            {{var $idLink = 'switchUser_' . $i}}
+            <a class="bx--product-link" tabindex="0" href="{{$item[1]}}" aria-label="{{$item[0]}}">
+                <span class="bx--product-link__name">{{$item[0]}}</span>
+            </a>
+        </li>
+        {{/foreach}}
+    </ul>
+</nav>
+<nav id="switcherLanguage" class="bx--panel--overlay" aria-label="language switcher">
+
+    <ul class="bx--product-switcher__product-list">
+        {{var $items = $manager->getActionsAuth('fnbr.language')}}
+        {{foreach $items as $i => $item}}
+
+        <li class="bx--product-list__item">
+            {{var $action = MAction::parseAction($item[1])}}
+            {{var $idLink = 'switchUser_' . $i}}
+            {{var $iconFlag = 'fnbrFlag' . ucfirst($lang)}}
+            <a class="bx--product-link" tabindex="0" href="{{$item[1]}}" aria-label="{{$item[0]}}">
+                <span class="l-btn-icon {{$item[2]}} icon-16">&nbsp;</span>
+                <span class="bx--product-link__name">{{$item[0]}}</span>
+            </a>
+        </li>
+        {{/foreach}}
+    </ul>
+</nav>
+<nav id="switcherNotification" class="bx--panel--overlay" aria-label="product switcher">
+    <ul class="bx--product-switcher__product-list" style>
+        <li class="bx--product-list__item">
+            <a class="bx--product-link" tabindex="0" href="{{$item[1]}}" aria-label="{{$item[0]}}">
+                <span class="bx--product-link__name">{{$item[0]}}</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+

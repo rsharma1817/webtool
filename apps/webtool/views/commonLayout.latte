@@ -1,0 +1,26 @@
+<div id="commonLayout" style="height:100%;">
+    <div id="commonLayoutNorthPane" data-options="collapsible:false, region:'north', title:'{{block title}}{{/block}}'" style="display:flex; height:80px;" >
+        {{block north}}{{/block}}
+    </div>
+
+    <div id="commonLayoutCenterPane" region="center" style="height: 100%">
+        {{block center}}{{/block}}
+    </div>
+    <div id="commonLayoutLeftPane" region="west" split="true" style="width:25%;height: 100%">
+        {{block left}}{{/block}}
+    </div>
+</div>
+
+{{block controls}}{{/block}}
+
+<script type="text/javascript">
+    var idCenterPane = "commonLayoutCenterPane";
+    $(function () {
+        $('#commonLayout').layout({
+            fit: true
+        });
+    })
+</script>
+
+{{block script}}{{/block}}
+
