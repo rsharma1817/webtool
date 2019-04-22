@@ -7,10 +7,10 @@
             </div>
         </div>
         <div id="commonLayoutTabData" class="tabCRUD" title="Data">
-            <div id="commonLayoutDataPaneToolbar">
+            <div id="commonLayoutDataPaneToolbar" data-options="region:'north'">
                 {{block toolbar}}{{/block}}
             </div>
-            <div id="commonLayoutDataPane" class="dataCRUD">
+            <div id="commonLayoutDataPane" class="dataCRUD"  data-options="region:'center'">
                 {{block form}}{{/block}}
             </div>
         </div>
@@ -43,6 +43,10 @@
             }
         });
         $('#commonLayoutTabList').layout({
+            fit: true,
+            border:false,
+        });
+        $('#commonLayoutTabData').layout({
             fit: true,
             border:false,
         });
