@@ -1,5 +1,8 @@
+<!--
 <aside id="sideMenu" class="bx--side-nav__navigation bx--side-nav bx--side-nav--expanded side-nav side-nav__closed bx--side-nav--website" aria-label="Side navigation" data-side-nav>
-
+-->
+<aside id="sideMenu" class="bx--side-nav" aria-label="Side navigation" data-side-nav>
+    <nav class="bx--side-nav__navigation" role="navigation" aria-label="Side navigation">
         <ul class="bx--side-nav__items">
             {{var $items = $manager->getActionsAuth('fnbr',['language','profile'])}}
             {{var $i = 0}}
@@ -7,15 +10,17 @@
 
             {{if count($item[5]) > 0}}
             <li class="bx--side-nav__item">
-                <button class="bx--side-nav__submenu" role="button" aria-haspopup="true" aria-expanded="false">
-          <span class="bx--side-nav__submenu-title">
-            {{$item[0]}}
-          </span>
-                    <div
-                            class="bx--side-nav__icon bx--side-nav__icon--small bx--side-nav__submenu-chevron">
-                        <svg aria-hidden="true" width="20" height="20" xmlns="http://www.w3.org/2000/svg"
-                             viewBox="0 0 32 32">
-                            <path d="M16 22L6 12l1.414-1.414L16 19.172l8.586-8.586L26 12 16 22z"/>
+
+                <button class="bx--side-nav__submenu" type="button" aria-haspopup="true" aria-expanded="false">
+                    <div class="bx--side-nav__icon">
+                        <span class="l-btn-left l-btn-icon-left"><span class="{{$item[2]}}"></span></span>
+                    </div>
+                    <span class="bx--side-nav__submenu-title">
+                        {{$item[0]}}
+                    </span>
+                    <div class="bx--side-nav__icon bx--side-nav__icon--small bx--side-nav__submenu-chevron">
+                        <svg aria-hidden="true" width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path d="M16 22L6 12l1.414-1.414L16 19.172l8.586-8.586L26 12 16 22z" />
                         </svg>
                     </div>
                 </button>
@@ -40,5 +45,18 @@
             {{/if}}
             {{/foreach}}
         </ul>
+    <footer class="bx--side-nav__footer">
+        <button id="sideMenuToogle" class="bx--side-nav__toggle_wt" role="button" title="Change the side navigation menu">
+            <div class="bx--side-nav__icon">
+                {{$icon->carbon('close', "icon-16 bx--side-nav__icon--collapse bx--side-nav-collapse-icon")|noescape}}
+                {{$icon->carbon('chevron--right', "icon-16 bx--side-nav__icon--expand bx--side-nav-expand-icon")|noescape}}
+            </div>
+            <span class="bx--assistive-text">
+                Toggle the expansion state of the navigation
+            </span>
+        </button>
+    </footer>
+    </nav>
 
 </aside>
+

@@ -14,14 +14,14 @@
         annotation.toolbar = [
             {
                 text:'<u>S</u>ave',
-                iconCls:'fa fa-folder-o fa16px',
+                iconCls:'fa fa-folder-o fa16pxBlack',
                 handler: function(){
                     annotation.save();
                 }
             },
             {
                 text:'<u>R</u>efresh',
-                iconCls:'fa fa-refresh fa16px',
+                iconCls:'fa fa-refresh fa16pxBlack',
                 handler: function(){
                     annotation.refresh();
                 }
@@ -29,7 +29,7 @@
             /*
             {
                 text:'Doubt',
-                iconCls:'fa fa-frown-o fa16px',
+                iconCls:'fa fa-frown-o fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -39,7 +39,7 @@
             },
             {
                 text:'Ignore',
-                iconCls:'fa fa-ban fa16px',
+                iconCls:'fa fa-ban fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -50,14 +50,14 @@
             */
             {
                 text:'Remove AS',
-                iconCls:'fa fa-remove fa16px',
+                iconCls:'fa fa-remove fa16pxBlack',
                 handler: function(){
                     annotation.dlgASOpenRemove();
                 }
             },
             {
                 text:'Label Help',
-                iconCls:'fa fa-question-circle-o fa16px',
+                iconCls:'fa fa-question-circle-o fa16pxBlack',
                 handler: function(){
                     annotation.labelHelp();
                 }
@@ -67,14 +67,14 @@
         annotation.toolbarSenior = [
             {
                 text:'<u>S</u>ave',
-                iconCls:'fa fa-folder-o fa16px',
+                iconCls:'fa fa-folder-o fa16pxBlack',
                 handler: function(){
                     annotation.save();
                 }
             },
             {
                 text:'<u>R</u>efresh',
-                iconCls:'fa fa-refresh fa16px',
+                iconCls:'fa fa-refresh fa16pxBlack',
                 handler: function(){
                     annotation.refresh();
                 }
@@ -82,7 +82,7 @@
             /*
             {
                 text:'Approve',
-                iconCls:'fa fa-thumbs-o-up fa16px',
+                iconCls:'fa fa-thumbs-o-up fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -92,7 +92,7 @@
             },
             {
                 text:'Disapprove',
-                iconCls:'fa fa-thumbs-o-down fa16px',
+                iconCls:'fa fa-thumbs-o-down fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -103,7 +103,7 @@
             },
             {
                 text:'Ignore',
-                iconCls:'fa fa-ban fa16px',
+                iconCls:'fa fa-ban fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -114,7 +114,7 @@
             */
             {
                 text:'Label Help',
-                iconCls:'fa fa-question-circle-o fa16px',
+                iconCls:'fa fa-question-circle-o fa16pxBlack',
                 handler: function(){
                     annotation.labelHelp();
                 }
@@ -124,14 +124,14 @@
         annotation.toolbarMaster = [
             {
                 text:'<u>S</u>ave',
-                iconCls:'fa fa-folder-o fa16px',
+                iconCls:'fa fa-folder-o fa16pxBlack',
                 handler: function(){
                     annotation.save();
                 }
             },
             {
                 text:'<u>R</u>efresh',
-                iconCls:'fa fa-refresh fa16px',
+                iconCls:'fa fa-refresh fa16pxBlack',
                 handler: function(){
                     annotation.refresh();
                 }
@@ -139,7 +139,7 @@
             /*
             {
                 text:'Approve',
-                iconCls:'fa fa-thumbs-o-up fa16px',
+                iconCls:'fa fa-thumbs-o-up fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -149,7 +149,7 @@
             },
             {
                 text:'Disapprove',
-                iconCls:'fa fa-thumbs-o-down fa16px',
+                iconCls:'fa fa-thumbs-o-down fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -160,7 +160,7 @@
             },
             {
                 text:'Ignore',
-                iconCls:'fa fa-ban fa16px',
+                iconCls:'fa fa-ban fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -170,7 +170,7 @@
             },
             {
                 text:'Release',
-                iconCls:'fa fa-unlock fa16px',
+                iconCls:'fa fa-unlock fa16pxBlack',
                 handler: function(){
                     var data = JSON.stringify(annotation.annotationSets);
                     $('#annotationSets').val(data);
@@ -181,28 +181,28 @@
             */
             {
                 text:'Hide AS',
-                iconCls:'fa fa-minus-square-o fa16px',
+                iconCls:'fa fa-minus-square-o fa16pxBlack',
                 handler: function(){
                     annotation.dlgASOpen();
                 }
             },
             {
                 text:'Remove AS',
-                iconCls:'fa fa-remove fa16px',
+                iconCls:'fa fa-remove fa16pxBlack',
                 handler: function(){
                     annotation.dlgASOpenRemove();
                 }
             },
             {
                 text:'Add Cxn',
-                iconCls:'fa fa-plus-square-o fa16px',
+                iconCls:'fa fa-plus-square-o fa16pxBlack',
                 handler: function(){
                     annotation.dlgCxnOpen();
                 }
             },
             {
                 text:'Label Help',
-                iconCls:'fa fa-question fa16px',
+                iconCls:'fa fa-question fa16pxBlack',
                 handler: function(){
                     annotation.labelHelp();
                 }

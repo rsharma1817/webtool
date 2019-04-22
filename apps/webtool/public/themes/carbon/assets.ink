@@ -1,4 +1,4 @@
-scripts/bootstrap-3.2.0-dist/css/bootstrap.min.css
+;scripts/bootstrap-3.2.0-dist/css/bootstrap.min.css
 scripts/bootstrap-switch-master/css/bootstrap3/bootstrap-switch.min.css
 scripts/jquery-easyui-1.7.6/themes/material-teal/easyui.css
 ;scripts/jquery-easyui-1.7.6/themes/icon.css

@@ -232,6 +232,19 @@ var manager = {
             manager.doGet(url, '');
         }
     },
+    doSubmit: function (idForm, url) {
+        var $form = $('#' + idForm);
+        if (url) {
+            $form.attr('action', url);
+        }
+        $.messager.progress();
+        var isValid = $form.form('validate');
+        if (isValid){
+            manager.doPostBack(idForm);
+        }
+        $.messager.progress('close');
+        return isValid
+    },
     doGet: function (url, element, wrapper) {
         //console.log(url);
         //console.log(wrapper);

@@ -56,20 +56,20 @@
     background-color: transparent;
 }
 
-#layersPane td div {
-    text-align:center;
+#layersPane .datagrid-view2 td div {
+    text-align: center;
     padding: 0px;
-    vertical-align: middle;
 }
 
 #layersPane .datagrid-header-row .datagrid-cell {
     color: black;
 }
 
+/*
 #layersPane .datagrid-row, #layersPane .datagrid-header-row {
     height: 24px;
 }
-
+*/
 .layerSelected {
     background-color: transparent;
 }
@@ -245,13 +245,13 @@
     border: 1px solid #ddd;
 }
 
-.reportLU .divPanel .tableVP  tbody tr th {
+.reportLU .divPanel .tableVP tbody tr th {
     background-color: #8d8d8d;
     color: white;
     padding: 5px;
 }
 
-.reportLU .divPanel .tableVP  tbody tr td  {
+.reportLU .divPanel .tableVP tbody tr td {
     border: 1px solid #ddd;
     text-align: left;
     padding: 8px;
@@ -333,4 +333,36 @@
     padding: 5px;
 }
 
+/*
+CRUD
+ */
+.tabCRUD {
+    padding: 8px;
+}
 
+.toolbarGridCRUD {
+    width: 100%;
+    height: 48px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px;
+}
+
+.toolbarGridCRUD a,
+.toolbarGridCRUD div,
+.toolbarGridCRUD input {
+    display: block;
+    margin-left: 8px;
+}
+
+.toolbarGridCRUD #inputSearch {
+    min-width: 160px;
+}
+
+.menuInlineAction {
+    width: 120px;
+}
+
+.dataCRUD {
+    padding: 8px;
+}

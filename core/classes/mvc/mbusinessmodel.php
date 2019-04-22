@@ -516,7 +516,7 @@ class MBusinessModel extends PersistentObject
      * Retorna um ValueObject com atributos com valores planos (tipo simples).
      * @return \stdClass
      */
-    public function getData()
+    public function getData($prefix = '')
     {
         $data = new stdClass();
         $attributes = $this->getAttributesMap();
@@ -531,10 +531,13 @@ class MBusinessModel extends PersistentObject
             if (isset($rawValue)) {
                 $conversion = 'getPlain' . $type;
                 $value = MTypes::$conversion($rawValue);
-                $data->$attribute = $value;
+                $name = ($prefix != '') ? ($prefix . '_' . $attribute) : $attribute;
+                $data->$name = $value;
                 if (isset($definition['key']) && ($definition['key'] == 'primary')) {
-                    $data->id = $value;
-                    $data->idName = $attribute;
+                    $id = ($prefix != '') ? ($prefix . '_id') : 'id';
+                    $data->$id = $value;
+                    $idName = ($prefix != '') ? ($prefix . '_idName') : 'idName';
+                    $data->$idName = $attribute;
                 }
             }
         }

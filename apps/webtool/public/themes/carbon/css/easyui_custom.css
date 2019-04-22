@@ -1,3 +1,13 @@
+input, textarea, select, button, a {
+    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
 .panel-body::before, .panel-body::after {
     content:"";
     display:block;
@@ -5,16 +15,26 @@
 
 .fa16px {
     font-size: 16px;
-    color: #428bca;    
+    color: #f3f3f3;
+}
+
+.fa16pxBlack {
+    font-size: 16px;
+    color: #428bca;
 }
 
 .fa12px {
     font-size: 12px;
-    color: #428bca;
+    color: #f3f3f3;
 }
 
 .layout-panel-west {
     width: auto;
+}
+
+.inlineAction {
+    padding-top: 5px;
+    margin-bottom: -1px;
 }
 
 .icon-search {

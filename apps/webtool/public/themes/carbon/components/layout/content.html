@@ -1,4 +1,4 @@
-{{var $class = ($page->getTemplateName() == 'fullcenter' ? 'bx--content-full' : 'bx--content')}}
+{{var $class = ($page->getTemplateName() == 'fullcenter' ? 'bx--content-full' : 'bx--content bx--content__side-nav--expanded')}}
 <div id="centerPane" class="{{$class}}">
         {{$page->generate('content')|noescape}}
 </div>

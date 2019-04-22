@@ -9,6 +9,7 @@ class DomainController extends MController
     public function main()
     {
         $this->data->query = Manager::getAppURL('', 'admin/domain/gridData');
+        $this->data->save = "@admin/domain/save/";
         $this->render();
     }
     
@@ -18,7 +19,14 @@ class DomainController extends MController
         $criteria = $model->listByFilter($this->data->filter);
         $this->renderJSON($model->gridDataAsJSON($criteria));
     }
-    
+
+    public function formData()
+    {
+        $model = new fnbr\models\Domain($this->data->id);
+        $this->data = $model->getData('domain');
+        $this->renderJSON(json_encode($this->data));
+    }
+
     public function formObject()
     {
         $model = new fnbr\models\Domain($this->data->id);
@@ -34,9 +42,9 @@ class DomainController extends MController
     {
         try {
             $model = new fnbr\models\Domain();
-            $this->data->domain->entry = 'dom_' . $this->data->domain->entry;
+            $this->data->domain->entry = 'dom_' . str_replace('dom_','', $this->data->domain->entry);
             $model->setData($this->data->domain);
-            $model->save();
+            //$model->save();
             $this->renderPrompt('information', 'OK', "editEntry('{$this->data->domain->entry}');");
         } catch (\Exception $e) {
             $this->renderPrompt('error', $e->getMessage());
