@@ -9,16 +9,6 @@
 
 <header class="bx--header" role="banner" aria-label="SIGA3" data-header>
     <a class="bx--skip-to-content" href="#main-content" tabindex="0">Skip to main content</a>
-    <!--
-    <button class="bx--header__menu-trigger bx--header__action" aria-label="Open menu" title="Open menu"
-            data-navigation-menu-panel-label-expand="Open menu" data-navigation-menu-panel-label-collapse="Close menu"
-            data-navigation-menu-target="#navigation-menu-{{$navigationMenuIdSuffix}}">
-        {{$page->fetch('components/widget/cv-icon',['class'=> 'icon-16
-        bx--navigation-menu-panel-expand-icon','icon'=>'menu'])|noescape}}
-        {{$page->fetch('components/widget/cv-icon',['class'=> 'icon-16
-        bx--navigation-menu-panel-collapse-icon','icon'=>'close'])|noescape}}
-    </button>
-    -->
     <a class="bx--header__name" href="javascript:void(0)" title="{{$manager->getOptions('platform')}}">
     <span class="bx--header__name--prefix">
       {{$manager->getOptions('project')}}
@@ -74,7 +64,7 @@
                 data-product-switcher-target="#switcherLanguage">
             {{var $lang = fnbr\models\Base::languages()[Manager::getSession()->idLanguage]}}
             {{var $iconFlag = 'fnbrFlag' . ucfirst($lang)}}
-            <span class="l-btn-icon {{$iconFlag}} icon-16 bx--navigation-menu-panel-expand-icon">&nbsp;</span>
+            <span class="fnbrFlag {{$iconFlag}} bx--navigation-menu-panel-expand-icon">&nbsp;</span>
             {{$icon->carbon('close', "icon-16 bx--navigation-menu-panel-collapse-icon")|noescape}}
         </button>
         {{if (null !== $manager->getLogin())}}
@@ -133,7 +123,7 @@
 <nav id="switcherLanguage" class="bx--panel--overlay" aria-label="language switcher">
 
     <ul class="bx--product-switcher__product-list">
-        {{var $items = $manager->getActionsAuth('fnbr.language')}}
+        {{var $items = $manager->getActions('fnbr.language')}}
         {{foreach $items as $i => $item}}
 
         <li class="bx--product-list__item">

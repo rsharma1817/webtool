@@ -3,8 +3,9 @@
     "version": "3.8.0",
     "private": true,
     "scripts": {
-        "compile-sass": "node-sass css/scss/main.scss css/carbon.css",
-        "compile-sass-watch": "node-sass css/scss/manager.dev.scss css/manager/manager.dev.css"
+        "compile-sass-carbon": "node-sass css/scss/carbon/main.scss css/carbon.css",
+        "compile-sass-easyui": "node-sass css/scss/easyui/main.scss css/easyui.css",
+        "compile-sass-webtool": "node-sass css/scss/webtool/main.scss css/webtool.css"
     },
     "dependencies": {
         "@carbon/vue": "^1.1.1",

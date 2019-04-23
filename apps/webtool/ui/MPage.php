@@ -132,7 +132,7 @@ class MPage extends MBase
      */
     public function setTemplate()
     {
-        $path = Manager::getThemePath();
+        $path = Manager::getThemePath('templates');
         $this->template = new MTemplate($path);
         $this->template->context('manager', Manager::getInstance());
         $this->template->context('page', $this);

@@ -463,16 +463,38 @@ class MController
      * @param $message string Mensagem para o cliente.
      * @param string $code Codigo de erro a ser interpretado pelo cliente.
      */
-    public function renderResponse($status, $message, $code = '000')
+    public function renderResponse($status, $message, $code = '000', $type = '')
     {
         $response = (object)[
             'status' => $status,
             'message' => $message,
-            'code' => $code
+            'code' => $code,
+            'type' => $type
         ];
         $this->setResult(new MRenderJSON(json_encode($response)));
     }
 
+    public function renderResponseSuccess($message, $status = '200')
+    {
+        $response = (object)[
+            'code' => 0,
+            'message' => $message,
+            'status' => $status,
+            'type' => 'messager'
+        ];
+        $this->setResult(new MRenderJSON(json_encode($response)));
+    }
+
+    public function renderResponseError($message, $status = '400')
+    {
+        $response = (object)[
+            'code' => 1,
+            'message' => $message,
+            'status' => $status,
+            'type' => 'messager'
+        ];
+        $this->setResult(new MRenderJSON(json_encode($response)));
+    }
     /**
      * @param string $viewName
      * @param array $parameters

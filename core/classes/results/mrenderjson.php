@@ -27,7 +27,11 @@ class MRenderJSON extends MResult
     {
         mtrace('Executing MRenderJSON');
         parent::__construct();
-        $this->content = $json;
+        if ($json != '') {
+            $this->content = (MJSON::is_json($json) ? $json : MJSON::encode($json));
+        } else {
+            $this->content = '';
+        }
     }
 
     public function apply($request, $response)

@@ -32,7 +32,7 @@ class MTemplateLocator
             return $template->fetch($path);
         }
         if ($templateEngine == 'latte') {
-            $folder = Manager::getConf("options.varPath") . '/templates/' . $folder;
+            $folder = Manager::getThemePath('templates') . '/'. $folder;
             $template->setPath($folder);
             return $template->fetch($file);
         }

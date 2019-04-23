@@ -1,18 +1,7 @@
 <?php
 
-
-
-
-
 class DomainController extends MController
 {
-    public function main()
-    {
-        $this->data->query = Manager::getAppURL('', 'admin/domain/gridData');
-        $this->data->save = "@admin/domain/save/";
-        $this->render();
-    }
-    
     public function gridData()
     {
         $model = new fnbr\models\Domain();
@@ -24,30 +13,19 @@ class DomainController extends MController
     {
         $model = new fnbr\models\Domain($this->data->id);
         $this->data = $model->getData('domain');
-        $this->renderJSON(json_encode($this->data));
-    }
-
-    public function formObject()
-    {
-        $model = new fnbr\models\Domain($this->data->id);
-        $this->data->forUpdate = ($this->data->id != '');
-        $this->data->object = $model->getData();
-        $this->data->title = $this->data->forUpdate ? $model->getDescription() : _M("new fnbr\models\Domain");
-        $this->data->save = "@admin/domain/save/" . $model->getId() . '|formObject';
-        $this->data->delete = "@admin/domain/delete/" . $model->getId() . '|formObject';
-        $this->render();
+        $this->renderJSON($this->data);
     }
 
     public function save()
     {
         try {
-            $model = new fnbr\models\Domain();
+            $model = new fnbr\models\Domain($this->data->domain->idDomain);
             $this->data->domain->entry = 'dom_' . str_replace('dom_','', $this->data->domain->entry);
             $model->setData($this->data->domain);
-            //$model->save();
-            $this->renderPrompt('information', 'OK', "editEntry('{$this->data->domain->entry}');");
+            $model->save();
+            $this->renderResponseSuccess('Domain updated.');
         } catch (\Exception $e) {
-            $this->renderPrompt('error', $e->getMessage());
+            $this->renderResponseError($e->getMessage());
         }
     }
 
@@ -55,9 +33,9 @@ class DomainController extends MController
         try {
             $structure = Manager::getAppService('structuredomain');
             $structure->saveFrameDomain($this->data->idFrame, $this->data->toSave);
-            $this->renderPrompt('information', "Ok","$('#{$this->data->idGrid}').datagrid('reload');");
+            $this->renderResponseSuccess('Domain updated.');
         } catch (\Exception $e) {
-            $this->renderPrompt('error', $e->getMessage());
+            $this->renderResponseError($e->getMessage());
         }
     }
 

@@ -1,5 +1,5 @@
 {{var $idDialog = 'domainDialog'}}
-{{layout '../../../../views/commonLayoutCRUD.latte'}}
+{{layout '../../../../ui/components/commonLayoutCRUD.latte'}}
 {{block title}}Domain{{/block}}
 {{block north}}
 <div class="toolbarGridCRUD">
@@ -28,8 +28,11 @@
 {{block form}}
 <form id="domainForm" method="post">
     <input type="hidden" id="domain_idDomain" name="domain_idDomain"/>
-    <div>
+    <div class="row">
         <input id="domain_entry" name="domain_entry"/>
+    </div>
+    <div class="row">
+        <input id="fb" name="fb" type="text"/>
     </div>
 </form>
 {{/block}}
@@ -60,7 +63,7 @@
         },
         actionSave: function() {
             manager.doSubmit('domainForm', {{$manager->getAppUrl('','admin/domain/save')}});
-            //$('#domainForm').form('submit');
+            $(domainHandler.idGrid).datagrid('reload');
         }
 
     }
@@ -147,7 +150,7 @@
 
     $('#btnSave').linkbutton({
         iconCls: 'icon-save',
-        plain: true,
+        plain: false,
         onClick: function() {
             domainHandler.actionSave();
         }
@@ -155,12 +158,22 @@
 
     $('#domain_entry').textbox({
         required: true,
-        labelWidth: '96px',
-        width: '280px',
-        label:'Entry:'
+        validType: 'length[3,20]',
+        labelPosition: 'top',
+        width: '100%',
+        label:'Entry',
+        validateOnBlur:true,
+        validateOnCreate: false,
+        err: manager.form.validationError
     })
 
-    $('#domainForm').form({});
+    $('#fb').filebox({
+        buttonText: 'Choose File',
+        buttonAlign: 'left',
+        width: '100%',
+    })
+
+    //$('#domainForm').form({});
     /*
     $('#domainForm').form('submit', {
         url: {{$manager->getAppUrl('','admin/domain/save')}},

@@ -1,0 +1,414 @@
+@import '../../../node_modules/carbon-components/src/globals/scss/vars';
+@import '../../../node_modules/carbon-components/src/globals/scss/colors';
+
+input, textarea, select, button, a {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*
+ Annotation
+
+ */
+/*
+.l-btn-icon {
+    font-size: 12px;
+}
+*/
+#annoLayout {
+  height: 100%;
+  width: 100%;
+}
+
+#annoLeftPane {
+  height: 100%;
+  width: 250px;
+}
+
+#annoCenterPane {
+  padding: 5px;
+}
+
+#layersPane {
+  /*font-family: 'oxygen_monoregular';*/
+  font-family: 'IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono',
+  'Bitstream Vera Sans Mono', Courier, monospace;
+}
+
+#layersPane > .datagrid-row-selected,
+#layersPane > .datagrid-row-checked {
+  background-color: transparent;
+}
+
+#layersPane .datagrid-view2 td div {
+  text-align: center;
+  padding: 0px;
+}
+
+#layersPane .datagrid-header-row .datagrid-cell {
+  color: black;
+}
+
+/*
+#layersPane .datagrid-row, #layersPane .datagrid-header-row {
+    height: 24px;
+}
+*/
+.layerSelected {
+  background-color: transparent;
+}
+
+.layerTarget {
+  background-color: #e1e1e8;
+}
+
+.divNI {
+  float: left;
+  width: 30px;
+  height: 24px;
+  padding: 2px;
+}
+
+.cellSelected {
+  background-color: #CCC;
+}
+
+.cellSelected div {
+  background-color: #CCC;
+  color: black;
+}
+
+.divLabelMenu {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.combobox-item-hover {
+  cursor: pointer;
+}
+
+/*
+ Structure
+
+ */
+#structureLayout {
+  height: 100%;
+  width: 100%;
+}
+
+#structureLeftPane {
+  height: 100%;
+  width: 300px;
+}
+
+#structureCenterPane {
+  padding: 5px;
+}
+
+.mtreeIcon {
+  background-color: white;
+}
+
+/*
+ Report
+ */
+#reportLayout {
+  height: 100%;
+  width: 100%;
+}
+
+#reportLeftPane {
+  height: 100%;
+  width: 300px;
+}
+
+#reportCenterPane {
+  padding: 5px;
+}
+
+.mtreeIcon {
+  background-color: white;
+}
+
+.reportFrame {
+
+}
+
+.reportFrame .frameName {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.reportFrame .divPanel {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.reportFrame .divPanel .text {
+  padding: 5px;
+}
+
+.reportFrame .divPanel .header {
+  padding: 5px;
+  font-weight: bold;
+}
+
+.reportFrame .divPanel .frameElement {
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin: 5px;
+}
+
+.reportFrame .divPanel .tableRelations {
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin: 5px;
+}
+
+.reportFrame .divPanel .tableLU {
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin: 5px;
+}
+
+.reportLU {
+
+}
+
+.reportLU .luName {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.reportLU .frameName {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.reportLU .divPanel {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.reportLU .divPanel .text {
+  padding: 5px;
+}
+
+.reportLU .divPanel .header {
+  padding: 5px;
+  font-weight: bold;
+}
+
+.reportLU .divPanel .tableRealizations {
+  border-collapse: collapse;
+  border-spacing: 5px;
+  margin: 5px;
+  border: 1px solid #ddd;
+}
+
+.reportLU .divPanel .tableRealizations tbody tr th {
+  background-color: #8d8d8d;
+  color: white;
+  padding: 5px;
+}
+
+.reportLU .divPanel .tableRealizations tbody tr td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.reportLU .divPanel .tableRealizations tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+
+.reportLU .divPanel .tableVP {
+  border-collapse: collapse;
+  border-spacing: 5px;
+  margin: 5px;
+  border: 1px solid #ddd;
+}
+
+.reportLU .divPanel .tableVP tbody tr th {
+  background-color: #8d8d8d;
+  color: white;
+  padding: 5px;
+}
+
+.reportLU .divPanel .tableVP tbody tr td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.reportLU .divPanel .tableVP .pattern {
+  background-color: #f2f2f2;
+}
+
+#reportLUCenterPane {
+  padding: 5px;
+}
+
+#reportLUSouthPane {
+  padding: 5px;
+}
+
+.reportCxn {
+
+}
+
+.reportCxn .cxnName {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.reportCxn .divPanel {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.reportCxn .divPanel .text {
+  padding: 5px;
+}
+
+.reportCxn .divPanel .cxnElement {
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin: 5px;
+}
+
+.reportCxn .divPanel .tableRelations {
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin: 5px;
+}
+
+/*
+ Visual Editor
+ */
+#editorLayout {
+  height: 100%;
+  width: 100%;
+}
+
+#editorLeftPane {
+  height: 100%;
+  width: 300px;
+}
+
+#editorCenterPane {
+  padding: 5px;
+}
+
+/*
+ Grapher
+ */
+#grapherLayout {
+  height: 100%;
+  width: 100%;
+}
+
+#grapherLeftPane {
+  height: 100%;
+  width: 300px;
+}
+
+#grapherCenterPane {
+  padding: 5px;
+}
+
+/*
+CRUD
+ */
+
+.inlineAction {
+  padding-top: 5px;
+  margin-bottom: -1px;
+}
+
+.tabCRUD {
+  padding: 8px;
+  width:100%;
+  height:100%;
+}
+
+.toolbarGridCRUD {
+  width: 100%;
+  height: 48px;
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+.toolbarGridCRUD a,
+.toolbarGridCRUD div,
+.toolbarGridCRUD input {
+  display: block;
+  margin-left: 8px;
+}
+
+.toolbarGridCRUD #inputSearch {
+  min-width: 160px;
+}
+
+.menuInlineAction {
+  width: 120px;
+}
+
+.dataCRUD {
+  padding: 8px;
+  height: 100%;
+}
+
+.dataCRUD form {
+  background-color: #dcdcdc;
+  width: 480px;
+  padding:16px;
+}
+
+.dataCRUD form label {
+  font-size:12px;
+}
+.dataCRUD form .error-message{
+  margin: 4px 0 0 0;
+  padding: 0;
+  color: $support-01;
+  font-size:12px;
+}
+.dataCRUD form div.row {
+  margin-bottom: 16px;
+}
+
+.dataCRUDToolbar {
+  display:flex;
+  height:48px;
+  padding: 8px;
+}
+
+/*
+General
+ */
+#commonLayoutNorthPane div {
+  padding: 8px;
+}
+
+.bx--header__action .l-btn-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  position: relative;
+  font-size: 1px;
+}
+.bx--product-list__item .l-btn-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  position: relative;
+  font-size: 1px;
+  margin-top: 0px;
+}

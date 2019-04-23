@@ -161,6 +161,13 @@ var manager = {
                 $(element).html(html);
                 manager._handleResponse.parse(element);
             }
+            if (response.type == 'messager') {
+                if (response.code) {
+                    $.messager.alert('Error', response.message, 'error');
+                } else {
+                    $.messager.alert('Information', response.message, 'info');
+                }
+            }
             if (response.type == 'prompt') {
                 manager.doPrompt(response.data);
             }
@@ -180,7 +187,7 @@ var manager = {
         //console.log(idForm);
         var $form = $('#' + idForm);
         $form.submit(function (e) {
-            //console.log(e);
+            console.log(e);
             var canSubmit = true;
             if (manager.onSubmit[idForm]) {
                 canSubmit = manager.onSubmit[idForm]();
@@ -198,6 +205,7 @@ var manager = {
                 var formObj = $(this);
                 var formURL = formObj.attr("action");
                 var formData = new FormData(this);
+                console.log(formData);
                 manager.doRequest({
                     url: formURL,
                     type: 'POST',
@@ -217,6 +225,7 @@ var manager = {
             e.preventDefault(); //Prevent Default action.
             $form.unbind(e);
         });
+        console.log('submit');
         $form.submit(); //Submit the form
     },
     doPost: function (element, url, idForm) {
@@ -239,7 +248,9 @@ var manager = {
         }
         $.messager.progress();
         var isValid = $form.form('validate');
+        console.log(isValid ? 'valid ok' : ' not valid');
         if (isValid){
+
             manager.doPostBack(idForm);
         }
         $.messager.progress('close');
@@ -369,6 +380,19 @@ var manager = {
             object = data;
         });
         return object;
+    },
+    form: {
+        validationError: function (target, message) {
+            var t = $(target);
+            if (t.hasClass('textbox-text')){
+                t = t.parent();
+            }
+            var m = t.next('.error-message');
+            if (!m.length){
+                m = $('<div class="error-message"></div>').insertAfter(t);
+            }
+            m.html(message);
+        }
     }
 };
 /**
