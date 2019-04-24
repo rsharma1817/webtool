@@ -10,7 +10,6 @@ scripts/jsplumb/jsplumbtoolkit-defaults.css
 scripts/jsplumb/jsplumbtoolkit-demo.css
 
 ;Carrega os scripts externos usados pelo tema
-scripts/jquery-manager/jquery.manager.core.js
 scripts/fontawesome-free-5.0.9/svg-with-js/js/fontawesome-all.min.js
 scripts/fontawesome-free-5.0.9/svg-with-js/js/fa-v4-shims.min.js
 scripts/bootstrap-3.2.0-dist/js/bootstrap.min.js
@@ -45,6 +44,7 @@ scripts/d3-graphviz/node_modules/d3-graphviz/index.js
 scripts/bootstrap-3.2.0-dist/js/bootstrap.min.js
 node_modules/carbon-components/scripts/carbon-components.min.js
 node_modules/svgxuse/svgxuse.min.js
+scripts/jquery-manager/jquery.manager.core.js
 
 ;Carrega os scripts usados pelo painter.php
 scripts/theme/extensions.js

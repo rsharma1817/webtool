@@ -1,4 +1,5 @@
-{{layout '../../../../views/commonLayout.latte'}}
+{{var $layout = '../../../../ui/components/commonLayoutStructure.latte'}}
+{{layout $layout}}
 {{block title}}Frames{{/block}}
 {{block north}}
 <div>
@@ -68,10 +69,8 @@
 
 {{block script}}
 
-{{include $manager->getThemePath('css/graph.css')}}
-
 <script type="text/javascript">
-    var idCenterPane = "structureCenterPane";
+    var idCenterPane = "commonLayoutCenterPane";
     var structure = {
         app: {{$manager->getApp()}},
         isMaster: {{$data->isMaster|noescape}},
@@ -86,60 +85,60 @@
         */
         structure.showLU = function (idLU) {
             $('#reportCenterPane').html('');
-            manager.doGet({{$manager->getURL('report/lu/showLU')}} + '/' + idLU, 'structureCenterPane');
+            manager.doGet({{$manager->getURL('report/lu/showLU')}} + '/' + idLU, 'commonLayoutCenterPane');
         }
 
         structure.showFrame = function (idFrame) {
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('report/frame/showFrame')}} + '/' + idFrame, 'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('report/frame/showFrame')}} + '/' + idFrame, 'commonLayoutCenterPane');
         }
         structure.newFrame = function () {
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formNewFrame')}},'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formNewFrame')}},'commonLayoutCenterPane');
         }
 
         structure.editFrame = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formUpdateFrame')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formUpdateFrame')}} + '/' + id,'commonLayoutCenterPane');
         }
         
         structure.deleteFrame = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formDeleteFrame')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formDeleteFrame')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.frameSemanticType = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formFrameSemanticType')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formFrameSemanticType')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.frameDomain = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formFrameDomain')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formFrameDomain')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.frameStatus = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formFrameStatus')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formFrameStatus')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.reloadFrame = function () {
-            $('#structureCenterPane').html('');
+            $('#commonLayoutCenterPane').html('');
             var node = $('#framesTree').tree('getSelected');
             if (node) {
                 $('#framesTree').tree('reload', node.target);
@@ -147,7 +146,7 @@
         }
 
         structure.reloadFrameParent = function () {
-            $('#structureCenterPane').html('');
+            $('#commonLayoutCenterPane').html('');
             var node = $('#framesTree').tree('getSelected');
             var parent = $('#framesTree').tree('getParent', node.target);
             console.log(node);
@@ -178,47 +177,47 @@
             if ($.type(idFrame) === "undefined") {
                 idFrame = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formNewFrameElement')}} + '/' + idFrame,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formNewFrameElement')}} + '/' + idFrame,'commonLayoutCenterPane');
         }
 
         structure.editFrameElement = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formUpdateFrameElement')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formUpdateFrameElement')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.deleteFrameElement = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formDeleteFrameElement')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formDeleteFrameElement')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.feAddConstraint = function (idFE) {
             if ($.type(idFE) === "undefined") {
                 idFE = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formAddConstraintFE')}} + '/' + idFE,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formAddConstraintFE')}} + '/' + idFE,'commonLayoutCenterPane');
         }
 
         structure.feDeleteConstraint = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formDeleteConstraintFE')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formDeleteConstraintFE')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.newLU = function (idFrame) {
             if ($.type(idFrame) === "undefined") {
                 idFrame = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
+            $('#commonLayoutCenterPane').html('');
             manager.doAction('^' + structure.app + '/structure/frame/formNewLU' + '/' + idFrame);
         }
 
@@ -226,24 +225,24 @@
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formUpdateLU')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formUpdateLU')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.deleteLU = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formDeleteLU')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formDeleteLU')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.deleteSubCorpus = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formDeleteSubCorpus')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formDeleteSubCorpus')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.luAddConstraint = function (idLU) {
@@ -251,31 +250,31 @@
             if ($.type(idLU) === "undefined") {
                 idLU = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formAddConstraintLU')}} + '/' + idLU,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formAddConstraintLU')}} + '/' + idLU,'commonLayoutCenterPane');
         }
 
         structure.luDeleteConstraint = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formDeleteConstraintLU')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formDeleteConstraintLU')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.importWS = function (id) {
             if ($.type(id) === "undefined") {
                 id = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
-            manager.doGet({{$manager->getURL('structure/frame/formImportWS')}} + '/' + id,'structureCenterPane');
+            $('#commonLayoutCenterPane').html('');
+            manager.doGet({{$manager->getURL('structure/frame/formImportWS')}} + '/' + id,'commonLayoutCenterPane');
         }
 
         structure.createTemplate = function (idFrame) {
             if ($.type(idFrame) === "undefined") {
                 idFrame = structure.node.id.substr(1);
             }
-            $('#structureCenterPane').html('');
+            $('#commonLayoutCenterPane').html('');
             manager.doAction('^' + structure.app + '/structure/frame/createTemplate' + '/' + idFrame);
         }
 

@@ -33,8 +33,11 @@ jQuery(function ($) {
                 sideMenuInstance.changeState(sideMenuInstance.isNavExpanded() ? SideMenu.state.COLLAPSED : SideMenu.state.EXPANDED);
                 $(sideMenuElement).toggleClass('bx--side-nav--expanded ', sideMenuInstance.isNavExpanded());
                 $('#centerPane').toggleClass('bx--content__side-nav--expanded', sideMenuInstance.isNavExpanded());
-                if ($('#commonLayout')) {
-                    $('#commonLayout').layout("resize");
+                if ($('#commonLayoutStructure')) {
+                    $('#commonLayoutStructure').layout("resize");
+                }
+                if ($('#commonLayoutCRUD')) {
+                    $('#commonLayoutCRUD').layout("resize");
                 }
             }
         })

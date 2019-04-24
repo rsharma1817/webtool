@@ -91,28 +91,6 @@ input, textarea, select, button, a {
 }
 
 /*
- Structure
-
- */
-#structureLayout {
-  height: 100%;
-  width: 100%;
-}
-
-#structureLeftPane {
-  height: 100%;
-  width: 300px;
-}
-
-#structureCenterPane {
-  padding: 5px;
-}
-
-.mtreeIcon {
-  background-color: white;
-}
-
-/*
  Report
  */
 #reportLayout {
@@ -363,10 +341,11 @@ CRUD
   height: 100%;
 }
 
-.dataCRUD form {
+.dataCRUD .containerForm {
   background-color: #dcdcdc;
   width: 480px;
   padding:16px;
+  position:relative;
 }
 
 .dataCRUD form label {
@@ -411,4 +390,44 @@ General
   position: relative;
   font-size: 1px;
   margin-top: 0px;
+}
+
+/*
+ Structure
+
+ */
+#structureLayout {
+  height: 100%;
+  width: 100%;
+}
+
+#structureLeftPane {
+  height: 100%;
+  width: 300px;
+}
+
+#structureCenterPane {
+  padding: 5px;
+}
+
+.mtreeIcon {
+  background-color: white;
+}
+
+#commonLayoutStructure {
+
+}
+
+#commonLayoutStructure .toolbar {
+  display:flex;
+  height:80px;
+}
+
+#commonLayoutStructure .treeList {
+  width:25%;
+  height: 100%
+}
+
+#commonLayoutStructure .content {
+  height: 100%
 }

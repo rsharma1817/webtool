@@ -20,7 +20,7 @@ class DomainController extends MController
     {
         try {
             $model = new fnbr\models\Domain($this->data->domain->idDomain);
-            $this->data->domain->entry = 'dom_' . str_replace('dom_','', $this->data->domain->entry);
+            $this->data->domain->entry = 'dom_' . str_replace('dom_', '', $this->data->domain->entry);
             $model->setData($this->data->domain);
             $model->save();
             $this->renderResponseSuccess('Domain updated.');
@@ -29,7 +29,8 @@ class DomainController extends MController
         }
     }
 
-    public function saveFrameDomain() {
+    public function saveFrameDomain()
+    {
         try {
             $structure = Manager::getAppService('structuredomain');
             $structure->saveFrameDomain($this->data->idFrame, $this->data->toSave);

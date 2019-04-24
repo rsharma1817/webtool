@@ -1,13 +1,13 @@
-{{var $idDialog = 'domainDialog'}}
 {{layout '../../../../ui/components/commonLayoutCRUD.latte'}}
+
 {{block title}}Domain{{/block}}
-{{block north}}
-<div class="toolbarGridCRUD">
+
+{{block toolbarList}}
     <input id="inputSearch"/>
     <a id="btnAdd" href="#">New</a>
     <a id="massAction" href="javascript:void(0)">Mass Action</a>
-</div>
 {{/block}}
+
 {{block controls}}
 <div id="menuInlineAction" class="menuInlineAction">
     <div onclick="domainHandler.actionUpdate()" data-options="iconCls:'icon-edit'">Edit</div>
@@ -17,22 +17,20 @@
     <div data-options="iconCls:'icon-delete'">Delete All</div>
 </div>
 {{/block}}
-{{block center}}
+
+{{block list}}
 <table id="domainGrid"></table>
 {{/block}}
 
-{{block toolbar}}
+{{block toolbarData}}
     <a id="btnSave" href="#">Save</a>
 {{/block}}
 
 {{block form}}
-<form id="domainForm" method="post">
+<form id="domainForm" method="post" data-loading>
     <input type="hidden" id="domain_idDomain" name="domain_idDomain"/>
     <div class="row">
         <input id="domain_entry" name="domain_entry"/>
-    </div>
-    <div class="row">
-        <input id="fb" name="fb" type="text"/>
     </div>
 </form>
 {{/block}}
@@ -43,7 +41,7 @@
 
     var domainHandler = {
         idGrid: '#domainGrid',
-        urlGrid: {{$manager->getAppUrl('','admin/domain/gridData')}},
+        urlGrid: "{{$appURL|noescape}}admin/domain/gridData",
         idCurrent: -1,
         actionAdd: function() {
             // $('#domainDialog').dialog('open');
@@ -53,7 +51,7 @@
             $('#commonLayoutTabs').tabs('select', 1);
             //manager.doAction('^admin/domain/formObject/' + domainHandler.idCurrent);
             //$('#domainDialog').dialog('open');
-            $('#domainForm').form('load', {{$manager->getAppUrl('','admin/domain/formData/')}} + domainHandler.idCurrent);
+            $('#domainForm').form('load', "{{$appURL|noescape}}admin/domain/formData/" + domainHandler.idCurrent);
         },
         actionDelete: function() {
             manager.doAction('^admin/domain/delete/' + domainHandler.idCurrent);
@@ -62,7 +60,7 @@
             manager.doAction("^structure/entry/formUpdate/" + value);
         },
         actionSave: function() {
-            manager.doSubmit('domainForm', {{$manager->getAppUrl('','admin/domain/save')}});
+            manager.doSubmit('domainForm', "{{$appURL|noescape}}admin/domain/save");
             $(domainHandler.idGrid).datagrid('reload');
         }
 
@@ -89,7 +87,7 @@
                 return "<a>" + value + "</a>";
             }},
         ]],
-        onClickCell: function(index,field,value,x){
+        onClickCell: function(index,field,value){
             if (field == 'entry') {
                 domainHandler.actionEntry(value);
             }
@@ -144,7 +142,7 @@
         iconCls: 'icon-remove',
         plain: true,
         onClick: function() {
-            manager.doAction({{$data->delete}});
+            manager.doAction("{{$appURL|noescape}}admin/domain/delete");
         }
     });
 
@@ -158,7 +156,6 @@
 
     $('#domain_entry').textbox({
         required: true,
-        validType: 'length[3,20]',
         labelPosition: 'top',
         width: '100%',
         label:'Entry',
@@ -166,33 +163,6 @@
         validateOnCreate: false,
         err: manager.form.validationError
     })
-
-    $('#fb').filebox({
-        buttonText: 'Choose File',
-        buttonAlign: 'left',
-        width: '100%',
-    })
-
-    //$('#domainForm').form({});
-    /*
-    $('#domainForm').form('submit', {
-        url: {{$manager->getAppUrl('','admin/domain/save')}},
-        onSubmit: function(){
-            var isValid = $(this).form('validate');
-            if (!isValid){
-                $.messager.progress('close');	// hide progress bar while the form is invalid
-            }
-            return isValid;	// return false will stop the form submission
-        },
-        success: function(){
-            $.messager.progress('close');	// hide progress bar while submit successfully
-        },
-        onLoadSuccess: function(data) {
-            console.log('onloadsuccess');
-            console.log(data);
-        }
-    });
-    */
 
 </script>
 

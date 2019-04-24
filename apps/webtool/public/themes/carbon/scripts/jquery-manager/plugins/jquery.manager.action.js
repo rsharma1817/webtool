@@ -20,6 +20,7 @@
 
 (function ($) {
     manager.action = function (elements, options) {
+        //console.log('manager.action function');
         this.jQuery = $(elements);
         this.elements = elements;
         this.options = jQuery.extend({}, this.defaults, options);
@@ -40,6 +41,7 @@
         _attach: function () {
             var self = this;
             this.jQuery.each(function (index, element) {
+                //console.log('attaching');
                 element.options = $.extend({}, self.defaults, self.parseOptions(element), element.options);
             });
         },

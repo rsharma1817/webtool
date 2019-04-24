@@ -1,20 +1,24 @@
 <div id="commonLayout" style="width:100%;height:100%;"  data-options="title:'{{block title}}{{/block}}'">
     <div id="commonLayoutTabs" style="width:100%;height:100%;">
         <div id="commonLayoutTabList" class="tabCRUD" title="List">
-            {{block north}}{{/block}}
+            <div class="toolbarGridCRUD">
+                {{block toolbarList}}{{/block}}
+            </div>
             <div id="commonLayoutListPane">
-                {{block center}}{{/block}}
+                {{block list}}{{/block}}
             </div>
         </div>
         <div id="commonLayoutTabData" class="tabCRUD" title="Data" >
             <div id="commonLayoutTabDataPane" style="width:100%;height:100%;">
             <div id="commonLayoutTabDataPaneNorth" class="dataCRUDToolbar" data-options="collapsible:false, region:'north', title:''" >
-                {{block toolbar}}{{/block}}
+                {{block toolbarData}}{{/block}}
             </div>
-
-            <div id="commonLayoutTabDataPaneCenter" class="dataCRUD" region="center" style="height: 100%">
-                {{block form}}{{/block}}
-            </div>
+                 <div id="commonLayoutTabDataPaneCenter" class="dataCRUD" region="center" style="height: 100%">
+                    <div class="containerForm">
+                    {{block form}}{{/block}}
+                    {{$page->fetch('../components/widget/cv-loading',['idLoadingDiv' => 'bxLoadingForm'])|noescape}}
+                    </div>
+                </div>
         </div>
     </div>
 
@@ -24,7 +28,16 @@
 
 <script type="text/javascript">
     var idCenterPane = "commonLayoutCenterPane";
+
     $(function () {
+        /*
+        var Loading = CarbonComponents.Loading;
+        manager.loading = Loading.create(document.getElementById('bxLoadingForm'));
+        manager.loading.set(false);
+        */
+
+        manager.loading.init('bxLoadingForm');
+
         $('#commonLayoutListPane').panel({
             fit: true,
             border: false,

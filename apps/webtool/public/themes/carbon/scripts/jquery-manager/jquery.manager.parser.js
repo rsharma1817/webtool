@@ -25,7 +25,7 @@ manager.parser = {
     //    console.log('pq!!!!');
     //},
     onComplete: function (context) {
-        console.log('Executando external parser. context = ' + context);
+        //console.log('Executando external parser. context = ' + context);
         //manager.externalParse(context);
     },
     plugins: ['melement', 'maction', 'mgrid', 'mprompt', 'mnavbar'
@@ -36,10 +36,12 @@ manager.parser = {
         for (var i = 0; i < manager.parser.plugins.length; i++) {
             var name = manager.parser.plugins[i];
             var r = $('.' + name, context);
+            //console.log(name + ' ' + r.length);
             if (r.length) {
                 if (r[name]) {
-                    console.log('has r');
-                    r[name]();
+                    //console.log('has r');
+                    //console.log(r[name]);
+                    r[name](); // addObject 'name' to instance
                 } else {
                     aa.push({name: name, jq: r});
                 }

@@ -47,9 +47,9 @@ var manager = {
     },
     onAfterPost: function () {
     },
-    beforeRequest: function () {
+    beforeRequest: function (options) {
     },
-    afterRequest: function () {
+    afterRequest: function (result) {
     },
     ready: function () {
     },
@@ -96,6 +96,26 @@ var manager = {
     getParentForm: function (/*String|DOMNode*/startNode) {
         var node = manager.byId(startNode);
         return node.closest("form").attr("id") || jQuery(document);
+    },
+    loading: {
+        instance: null,
+        init: function(id) {
+            console.log('init loading');
+            var c = CarbonComponents.Loading;
+            manager.loading.instance = c.create(document.getElementById(id), { active: false });
+        },
+        start: function() {
+            console.log('starting loading');
+            if (manager.loading.instance) {
+                manager.loading.instance.toggle();
+            }
+        },
+        stop: function() {
+            console.log('stop loading');
+            if (manager.loading.instance) {
+                manager.loading.instance.toggle();
+            }
+        }
     },
     alert: function (msg) {
         alert(msg);
@@ -187,7 +207,7 @@ var manager = {
         //console.log(idForm);
         var $form = $('#' + idForm);
         $form.submit(function (e) {
-            console.log(e);
+            //console.log(e);
             var canSubmit = true;
             if (manager.onSubmit[idForm]) {
                 canSubmit = manager.onSubmit[idForm]();
@@ -206,6 +226,7 @@ var manager = {
                 var formURL = formObj.attr("action");
                 var formData = new FormData(this);
                 console.log(formData);
+                manager.loading.start();
                 manager.doRequest({
                     url: formURL,
                     type: 'POST',
@@ -215,9 +236,11 @@ var manager = {
                     cache: false,
                     processData: false,
                     success: function (data, textStatus, jqXHR) {
+                        manager.loading.stop();
                         manager._handleResponse.success(data, textStatus, jqXHR, context);
                     },
                     error: function (jqXHR, textStatus, errorThrown) {
+                        manager.loading.stop();
                         manager._handleResponse.error(jqXHR, textStatus, errorThrown, context);
                     }
                 });
@@ -246,19 +269,18 @@ var manager = {
         if (url) {
             $form.attr('action', url);
         }
-        $.messager.progress();
+
         var isValid = $form.form('validate');
         console.log(isValid ? 'valid ok' : ' not valid');
         if (isValid){
 
             manager.doPostBack(idForm);
         }
-        $.messager.progress('close');
         return isValid
     },
     doGet: function (url, element, wrapper) {
-        //console.log(url);
-        //console.log(wrapper);
+        console.log(url);
+        console.log(wrapper);
         if (wrapper) {
             //console.log(wrapper);
             if ($('#' + wrapper).notempty()) {
@@ -286,6 +308,7 @@ var manager = {
     },
     doAction: function (action, id) {
         var maction = new manager.action;
+        console.log(action);
         maction.exec(action, id);
     },
     doAjaxText: function (url, element, idBase) {
@@ -342,10 +365,20 @@ var manager = {
     },
 
     doRequest: function (options) {
-        options.async = options.async || false;
-        manager.beforeRequest(options);
+        console.log(options);
+        options.async = (options.async === false) ? false : true;
+        options.beforeSend = function(jqXHR, options) {
+            manager.beforeRequest(options);
+        }
+        options.completed = function(jqXHR, result) {
+            manager.afterRequest(result);
+        }
         $.ajax(options);
-        manager.afterRequest();
+
+        //options.async = options.async || false;
+        //manager.beforeRequest(options);
+        //$.ajax(options);
+        //manager.afterRequest();
     },
     doPrompt: function (data) {
         if ($('#manager-prompt').notempty()) {
@@ -649,13 +682,23 @@ var manager = {
     if (window.jQuery) {
         jQuery(function () {
             manager.loader.load('jQuery.addObject.js', function () {
+                //console.log('addObject');
                 manager.loader.load('jquery.manager.extensions.js', function () {
+                    //console.log('extensions');
                     manager.loader.load('jquery.manager.utils.js', function() {
+                        //console.log('utils');
+
                         manager.loader.load('jquery.fileDownload.js', function() {
+                            //console.log('fileDownload');
+
                             manager.loader.load('maction', function () {
+                                //console.log('maction');
+
                                 manager.loader.load('jquery.manager.parser.js', function () {
+                                    //console.log('parser');
+
                                     manager.parser.parse();
-                                    console.log(manager.action);
+                                    //console.log(manager.action);
                                     manager.ready();
                                 });
                             });

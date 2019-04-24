@@ -16,8 +16,11 @@
         <link rel="icon" type="image/x-icon" href="{{$manager->getThemeURL()}}favicon.ico" />
         
         <!-- Carrega o jQuery - obrigatório em todos os temas -->
+        <!--
+        <script type="text/javascript" src="{{$manager->getThemeURL()}}scripts/jquery/jquery-3.4.0.min.js"></script>
+        -->
         <script type="text/javascript" src="{{$manager->getThemeURL()}}scripts/jquery-2.1.1.min.js"></script>
-        
+
         <!-- Carrega o tema e suas dependências -->
         {{var $includes = file_get_contents($manager->getThemePath()."/templates/assets.ink")}}
         {{var $lines = explode(PHP_EOL,$includes)}}

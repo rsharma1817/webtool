@@ -15,6 +15,7 @@ class ReportFrameService extends MService
                 $node['id'] = 'f' . $row['idFrame'];
                 $node['text'] = $row['name'];
                 $node['state'] = 'closed';
+                $node['iconCls'] = 'icon-blank fa fa-square fa8px entity_frame';
                 $node['entry'] = $row['entry'];
                 $result[] = $node;
             }
@@ -31,6 +32,7 @@ class ReportFrameService extends MService
             $node = array();
             $node['id'] = 'l' . $idLU;
             $node['text'] = $name;
+            $node['iconCls'] = 'icon-blank fa fa-square fa8px entity_lu';
             $node['state'] = 'open';
             $result[] = $node;
         }

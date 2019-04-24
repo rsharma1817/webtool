@@ -31,6 +31,7 @@ class FrameController extends MController
             $data = (object)[
                 'id' => 'root',
                 'state' => 'open',
+                'iconCls' => 'icon-blank fa fa-sitemap fa16px entity_frame',
                 'text' => 'Frames',
                 'children' => $children
             ];

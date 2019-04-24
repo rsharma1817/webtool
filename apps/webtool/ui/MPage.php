@@ -139,6 +139,7 @@ class MPage extends MBase
         $this->template->context('charset', Manager::getOptions('charset'));
         $this->template->context('template', $this->template);
         $this->template->context('icon', new MIcon());
+        $this->template->context('appURL', Manager::getAppURL() . '/');
     }
 
     public function getTemplate()
@@ -391,6 +392,15 @@ class MPage extends MBase
         $template = $template ? : $this->getTemplateName();
         $html = $template != '' ? $this->template->fetch($template . '.html', ($params ? $params : [])) : $this->generate();
         return $html;
+    }
+
+    public function getUIComponentPath($template) {
+        return Manager::getAppPath('ui/components/' . $template);
+    }
+
+    public function fetchThemeComponent($template = '', $params = null) {
+        $template = Manager::getThemePath() . '/components/' . $template;
+        return $this->template->fetch($template . '.html', ($params ? $params : []));
     }
 
     /**

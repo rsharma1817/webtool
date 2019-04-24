@@ -34,7 +34,11 @@ class MView extends MBaseView
         $this->controller = $controller;
         $this->data = $parameters;
         $process = 'process' . $extension;
-        $content = $this->$process();
+        try {
+            $content = $this->$process();
+        } catch(\Exception $e) {
+            mdump($e->getMessage());
+        }
         $page = Manager::getPage();
         $page->setContent($content);
         return (Manager::isAjaxCall() ? $page->generate() : $page->render());
@@ -67,7 +71,7 @@ class MView extends MBaseView
         $template->context('view', $this);
         $template->context('data', $this->data);
         $template->context('components', Manager::getAppPath('components'));
-        $template->context('appURL', Manager::getAppURL());
+        $template->context('appURL', Manager::getAppURL() .'/');
         $template->context('icon', new MIcon());
         $template->context('isMaster', Manager::checkAccess('MASTER', A_EXECUTE) ? 'true' : 'false');
         $template->context('isSenior', Manager::checkAccess('SENIOR', A_EXECUTE) ? 'true' : 'false');

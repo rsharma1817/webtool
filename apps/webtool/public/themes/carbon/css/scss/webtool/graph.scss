@@ -1,0 +1,44 @@
+.link {
+  fill: none;
+  /*stroke: #666;*/
+  stroke-width: 1.5px;
+}
+
+.linkOver {
+  stroke-width: 2.5px;
+}
+
+#licensing {
+  fill: green;
+}
+
+.link.licensing {
+  stroke: green;
+}
+
+.link.resolved {
+  stroke-dasharray: 0, 2 1;
+}
+
+text {
+  font: 10px sans-serif;
+  font-weight: bold;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+  color: black;
+}
+
+.nodeSelected {
+  stroke: black;
+  stroke-width: 1px;
+}
+
+.nodeNormal {
+  stroke: #CCC;
+  stroke-width: 1px;
+}
+
+.datagrid-row-selected {
+  background: white;
+  color: #000000;
+}    
