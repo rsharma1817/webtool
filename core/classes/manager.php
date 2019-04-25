@@ -773,12 +773,14 @@ class Manager
         return (self::$instance->getOptions('homolog') === true);
     }
 
-    public static function AUDIT() {
+    public static function AUDIT()
+    {
         $audit = self::getConf('audit');
         return isset($audit) && $audit['enabled'] === true;
     }
 
-    public static function getAuditors() {
+    public static function getAuditors()
+    {
         return self::AUDIT() ? self::getConf('audit')['auditors'] : [];
     }
 
@@ -950,13 +952,13 @@ class Manager
                 }
                 $hasAccessGroup = ($group[ACTION_ACCESS] == '') || self::$instance->checkAccess($group[ACTION_TRANSACTION], $group[ACTION_ACCESS]);
                 if ($hasAccessGroup) {
-                    $actionsAuth[$i] = [$group[ACTION_CAPTION], $group[ACTION_PATH],$group[ACTION_ICON],$group[ACTION_TRANSACTION], $group[ACTION_ACCESS],[]];
+                    $actionsAuth[$i] = [$group[ACTION_CAPTION], $group[ACTION_PATH], $group[ACTION_ICON], $group[ACTION_TRANSACTION], $group[ACTION_ACCESS], []];
                     $groupActions = $group[ACTION_ACTIONS];
                     foreach ($groupActions as $j => $action) {
                         $hasAccessAction = ($action[ACTION_ACCESS] == '') || Manager::checkAccess($action[ACTION_TRANSACTION], $action[ACTION_ACCESS]);
                         if ($hasAccessAction) {
                             $handler = MAction::isAction($action[ACTION_PATH]) ? $action[ACTION_PATH] : '>' . $action[ACTION_PATH];
-                            $actionsAuth[$i][ACTION_ACTIONS][] = [$action[ACTION_CAPTION], $handler,$action[ACTION_ICON],$action[ACTION_TRANSACTION], $action[ACTION_ACCESS],[]];
+                            $actionsAuth[$i][ACTION_ACTIONS][] = [$action[ACTION_CAPTION], $handler, $action[ACTION_ICON], $action[ACTION_TRANSACTION], $action[ACTION_ACCESS], []];
                         }
                     }
                 }
@@ -1669,29 +1671,35 @@ class Manager
             self::$instance->logMessage("[getController  from cache]");
             return self::$instance->controllers[$class];
         }
-        if (self::$instance->controller->getContainer()) {
-            $namespace = ($module ?: $app) . "\\controllers\\" . $class;
-            self::$instance->logMessage("[Manager::getController  {$namespace}");
-            $c = self::$instance->controller->container->get($namespace);
-        } else {
-            if ($fileMap = self::$instance->getContext()->getFileMap()) {
-                $namespace = ($module ? $module . '\\' : '') . "controllers\\{$controller}controller";
-                mdump($namespace);
+        $c = false;
+        if ($fileMap = self::$instance->getContext()->getFileMap()) {
+            $namespace = ($module ? $module . '\\' : '') . "controllers\\{$controller}controller";
+            mdump($namespace);
+            if (isset($fileMap[$namespace])) {
                 require_once($fileMap[$namespace]);
                 $c = new $class;
+            }
+        }
+        if (!$c) {
+            $namespace = $app . '\\' . ($module ? $module . '\\' : '') . "controllers\\{$controller}controller";
+            mdump($namespace);
+            if (class_exists($namespace)) {
+                self::$instance->logMessage("[Manager::getController  {$namespace}");
+                $c = new $namespace();
             } else {
-                $namespace = $app . '\\' . ($module ? $module . '\\' : '') . "controllers\\{$controller}controller";
-                mdump($namespace);
-                if (class_exists($namespace)) {
-                    self::$instance->logMessage("[Manager::getController  {$namespace}");
-                    $c = new $namespace();
-                } else {
-                    $ctx = $context ?: self::getContext();
-                    $namespace = $ctx->getNameSpace($app, $module, $class);
-                    self::$instance->logMessage("[Manager::getController  {$namespace}");
-                    self::$instance->import($namespace);
-                    $c = new $class();
-                }
+                $ctx = $context ?: self::getContext();
+                $namespace = $ctx->getNameSpace($app, $module, $class);
+                self::$instance->logMessage("[Manager::getController  {$namespace}");
+                self::$instance->import($namespace);
+                $c = new $class();
+            }
+        }
+        if (!$c) {
+            if (self::$instance->controller->getContainer()) {
+                $class = ucfirst("{$controller}Controller");
+                $namespace = $app . ($module ? "\\{$module}" : "") . "\\controllers\\" . $class;
+                self::$instance->logMessage("[Manager::getController  {$namespace}");
+                $c = self::$instance->controller->container->get($namespace);
             }
         }
         $c->setApplication($app);
@@ -1725,13 +1733,14 @@ class Manager
 
     public static function getService($app, $module, $service)
     {
+        $s = false;
         $class = "{$service}Service";
         if (self::$instance->controller->container) {
             $namespace = ($module ?: $app) . "\\services\\" . $class;
             mtrace('namespace for container = ' . $namespace);
             $s = self::$instance->controller->container->get($namespace);
-
-        } else {
+        }
+        if (!$s) {
             if ($fileMap = self::$instance->getContext()->getFileMap()) {
                 $lowerClass = strtolower($class);
                 $namespace = ($module ? $module . '\\' : '') . "services\\{$lowerClass}";
@@ -2152,15 +2161,18 @@ class Manager
 
         $tracerStatus = self::getConf('logs.level');
         switch ($tracerStatus) {
-            case '0': {
-                return 'Inativo';
-            }
-            case '1': {
-                return 'Status 1';
-            }
-            case '2': {
-                return 'Ativo em ' . self::getConf('logs.peer') . ":" . self::getConf('logs.port');
-            }
+            case '0':
+                {
+                    return 'Inativo';
+                }
+            case '1':
+                {
+                    return 'Status 1';
+                }
+            case '2':
+                {
+                    return 'Ativo em ' . self::getConf('logs.peer') . ":" . self::getConf('logs.port');
+                }
         }
     }
 
@@ -2344,7 +2356,7 @@ class Manager
             foreach ($scandir as $filePath) {
                 if (fnmatch("*.php", $filePath)) {
                     $ns = strtolower(($module ? $module . '\\\\' : '') . "components\\\\" . basename($filePath, '.php'));
-                    $fullPath = "/" . ($module ?  'modules/' . $module . '/' : '') . "components/" . $filePath;
+                    $fullPath = "/" . ($module ? 'modules/' . $module . '/' : '') . "components/" . $filePath;
                     $map .= "    '{$ns}' =>  \$baseDir . '{$fullPath}',\n";
                 }
             }

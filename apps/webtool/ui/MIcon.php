@@ -12,7 +12,7 @@ class MIcon
         $url = Manager::getThemeURL();
         return <<< HERE
   <svg class="{$class}" aria-hidden="false">
-    <use xlink:href="{$url}components/widget/images/carbon-icons.svg#icon--{$icon}"></use>
+    <use xlink:href="{$url}components/images/carbon-icons.svg#icon--{$icon}"></use>
   </svg>
 HERE;
 

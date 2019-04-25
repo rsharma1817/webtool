@@ -1,4 +1,4 @@
-<div id="commonLayout" style="width:100%;height:100%;"  data-options="title:'{{block title}}{{/block}}'">
+<div id="commonLayout" style="width:100%;height:100%;" data-options="title:'{{block title}}{{/block}}'">
     <div id="commonLayoutTabs" style="width:100%;height:100%;">
         <div id="commonLayoutTabList" class="tabCRUD" title="List">
             <div class="toolbarGridCRUD">
@@ -8,20 +8,21 @@
                 {{block list}}{{/block}}
             </div>
         </div>
-        <div id="commonLayoutTabData" class="tabCRUD" title="Data" >
+        <div id="commonLayoutTabData" class="tabCRUD" title="Data">
             <div id="commonLayoutTabDataPane" style="width:100%;height:100%;">
-            <div id="commonLayoutTabDataPaneNorth" class="dataCRUDToolbar" data-options="collapsible:false, region:'north', title:''" >
-                {{block toolbarData}}{{/block}}
-            </div>
-                 <div id="commonLayoutTabDataPaneCenter" class="dataCRUD" region="center" style="height: 100%">
+                <div id="commonLayoutTabDataPaneNorth" class="dataCRUDToolbar"
+                     data-options="collapsible:false, region:'north', title:''">
+                    {{block toolbarData}}{{/block}}
+                </div>
+                <div id="commonLayoutTabDataPaneCenter" class="dataCRUD" region="center" style="height: 100%">
                     <div class="containerForm">
-                    {{block form}}{{/block}}
-                    {{$page->fetch('../components/widget/cv-loading',['idLoadingDiv' => 'bxLoadingForm'])|noescape}}
+                        {{block form}}{{/block}}
+                        {{$page->fetchThemeComponent('cv-loading',['idLoadingDiv' => 'bxLoadingForm'])|noescape}}
                     </div>
                 </div>
+            </div>
         </div>
     </div>
-
 </div>
 
 {{block controls}}{{/block}}
@@ -54,19 +55,19 @@
             fit: true
         });
         $('#commonLayoutTabs').tabs({
-            fit:true,
-            border:false,
-            onSelect:function(title){
-                console.log(title+' is selected');
+            fit: true,
+            border: false,
+            onSelect: function (title) {
+                console.log(title + ' is selected');
             }
         });
         $('#commonLayoutTabList').layout({
             fit: true,
-            border:false,
+            border: false,
         });
         $('#commonLayoutTabDataPane').layout({
             fit: true,
-            border:false
+            border: false
         });
     })
 </script>

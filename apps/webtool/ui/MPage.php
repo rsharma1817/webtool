@@ -399,8 +399,7 @@ class MPage extends MBase
     }
 
     public function fetchThemeComponent($template = '', $params = null) {
-        $template = Manager::getThemePath() . '/components/' . $template;
-        return $this->template->fetch($template . '.html', ($params ? $params : []));
+        return $this->template->fetchPath(Manager::getThemePath() . '/components/' . $template . '.html', ($params ? $params : []));
     }
 
     /**

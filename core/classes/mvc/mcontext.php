@@ -143,6 +143,7 @@ class MContext
      */
     private $url;
 
+    public $hasAppContainer;
     /**
      * Request Path
      * @var string
@@ -151,6 +152,7 @@ class MContext
 
     public function __construct($request)
     {
+        $this->hasAppContainer = Manager::getFrontController()->hasAppContainer;
         $this->isCore = false;
         if (is_string($request)) {
             $this->path = $request;
@@ -175,8 +177,11 @@ class MContext
         $pathParts = explode('/', $this->path);
         $part = null;
         $component = '';
+        // first of all, define app
+        $this->app = Manager::getOptions('startup');
+        $controller = 'main';
         $app = array_shift($pathParts);
-        if ($app != '') {
+        if ($app != '') { // app is URL defined
             if ($app == 'core') {
                 $this->isCore = true;
                 $this->app = $app = array_shift($pathParts);
@@ -186,6 +191,19 @@ class MContext
                 $configFile = Manager::getAbsolutePath("apps/{$this->app}/conf/conf.php");
                 Manager::loadConf($configFile);
             }
+            $this->app = $app;
+            $controller = '';
+        }
+        // set Manager variables
+        Manager::getInstance()->app = $this->app;
+        $appPath = $this->isCore ? Manager::getInstance()->coreAppsPath : Manager::getInstance()->appsPath;
+        Manager::getInstance()->appPath = $appPath . '/' . $this->app;
+        // using DI container?
+        $containerFile = Manager::getAppPath('conf/container.php');
+        $this->hasAppContainer = file_exists($containerFile);
+        mdump($this->hasAppContainer ? 'has container' : 'nocontainer');
+
+        if ($controller == '') {
             //
             $part = array_shift($pathParts);
             $controller = $service = $api = $system = '';
@@ -196,6 +214,8 @@ class MContext
                 $this->module = '';
                 $part = array_shift($pathParts);
                 $service = $part;
+                $part = array_shift($pathParts);
+                $service .= '\\' . $part;
                 $part = array_shift($pathParts);
             } else { // check for module
                 $namespace = $this->getNamespace($this->app, $part);
@@ -315,9 +335,6 @@ class MContext
                     }
                 }
             }
-        } else {
-            $this->app = Manager::getOptions('startup');
-            $controller = 'main';
         }
         if ($controller) {
             $this->controller = $controller;
@@ -403,6 +420,11 @@ class MContext
     public function isCore()
     {
         return $this->isCore;
+    }
+
+    public function hasAppContainer()
+    {
+        return $this->hasAppContainer;
     }
 
     public function isAjax()

@@ -66,9 +66,6 @@ class MFrontController
         $this->context->setupContext();
         Manager::getInstance()->baseURL = $this->request->getBaseURL(false);
         $app = $this->context->getApp();
-        Manager::getInstance()->app = $app;
-        $appPath = $this->context->isCore() ? Manager::getInstance()->coreAppsPath : Manager::getInstance()->appsPath;
-        Manager::getInstance()->appPath = $appPath . '/' . $app;
         // inicializa a sessão (por app)
         Manager::setSession(new MSession($app));
         Manager::getSession()->init(mrequest('sid'));
@@ -257,8 +254,7 @@ class MFrontController
             mtrace('using app vendor');
             require_once $vendorAutoload;
         }
-        $containerFile = Manager::getAppPath('conf/container.php');
-        if (file_exists($containerFile)) {
+        if ($this->context->hasAppContainer()) {
             mtrace('using app container');
             $this->addApplicationContainer();
         }

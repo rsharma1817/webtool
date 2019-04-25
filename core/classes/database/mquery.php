@@ -420,7 +420,7 @@ class MQuery
         $tree = array();
         if ($rs = $this->getResult()) {
             $tree = array();
-            $node = explode(',', $node);
+            $node = explode(',', str_replace(' ','', $node));
             $group = explode(',', $group);
             foreach ($rs as $row) {
                 $aNode = array();

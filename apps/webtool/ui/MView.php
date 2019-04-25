@@ -73,6 +73,8 @@ class MView extends MBaseView
         $template->context('components', Manager::getAppPath('components'));
         $template->context('appURL', Manager::getAppURL() .'/');
         $template->context('icon', new MIcon());
+        $template->context('templateCRUD', Manager::getPage()->getUIComponentPath('commonLayoutCRUD.latte'));
+        $template->context('templateStructure', Manager::getPage()->getUIComponentPath('commonLayoutStructure.latte'));
         $template->context('isMaster', Manager::checkAccess('MASTER', A_EXECUTE) ? 'true' : 'false');
         $template->context('isSenior', Manager::checkAccess('SENIOR', A_EXECUTE) ? 'true' : 'false');
         $template->context('isAnno', Manager::checkAccess('ANNO', A_EXECUTE) ? 'true' : 'false');

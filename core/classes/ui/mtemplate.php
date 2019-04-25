@@ -111,6 +111,13 @@ class MTemplate //extends MComponent
         return $this->render($args);
     }
 
+    public function fetchPath($path, $args = array())
+    {
+        //mdump('=========fetch==='. $fileName);
+        $this->template = $path;
+        return $this->render($args);
+    }
+
     /*
      * Helper functions
      */
