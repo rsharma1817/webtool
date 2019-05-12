@@ -51,13 +51,14 @@ class ViewFrame extends map\ViewFrameMap
         }
         if ($filter->idDomain) {
             Base::relation($criteria, 'ViewFrame', 'Domain', 'rel_hasdomain');
-            $criteria->where("Domain.idDomain = {$filter->idDomain}");
+            $criteria->where("Domain.idDomain IN ({$filter->idDomain})");
         }
     }
 
     public function listByFilter($filter)
     {
-        $criteria = $this->getCriteria()->select('idFrame, entry, active, idEntity, entries.name as name')->orderBy('entries.name');
+        mdump($filter);
+        $criteria = $this->getCriteria()->select('idFrame, entry, active, idEntity, entries.name as name, entries.description as definition')->orderBy('entries.name');
         $this->applyFilter($criteria, $filter);
         return $criteria;
     }

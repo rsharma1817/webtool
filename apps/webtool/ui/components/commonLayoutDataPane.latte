@@ -1,0 +1,30 @@
+<div id="commonLayoutTabDataPane" style="width:100%;height:100%;">
+    <div id="commonLayoutTabDataPaneNorth" class="dataCRUDToolbar"
+         data-options="collapsible:false, region:'north', title:''">
+        {{block toolbarData}}{{/block}}
+    </div>
+    <div id="commonLayoutTabDataPaneCenter" class="dataCRUD" region="center" style="height: 100%">
+        <div class="containerForm">
+            {{block form}}{{/block}}
+            {{$page->fetchThemeComponent('cv-loading',['idLoadingDiv' => 'bxLoadingForm'])|noescape}}
+        </div>
+    </div>
+</div>
+
+
+{{block controls}}{{/block}}
+
+<script type="text/javascript">
+    var idCenterPane = "commonLayoutCenterPane";
+
+    manager.loading.init('bxLoadingStructure');
+
+    $(function () {
+        $('#commonLayoutStructure').layout({
+            fit: true
+        });
+    })
+</script>
+
+{{block script}}{{/block}}
+

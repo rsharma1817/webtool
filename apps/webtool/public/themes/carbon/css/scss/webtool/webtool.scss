@@ -299,6 +299,32 @@ input, textarea, select, button, a {
 }
 
 /*
+General
+ */
+#commonLayoutNorthPane div {
+  padding: 8px;
+}
+
+.bx--header__action .l-btn-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  position: relative;
+  font-size: 1px;
+}
+
+.bx--product-list__item .l-btn-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  position: relative;
+  font-size: 1px;
+  margin-top: 0px;
+}
+
+/*
 CRUD
  */
 
@@ -309,8 +335,8 @@ CRUD
 
 .tabCRUD {
   padding: 8px;
-  width:100%;
-  height:100%;
+  width: 100%;
+  height: 100%;
 }
 
 .toolbarGridCRUD {
@@ -344,96 +370,75 @@ CRUD
 .dataCRUD .containerForm {
   background-color: #dcdcdc;
   width: 480px;
-  padding:16px;
-  position:relative;
+  padding: 16px;
+  position: relative;
 }
 
 .dataCRUD form label {
-  font-size:12px;
+  font-size: 12px;
 }
-.dataCRUD form .error-message{
+
+.dataCRUD form .error-message {
   margin: 4px 0 0 0;
   padding: 0;
   color: $support-01;
-  font-size:12px;
+  font-size: 12px;
 }
+
 .dataCRUD form div.row {
   margin-bottom: 16px;
 }
 
 .dataCRUDToolbar {
-  display:flex;
-  height:48px;
+  display: flex;
+  height: 48px;
   padding: 8px;
-}
-
-/*
-General
- */
-#commonLayoutNorthPane div {
-  padding: 8px;
-}
-
-.bx--header__action .l-btn-icon {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  line-height: 16px;
-  position: relative;
-  font-size: 1px;
-}
-.bx--product-list__item .l-btn-icon {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  line-height: 16px;
-  position: relative;
-  font-size: 1px;
-  margin-top: 0px;
 }
 
 /*
  Structure
 
  */
-#structureLayout {
-  height: 100%;
-  width: 100%;
-}
-
-#structureLeftPane {
-  height: 100%;
-  width: 300px;
-}
-
-#structureCenterPane {
-  padding: 5px;
-}
 
 .mtreeIcon {
   background-color: white;
 }
 
-.containerCommonLayoutStructure{
-  width:100%;
-  height: 100%;
-  position: relative;
+.toolbarStructure {
+  width: 100%;
+  height: 48px;
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px 0px 8px 0px;
+}
+
+.toolbarStructure div,
+.toolbarStructure span,
+.toolbarStructure input {
+  display: block;
+  margin-left: 8px;
+}
+
+.toolbarStructure #inputSearch {
+  min-width: 160px;
 }
 
 #commonLayoutStructure {
-
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
 }
 
-#commonLayoutStructure .toolbar {
-  display:flex;
-  height:80px;
+#commonLayoutStructurePane .treeList {
+  width: 25%;
 }
 
-#commonLayoutStructure .treeList {
-  width:25%;
-  height: 100%
+#commonLayoutStructurePane .content {
+  width: 75%;
 }
 
-#commonLayoutStructure .content {
-  height: 100%
+.tabStructure {
+  padding: 8px;
+  width: 100%;
+  height: 100%;
 }

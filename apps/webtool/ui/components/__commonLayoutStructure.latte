@@ -1,0 +1,49 @@
+<div id="commonLayout" style="width:100%;height:100%;" data-options="title:'{{block title}}{{/block}}'">
+    <div id="commonLayoutTabs" style="width:100%;height:100%;">
+        <div id="commonLayoutTabList" class="tabCRUD" title="List">
+            <div class="toolbarGridCRUD">
+                {{block toolbarList}}{{/block}}
+            </div>
+            <div id="commonLayoutListPane">
+                {{block list}}{{/block}}
+            </div>
+        </div>
+        {{block tabData1}}{{/block}}
+        {{block tabData2}}{{/block}}
+        {{block tabData3}}{{/block}}
+        {{block tabData4}}{{/block}}
+        {{block tabData5}}{{/block}}
+        {{block tabData6}}{{/block}}
+    </div>
+</div>
+
+{{block controls}}{{/block}}
+
+<script type="text/javascript">
+    var idCenterPane = "commonLayoutCenterPane";
+
+    $(function () {
+        $('#commonLayoutListPane').panel({
+            fit: true,
+            border: false,
+            title: ''
+        });
+        $('#commonLayout').panel({
+            fit: true
+        });
+        $('#commonLayoutTabs').tabs({
+            fit: true,
+            border: false,
+            onSelect: function (title) {
+                console.log(title + ' is selected');
+            }
+        });
+        $('#commonLayoutTabList').layout({
+            fit: true,
+            border: false,
+        });
+    })
+</script>
+
+{{block script}}{{/block}}
+

@@ -7,53 +7,52 @@ use fnbr\models\Base;
 class FrameService extends \MService
 {
 
-    public function frameTreeGrid()
+    public function frameTree()
     {
-        $frame = new \fnbr\models\ViewFrame();
         $idLanguage = \Manager::getSession()->idLanguage;
-        $filter = (object)[
-            'idDomain' => $this->data->idDomain,
-            'lu' => $this->data->lu,
-            'fe' => $this->data->fe,
-            'frame' => $this->data->frame,
-            'idLanguage' => $idLanguage
-        ];
-        $frames = $frame->listByInitial($filter)->asQuery()->treeResult('initial', 'idFrame,entry,active,idEntity,name');
-        $result = [];
-        $i = 0;
-        foreach ($frames as $initial => $set) {
-            $node = [
-                'id' => 'i' . $i++,
-                'text' => $initial,
-                'state' => 'closed',
-                'entry' => ''
+        if ($this->data->id == '') {
+            $frame = new \fnbr\models\ViewFrame();
+            mdump($this->data);
+            $filter = (object)[
+                'idDomain' => implode(',', $this->data->idDomain ?? []),
+                'lu' => $this->data->lu,
+                'fe' => $this->data->fe,
+                'frame' => $this->data->frame,
+                'idLanguage' => $idLanguage
             ];
-            $children = [];
-            foreach ($set as $frame) {
-                $children[] = [
-                    'id' => 'f' . $frame['idFrame'],
-                    'idFrame' => $frame['idFrame'],
-                    'idEntity' => $frame['idEntity'],
-                    'text' => $frame['name'],
-                    'state' => 'closed',
-                    //'iconCls'] = 'icon-blank fa fa-square fa8px entity_frame';
-                    'entry' => $frame['entry']
-                ];
+            mdump($filter);
+            $frames = $frame->listByFilter($filter)->asQuery()->getResult(\FETCH_ASSOC);
+            $result = [];
+            foreach ($frames as $row) {
+                $node = [];
+                $node['id'] = 'f' . $row['idFrame'];
+                $node['text'] = $row['name'];
+                $node['state'] = 'closed';
+                $node['iconCls'] = 'icon-blank fa fa-square fa12px entity_frame';
+                $node['entry'] = $row['entry'];
+                $result[] = $node;
             }
-            $node['children'] = $children;
-            $result[] = $node;
+        } elseif ($this->data->id{0} == 'f') {
+            $result = $this->listFEsLUs(substr($this->data->id, 1), $idLanguage);
+        } elseif ($this->data->id{0} == 'l') {
+            $result = $this->listLUSubCorpusConstraints(substr($this->data->id, 1));
+        } elseif ($this->data->id{0} == 'e') {
+            $result = $this->listConstraintsFE(substr($this->data->id, 1));
         }
+
+
         return $this->renderJSON($result);
     }
+
 
     public function listFrames($data, $idLanguage = '')
     {
         $frame = new \fnbr\models\ViewFrame();
         $filter = (object)['idDomain' => $data->idDomain, 'lu' => $data->lu, 'fe' => $data->fe, 'frame' => $data->frame, 'idLanguage' => $idLanguage];
         $frames = $frame->listByFilter($filter)->asQuery()->getResult(\FETCH_ASSOC);
-        $result = array();
+        $result = [];
         foreach ($frames as $row) {
-            $node = array();
+            $node = [];
             $node['id'] = 'f' . $row['idFrame'];
             $node['text'] = $row['name'];
             $node['state'] = 'closed';
@@ -66,17 +65,17 @@ class FrameService extends \MService
 
     public function listFEsLUs($idFrame, $idLanguage)
     {
-        $result = array();
+        $result = [];
         $icon = [
             "cty_core" => "fa fa-circle",
             "cty_peripheral" => "fa fa-dot-circle-o",
             "cty_extra-thematic" => "fa fa-circle-o",
             "cty_core-unexpressed" => "fa fa-circle-o"
         ];
-        $frame = new fnbr\models\Frame($idFrame);
+        $frame = new \fnbr\models\Frame($idFrame);
         $fes = $frame->listFE()->asQuery()->getResult();
         foreach ($fes as $fe) {
-            $node = array();
+            $node = [];
             $node['id'] = 'e' . $fe['idFrameElement'];
             $style = 'background-color:#' . $fe['rgbBg'] . ';color:#' . $fe['rgbFg'] . ';';
             $node['text'] = "<span style='{$style}'>" . $fe['name'] . "</span>";
@@ -85,10 +84,10 @@ class FrameService extends \MService
             $node['iconCls'] = 'icon-blank fa-icon ' . $icon[$fe['coreType']];
             $result[] = $node;
         }
-        $lu = new fnbr\models\ViewLU();
+        $lu = new \fnbr\models\ViewLU();
         $lus = $lu->listByFrame($idFrame, $idLanguage)->asQuery()->chunkResult('idLU', 'name');
         foreach ($lus as $idLU => $name) {
-            $node = array();
+            $node = [];
             $node['id'] = 'l' . $idLU;
             $node['text'] = $name;
             $node['state'] = 'closed';
@@ -100,41 +99,21 @@ class FrameService extends \MService
 
     public function listFEsLUsQualias($idFrame, $idLanguage)
     {
-        $result = array();
-        /*
-        $icon = [
-            "cty_core" => "fa fa-circle",
-            "cty_peripheral" => "fa fa-dot-circle-o",
-            "cty_extra-thematic" => "fa fa-circle-o",
-            "cty_core-unexpressed" => "fa fa-circle-o"
-        ];
-        $frame = new fnbr\models\Frame($idFrame);
-        $fes = $frame->listFE()->asQuery()->getResult();
-        foreach ($fes as $fe) {
-            $node = array();
-            $node['id'] = 'e' . $fe['idFrameElement'];
-            $style = 'background-color:#' . $fe['rgbBg'] . ';color:#' . $fe['rgbFg'] . ';';
-            $node['text'] = "<span style='{$style}'>" . $fe['name'] . "</span>";
-            $node['state'] = 'closed';
-            $node['entry'] = $fe['entry'];
-            $node['iconCls'] = 'icon-blank fa-icon ' . $icon[$fe['coreType']];
-            $result[] = $node;
-        }
-        */
-        $lu = new fnbr\models\ViewLU();
+        $result = [];
+        $lu = new \fnbr\models\ViewLU();
         $lus = $lu->listByFrame($idFrame, $idLanguage)->asQuery()->chunkResult('idLU', 'name');
         foreach ($lus as $idLU => $name) {
-            $node = array();
+            $node = [];
             $node['id'] = 'l' . $idLU;
             $node['text'] = $name;
             $node['state'] = 'closed';
             $node['iconCls'] = 'icon-blank fa fa-hashtag fa12px entity_lu';
             $result[] = $node;
         }
-        $qualia = new fnbr\models\Qualia();
+        $qualia = new \fnbr\models\Qualia();
         $qualias = $qualia->listByFrame($idFrame, $idLanguage);
         foreach ($qualias as $idQualia => $name) {
-            $node = array();
+            $node = [];
             $node['id'] = 'q' . $idQualia;
             $node['text'] = $name;
             $node['state'] = 'closed';
@@ -146,11 +125,11 @@ class FrameService extends \MService
 
     public function listQualiaFEs($idQualia, $idLanguage)
     {
-        $result = array();
-        $qualia = new fnbr\models\Qualia($idQualia);
+        $result = [];
+        $qualia = new \fnbr\models\Qualia($idQualia);
         $fes = $qualia->listFEs($idLanguage);
         foreach ($fes as $idFE => $name) {
-            $node = array();
+            $node = [];
             $node['id'] = 'e' . $idFE;
             $node['text'] = $name;
             $node['state'] = 'closed';
@@ -162,10 +141,10 @@ class FrameService extends \MService
 
     public function listSubCorpus($idLU)
     {
-        $sc = new fnbr\models\ViewSubCorpusLU();
+        $sc = new \fnbr\models\ViewSubCorpusLU();
         $scs = $sc->listByLU($idLU)->asQuery()->getResult();
         foreach ($scs as $sc) {
-            $node = array();
+            $node = [];
             $node['id'] = 's' . $sc['idSubCorpus'];
             $node['text'] = $sc['name'] . ' [' . $sc['quant'] . ']';
             $node['state'] = 'open';
@@ -178,17 +157,17 @@ class FrameService extends \MService
 
     public function listLUSubCorpusConstraints($idLU)
     {
-        $sc = new fnbr\models\ViewSubCorpusLU();
+        $sc = new \fnbr\models\ViewSubCorpusLU();
         $scs = $sc->listByLU($idLU)->asQuery()->getResult();
         foreach ($scs as $sc) {
-            $node = array();
+            $node = [];
             $node['id'] = 's' . $sc['idSubCorpus'];
             $node['text'] = $sc['name'] . ' [' . $sc['quant'] . ']';
             $node['state'] = 'open';
             $node['iconCls'] = 'icon-blank fa fa-file-text-o fa16px';
             $result[] = $node;
         }
-        $service = Manager::getAppService('structureconstraints');
+        $service = \Manager::getAppService('structureconstraints');
         $constraints = $service->listConstraintsLU($idLU);
         foreach ($constraints as $constraint) {
             $result[] = $constraint;
@@ -199,14 +178,14 @@ class FrameService extends \MService
 
     public function getSubCorpusTitle($idSubCorpus, $idLanguage, $isCxn)
     {
-        $sc = $isCxn ? new fnbr\models\ViewSubCorpusCxn() : new fnbr\models\ViewSubCorpusLU();
+        $sc = $isCxn ? new \fnbr\models\ViewSubCorpusCxn() : new \fnbr\models\ViewSubCorpusLU();
         $title = $sc->getTitle($idSubCorpus, $idLanguage);
         return $title;
     }
 
     public function getDocumentTitle($idDocument, $idLanguage)
     {
-        $doc = new fnbr\models\Document();
+        $doc = new \fnbr\models\Document();
         $filter = (object)['idDocument' => $idDocument];
         $result = $doc->listByFilter($filter)->asQuery()->getResult();
         return 'Document:' . $result[1];
@@ -234,12 +213,12 @@ class FrameService extends \MService
 
     public function listAnnotationSet($idSubCorpus)
     {
-        $as = new fnbr\models\ViewAnnotationSet();
+        $as = new \fnbr\models\ViewAnnotationSet();
         $sentences = $as->listBySubCorpus($idSubCorpus)->asQuery()->getResult();
         $annotation = $as->listFECEBySubCorpus($idSubCorpus);
-        $result = array();
+        $result = [];
         foreach ($sentences as $sentence) {
-            $node = array();
+            $node = [];
             $node['idAnnotationSet'] = $sentence[0];
             $node['idSentence'] = $sentence[1];
             if ($annotation[$sentence[1]]) {
@@ -268,14 +247,14 @@ class FrameService extends \MService
             "nis" => NULL,
         );
 
-        $as = new fnbr\models\AnnotationSet($idAnnotationSet);
+        $as = new \fnbr\models\AnnotationSet($idAnnotationSet);
 
         // get words/chars
         $wordsChars = $as->getWordsChars($idSentence);
         $words = $wordsChars->words;
         $chars = $wordsChars->chars;
 
-        $result = array();
+        $result = [];
         foreach ($words as $i => $word) {
 //            $field = 'wf' . $word[0];
             $fieldData = $i; //$field . '_data';
@@ -285,7 +264,7 @@ class FrameService extends \MService
         }
         $layers['words'] = json_encode($result);
 
-        $result = array();
+        $result = [];
         foreach ($chars as $i => $char) {
             $fieldData = 'wf' . $i; //$field . '_data';
             $result[$fieldData]->order = $char[0];
@@ -331,7 +310,7 @@ class FrameService extends \MService
         $layers['frozenColumns'] = $frozenColumns;
 
         // get Layers
-        $result = array();
+        $result = [];
         $asLayers = $as->getLayers($idSentence);
         foreach ($asLayers as $row) {
             $result[$row[0]] = ['idAnnotationSet' => $row[2], 'nameLayer' => $row[1], 'currentLabel' => '0', 'currentLabelPos' => 0];
@@ -339,7 +318,7 @@ class FrameService extends \MService
         $layers['layers'] = json_encode($result);
 
         // get AnnotationSets
-        $result = array();
+        $result = [];
         $annotationSets = $as->getAnnotationSets($idSentence);
         foreach ($annotationSets as $row) {
             $result[$row[0]] = ['idAnnotationSet' => $row[0], 'name' => $row[1], 'show' => true];
@@ -347,7 +326,7 @@ class FrameService extends \MService
         $layers['annotationSets'] = json_encode($result);
 
         // get Labels
-        $result = array();
+        $result = [];
         $asLabels = $as->getLabels($idSentence);
         foreach ($asLabels as $row) {
             $result[$row[0]][$row[1]] = ['idLabelType' => $row[2]];
@@ -355,7 +334,7 @@ class FrameService extends \MService
         $layers['labels'] = json_encode($result);
 
         // get LabelTypes
-        $result = array();
+        $result = [];
         // GL-GF
         $queryLabelType = $as->getLabelTypesGLGF($idSentence)->asQuery();
         $rows = $queryLabelType->getResult();
@@ -387,8 +366,8 @@ class FrameService extends \MService
         $layers['labelTypes'] = json_encode($result);
 
         // get NIs
-        //$niFields = array();
-        $result = array();
+        //$niFields = [];
+        $result = [];
         $queryNI = $as->getNI($idSentence, $idLanguage);
         $rows = $queryNI->getResult();
         list($idLayer, $idLabel, $feName, $idInstantiationType, $instantiationType, $idColor, $idLabelType) = $queryNI->getColumnNumbers('idLayer,idLabel,feName,idInstantiationType,instantiationType,idColor,idLabelType');
@@ -413,19 +392,19 @@ class FrameService extends \MService
         $idSentence = $params->idSentence;
         $idAnnotationSet = $params->idAnnotationSet;
 
-        $as = new fnbr\models\AnnotationSet($idAnnotationSet);
-        $result = array();
+        $as = new \fnbr\models\AnnotationSet($idAnnotationSet);
+        $result = [];
         $queryLayersData = $as->getLayersData($idSentence);
         $unorderedRows = $queryLayersData->getResult();
         list($idAnnotationSet, $idLayerType, $idLayer, $nameLayer, $startChar, $endChar, $idLabelType, $idLabel) = $queryLayersData->getColumnNumbers('idAnnotationSet,idLayerType,idLayer,layer,startChar,endChar,idLabelType,idLabel');
 
         // get the annotationsets
-        $aSet = array();
+        $aSet = [];
         foreach ($unorderedRows as $row) {
             $aSet[$row[$idAnnotationSet]][] = $row;
         }
         // reorder rows to put Target on top of each annotatioset
-        $rows = array();
+        $rows = [];
         $idHeaderLayer = -1;
         foreach ($aSet as $asRows) {
             $hasTarget = false;
@@ -455,10 +434,10 @@ class FrameService extends \MService
             }
         }
 
-        $layersToShow = Manager::getSession()->mfnLayers;
+        $layersToShow = \Manager::getSession()->mfnLayers;
         if ($layersToShow == '') {
-            $user = Manager::getLogin()->getUser();
-            $layersToShow = Manager::getSession()->mfnLayers = $user->getConfigData('fnbrLayers');
+            $user = \Manager::getLogin()->getUser();
+            $layersToShow = \Manager::getSession()->mfnLayers = $user->getConfigData('fnbrLayers');
         }
         $wordsChars = $as->getWordsChars($idSentence);
         $chars = $wordsChars->chars;
@@ -498,7 +477,7 @@ class FrameService extends \MService
             }
         }
         // last, create data
-        $data = array();
+        $data = [];
         foreach ($line as $layer) {
             $data[] = $layer;
         }
@@ -508,32 +487,32 @@ class FrameService extends \MService
 
     public function putLayers($layers)
     {
-        $annotationSet = new fnbr\models\AnnotationSet();
+        $annotationSet = new \fnbr\models\AnnotationSet();
         $annotationSet->putLayers($layers);
     }
 
     public function addFELayer($idAnnotationSet)
     {
-        $annotationSet = new fnbr\models\AnnotationSet($idAnnotationSet);
+        $annotationSet = new \fnbr\models\AnnotationSet($idAnnotationSet);
         $annotationSet->addFELayer();
         $this->render();
     }
 
     public function delFELayer($idAnnotationSet)
     {
-        $annotationSet = new fnbr\models\AnnotationSet($idAnnotationSet);
+        $annotationSet = new \fnbr\models\AnnotationSet($idAnnotationSet);
         $annotationSet->delFELayer();
         $this->render();
     }
 
     public function listCnx($cnx = '', $idLanguage = '')
     {
-        $construction = new fnbr\models\Construction();
+        $construction = new \fnbr\models\Construction();
         $filter = (object)['cnx' => $cnx, 'idLanguage' => $idLanguage];
         $constructions = $construction->listByFilter($filter)->asQuery()->chunkResult('idConstruction', 'name');
-        $result = array();
+        $result = [];
         foreach ($constructions as $idCnx => $name) {
-            $node = array();
+            $node = [];
             $node['id'] = 'c' . $idCnx;
             $node['text'] = $name;
             $node['state'] = 'closed';
@@ -544,10 +523,10 @@ class FrameService extends \MService
 
     public function listSubCorpusCnx($idCnx)
     {
-        $sc = new fnbr\models\SubCorpus();
+        $sc = new \fnbr\models\SubCorpus();
         $scs = $sc->listByCnx($idCnx)->asQuery()->getResult();
         foreach ($scs as $sc) {
-            $node = array();
+            $node = [];
             $node['id'] = 's' . $sc[0];
             $node['text'] = $sc[1] . ' [' . $sc[2] . ']';
             $node['state'] = 'open';
@@ -558,14 +537,14 @@ class FrameService extends \MService
 
     public function headerMenu($wordform)
     {
-        $wf = new fnbr\models\WordForm();
+        $wf = new \fnbr\models\WordForm();
         $lus = $wf->listLUByWordForm($wordform);
         return json_encode($lus);
     }
 
     public function addManualSubcorpus($data)
     {
-        $sc = new fnbr\models\SubCorpus();
+        $sc = new \fnbr\models\SubCorpus();
         if ($data->idLU != '') {
             $sc->addManualSubcorpusLU($data);
         } else {
@@ -575,7 +554,7 @@ class FrameService extends \MService
 
     public function cnxGridData()
     {
-        $cnx = new fnbr\models\Construction();
+        $cnx = new \fnbr\models\Construction();
         $criteria = $cnx->listAll();
         $data = $cnx->gridDataAsJSON($criteria);
         return $data;
@@ -583,12 +562,12 @@ class FrameService extends \MService
 
     public function listCorpus($corpus = '', $idLanguage = '')
     {
-        $corpus = new fnbr\models\Corpus();
+        $corpus = new \fnbr\models\Corpus();
         $filter = (object)['corpus' => $cnx, 'idLanguage' => $idLanguage];
         $corpora = $corpus->listByFilter($filter)->asQuery()->chunkResult('idCorpus', 'name');
-        $result = array();
+        $result = [];
         foreach ($corpora as $idCorpus => $name) {
-            $node = array();
+            $node = [];
             $node['id'] = 'c' . $idCorpus;
             $node['text'] = $name;
             $node['state'] = 'closed';
@@ -599,11 +578,11 @@ class FrameService extends \MService
 
     public function listCorpusDocument($idCorpus)
     {
-        $doc = new fnbr\models\Document();
+        $doc = new \fnbr\models\Document();
         $docs = $doc->listByCorpus($idCorpus)->asQuery()->getResult();
         foreach ($docs as $doc) {
             if ($doc[0]) {
-                $node = array();
+                $node = [];
                 $node['id'] = 'd' . $doc[0];
                 $node['text'] = $doc[1] . ' [' . $doc[2] . ']';
                 $node['state'] = 'open';
@@ -616,10 +595,10 @@ class FrameService extends \MService
     public function deleteFrame($idFrame)
     {
         mdump('deleteFrame ' . $idFrame);
-        $frame = new fnbr\models\Frame($idFrame);
+        $frame = new \fnbr\models\Frame($idFrame);
         $transaction = $frame->beginTransaction();
         try {
-            $frameElement = new fnbr\models\FrameElement();
+            $frameElement = new \fnbr\models\FrameElement();
             $filter = (object)['idFrame' => $idFrame];
             $fes = $frameElement->listByFilter($filter)->asQuery()->getResult();
             foreach ($fes as $fe) {
@@ -640,7 +619,7 @@ class FrameService extends \MService
 
     public function listConstraintsFE($idFrameElement, $idLanguage)
     {
-        $service = Manager::getAppService('StructureConstraintInstance');
+        $service = \Manager::getAppService('StructureConstraintInstance');
         $result = $service->listConstraintsFE($idFrameElement);
         return $result;
     }
@@ -649,32 +628,32 @@ class FrameService extends \MService
     public function addConstraintsFE($data)
     {
         try {
-            $transaction = Manager::getDatabase(Manager::getConf('fnbr.db'))->beginTransaction();
+            $transaction = \Manager::getDatabase(\Manager::getConf('fnbr.db'))->beginTransaction();
             if ($data->idFrame != '') {
                 $constraint = Base::createEntity('CN', 'con');
-                $cf = new fnbr\models\FrameElement($data->idFrameElement);
-                $frame = new fnbr\models\Frame($data->idFrame);
+                $cf = new \fnbr\models\FrameElement($data->idFrameElement);
+                $frame = new \fnbr\models\Frame($data->idFrame);
                 Base::createConstraintInstance($constraint->getIdEntity(), 'con__frame', $cf->getIdEntity(), $frame->getIdEntity());
             }
             if ($data->idSemanticType != '') {
                 $constraint = Base::createEntity('CN', 'con');
-                $cf = new fnbr\models\FrameElement($data->idFrameElement);
-                $st = new fnbr\models\SemanticType($data->idSemanticType);
+                $cf = new \fnbr\models\FrameElement($data->idFrameElement);
+                $st = new \fnbr\models\SemanticType($data->idSemanticType);
                 Base::createConstraintInstance($constraint->getIdEntity(), 'con__semtype', $cf->getIdEntity(), $st->getIdEntity());
             }
             if ($data->idFEQualia != '') {
-                $fe = new fnbr\models\FrameElement($data->idFrameElement);
-                $feQualia = new fnbr\models\FrameElement($data->idFEQualia);
+                $fe = new \fnbr\models\FrameElement($data->idFrameElement);
+                $feQualia = new \fnbr\models\FrameElement($data->idFEQualia);
                 Base::createEntityRelation($fe->getIdEntity(), $data->relation, $feQualia->getIdEntity());
             }
             if ($data->idFEMetonymy != '') {
-                $fe = new fnbr\models\FrameElement($data->idFrameElement);
-                $feMetonymy = new fnbr\models\FrameElement($data->idFEMetonymy);
+                $fe = new \fnbr\models\FrameElement($data->idFrameElement);
+                $feMetonymy = new \fnbr\models\FrameElement($data->idFEMetonymy);
                 Base::createEntityRelation($fe->getIdEntity(), 'rel_festandsforfe', $feMetonymy->getIdEntity());
             }
             if ($data->idLUMetonymy != '') {
-                $fe = new fnbr\models\FrameElement($data->idFrameElement);
-                $lu = new fnbr\models\LU($data->idLUMetonymy);
+                $fe = new \fnbr\models\FrameElement($data->idFrameElement);
+                $lu = new \fnbr\models\LU($data->idLUMetonymy);
                 Base::createEntityRelation($fe->getIdEntity(), 'rel_festandsforlu', $lu->getIdEntity());
             }
             $transaction->commit();
@@ -687,25 +666,25 @@ class FrameService extends \MService
     public function addConstraintsLU($data)
     {
         try {
-            $transaction = Manager::getDatabase(Manager::getConf('fnbr.db'))->beginTransaction();
+            $transaction = \Manager::getDatabase(\Manager::getConf('fnbr.db'))->beginTransaction();
             if ($data->idLUQualia != '') {
-                $lu = new fnbr\models\LU($data->idLU);
-                $luQualia = new fnbr\models\LU($data->idLUQualia);
+                $lu = new \fnbr\models\LU($data->idLU);
+                $luQualia = new \fnbr\models\LU($data->idLUQualia);
                 Base::createEntityRelation($lu->getIdEntity(), $data->relation, $luQualia->getIdEntity());
             }
             if ($data->idLUMetonymy != '') {
-                $lu = new fnbr\models\LU($data->idLU);
-                $luMetonymy = new fnbr\models\LU($data->idLUMetonymy);
+                $lu = new \fnbr\models\LU($data->idLU);
+                $luMetonymy = new \fnbr\models\LU($data->idLUMetonymy);
                 Base::createEntityRelation($lu->getIdEntity(), 'rel_lustandsforlu', $luMetonymy->getIdEntity());
             }
             if ($data->idSemanticType != '') {
-                $lu = new fnbr\models\LU($data->idLU);
-                $st = new fnbr\models\SemanticType($data->idSemanticType);
+                $lu = new \fnbr\models\LU($data->idLU);
+                $st = new \fnbr\models\SemanticType($data->idSemanticType);
                 Base::createEntityRelation($lu->getIdEntity(), 'rel_hassemtype', $st->getIdEntity());
             }
             if ($data->idLUEquivalent != '') {
-                $lu = new fnbr\models\LU($data->idLU);
-                $luEquivalent = new fnbr\models\LU($data->idLUEquivalent);
+                $lu = new \fnbr\models\LU($data->idLU);
+                $luEquivalent = new \fnbr\models\LU($data->idLUEquivalent);
                 Base::createEntityRelation($lu->getIdEntity(), 'rel_luequivalence', $luEquivalent->getIdEntity());
             }
             $transaction->commit();

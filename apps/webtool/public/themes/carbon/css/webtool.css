@@ -2906,6 +2906,29 @@ input, textarea, select, button, a {
   padding: 5px; }
 
 /*
+General
+ */
+#commonLayoutNorthPane div {
+  padding: 8px; }
+
+.bx--header__action .l-btn-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  position: relative;
+  font-size: 1px; }
+
+.bx--product-list__item .l-btn-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  position: relative;
+  font-size: 1px;
+  margin-top: 0px; }
+
+/*
 CRUD
  */
 .inlineAction {
@@ -2964,58 +2987,40 @@ CRUD
   padding: 8px; }
 
 /*
-General
- */
-#commonLayoutNorthPane div {
-  padding: 8px; }
-
-.bx--header__action .l-btn-icon {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  line-height: 16px;
-  position: relative;
-  font-size: 1px; }
-
-.bx--product-list__item .l-btn-icon {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  line-height: 16px;
-  position: relative;
-  font-size: 1px;
-  margin-top: 0px; }
-
-/*
  Structure
 
  */
-#structureLayout {
-  height: 100%;
-  width: 100%; }
-
-#structureLeftPane {
-  height: 100%;
-  width: 300px; }
-
-#structureCenterPane {
-  padding: 5px; }
-
 .mtreeIcon {
   background-color: white; }
 
-.containerCommonLayoutStructure {
+.toolbarStructure {
   width: 100%;
-  height: 100%;
-  position: relative; }
-
-#commonLayoutStructure .toolbar {
+  height: 48px;
   display: flex;
-  height: 80px; }
+  justify-content: flex-end;
+  padding: 8px 0px 8px 0px; }
 
-#commonLayoutStructure .treeList {
-  width: 25%;
-  height: 100%; }
+.toolbarStructure div,
+.toolbarStructure span,
+.toolbarStructure input {
+  display: block;
+  margin-left: 8px; }
 
-#commonLayoutStructure .content {
+.toolbarStructure #inputSearch {
+  min-width: 160px; }
+
+#commonLayoutStructure {
+  padding: 8px;
+  display: flex;
+  flex-direction: column; }
+
+#commonLayoutStructurePane .treeList {
+  width: 25%; }
+
+#commonLayoutStructurePane .content {
+  width: 75%; }
+
+.tabStructure {
+  padding: 8px;
+  width: 100%;
   height: 100%; }
