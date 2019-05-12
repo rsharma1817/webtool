@@ -456,7 +456,7 @@ class Manager
      */
     public static function getFilesPath($file = '', $session = false)
     {
-        $path = self::$instance->getHome() . '/core/var/files';
+        $path = self::$instance->getConf('var.path') . '/'. self::$instance->getConf('var.files');
         if ($file) {
             if ($session) {
                 $sid = self::$instance->getSession()->getId();
@@ -598,12 +598,18 @@ class Manager
         self::$instance->setLog('manager');
         self::$instance->mad = self::$instance->conf['mad']['module'];
         self::$instance->controller = MFrontController::getInstance();
-        $varPath = self::$instance->getOptions('varPath');
+        $varPath = self::$instance->getConf('var.path');
         if (!file_exists($varPath)) {
             mkdir($varPath);
-            mkdir($varPath . '/templates');
-            mkdir($varPath . '/files');
-            mkdir($varPath . '/log');
+        }
+        if (!file_exists($varPath . '/' . self::$instance->getConf('var.templates'))) {
+            mkdir($varPath . '/' . self::$instance->getConf('var.templates'));
+        }
+        if (!file_exists($varPath . '/' . self::$instance->getConf('var.logs'))) {
+            mkdir($varPath . '/' . self::$instance->getConf('var.logs'));
+        }
+        if (!file_exists($varPath . '/' . self::$instance->getConf('var.files'))) {
+            mkdir($varPath . '/' . self::$instance->getConf('var.files'));
         }
     }
 

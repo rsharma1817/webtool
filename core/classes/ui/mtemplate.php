@@ -50,7 +50,7 @@ class MTemplate //extends MComponent
             $this->engine->right_delimiter = '}}';
         } elseif ($this->templateEngine == 'latte') {
             $this->engine = new \Latte\Engine;
-            $this->engine->setTempDirectory(Manager::getConf("options.varPath") . '/maestro3/templates');
+            $this->engine->setTempDirectory(Manager::getConf("var.path") . '/' . Manager::getConf("var.templates"));
             $this->engine->getParser()->defaultSyntax = 'double';
             $this->engine->addFilter('translate', function ($s) {
                 return _M($s);

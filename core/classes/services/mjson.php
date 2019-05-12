@@ -43,4 +43,7 @@ class MJSON
         }
     }
 
+    static public function parse($value) {
+        return json_encode($value);
+    }
 }

@@ -36,7 +36,7 @@ class MLog
 
     public function __construct()
     {
-        $this->home = $this->getOption('path');
+        $this->home = Manager::getConf('var.path') . '/' . Manager::getConf('var.logs');
         $this->level = $this->getOption('level');
         $this->handler = $this->getOption('handler');
         $this->port = $this->getOption('port');
@@ -169,10 +169,8 @@ class MLog
 
     public function getLogFileName($filename)
     {
-        $dir = $this->home;
-        //$dir .= "/maestro";
         $filename = basename($filename) . '.' . date('Y') . '-' . date('m') . '-' . date('d') . '-' . date('H') . '.log';
-        $file = $dir . '/' . $filename;
+        $file = $this->home . '/' . $filename;
         return $file;
     }
 

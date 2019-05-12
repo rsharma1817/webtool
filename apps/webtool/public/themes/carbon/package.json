@@ -8,22 +8,15 @@
         "compile-sass-webtool": "node-sass css/scss/webtool/main.scss css/webtool.css"
     },
     "dependencies": {
-        "@carbon/vue": "^1.1.1",
-        "carbon-components": "^10.1.0",
+        "@carbon/icons": "^10.2.0",
+        "carbon-components": "10.2.0",
         "handlebars": "^4.1.1",
-        "less": "^3.9.0",
         "less-loader": "^4.1.0",
-        "svgxuse": "^1.2.6",
-        "vue": "^2.6.*",
-        "vue-class-component": "^6.0.0",
-        "vue-router": "^3.0.1"
+        "svgxuse": "^1.2.6"
     },
     "devDependencies": {
-        "@vue/cli-plugin-babel": "^3.4.0",
-        "@vue/cli-service": "^3.4.0",
         "node-sass": "^4.9.0",
-        "sass-loader": "^7.1.0",
-        "vue-template-compiler": "^2.5.21"
+        "sass-loader": "^7.1.0"
     },
     "postcss": {
         "plugins": {

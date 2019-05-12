@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
+!scripts/d3-graphviz/node_modules
 /dist
 
 # local env files
