@@ -50,10 +50,11 @@ info.php
 
 # Var folders #
 ###################
-core/var/templates/*
-core/var/log/*
-core/var/trace/*
-core/var/files/*
+var/templates/*
+var/log/*
+var/trace/*
+var/files/*
+var/db/*
 
 # Config Files #
 ################

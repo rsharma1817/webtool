@@ -598,7 +598,7 @@ class Manager
         self::$instance->setLog('manager');
         self::$instance->mad = self::$instance->conf['mad']['module'];
         self::$instance->controller = MFrontController::getInstance();
-        $varPath = self::$instance->getOptions('varPath') . '/maestro3';
+        $varPath = self::$instance->getOptions('varPath');
         if (!file_exists($varPath)) {
             mkdir($varPath);
             mkdir($varPath . '/templates');
