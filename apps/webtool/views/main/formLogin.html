@@ -1,0 +1,55 @@
+{{layout $templateForm}}
+
+{{var $idForm = 'formLogin'}}
+{{var $titleForm = 'Login'}}
+
+{{block controls}}
+<input type="hidden" id="tries" name="tries"/>
+<input type="hidden" id="url" name="url"/>
+<input type="hidden" id="challenge" name="challenge"/>
+<input type="hidden" id="response" name="response"/>
+<input type="hidden" id="return_to_url" name="return_to_url"/>
+<input id="user" name="user"/>
+<input id="password" name="password"/>
+<a id="btnLogin"/>
+{{/block}}
+
+{{block script}}
+<script type="application/javascript">
+
+    function doChallengeResponse() {
+        var str = $("#user").val() + ':' + $.md5($("#pwd").val()) + ':' + $("#challenge").val();
+        $("#pwd").textbox('setValue','-');
+        $("#response").attr('value', $.md5(str));
+        return true;
+    }
+
+    $('#btnLogin').linkbutton({
+        onClick: function() {
+            manager.doAction({{$this->data->action}});
+        }
+    })
+
+    $('#user').textbox({
+        required: true,
+        labelPosition: 'top',
+        width: '100%',
+        label:'Login',
+        validateOnBlur:true,
+        validateOnCreate: false,
+        err: manager.form.validationError
+    })
+
+    $('#password').textbox({
+        required: true,
+        labelPosition: 'top',
+        width: '100%',
+        label:'Password',
+        validateOnBlur:true,
+        validateOnCreate: false,
+        err: manager.form.validationError
+    })
+
+</script>
+
+{{/block}}

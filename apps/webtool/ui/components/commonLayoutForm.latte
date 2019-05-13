@@ -1,0 +1,25 @@
+<div id="{{$idForm}}Pane">
+    <form id={{$idForm}}>
+            <div class="containerForm">
+                {{block controls}}{{/block}}
+                {{$page->fetchThemeComponent('cv-loading',['idLoadingDiv' => 'bxLoadingForm'])|noescape}}
+            </div>
+    </form>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+
+        //manager.loading.init('bxLoadingForm');
+
+        $("#{{$idForm}}Pane").panel({
+            fit: true,
+            border: false,
+            title: {{$titleForm}}
+        });
+    })
+</script>
+
+{{block script}}{{/block}}
+

@@ -1,12 +1,6 @@
-@import '../../../node_modules/carbon-components/src/globals/scss/vars';
-@import '../../../node_modules/carbon-components/src/globals/scss/colors';
 
 input, textarea, select, button, a {
-  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  @include type-style('body-short-01');
 }
 
 /*
@@ -33,9 +27,7 @@ input, textarea, select, button, a {
 }
 
 #layersPane {
-  /*font-family: 'oxygen_monoregular';*/
-  font-family: 'IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono',
-  'Bitstream Vera Sans Mono', Courier, monospace;
+  @include type-style('body-short-01');
 }
 
 #layersPane > .datagrid-row-selected,

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <view>
-        <mformdialog id="formLogin" title="Login" onsubmit="doChallengeResponse()">
+        <mform id="formLogin" title="Login" onsubmit="doChallengeResponse()">
             <property labelClass="col-md-6" />
             <fields>
                 <javascript>
@@ -22,5 +22,5 @@
             <buttons>
                 <mbutton id="btnLogin" text="Login" action="$this->data->action"/>
             </buttons>    
-        </mformdialog>
+        </mform>
 </view>

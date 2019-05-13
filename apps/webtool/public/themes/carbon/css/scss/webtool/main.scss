@@ -1,6 +1,18 @@
 @CHARSET "UTF-8";
-@import 'font-awesome.scss';
-@import 'icons.scss';
-@import 'colors.scss';
-@import 'graph.scss';
-@import 'webtool.scss';
+
+$css--font-face: true;
+$font-path: "../../../node_modules/carbon-components/src/globals/fonts/";
+
+$feature-flags: (
+    ui-shell: true
+);
+
+@import "../../../node_modules/carbon-components/src/globals/scss/styles";
+
+@import 'icons';
+@import 'flags';
+@import 'colors';
+@import 'graph';
+@import 'carbon_custom';
+@import 'carbon_icons';
+@import 'webtool';
