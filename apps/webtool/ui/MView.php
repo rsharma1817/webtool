@@ -34,11 +34,7 @@ class MView extends MBaseView
         $this->controller = $controller;
         $this->data = $parameters;
         $process = 'process' . $extension;
-        try {
-            $content = $this->$process();
-        } catch(\Exception $e) {
-            mdump($e->getMessage());
-        }
+        $content = $this->$process();
         $page = Manager::getPage();
         $page->setContent($content);
         return (Manager::isAjaxCall() ? $page->generate() : $page->render());
@@ -71,11 +67,8 @@ class MView extends MBaseView
         $template->context('view', $this);
         $template->context('data', $this->data);
         $template->context('components', Manager::getAppPath('components'));
-        $template->context('appURL', Manager::getAppURL() .'/');
-        $template->context('icon', new MIcon());
-        $template->context('templateCRUD', Manager::getPage()->getUIComponentPath('commonLayoutCRUD.latte'));
-        $template->context('templateStructure', Manager::getPage()->getUIComponentPath('commonLayoutStructure.latte'));
-        $template->context('templateForm', Manager::getPage()->getUIComponentPath('commonLayoutForm.latte'));
+        $template->context('appURL', Manager::getAppURL());
+        $template->context('template', $template);
         $template->context('isMaster', Manager::checkAccess('MASTER', A_EXECUTE) ? 'true' : 'false');
         $template->context('isSenior', Manager::checkAccess('SENIOR', A_EXECUTE) ? 'true' : 'false');
         $template->context('isAnno', Manager::checkAccess('ANNO', A_EXECUTE) ? 'true' : 'false');

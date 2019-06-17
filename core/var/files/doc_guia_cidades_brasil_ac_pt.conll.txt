@@ -1,0 +1,1753 @@
+# 55616 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	O
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	O
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	93104	_	_	_	_	_	terra.n	Locais_políticos	O
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	B-Descrição
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	I-Descrição
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	I-Descrição
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	I-Descrição
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	I-Descrição
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	I-Descrição
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	I-Descrição
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	I-Descrição
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	O
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 55618 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	93104	_	_	_	_	_	século.n	Calendric_unit#	O
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	B-Name
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	O
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	O
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	O
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	O
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	O
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	O
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	O
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	O
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 55619 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	O
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	O
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	B-Parte
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	I-Parte
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	B-Parte
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	B-Tempo
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	I-Tempo
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	I-Tempo
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	93104	_	_	_	_	_	parte.n	Parte_todo	O
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	B-Todo
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	I-Todo
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	O
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 55620 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	B-Duração
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	I-Duração
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	I-Duração
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	I-Duração
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	I-Duração
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	I-Duração
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	B-Posse
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	I-Posse
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	I-Posse
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	I-Posse
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	I-Posse
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	I-Posse
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	I-Posse
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	I-Posse
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	I-Posse
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	I-Posse
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	pertencer.v	Posse	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	B-Possuidor
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	I-Possuidor
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	I-Possuidor
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	I-Possuidor
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	I-Possuidor
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 56127 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	início.n	Temporal_subregion#	O
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	B-Time_period
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	I-Time_period
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	I-Time_period
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	O
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	O
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	O
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	O
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	O
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	O
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	O
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	O
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 57679 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	até.prep	Time_vector#	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	B-Landmark_event
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	I-Landmark_event
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	I-Landmark_event
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	I-Landmark_event
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	I-Landmark_event
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	B-Event
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	I-Event
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	I-Event
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	I-Event
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	I-Event
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	I-Event
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	I-Event
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	I-Event
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	I-Event
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	I-Event
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	I-Event
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	I-Event
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	I-Event
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	I-Event
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	I-Event
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	I-Event
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 57682 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	B-Subset
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	I-Subset
+4	do	_	de	PREP	_	93104	_	_	_	_	_	de.prep	Partitive#	O
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	B-Group
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	I-Group
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	O
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	O
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	_	_	O
+12	em	_	em	PREP	_	93104	_	_	_	_	_	_	_	O
+13	dia	_	dia	N	_	93104	_	_	_	_	_	_	_	O
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	O
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	O
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	O
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 57685 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	93104	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	93104	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	93104	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	93104	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	93104	_	_	_	_	_	_	_	O
+6	20	_	twenty	N	_	93104	_	_	_	_	_	_	_	O
+7	,	_			_	93104	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	93104	_	_	_	_	_	_	_	B-Trajector_event
+9	terras	_	terra	N	_	93104	_	_	_	_	_	_	_	I-Trajector_event
+10	que	_	que	ADV	_	93104	_	_	_	_	_	_	_	B-Trajector_event
+11	hoje	_	hoje	ADV	_	93104	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+12	em	_	em	PREP	_	93104	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+13	dia	_	dia	N	_	93104	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+14	fazem	_	fazer	V	_	93104	_	_	_	_	_	_	_	B-Trajector_event
+15	parte	_	parte	N	_	93104	_	_	_	_	_	_	_	I-Trajector_event
+16	de	_	dar	V	_	93104	_	_	_	_	_	_	_	I-Trajector_event
+17	Acre	_	acre	N	_	93104	_	_	_	_	_	_	_	I-Trajector_event
+18	pertenciam	_	pertencer	V	_	93104	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	93104	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	93104	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93104	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	93104	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	93104	_	_	_	_	_	_	_	O
+24	.	_			_	93104	_	_	_	_	_	_	_	O
+
+# 55621 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	B-Cause
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	I-Cause
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	I-Cause
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	I-Cause
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	I-Cause
+6	,	_			_	93105	_	_	_	_	_	_	_	I-Cause
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	I-Cause
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	I-Cause
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	I-Cause
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	fazer.v	Causation#	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	B-Effect
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	I-Effect
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	B-Time
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	I-Time
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	I-Time
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	I-Time
+19	18	_			_	93105	_	_	_	_	_	_	_	I-Time
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	B-Effect
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	I-Effect
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	I-Effect
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	I-Effect
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	I-Effect
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	I-Effect
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	I-Effect
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	I-Effect
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	I-Effect
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	I-Effect
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	I-Effect
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 55636 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	B-Time
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	I-Time
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	I-Time
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	I-Time
+19	18	_			_	93105	_	_	_	_	_	_	_	I-Time
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	B-Theme
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	I-Theme
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	tomar.v	Conquering#	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	B-Conqueror
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	I-Conqueror
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	I-Conqueror
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	I-Conqueror
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	I-Conqueror
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	I-Conqueror
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	I-Conqueror
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56122 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	procura.n	Scrutiny#	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	B-Phenomenon
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	I-Phenomenon
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56123 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	látex.n	Substance#	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	B-Descriptor
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	I-Descriptor
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	I-Descriptor
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56124 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	B-Coleção
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	abundante.a	Abundância	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	B-Lugar
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	I-Lugar
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56125 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	final.n	Temporal_subregion#	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	B-Time_period
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	I-Time_period
+19	18	_			_	93105	_	_	_	_	_	_	_	I-Time_period
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56126 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	século.n	Calendric_unit#	O
+19	18	_			_	93105	_	_	_	_	_	_	_	B-Name
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56128 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	região.n	Local	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56129 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	seringueiro.n	Pessoas_por_vocação	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	B-Origem
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56137 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	B-Degree
+28	número	_	numerar	V	_	93105	_	_	_	_	_	número.n	Quantified_mass#	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	B-Individuals
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	I-Individuals
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	I-Individuals
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 56139 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	B-Pessoa
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	brasileiro.a	Pessoas_por_origem	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 57690 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	grande.a	Grau	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	B-Gradable_attribute
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	I-Gradable_attribute
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	I-Gradable_attribute
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 57697 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	em.prep	Relação_de_perfilamento_interior	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	B-Landmark
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 57698 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	B-Subset
+17	do	_	de	PREP	_	93105	_	_	_	_	_	de.prep	Partitive#	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	B-Group
+19	18	_			_	93105	_	_	_	_	_	_	_	I-Group
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	O
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 57701 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	grande.a	Grau	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	B-Gradable_attribute
+29	de	_	dar	V	_	93105	_	_	_	_	_	_	_	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	O
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	O
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 58087 - A grande procura pelo látex, abundante na Amazônia, fez com que, no final do século 18, a região fosse tomada por um grande número de seringueiros brasileiros.
+1	A	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+2	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+3	procura	_	procura	N	_	93105	_	_	_	_	_	_	_	O
+4	pelo	_	pelar	V	_	93105	_	_	_	_	_	_	_	O
+5	látex	_	látex	N	_	93105	_	_	_	_	_	_	_	O
+6	,	_			_	93105	_	_	_	_	_	_	_	O
+7	abundante	_	abundante	A	_	93105	_	_	_	_	_	_	_	O
+8	na	_	no	PREP	_	93105	_	_	_	_	_	_	_	O
+9	Amazônia	_	amazônia	N	_	93105	_	_	_	_	_	_	_	O
+10	,	_			_	93105	_	_	_	_	_	_	_	O
+11	fez	_	fazer	V	_	93105	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93105	_	_	_	_	_	_	_	O
+13	que	_	que	ADV	_	93105	_	_	_	_	_	_	_	O
+14	,	_			_	93105	_	_	_	_	_	_	_	O
+15	no	_	nó	N	_	93105	_	_	_	_	_	_	_	O
+16	final	_	final	A	_	93105	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93105	_	_	_	_	_	_	_	O
+18	século	_	século	N	_	93105	_	_	_	_	_	_	_	O
+19	18	_			_	93105	_	_	_	_	_	_	_	O
+20	,	_			_	93105	_	_	_	_	_	_	_	O
+21	a	_	a	PREP	_	93105	_	_	_	_	_	_	_	O
+22	região	_	região	N	_	93105	_	_	_	_	_	_	_	O
+23	fosse	_	ser	V	_	93105	_	_	_	_	_	_	_	O
+24	tomada	_	tomado	A	_	93105	_	_	_	_	_	_	_	O
+25	por	_	por	PREP	_	93105	_	_	_	_	_	_	_	O
+26	um	_	um	A	_	93105	_	_	_	_	_	_	_	O
+27	grande	_	grande	N	_	93105	_	_	_	_	_	_	_	O
+28	número	_	numerar	V	_	93105	_	_	_	_	_	_	_	B-Subset
+29	de	_	dar	V	_	93105	_	_	_	_	_	de.prep	Partitive#	O
+30	seringueiros	_	seringueiro	N	_	93105	_	_	_	_	_	_	_	B-Group
+31	brasileiros	_	brasileiro	A	_	93105	_	_	_	_	_	_	_	I-Group
+32	.	_			_	93105	_	_	_	_	_	_	_	O
+
+# 55622 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	93106	_	_	_	_	_	_	_	B-Cause
+2	invasão	_	invasão	N	_	93106	_	_	_	_	_	_	_	I-Cause
+3	progressiva	_	progressivo	A	_	93106	_	_	_	_	_	_	_	I-Cause
+4	dos	_	de	PREP	_	93106	_	_	_	_	_	_	_	I-Cause
+5	brasileiros	_	brasileiro	A	_	93106	_	_	_	_	_	_	_	I-Cause
+6	no	_	nó	N	_	93106	_	_	_	_	_	_	_	I-Cause
+7	território	_	território	N	_	93106	_	_	_	_	_	_	_	I-Cause
+8	boliviano	_	boliviano	A	_	93106	_	_	_	_	_	_	_	I-Cause
+9	fez	_	fazer	V	_	93106	_	_	_	_	_	fazer.v	Causation#	O
+10	com	_	com	PREP	_	93106	_	_	_	_	_	_	_	B-Effect
+11	que	_	que	ADV	_	93106	_	_	_	_	_	_	_	I-Effect
+12	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	I-Effect
+13	Bolívia	_	bolívia	N	_	93106	_	_	_	_	_	_	_	I-Effect
+14	passasse	_	passar	V	_	93106	_	_	_	_	_	_	_	I-Effect
+15	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	I-Effect
+16	exigir	_	exigir	V	_	93106	_	_	_	_	_	_	_	I-Effect
+17	o	_	o	ART	_	93106	_	_	_	_	_	_	_	I-Effect
+18	pagamento	_	pagamento	N	_	93106	_	_	_	_	_	_	_	I-Effect
+19	de	_	dar	V	_	93106	_	_	_	_	_	_	_	I-Effect
+20	impostos	_	imposto	A	_	93106	_	_	_	_	_	_	_	I-Effect
+21	pela	_	péla	N	_	93106	_	_	_	_	_	_	_	I-Effect
+22	extração	_	extração	N	_	93106	_	_	_	_	_	_	_	I-Effect
+23	do	_	de	PREP	_	93106	_	_	_	_	_	_	_	I-Effect
+24	látex	_	látex	N	_	93106	_	_	_	_	_	_	_	I-Effect
+25	nas	_	no	PREP	_	93106	_	_	_	_	_	_	_	I-Effect
+26	suas	_	sua	A	_	93106	_	_	_	_	_	_	_	I-Effect
+27	terras	_	terra	N	_	93106	_	_	_	_	_	_	_	I-Effect
+28	.	_			_	93106	_	_	_	_	_	_	_	O
+
+# 55625 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	93106	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	93106	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	93106	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	93106	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	93106	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	93106	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	93106	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	93106	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	93106	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	93106	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	B-Agente
+13	Bolívia	_	bolívia	N	_	93106	_	_	_	_	_	_	_	I-Agente
+14	passasse	_	passar	V	_	93106	_	_	_	_	_	passar.v	Atividade_iniciar	O
+15	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	B-Atividade
+16	exigir	_	exigir	V	_	93106	_	_	_	_	_	_	_	I-Atividade
+17	o	_	o	ART	_	93106	_	_	_	_	_	_	_	I-Atividade
+18	pagamento	_	pagamento	N	_	93106	_	_	_	_	_	_	_	I-Atividade
+19	de	_	dar	V	_	93106	_	_	_	_	_	_	_	I-Atividade
+20	impostos	_	imposto	A	_	93106	_	_	_	_	_	_	_	I-Atividade
+21	pela	_	péla	N	_	93106	_	_	_	_	_	_	_	I-Atividade
+22	extração	_	extração	N	_	93106	_	_	_	_	_	_	_	I-Atividade
+23	do	_	de	PREP	_	93106	_	_	_	_	_	_	_	I-Atividade
+24	látex	_	látex	N	_	93106	_	_	_	_	_	_	_	I-Atividade
+25	nas	_	no	PREP	_	93106	_	_	_	_	_	_	_	I-Atividade
+26	suas	_	sua	A	_	93106	_	_	_	_	_	_	_	I-Atividade
+27	terras	_	terra	N	_	93106	_	_	_	_	_	_	_	I-Atividade
+28	.	_			_	93106	_	_	_	_	_	_	_	O
+
+# 55626 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	93106	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	93106	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	93106	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	93106	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	93106	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	93106	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	93106	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	93106	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	93106	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	93106	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	B-Obligator
+13	Bolívia	_	bolívia	N	_	93106	_	_	_	_	_	_	_	I-Obligator
+14	passasse	_	passar	V	_	93106	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	93106	_	_	_	_	_	exigir.v	Imposing_obligation#	O
+17	o	_	o	ART	_	93106	_	_	_	_	_	_	_	B-Duty
+18	pagamento	_	pagamento	N	_	93106	_	_	_	_	_	_	_	I-Duty
+19	de	_	dar	V	_	93106	_	_	_	_	_	_	_	I-Duty
+20	impostos	_	imposto	A	_	93106	_	_	_	_	_	_	_	I-Duty
+21	pela	_	péla	N	_	93106	_	_	_	_	_	_	_	B-Situation
+22	extração	_	extração	N	_	93106	_	_	_	_	_	_	_	I-Situation
+23	do	_	de	PREP	_	93106	_	_	_	_	_	_	_	I-Situation
+24	látex	_	látex	N	_	93106	_	_	_	_	_	_	_	I-Situation
+25	nas	_	no	PREP	_	93106	_	_	_	_	_	_	_	I-Situation
+26	suas	_	sua	A	_	93106	_	_	_	_	_	_	_	I-Situation
+27	terras	_	terra	N	_	93106	_	_	_	_	_	_	_	I-Situation
+28	.	_			_	93106	_	_	_	_	_	_	_	O
+
+# 55633 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	93106	_	_	_	_	_	invasão.n	Invading#	O
+3	progressiva	_	progressivo	A	_	93106	_	_	_	_	_	_	_	B-Manner
+4	dos	_	de	PREP	_	93106	_	_	_	_	_	_	_	B-Invader
+5	brasileiros	_	brasileiro	A	_	93106	_	_	_	_	_	_	_	I-Invader
+6	no	_	nó	N	_	93106	_	_	_	_	_	_	_	B-Land
+7	território	_	território	N	_	93106	_	_	_	_	_	_	_	I-Land
+8	boliviano	_	boliviano	A	_	93106	_	_	_	_	_	_	_	I-Land
+9	fez	_	fazer	V	_	93106	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	93106	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	93106	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+13	Bolívia	_	bolívia	N	_	93106	_	_	_	_	_	_	_	O
+14	passasse	_	passar	V	_	93106	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	93106	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	93106	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	93106	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	93106	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	93106	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	93106	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	93106	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	93106	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	93106	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	93106	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	93106	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	93106	_	_	_	_	_	_	_	O
+28	.	_			_	93106	_	_	_	_	_	_	_	O
+
+# 57706 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	93106	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	93106	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	93106	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	93106	_	_	_	_	_	brasileiro.n	Pessoas_por_origem	O
+6	no	_	nó	N	_	93106	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	93106	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	93106	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	93106	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	93106	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	93106	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+13	Bolívia	_	bolívia	N	_	93106	_	_	_	_	_	_	_	O
+14	passasse	_	passar	V	_	93106	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	93106	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	93106	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	93106	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	93106	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	93106	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	93106	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	93106	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	93106	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	93106	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	93106	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	93106	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	93106	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	93106	_	_	_	_	_	_	_	O
+28	.	_			_	93106	_	_	_	_	_	_	_	O
+
+# 57797 - A decisão desencadeou incidentes entre brasileiros e bolivianos.
+1	A	_	a	PREP	_	93107	_	_	_	_	_	_	_	O
+2	decisão	_	decisão	N	_	93107	_	_	_	_	_	decisão.n	Deciding#	O
+3	desencadeou	_	desencadear	V	_	93107	_	_	_	_	_	_	_	O
+4	incidentes	_	incidente	A	_	93107	_	_	_	_	_	_	_	O
+5	entre	_	entrar	V	_	93107	_	_	_	_	_	_	_	O
+6	brasileiros	_	brasileiro	A	_	93107	_	_	_	_	_	_	_	O
+7	e	_	ser	V	_	93107	_	_	_	_	_	_	_	O
+8	bolivianos	_	boliviano	A	_	93107	_	_	_	_	_	_	_	O
+9	.	_			_	93107	_	_	_	_	_	_	_	O
+
+# 57798 - A decisão desencadeou incidentes entre brasileiros e bolivianos.
+1	A	_	a	PREP	_	93107	_	_	_	_	_	_	_	B-Cause
+2	decisão	_	decisão	N	_	93107	_	_	_	_	_	_	_	I-Cause
+3	desencadeou	_	desencadear	V	_	93107	_	_	_	_	_	desencadear.v	Causation#	O
+4	incidentes	_	incidente	A	_	93107	_	_	_	_	_	_	_	B-Effect
+5	entre	_	entrar	V	_	93107	_	_	_	_	_	_	_	I-Effect
+6	brasileiros	_	brasileiro	A	_	93107	_	_	_	_	_	_	_	I-Effect
+7	e	_	ser	V	_	93107	_	_	_	_	_	_	_	I-Effect
+8	bolivianos	_	boliviano	A	_	93107	_	_	_	_	_	_	_	I-Effect
+9	.	_			_	93107	_	_	_	_	_	_	_	O
+
+# 57799 - A decisão desencadeou incidentes entre brasileiros e bolivianos.
+1	A	_	a	PREP	_	93107	_	_	_	_	_	_	_	O
+2	decisão	_	decisão	N	_	93107	_	_	_	_	_	_	_	O
+3	desencadeou	_	desencadear	V	_	93107	_	_	_	_	_	_	_	O
+4	incidentes	_	incidente	A	_	93107	_	_	_	_	_	incidente.n	Catastrophe#	O
+5	entre	_	entrar	V	_	93107	_	_	_	_	_	_	_	B-Undergoer
+6	brasileiros	_	brasileiro	A	_	93107	_	_	_	_	_	_	_	I-Undergoer
+7	e	_	ser	V	_	93107	_	_	_	_	_	_	_	I-Undergoer
+8	bolivianos	_	boliviano	A	_	93107	_	_	_	_	_	_	_	I-Undergoer
+9	.	_			_	93107	_	_	_	_	_	_	_	O
+
+# 57800 - A decisão desencadeou incidentes entre brasileiros e bolivianos.
+1	A	_	a	PREP	_	93107	_	_	_	_	_	_	_	O
+2	decisão	_	decisão	N	_	93107	_	_	_	_	_	_	_	O
+3	desencadeou	_	desencadear	V	_	93107	_	_	_	_	_	_	_	O
+4	incidentes	_	incidente	A	_	93107	_	_	_	_	_	_	_	O
+5	entre	_	entrar	V	_	93107	_	_	_	_	_	_	_	O
+6	brasileiros	_	brasileiro	A	_	93107	_	_	_	_	_	brasileiro.n	Pessoas_por_origem	O
+7	e	_	ser	V	_	93107	_	_	_	_	_	_	_	O
+8	bolivianos	_	boliviano	A	_	93107	_	_	_	_	_	_	_	O
+9	.	_			_	93107	_	_	_	_	_	_	_	O
+
+# 57801 - A decisão desencadeou incidentes entre brasileiros e bolivianos.
+1	A	_	a	PREP	_	93107	_	_	_	_	_	_	_	O
+2	decisão	_	decisão	N	_	93107	_	_	_	_	_	_	_	O
+3	desencadeou	_	desencadear	V	_	93107	_	_	_	_	_	_	_	O
+4	incidentes	_	incidente	A	_	93107	_	_	_	_	_	_	_	O
+5	entre	_	entrar	V	_	93107	_	_	_	_	_	_	_	O
+6	brasileiros	_	brasileiro	A	_	93107	_	_	_	_	_	_	_	O
+7	e	_	ser	V	_	93107	_	_	_	_	_	_	_	O
+8	bolivianos	_	boliviano	A	_	93107	_	_	_	_	_	boliviano.n	Pessoas_por_origem	O
+9	.	_			_	93107	_	_	_	_	_	_	_	O
+
+# 57802 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	93108	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	93108	_	_	_	_	_	assinatura.n	Sign_agreement#	O
+3	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	B-Agreement
+4	Tratado	_	tratado	A	_	93108	_	_	_	_	_	_	_	I-Agreement
+5	de	_	dar	V	_	93108	_	_	_	_	_	_	_	I-Agreement
+6	Petrópolis	_	petrópolis	N	_	93108	_	_	_	_	_	_	_	I-Agreement
+7	,	_			_	93108	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	93108	_	_	_	_	_	_	_	B-Time
+9	1903	_			_	93108	_	_	_	_	_	_	_	I-Time
+10	,	_			_	93108	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	93108	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93108	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	93108	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	93108	_	_	_	_	_	_	_	O
+15	?	_			_	93108	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	93108	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	93108	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	93108	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	93108	_	_	_	_	_	_	_	O
+20	?	_			_	93108	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93108	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	93108	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	93108	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	93108	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	93108	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	93108	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	93108	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	93108	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	93108	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	93108	_	_	_	_	_	_	_	O
+33	.	_			_	93108	_	_	_	_	_	_	_	O
+
+# 57804 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	93108	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	93108	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	93108	_	_	_	_	_	tratado.n	Documentos	O
+5	de	_	dar	V	_	93108	_	_	_	_	_	_	_	B-Especificação
+6	Petrópolis	_	petrópolis	N	_	93108	_	_	_	_	_	_	_	I-Especificação
+7	,	_			_	93108	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	93108	_	_	_	_	_	_	_	O
+9	1903	_			_	93108	_	_	_	_	_	_	_	O
+10	,	_			_	93108	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	93108	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93108	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	93108	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	93108	_	_	_	_	_	_	_	O
+15	?	_			_	93108	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	93108	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	93108	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	93108	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	93108	_	_	_	_	_	_	_	O
+20	?	_			_	93108	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93108	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	93108	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	93108	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	93108	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	93108	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	93108	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	93108	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	93108	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	93108	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	93108	_	_	_	_	_	_	_	O
+33	.	_			_	93108	_	_	_	_	_	_	_	O
+
+# 57806 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	93108	_	_	_	_	_	_	_	B-Trajector_event
+2	assinatura	_	assinatura	N	_	93108	_	_	_	_	_	_	_	I-Trajector_event
+3	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	I-Trajector_event
+4	Tratado	_	tratado	A	_	93108	_	_	_	_	_	_	_	I-Trajector_event
+5	de	_	dar	V	_	93108	_	_	_	_	_	_	_	I-Trajector_event
+6	Petrópolis	_	petrópolis	N	_	93108	_	_	_	_	_	_	_	I-Trajector_event
+7	,	_			_	93108	_	_	_	_	_	_	_	I-Trajector_event
+8	em	_	em	PREP	_	93108	_	_	_	_	_	em.prep	Temporal_collocation#	O
+9	1903	_			_	93108	_	_	_	_	_	_	_	B-Landmark_period
+10	,	_			_	93108	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	93108	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	93108	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	93108	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	93108	_	_	_	_	_	_	_	O
+15	?	_			_	93108	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	93108	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	93108	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	93108	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	93108	_	_	_	_	_	_	_	O
+20	?	_			_	93108	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	93108	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	93108	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	93108	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	93108	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	93108	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	93108	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	93108	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	93108	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	93108	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	93108	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	93108	_	_	_	_	_	_	_	O
+33	.	_			_	93108	_	_	_	_	_	_	_	O
+
+# 56231 - É necessária a vacinação contra a febre amarela pelo menos 10 dias antes da viagem.
+1	É	_	ser	V	_	93115	_	_	_	_	_	_	_	O
+2	necessária	_	necessário	A	_	93115	_	_	_	_	_	_	_	O
+3	a	_	a	PREP	_	93115	_	_	_	_	_	_	_	O
+4	vacinação	_	vacinação	N	_	93115	_	_	_	_	_	_	_	O
+5	contra	_	contra	ADV	_	93115	_	_	_	_	_	_	_	O
+6	a	_	a	PREP	_	93115	_	_	_	_	_	_	_	O
+7	febre	_	febre	N	_	93115	_	_	_	_	_	_	_	O
+8	amarela	_	amarelo	A	_	93115	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	93115	_	_	_	_	_	_	_	O
+10	menos	_	menos	ADV	_	93115	_	_	_	_	_	_	_	O
+11	10	_	ten	NUM	_	93115	_	_	_	_	_	_	_	O
+12	dias	_	dia	N	_	93115	_	_	_	_	_	_	_	O
+13	antes	_	antes	ADV	_	93115	_	_	_	_	_	_	_	O
+14	da	_	dar	V	_	93115	_	_	_	_	_	_	_	O
+15	viagem	_	viagem	N	_	93115	_	_	_	_	_	viagem.n	Viagem	O
+16	.	_			_	93115	_	_	_	_	_	_	_	O
+
+# 31856 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	B-Operadora
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	I-Operadora
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	B-Turista
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	I-Turista
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	I-Turista
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	I-Turista
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	I-Turista
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	I-Turista
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	I-Turista
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	I-Turista
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52842 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	hospedagem domiciliar.n	Acomodação	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52880 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Atrair_turistas	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52881 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52882 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52883 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52884 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52885 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52886 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52887 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 56232 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	infraestrutura.n	Infraestrutura	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	B-Tipo
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	I-Tipo
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	_	_	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 57770 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	93120	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	93120	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	93120	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	93120	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	93120	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	93120	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	93120	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	93120	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	93120	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	93120	_	_	_	_	_	turista.n	Pessoas_por_atividade_de_lazer	O
+12	.	_			_	93120	_	_	_	_	_	_	_	O
+
+# 52843 - Existem opções para hotéis nas categorias de três, quatro e cinco estrelas, além de pousadas e albergues.
+1	Existem	_	existir	V	_	93121	_	_	_	_	_	_	_	O
+2	opções	_	opção	N	_	93121	_	_	_	_	_	_	_	O
+3	para	_	para	PREP	_	93121	_	_	_	_	_	_	_	O
+4	hotéis	_	hotel	N	_	93121	_	_	_	_	_	hotel.n	Acomodação	O
+5	nas	_	no	PREP	_	93121	_	_	_	_	_	_	_	B-Classificação
+6	categorias	_	categoria	N	_	93121	_	_	_	_	_	_	_	I-Classificação
+7	de	_	dar	V	_	93121	_	_	_	_	_	_	_	I-Classificação
+8	três	_	três	NUM	_	93121	_	_	_	_	_	_	_	I-Classificação
+9	,	_			_	93121	_	_	_	_	_	_	_	I-Classificação
+10	quatro	_	quatro	NUM	_	93121	_	_	_	_	_	_	_	I-Classificação
+11	e	_	ser	V	_	93121	_	_	_	_	_	_	_	I-Classificação
+12	cinco	_	cinco	NUM	_	93121	_	_	_	_	_	_	_	I-Classificação
+13	estrelas	_	estrela	A	_	93121	_	_	_	_	_	_	_	I-Classificação
+14	,	_			_	93121	_	_	_	_	_	_	_	O
+15	além	_	alar	V	_	93121	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	93121	_	_	_	_	_	_	_	O
+17	pousadas	_	pousado	A	_	93121	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	93121	_	_	_	_	_	_	_	O
+19	albergues	_	albergue	N	_	93121	_	_	_	_	_	_	_	O
+20	.	_			_	93121	_	_	_	_	_	_	_	O
+
+# 56234 - Existem opções para hotéis nas categorias de três, quatro e cinco estrelas, além de pousadas e albergues.
+1	Existem	_	existir	V	_	93121	_	_	_	_	_	_	_	O
+2	opções	_	opção	N	_	93121	_	_	_	_	_	_	_	O
+3	para	_	para	PREP	_	93121	_	_	_	_	_	_	_	O
+4	hotéis	_	hotel	N	_	93121	_	_	_	_	_	_	_	O
+5	nas	_	no	PREP	_	93121	_	_	_	_	_	_	_	O
+6	categorias	_	categoria	N	_	93121	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	93121	_	_	_	_	_	_	_	O
+8	três	_	três	NUM	_	93121	_	_	_	_	_	_	_	O
+9	,	_			_	93121	_	_	_	_	_	_	_	O
+10	quatro	_	quatro	NUM	_	93121	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	93121	_	_	_	_	_	_	_	O
+12	cinco	_	cinco	NUM	_	93121	_	_	_	_	_	_	_	O
+13	estrelas	_	estrela	A	_	93121	_	_	_	_	_	_	_	O
+14	,	_			_	93121	_	_	_	_	_	_	_	O
+15	além	_	alar	V	_	93121	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	93121	_	_	_	_	_	_	_	O
+17	pousadas	_	pousado	A	_	93121	_	_	_	_	_	pousada.n	Acomodação	O
+18	e	_	ser	V	_	93121	_	_	_	_	_	_	_	O
+19	albergues	_	albergue	N	_	93121	_	_	_	_	_	_	_	O
+20	.	_			_	93121	_	_	_	_	_	_	_	O
+
+# 52902 - A capital tem ligação rodoviária com as principais cidades do país através da BR-364.
+1	A	_	a	PREP	_	93123	_	_	_	_	_	_	_	O
+2	capital	_	capital	A	_	93123	_	_	_	_	_	_	_	O
+3	tem	_	ter	V	_	93123	_	_	_	_	_	_	_	O
+4	ligação	_	ligação	N	_	93123	_	_	_	_	_	_	_	O
+5	rodoviária	_	rodoviário	A	_	93123	_	_	_	_	_	rodoviária.n	Transporte	O
+6	com	_	com	PREP	_	93123	_	_	_	_	_	_	_	O
+7	as	_	a	PREP	_	93123	_	_	_	_	_	_	_	O
+8	principais	_	principal	A	_	93123	_	_	_	_	_	_	_	O
+9	cidades	_	cidade	N	_	93123	_	_	_	_	_	_	_	O
+10	do	_	de	PREP	_	93123	_	_	_	_	_	_	_	O
+11	país	_	pai	N	_	93123	_	_	_	_	_	_	_	O
+12	através	_	através	ADV	_	93123	_	_	_	_	_	_	_	O
+13	da	_	dar	V	_	93123	_	_	_	_	_	_	_	O
+14	BR	_	br	N	_	93123	_	_	_	_	_	_	_	O
+15	-	_			_	93123	_	_	_	_	_	_	_	O
+16	364	_			_	93123	_	_	_	_	_	_	_	O
+17	.	_			_	93123	_	_	_	_	_	_	_	O
+
+# 52904 - Também existem linhas de ônibus intermunicipais e interestaduais que estabelecem ligações diárias à cidade.
+1	Também	_	também	ADV	_	93124	_	_	_	_	_	_	_	O
+2	existem	_	existir	V	_	93124	_	_	_	_	_	_	_	O
+3	linhas	_	linha	N	_	93124	_	_	_	_	_	linha.n	Transporte	O
+4	de	_	dar	V	_	93124	_	_	_	_	_	_	_	B-Transporte
+5	ônibus	_	ônibus	N	_	93124	_	_	_	_	_	_	_	I-Transporte
+6	intermunicipais	_	intermunicipal	A	_	93124	_	_	_	_	_	_	_	I-Transporte
+7	e	_	ser	V	_	93124	_	_	_	_	_	_	_	I-Transporte
+8	interestaduais	_	interestadual	A	_	93124	_	_	_	_	_	_	_	I-Transporte
+9	que	_	que	ADV	_	93124	_	_	_	_	_	_	_	O
+10	estabelecem	_	estabelecer	V	_	93124	_	_	_	_	_	_	_	O
+11	ligações	_	ligação	N	_	93124	_	_	_	_	_	_	_	O
+12	diárias	_	diário	A	_	93124	_	_	_	_	_	_	_	O
+13	à	_	a	PREP	_	93124	_	_	_	_	_	_	_	O
+14	cidade	_	cidade	N	_	93124	_	_	_	_	_	_	_	O
+15	.	_			_	93124	_	_	_	_	_	_	_	O
+
+# 56235 - Também existem linhas de ônibus intermunicipais e interestaduais que estabelecem ligações diárias à cidade.
+1	Também	_	também	ADV	_	93124	_	_	_	_	_	_	_	O
+2	existem	_	existir	V	_	93124	_	_	_	_	_	_	_	O
+3	linhas	_	linha	N	_	93124	_	_	_	_	_	_	_	O
+4	de	_	dar	V	_	93124	_	_	_	_	_	_	_	O
+5	ônibus	_	ônibus	N	_	93124	_	_	_	_	_	ônibus.n	Meios_de_transporte	O
+6	intermunicipais	_	intermunicipal	A	_	93124	_	_	_	_	_	_	_	O
+7	e	_	ser	V	_	93124	_	_	_	_	_	_	_	O
+8	interestaduais	_	interestadual	A	_	93124	_	_	_	_	_	_	_	O
+9	que	_	que	ADV	_	93124	_	_	_	_	_	_	_	O
+10	estabelecem	_	estabelecer	V	_	93124	_	_	_	_	_	_	_	O
+11	ligações	_	ligação	N	_	93124	_	_	_	_	_	_	_	O
+12	diárias	_	diário	A	_	93124	_	_	_	_	_	_	_	O
+13	à	_	a	PREP	_	93124	_	_	_	_	_	_	_	O
+14	cidade	_	cidade	N	_	93124	_	_	_	_	_	_	_	O
+15	.	_			_	93124	_	_	_	_	_	_	_	O
+
+# 56236 - O aeroporto de Rio Branco recebe voos nacionais e internacionais.
+1	O	_	o	ART	_	93125	_	_	_	_	_	_	_	O
+2	aeroporto	_	aeroporto	N	_	93125	_	_	_	_	_	aeroporto.n	Transporte	O
+3	de	_	dar	V	_	93125	_	_	_	_	_	_	_	B-Lugar
+4	Rio	_	rio	N	_	93125	_	_	_	_	_	_	_	I-Lugar
+5	Branco	_	branco	A	_	93125	_	_	_	_	_	_	_	I-Lugar
+6	recebe	_	receber	V	_	93125	_	_	_	_	_	_	_	O
+7	voos	_	voo	N	_	93125	_	_	_	_	_	_	_	O
+8	nacionais	_	nacional	A	_	93125	_	_	_	_	_	_	_	O
+9	e	_	ser	V	_	93125	_	_	_	_	_	_	_	O
+10	internacionais	_	internacional	A	_	93125	_	_	_	_	_	_	_	O
+11	.	_			_	93125	_	_	_	_	_	_	_	O
+
+# 56238 - O aeroporto de Rio Branco recebe voos nacionais e internacionais.
+1	O	_	o	ART	_	93125	_	_	_	_	_	_	_	B-Recipient
+2	aeroporto	_	aeroporto	N	_	93125	_	_	_	_	_	_	_	I-Recipient
+3	de	_	dar	V	_	93125	_	_	_	_	_	_	_	I-Recipient
+4	Rio	_	rio	N	_	93125	_	_	_	_	_	_	_	I-Recipient
+5	Branco	_	branco	A	_	93125	_	_	_	_	_	_	_	I-Recipient
+6	recebe	_	receber	V	_	93125	_	_	_	_	_	receber.v	Receiving#	O
+7	voos	_	voo	N	_	93125	_	_	_	_	_	_	_	B-Theme
+8	nacionais	_	nacional	A	_	93125	_	_	_	_	_	_	_	I-Theme
+9	e	_	ser	V	_	93125	_	_	_	_	_	_	_	I-Theme
+10	internacionais	_	internacional	A	_	93125	_	_	_	_	_	_	_	I-Theme
+11	.	_			_	93125	_	_	_	_	_	_	_	O
+
+# 56239 - O aeroporto de Rio Branco recebe voos nacionais e internacionais.
+1	O	_	o	ART	_	93125	_	_	_	_	_	_	_	O
+2	aeroporto	_	aeroporto	N	_	93125	_	_	_	_	_	_	_	O
+3	de	_	dar	V	_	93125	_	_	_	_	_	_	_	O
+4	Rio	_	rio	N	_	93125	_	_	_	_	_	_	_	O
+5	Branco	_	branco	A	_	93125	_	_	_	_	_	_	_	O
+6	recebe	_	receber	V	_	93125	_	_	_	_	_	_	_	O
+7	voos	_	voo	N	_	93125	_	_	_	_	_	voo.n	Transporte	O
+8	nacionais	_	nacional	A	_	93125	_	_	_	_	_	_	_	B-Type
+9	e	_	ser	V	_	93125	_	_	_	_	_	_	_	I-Type
+10	internacionais	_	internacional	A	_	93125	_	_	_	_	_	_	_	I-Type
+11	.	_			_	93125	_	_	_	_	_	_	_	O
+
+# 56240 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	93132	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	93132	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	93132	_	_	_	_	_	museu.n	Prédios	O
+4	sobre	_	sobre	N	_	93132	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	93132	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	93132	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	93132	_	_	_	_	_	_	_	O
+8	Acre	_	acre	N	_	93132	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	93132	_	_	_	_	_	_	_	O
+10	Brasil	_	brasil	A	_	93132	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	93132	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	93132	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	93132	_	_	_	_	_	_	_	O
+14	com	_	com	PREP	_	93132	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	93132	_	_	_	_	_	_	_	O
+16	históricas	_	histórico	A	_	93132	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	93132	_	_	_	_	_	_	_	O
+18	Movimento	_	movimento	N	_	93132	_	_	_	_	_	_	_	O
+19	Autonomista	_	autonomista	A	_	93132	_	_	_	_	_	_	_	O
+20	(responsável	_			_	93132	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	93132	_	_	_	_	_	_	_	O
+22	emancipação	_	emancipação	N	_	93132	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	93132	_	_	_	_	_	_	_	O
+24	estado)	_			_	93132	_	_	_	_	_	_	_	O
+25	.	_			_	93132	_	_	_	_	_	_	_	O
+
+# 56241 - Entre os pratos mais apreciados encontram-se o pato ao tucupi e o tacacá, de origem indígena e também muito comuns em outros estados do Norte; as saltenhas, uma espécie de pastel boliviano; a carne de sol com baião de dois típica do Nordeste e os charutos e quibes (de arroz e de macaxeira) da gastronomia árabe.
+1	Entre	_	entrar	V	_	93140	_	_	_	_	_	_	_	O
+2	os	_	o	ART	_	93140	_	_	_	_	_	_	_	O
+3	pratos	_	prato	N	_	93140	_	_	_	_	_	prato típico.n	Alimentos_e_bebidas	O
+4	mais	_	mais	ADV	_	93140	_	_	_	_	_	_	_	O
+5	apreciados	_	apreciado	A	_	93140	_	_	_	_	_	_	_	O
+6	encontram	_	encontrar	V	_	93140	_	_	_	_	_	_	_	O
+7	-	_			_	93140	_	_	_	_	_	_	_	O
+8	se	_	ser	V	_	93140	_	_	_	_	_	_	_	O
+9	o	_	o	ART	_	93140	_	_	_	_	_	_	_	B-Alimento_ou_bebida
+10	pato	_	pato	N	_	93140	_	_	_	_	_	_	_	I-Alimento_ou_bebida
+11	ao	_	ao	PREP	_	93140	_	_	_	_	_	_	_	I-Alimento_ou_bebida
+12	tucupi	_	tucupi	N	_	93140	_	_	_	_	_	_	_	I-Alimento_ou_bebida
+13	e	_	ser	V	_	93140	_	_	_	_	_	_	_	I-Alimento_ou_bebida
+14	o	_	o	ART	_	93140	_	_	_	_	_	_	_	I-Alimento_ou_bebida
+15	tacacá	_	tacacá	N	_	93140	_	_	_	_	_	_	_	I-Alimento_ou_bebida
+16	,	_			_	93140	_	_	_	_	_	_	_	O
+17	de	_	dar	V	_	93140	_	_	_	_	_	_	_	O
+18	origem	_	origem	N	_	93140	_	_	_	_	_	_	_	O
+19	indígena	_	indígena	A	_	93140	_	_	_	_	_	_	_	O
+20	e	_	ser	V	_	93140	_	_	_	_	_	_	_	O
+21	também	_	também	ADV	_	93140	_	_	_	_	_	_	_	O
+22	muito	_	muito	A	_	93140	_	_	_	_	_	_	_	O
+23	comuns	_	comum	A	_	93140	_	_	_	_	_	_	_	O
+24	em	_	em	PREP	_	93140	_	_	_	_	_	_	_	O
+25	outros	_	outro	A	_	93140	_	_	_	_	_	_	_	O
+26	estados	_	estados	N	_	93140	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	93140	_	_	_	_	_	_	_	O
+28	Norte	_	norte	N	_	93140	_	_	_	_	_	_	_	O
+29	;	_			_	93140	_	_	_	_	_	_	_	O
+30	as	_	a	PREP	_	93140	_	_	_	_	_	_	_	O
+31	saltenhas	_	saltenho	A	_	93140	_	_	_	_	_	_	_	O
+32	,	_			_	93140	_	_	_	_	_	_	_	O
+33	uma	_	um	A	_	93140	_	_	_	_	_	_	_	O
+34	espécie	_	espécie	N	_	93140	_	_	_	_	_	_	_	O
+35	de	_	dar	V	_	93140	_	_	_	_	_	_	_	O
+36	pastel	_			_	93140	_	_	_	_	_	_	_	O
+37	boliviano	_	boliviano	A	_	93140	_	_	_	_	_	_	_	O
+38	;	_			_	93140	_	_	_	_	_	_	_	O
+39	a	_	a	PREP	_	93140	_	_	_	_	_	_	_	O
+40	carne	_	carne	N	_	93140	_	_	_	_	_	_	_	O
+41	de	_	dar	V	_	93140	_	_	_	_	_	_	_	O
+42	sol	_	sol	N	_	93140	_	_	_	_	_	_	_	O
+43	com	_	com	PREP	_	93140	_	_	_	_	_	_	_	O
+44	baião	_	baião	N	_	93140	_	_	_	_	_	_	_	O
+45	de	_	dar	V	_	93140	_	_	_	_	_	_	_	O
+46	dois	_	doer	V	_	93140	_	_	_	_	_	_	_	O
+47	típica	_	típico	A	_	93140	_	_	_	_	_	_	_	O
+48	do	_	de	PREP	_	93140	_	_	_	_	_	_	_	O
+49	Nordeste	_	nordeste	A	_	93140	_	_	_	_	_	_	_	O
+50	e	_	ser	V	_	93140	_	_	_	_	_	_	_	O
+51	os	_	o	ART	_	93140	_	_	_	_	_	_	_	O
+52	charutos	_	charuto	N	_	93140	_	_	_	_	_	_	_	O
+53	e	_	ser	V	_	93140	_	_	_	_	_	_	_	O
+54	quibes	_	quibe	N	_	93140	_	_	_	_	_	_	_	O
+55	(de	_			_	93140	_	_	_	_	_	_	_	O
+56	arroz	_	arroz	N	_	93140	_	_	_	_	_	_	_	O
+57	e	_	ser	V	_	93140	_	_	_	_	_	_	_	O
+58	de	_	dar	V	_	93140	_	_	_	_	_	_	_	O
+59	macaxeira)	_			_	93140	_	_	_	_	_	_	_	O
+60	da	_	dar	V	_	93140	_	_	_	_	_	_	_	O
+61	gastronomia	_	gastronomia	N	_	93140	_	_	_	_	_	_	_	O
+62	árabe	_	árabe	A	_	93140	_	_	_	_	_	_	_	O
+63	.	_			_	93140	_	_	_	_	_	_	_	O
+
+# 56242 - Passeio turístico nos Passos De Chico Mendes.
+1	Passeio	_	passear	V	_	93146	_	_	_	_	_	passeio.n	Deslocar-se	O
+2	turístico	_	turístico	A	_	93146	_	_	_	_	_	_	_	B-Finalidade
+3	nos	_	no	PREP	_	93146	_	_	_	_	_	_	_	B-Área
+4	Passos	_	passo	A	_	93146	_	_	_	_	_	_	_	I-Área
+5	De	_	dar	V	_	93146	_	_	_	_	_	_	_	I-Área
+6	Chico	_	chico	N	_	93146	_	_	_	_	_	_	_	I-Área
+7	Mendes	_	mendes	N	_	93146	_	_	_	_	_	_	_	I-Área
+8	.	_			_	93146	_	_	_	_	_	_	_	O
+
+# 56243 - O itinerário pode ter início na rua do Comércio, onde é possível fazer uma pausa para comer, beber ou até mesmo para fazer pequenas compras de artesanato produzido na região, como biojoias, marchetaria e artefatos em sementes produzidos por artesãos locais.
+1	O	_	o	ART	_	93149	_	_	_	_	_	_	_	O
+2	itinerário	_	itinerário	A	_	93149	_	_	_	_	_	_	_	O
+3	pode	_	poder	V	_	93149	_	_	_	_	_	_	_	O
+4	ter	_	ter	V	_	93149	_	_	_	_	_	_	_	O
+5	início	_	iniciar	V	_	93149	_	_	_	_	_	_	_	O
+6	na	_	no	PREP	_	93149	_	_	_	_	_	_	_	O
+7	rua	_	rua	N	_	93149	_	_	_	_	_	_	_	O
+8	do	_	de	PREP	_	93149	_	_	_	_	_	_	_	O
+9	Comércio	_	comerciar	V	_	93149	_	_	_	_	_	_	_	O
+10	,	_			_	93149	_	_	_	_	_	_	_	O
+11	onde	_	onde	ADV	_	93149	_	_	_	_	_	_	_	O
+12	é	_	ser	V	_	93149	_	_	_	_	_	_	_	O
+13	possível	_	possível	A	_	93149	_	_	_	_	_	_	_	O
+14	fazer	_	fazer	V	_	93149	_	_	_	_	_	_	_	O
+15	uma	_	um	A	_	93149	_	_	_	_	_	_	_	O
+16	pausa	_	pausa	N	_	93149	_	_	_	_	_	_	_	O
+17	para	_	para	PREP	_	93149	_	_	_	_	_	_	_	O
+18	comer	_	comer	V	_	93149	_	_	_	_	_	comer.v	Comer_e_beber	O
+19	,	_			_	93149	_	_	_	_	_	_	_	O
+20	beber	_	beber	V	_	93149	_	_	_	_	_	_	_	O
+21	ou	_	ou	CCON	_	93149	_	_	_	_	_	_	_	O
+22	até	_	atar	V	_	93149	_	_	_	_	_	_	_	O
+23	mesmo	_	mesmo	A	_	93149	_	_	_	_	_	_	_	O
+24	para	_	para	PREP	_	93149	_	_	_	_	_	_	_	O
+25	fazer	_	fazer	V	_	93149	_	_	_	_	_	_	_	O
+26	pequenas	_	pequeno	A	_	93149	_	_	_	_	_	_	_	O
+27	compras	_	compra	N	_	93149	_	_	_	_	_	_	_	O
+28	de	_	dar	V	_	93149	_	_	_	_	_	_	_	O
+29	artesanato	_	artesanato	N	_	93149	_	_	_	_	_	_	_	O
+30	produzido	_	produzir	V	_	93149	_	_	_	_	_	_	_	O
+31	na	_	no	PREP	_	93149	_	_	_	_	_	_	_	O
+32	região	_	região	N	_	93149	_	_	_	_	_	_	_	O
+33	,	_			_	93149	_	_	_	_	_	_	_	O
+34	como	_	comer	V	_	93149	_	_	_	_	_	_	_	O
+35	biojoias	_			_	93149	_	_	_	_	_	_	_	O
+36	,	_			_	93149	_	_	_	_	_	_	_	O
+37	marchetaria	_	marchetaria	N	_	93149	_	_	_	_	_	_	_	O
+38	e	_	ser	V	_	93149	_	_	_	_	_	_	_	O
+39	artefatos	_	artefato	N	_	93149	_	_	_	_	_	_	_	O
+40	em	_	em	PREP	_	93149	_	_	_	_	_	_	_	O
+41	sementes	_	semente	N	_	93149	_	_	_	_	_	_	_	O
+42	produzidos	_	produzir	V	_	93149	_	_	_	_	_	_	_	O
+43	por	_	por	PREP	_	93149	_	_	_	_	_	_	_	O
+44	artesãos	_	artesão	N	_	93149	_	_	_	_	_	_	_	O
+45	locais	_	local	A	_	93149	_	_	_	_	_	_	_	O
+46	.	_			_	93149	_	_	_	_	_	_	_	O
+
+# 56244 - O itinerário pode ter início na rua do Comércio, onde é possível fazer uma pausa para comer, beber ou até mesmo para fazer pequenas compras de artesanato produzido na região, como biojoias, marchetaria e artefatos em sementes produzidos por artesãos locais.
+1	O	_	o	ART	_	93149	_	_	_	_	_	_	_	O
+2	itinerário	_	itinerário	A	_	93149	_	_	_	_	_	_	_	O
+3	pode	_	poder	V	_	93149	_	_	_	_	_	_	_	O
+4	ter	_	ter	V	_	93149	_	_	_	_	_	_	_	O
+5	início	_	iniciar	V	_	93149	_	_	_	_	_	_	_	O
+6	na	_	no	PREP	_	93149	_	_	_	_	_	_	_	O
+7	rua	_	rua	N	_	93149	_	_	_	_	_	_	_	O
+8	do	_	de	PREP	_	93149	_	_	_	_	_	_	_	O
+9	Comércio	_	comerciar	V	_	93149	_	_	_	_	_	_	_	O
+10	,	_			_	93149	_	_	_	_	_	_	_	O
+11	onde	_	onde	ADV	_	93149	_	_	_	_	_	_	_	O
+12	é	_	ser	V	_	93149	_	_	_	_	_	_	_	O
+13	possível	_	possível	A	_	93149	_	_	_	_	_	_	_	O
+14	fazer	_	fazer	V	_	93149	_	_	_	_	_	_	_	O
+15	uma	_	um	A	_	93149	_	_	_	_	_	_	_	O
+16	pausa	_	pausa	N	_	93149	_	_	_	_	_	_	_	O
+17	para	_	para	PREP	_	93149	_	_	_	_	_	_	_	O
+18	comer	_	comer	V	_	93149	_	_	_	_	_	_	_	O
+19	,	_			_	93149	_	_	_	_	_	_	_	O
+20	beber	_	beber	V	_	93149	_	_	_	_	_	beber.v	Comer_e_beber	O
+21	ou	_	ou	CCON	_	93149	_	_	_	_	_	_	_	O
+22	até	_	atar	V	_	93149	_	_	_	_	_	_	_	O
+23	mesmo	_	mesmo	A	_	93149	_	_	_	_	_	_	_	O
+24	para	_	para	PREP	_	93149	_	_	_	_	_	_	_	O
+25	fazer	_	fazer	V	_	93149	_	_	_	_	_	_	_	O
+26	pequenas	_	pequeno	A	_	93149	_	_	_	_	_	_	_	O
+27	compras	_	compra	N	_	93149	_	_	_	_	_	_	_	O
+28	de	_	dar	V	_	93149	_	_	_	_	_	_	_	O
+29	artesanato	_	artesanato	N	_	93149	_	_	_	_	_	_	_	O
+30	produzido	_	produzir	V	_	93149	_	_	_	_	_	_	_	O
+31	na	_	no	PREP	_	93149	_	_	_	_	_	_	_	O
+32	região	_	região	N	_	93149	_	_	_	_	_	_	_	O
+33	,	_			_	93149	_	_	_	_	_	_	_	O
+34	como	_	comer	V	_	93149	_	_	_	_	_	_	_	O
+35	biojoias	_			_	93149	_	_	_	_	_	_	_	O
+36	,	_			_	93149	_	_	_	_	_	_	_	O
+37	marchetaria	_	marchetaria	N	_	93149	_	_	_	_	_	_	_	O
+38	e	_	ser	V	_	93149	_	_	_	_	_	_	_	O
+39	artefatos	_	artefato	N	_	93149	_	_	_	_	_	_	_	O
+40	em	_	em	PREP	_	93149	_	_	_	_	_	_	_	O
+41	sementes	_	semente	N	_	93149	_	_	_	_	_	_	_	O
+42	produzidos	_	produzir	V	_	93149	_	_	_	_	_	_	_	O
+43	por	_	por	PREP	_	93149	_	_	_	_	_	_	_	O
+44	artesãos	_	artesão	N	_	93149	_	_	_	_	_	_	_	O
+45	locais	_	local	A	_	93149	_	_	_	_	_	_	_	O
+46	.	_			_	93149	_	_	_	_	_	_	_	O
+
+# 56245 - O itinerário pode ter início na rua do Comércio, onde é possível fazer uma pausa para comer, beber ou até mesmo para fazer pequenas compras de artesanato produzido na região, como biojoias, marchetaria e artefatos em sementes produzidos por artesãos locais.
+1	O	_	o	ART	_	93149	_	_	_	_	_	_	_	O
+2	itinerário	_	itinerário	A	_	93149	_	_	_	_	_	_	_	O
+3	pode	_	poder	V	_	93149	_	_	_	_	_	_	_	O
+4	ter	_	ter	V	_	93149	_	_	_	_	_	_	_	O
+5	início	_	iniciar	V	_	93149	_	_	_	_	_	_	_	O
+6	na	_	no	PREP	_	93149	_	_	_	_	_	_	_	O
+7	rua	_	rua	N	_	93149	_	_	_	_	_	_	_	O
+8	do	_	de	PREP	_	93149	_	_	_	_	_	_	_	O
+9	Comércio	_	comerciar	V	_	93149	_	_	_	_	_	_	_	O
+10	,	_			_	93149	_	_	_	_	_	_	_	O
+11	onde	_	onde	ADV	_	93149	_	_	_	_	_	_	_	O
+12	é	_	ser	V	_	93149	_	_	_	_	_	_	_	O
+13	possível	_	possível	A	_	93149	_	_	_	_	_	_	_	O
+14	fazer	_	fazer	V	_	93149	_	_	_	_	_	_	_	O
+15	uma	_	um	A	_	93149	_	_	_	_	_	_	_	O
+16	pausa	_	pausa	N	_	93149	_	_	_	_	_	_	_	O
+17	para	_	para	PREP	_	93149	_	_	_	_	_	_	_	O
+18	comer	_	comer	V	_	93149	_	_	_	_	_	_	_	O
+19	,	_			_	93149	_	_	_	_	_	_	_	O
+20	beber	_	beber	V	_	93149	_	_	_	_	_	_	_	O
+21	ou	_	ou	CCON	_	93149	_	_	_	_	_	_	_	O
+22	até	_	atar	V	_	93149	_	_	_	_	_	_	_	O
+23	mesmo	_	mesmo	A	_	93149	_	_	_	_	_	_	_	O
+24	para	_	para	PREP	_	93149	_	_	_	_	_	_	_	O
+25	fazer	_	fazer	V	_	93149	_	_	_	_	_	_	_	O
+26	pequenas	_	pequeno	A	_	93149	_	_	_	_	_	_	_	O
+27	compras	_	compra	N	_	93149	_	_	_	_	_	compras.n	Fazer_compras	O
+28	de	_	dar	V	_	93149	_	_	_	_	_	_	_	B-Mercadorias
+29	artesanato	_	artesanato	N	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+30	produzido	_	produzir	V	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+31	na	_	no	PREP	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+32	região	_	região	N	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+33	,	_			_	93149	_	_	_	_	_	_	_	I-Mercadorias
+34	como	_	comer	V	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+35	biojoias	_			_	93149	_	_	_	_	_	_	_	I-Mercadorias
+36	,	_			_	93149	_	_	_	_	_	_	_	I-Mercadorias
+37	marchetaria	_	marchetaria	N	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+38	e	_	ser	V	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+39	artefatos	_	artefato	N	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+40	em	_	em	PREP	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+41	sementes	_	semente	N	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+42	produzidos	_	produzir	V	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+43	por	_	por	PREP	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+44	artesãos	_	artesão	N	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+45	locais	_	local	A	_	93149	_	_	_	_	_	_	_	I-Mercadorias
+46	.	_			_	93149	_	_	_	_	_	_	_	O
+
+# 56246 - O itinerário também pode incluir um passeio pelas margens do rio.
+1	O	_	o	ART	_	93151	_	_	_	_	_	_	_	O
+2	itinerário	_	itinerário	A	_	93151	_	_	_	_	_	_	_	O
+3	também	_	também	ADV	_	93151	_	_	_	_	_	_	_	O
+4	pode	_	poder	V	_	93151	_	_	_	_	_	_	_	O
+5	incluir	_	incluir	V	_	93151	_	_	_	_	_	_	_	O
+6	um	_	um	A	_	93151	_	_	_	_	_	_	_	O
+7	passeio	_	passear	V	_	93151	_	_	_	_	_	passeio.n	Deslocar-se	O
+8	pelas	_	péla	N	_	93151	_	_	_	_	_	_	_	B-Área
+9	margens	_	margem	N	_	93151	_	_	_	_	_	_	_	I-Área
+10	do	_	de	PREP	_	93151	_	_	_	_	_	_	_	I-Área
+11	rio	_	rio	N	_	93151	_	_	_	_	_	_	_	I-Área
+12	.	_			_	93151	_	_	_	_	_	_	_	O
+
+# 56247 - Passeio Pelos seringais.
+1	Passeio	_	passear	V	_	93152	_	_	_	_	_	passeio.n	Deslocar-se	O
+2	Pelos	_	pêlo	N	_	93152	_	_	_	_	_	_	_	B-Área
+3	seringais	_	seringal	N	_	93152	_	_	_	_	_	_	_	I-Área
+4	.	_			_	93152	_	_	_	_	_	_	_	O
+
+# 56248 - Se preferir realizar o passeio acompanhado por um guia, contate uma das agências de turismo da cidade.
+1	Se	_	ser	V	_	93154	_	_	_	_	_	_	_	O
+2	preferir	_	preferir	V	_	93154	_	_	_	_	_	_	_	O
+3	realizar	_	realizar	V	_	93154	_	_	_	_	_	_	_	O
+4	o	_	o	ART	_	93154	_	_	_	_	_	_	_	O
+5	passeio	_	passear	V	_	93154	_	_	_	_	_	passeio.n	Deslocar-se	O
+6	acompanhado	_	acompanhado	A	_	93154	_	_	_	_	_	_	_	B-Acompanhante
+7	por	_	por	PREP	_	93154	_	_	_	_	_	_	_	I-Acompanhante
+8	um	_	um	A	_	93154	_	_	_	_	_	_	_	I-Acompanhante
+9	guia	_	guia	A	_	93154	_	_	_	_	_	_	_	I-Acompanhante
+10	,	_			_	93154	_	_	_	_	_	_	_	O
+11	contate	_	contatar	V	_	93154	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	93154	_	_	_	_	_	_	_	O
+13	das	_	dar	V	_	93154	_	_	_	_	_	_	_	O
+14	agências	_	agenciar	V	_	93154	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	93154	_	_	_	_	_	_	_	O
+16	turismo	_	turismo	N	_	93154	_	_	_	_	_	_	_	O
+17	da	_	dar	V	_	93154	_	_	_	_	_	_	_	O
+18	cidade	_	cidade	N	_	93154	_	_	_	_	_	_	_	O
+19	.	_			_	93154	_	_	_	_	_	_	_	O
+
+# 56249 - Se preferir realizar o passeio acompanhado por um guia, contate uma das agências de turismo da cidade.
+1	Se	_	ser	V	_	93154	_	_	_	_	_	_	_	O
+2	preferir	_	preferir	V	_	93154	_	_	_	_	_	_	_	O
+3	realizar	_	realizar	V	_	93154	_	_	_	_	_	_	_	O
+4	o	_	o	ART	_	93154	_	_	_	_	_	_	_	O
+5	passeio	_	passear	V	_	93154	_	_	_	_	_	_	_	O
+6	acompanhado	_	acompanhado	A	_	93154	_	_	_	_	_	_	_	O
+7	por	_	por	PREP	_	93154	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	93154	_	_	_	_	_	_	_	O
+9	guia	_	guia	A	_	93154	_	_	_	_	_	_	_	O
+10	,	_			_	93154	_	_	_	_	_	_	_	O
+11	contate	_	contatar	V	_	93154	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	93154	_	_	_	_	_	_	_	O
+13	das	_	dar	V	_	93154	_	_	_	_	_	_	_	O
+14	agências	_	agenciar	V	_	93154	_	_	_	_	_	agência.n	Negócios	O
+15	de	_	dar	V	_	93154	_	_	_	_	_	_	_	B-Product
+16	turismo	_	turismo	N	_	93154	_	_	_	_	_	_	_	I-Product
+17	da	_	dar	V	_	93154	_	_	_	_	_	_	_	B-Place
+18	cidade	_	cidade	N	_	93154	_	_	_	_	_	_	_	I-Place
+19	.	_			_	93154	_	_	_	_	_	_	_	O
+
+# 56250 - Se preferir realizar o passeio acompanhado por um guia, contate uma das agências de turismo da cidade.
+1	Se	_	ser	V	_	93154	_	_	_	_	_	_	_	O
+2	preferir	_	preferir	V	_	93154	_	_	_	_	_	_	_	O
+3	realizar	_	realizar	V	_	93154	_	_	_	_	_	_	_	O
+4	o	_	o	ART	_	93154	_	_	_	_	_	_	_	O
+5	passeio	_	passear	V	_	93154	_	_	_	_	_	_	_	O
+6	acompanhado	_	acompanhado	A	_	93154	_	_	_	_	_	_	_	O
+7	por	_	por	PREP	_	93154	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	93154	_	_	_	_	_	_	_	O
+9	guia	_	guia	A	_	93154	_	_	_	_	_	_	_	O
+10	,	_			_	93154	_	_	_	_	_	_	_	O
+11	contate	_	contatar	V	_	93154	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	93154	_	_	_	_	_	_	_	O
+13	das	_	dar	V	_	93154	_	_	_	_	_	_	_	O
+14	agências	_	agenciar	V	_	93154	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	93154	_	_	_	_	_	_	_	O
+16	turismo	_	turismo	N	_	93154	_	_	_	_	_	turismo.n	Cenário_do_turismo	O
+17	da	_	dar	V	_	93154	_	_	_	_	_	_	_	B-Lugar
+18	cidade	_	cidade	N	_	93154	_	_	_	_	_	_	_	I-Lugar
+19	.	_			_	93154	_	_	_	_	_	_	_	O
+
+# 40690 - A pousada localizada no seringal também oferece visitas guiadas.
+1	A	_	a	PREP	_	93155	_	_	_	_	_	_	_	B-Operadora
+2	pousada	_	pousado	A	_	93155	_	_	_	_	_	_	_	I-Operadora
+3	localizada	_	localizar	V	_	93155	_	_	_	_	_	_	_	I-Operadora
+4	no	_	nó	N	_	93155	_	_	_	_	_	_	_	I-Operadora
+5	seringal	_	seringal	N	_	93155	_	_	_	_	_	_	_	I-Operadora
+6	também	_	também	ADV	_	93155	_	_	_	_	_	_	_	B-Manner
+7	oferece	_	oferecer	V	_	93155	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+8	visitas	_	visitar	V	_	93155	_	_	_	_	_	_	_	B-Serviço_turístico
+9	guiadas	_	guiado	A	_	93155	_	_	_	_	_	_	_	I-Serviço_turístico
+10	.	_			_	93155	_	_	_	_	_	_	_	O
+
+# 57934 - A pousada localizada no seringal também oferece visitas guiadas.
+1	A	_	a	PREP	_	93155	_	_	_	_	_	_	_	O
+2	pousada	_	pousado	A	_	93155	_	_	_	_	_	_	_	O
+3	localizada	_	localizar	V	_	93155	_	_	_	_	_	_	_	O
+4	no	_	nó	N	_	93155	_	_	_	_	_	_	_	O
+5	seringal	_	seringal	N	_	93155	_	_	_	_	_	_	_	O
+6	também	_	também	ADV	_	93155	_	_	_	_	_	_	_	O
+7	oferece	_	oferecer	V	_	93155	_	_	_	_	_	_	_	O
+8	visitas	_	visitar	V	_	93155	_	_	_	_	_	visita.n	Fazer_turismo	O
+9	guiadas	_	guiado	A	_	93155	_	_	_	_	_	_	_	B-Maneira
+10	.	_			_	93155	_	_	_	_	_	_	_	O
+
+# 56251 - Em Xapuri é possível visitar os seringais para ver a extração do látex.
+1	Em	_	em	PREP	_	93156	_	_	_	_	_	_	_	O
+2	Xapuri	_	xapuri	N	_	93156	_	_	_	_	_	_	_	O
+3	é	_	ser	V	_	93156	_	_	_	_	_	_	_	O
+4	possível	_	possível	A	_	93156	_	_	_	_	_	_	_	O
+5	visitar	_	visitar	V	_	93156	_	_	_	_	_	visitar.v	Turismo	O
+6	os	_	o	ART	_	93156	_	_	_	_	_	_	_	B-Atração
+7	seringais	_	seringal	N	_	93156	_	_	_	_	_	_	_	I-Atração
+8	para	_	para	PREP	_	93156	_	_	_	_	_	_	_	B-Finalidade
+9	ver	_	ver	V	_	93156	_	_	_	_	_	_	_	I-Finalidade
+10	a	_	a	PREP	_	93156	_	_	_	_	_	_	_	I-Finalidade
+11	extração	_	extração	N	_	93156	_	_	_	_	_	_	_	I-Finalidade
+12	do	_	de	PREP	_	93156	_	_	_	_	_	_	_	I-Finalidade
+13	látex	_	látex	N	_	93156	_	_	_	_	_	_	_	I-Finalidade
+14	.	_			_	93156	_	_	_	_	_	_	_	O
+

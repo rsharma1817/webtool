@@ -1,0 +1,3046 @@
+# 57185 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	116171	_	_	_	_	_	século.n	Calendric_unit#	O
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	B-Name
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	O
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	O
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	O
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	O
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	O
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	O
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	O
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	O
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57187 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	início.n	Temporal_subregion#	O
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	B-Time_period
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	I-Time_period
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	O
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	O
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	O
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	O
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	O
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	O
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	O
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	O
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	O
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57188 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	O
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	O
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	116171	_	_	_	_	_	terra.n	Locais_políticos	O
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	B-Descrição
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	I-Descrição
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	I-Descrição
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	I-Descrição
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	I-Descrição
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	I-Descrição
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	I-Descrição
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	I-Descrição
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	O
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57189 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	B-Duração
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	I-Duração
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	I-Duração
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	I-Duração
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	I-Duração
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	I-Duração
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	B-Posse
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	I-Posse
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	I-Posse
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	I-Posse
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	I-Posse
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	I-Posse
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	I-Posse
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	I-Posse
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	I-Posse
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	I-Posse
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	pertencer.v	Posse	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	B-Possuidor
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	I-Possuidor
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	I-Possuidor
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	I-Possuidor
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	I-Possuidor
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57790 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	O
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	O
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	B-Trajector_event
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	I-Trajector_event
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	B-Trajector_event
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+12	em	_	em	PREP	_	116171	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+13	dia	_	dia	N	_	116171	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	B-Trajector_event
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	I-Trajector_event
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	I-Trajector_event
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	I-Trajector_event
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	O
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57971 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	até.prep	Time_vector#	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	B-Landmark_event
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	I-Landmark_event
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	I-Landmark_event
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	I-Landmark_event
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	I-Landmark_event
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	B-Event
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	I-Event
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	I-Event
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	I-Event
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	I-Event
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	I-Event
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	I-Event
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	I-Event
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	I-Event
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	I-Event
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	I-Event
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	I-Event
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	I-Event
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	I-Event
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	I-Event
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	I-Event
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57972 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	B-Subset
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	I-Subset
+4	do	_	de	PREP	_	116171	_	_	_	_	_	de.prep	Partitive#	O
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	B-Group
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	I-Group
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	O
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	O
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	O
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	O
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	O
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	116171	_	_	_	_	_	_	_	O
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	O
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	O
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	O
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57973 - Até o início do século 20, as terras que hoje em dia fazem parte de Acre pertenciam à Bolívia e ao Peru.
+1	Até	_	atar	V	_	116171	_	_	_	_	_	_	_	O
+2	o	_	o	ART	_	116171	_	_	_	_	_	_	_	O
+3	início	_	iniciar	V	_	116171	_	_	_	_	_	_	_	O
+4	do	_	de	PREP	_	116171	_	_	_	_	_	_	_	O
+5	século	_	século	N	_	116171	_	_	_	_	_	_	_	O
+6	20	_	twenty	N	_	116171	_	_	_	_	_	_	_	O
+7	,	_			_	116171	_	_	_	_	_	_	_	O
+8	as	_	a	PREP	_	116171	_	_	_	_	_	_	_	B-Parte
+9	terras	_	terra	N	_	116171	_	_	_	_	_	_	_	I-Parte
+10	que	_	que	ADV	_	116171	_	_	_	_	_	_	_	B-Parte
+11	hoje	_	hoje	ADV	_	116171	_	_	_	_	_	_	_	B-Tempo
+12	em	_	em	PREP	_	116171	_	_	_	_	_	_	_	I-Tempo
+13	dia	_	dia	N	_	116171	_	_	_	_	_	_	_	I-Tempo
+14	fazem	_	fazer	V	_	116171	_	_	_	_	_	_	_	O
+15	parte	_	parte	N	_	116171	_	_	_	_	_	parte.n	Parte_todo	O
+16	de	_	dar	V	_	116171	_	_	_	_	_	_	_	B-Todo
+17	Acre	_	acre	N	_	116171	_	_	_	_	_	_	_	I-Todo
+18	pertenciam	_	pertencer	V	_	116171	_	_	_	_	_	_	_	O
+19	à	_	a	PREP	_	116171	_	_	_	_	_	_	_	O
+20	Bolívia	_	bolívia	N	_	116171	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116171	_	_	_	_	_	_	_	O
+22	ao	_	ao	PREP	_	116171	_	_	_	_	_	_	_	O
+23	Peru	_	peru	N	_	116171	_	_	_	_	_	_	_	O
+24	.	_			_	116171	_	_	_	_	_	_	_	O
+
+# 57190 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	invasão.n	Invading#	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	B-Manner
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	B-Invader
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	I-Invader
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	B-Land
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	I-Land
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	I-Land
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	O
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	O
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57192 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Agente
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Agente
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	passar.v	Atividade_iniciar	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Atividade
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	I-Atividade
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	I-Atividade
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	I-Atividade
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	I-Atividade
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	I-Atividade
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	I-Atividade
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	I-Atividade
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	I-Atividade
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	I-Atividade
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	B-Lugar
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Lugar
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Lugar
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57193 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Obligator
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Obligator
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	exigir.v	Imposing_obligation#	O
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	B-Duty
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	I-Duty
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	I-Duty
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	I-Duty
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	I-Duty
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	I-Duty
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	I-Duty
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	I-Duty
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	I-Duty
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Duty
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Duty
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57194 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Nome
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Nome
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	116172	_	_	_	_	_	terra.n	Locais_políticos	O
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57592 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Reason
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	I-Reason
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	I-Reason
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	I-Reason
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	I-Reason
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Buyer
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Buyer
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	B-Manner
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	I-Manner
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	I-Manner
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	pagamento.n	Comércio_pagar	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	B-Rate
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	I-Rate
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	B-Goods
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	I-Goods
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	I-Goods
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	I-Goods
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	B-Place
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Place
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Place
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57630 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Descriptor
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Descriptor
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	I-Descriptor
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	I-Descriptor
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	I-Descriptor
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	I-Descriptor
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	I-Descriptor
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	I-Descriptor
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	I-Descriptor
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	I-Descriptor
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	I-Descriptor
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	látex.n	Substance#	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	B-Source
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Source
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Source
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57652 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Seller
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Seller
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	B-Manner
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	I-Manner
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	I-Manner
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	imposto.n	Comércio_pagar	O
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	B-Goods
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	I-Goods
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	I-Goods
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	I-Goods
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	B-Place
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Place
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Place
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57792 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	brasileiro.n	Pessoas_por_origem	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	O
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	O
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57793 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Comparison_event
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	I-Comparison_event
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	progressivo.a	Manner#	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	B-Salient_entity
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	I-Salient_entity
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	O
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	O
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57794 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	território.n	Local	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	B-Nome
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	O
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	O
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	O
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	O
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	O
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	O
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	B-Local
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Local
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Local
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57795 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Cause
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	I-Cause
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	I-Cause
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	I-Cause
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	I-Cause
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	B-Place
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	I-Place
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	I-Place
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	fazer com que.v	Causation#	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	fazer com que.v	Causation#	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	fazer com que.v	Causation#	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Effect
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Effect
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	B-Effect
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	I-Effect
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	I-Effect
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	I-Effect
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	I-Effect
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	I-Effect
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	I-Effect
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	B-Effect
+22	extração	_	extração	N	_	116172	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	O
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	O
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	O
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	O
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57796 - A invasão progressiva dos brasileiros no território boliviano fez com que a Bolívia passasse a exigir o pagamento de impostos pela extração do látex nas suas terras.
+1	A	_	a	PREP	_	116172	_	_	_	_	_	_	_	O
+2	invasão	_	invasão	N	_	116172	_	_	_	_	_	_	_	O
+3	progressiva	_	progressivo	A	_	116172	_	_	_	_	_	_	_	O
+4	dos	_	de	PREP	_	116172	_	_	_	_	_	_	_	O
+5	brasileiros	_	brasileiro	A	_	116172	_	_	_	_	_	_	_	O
+6	no	_	nó	N	_	116172	_	_	_	_	_	_	_	O
+7	território	_	território	N	_	116172	_	_	_	_	_	_	_	O
+8	boliviano	_	boliviano	A	_	116172	_	_	_	_	_	_	_	O
+9	fez	_	fazer	V	_	116172	_	_	_	_	_	_	_	O
+10	com	_	com	PREP	_	116172	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116172	_	_	_	_	_	_	_	O
+12	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	B-Outcome
+13	Bolívia	_	bolívia	N	_	116172	_	_	_	_	_	_	_	I-Outcome
+14	passasse	_	passar	V	_	116172	_	_	_	_	_	_	_	I-Outcome
+15	a	_	a	PREP	_	116172	_	_	_	_	_	_	_	I-Outcome
+16	exigir	_	exigir	V	_	116172	_	_	_	_	_	_	_	I-Outcome
+17	o	_	o	ART	_	116172	_	_	_	_	_	_	_	I-Outcome
+18	pagamento	_	pagamento	N	_	116172	_	_	_	_	_	_	_	I-Outcome
+19	de	_	dar	V	_	116172	_	_	_	_	_	_	_	I-Outcome
+20	impostos	_	imposto	A	_	116172	_	_	_	_	_	_	_	I-Outcome
+21	pela	_	péla	N	_	116172	_	_	_	_	_	_	_	O
+22	extração	_	extração	N	_	116172	_	_	_	_	_	extração.n	Mining#	O
+23	do	_	de	PREP	_	116172	_	_	_	_	_	_	_	B-Resource
+24	látex	_	látex	N	_	116172	_	_	_	_	_	_	_	I-Resource
+25	nas	_	no	PREP	_	116172	_	_	_	_	_	_	_	B-Source
+26	suas	_	sua	A	_	116172	_	_	_	_	_	_	_	I-Source
+27	terras	_	terra	N	_	116172	_	_	_	_	_	_	_	I-Source
+28	.	_			_	116172	_	_	_	_	_	_	_	O
+
+# 57195 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	B-Salient_event
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	I-Salient_event
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Salient_event
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	I-Salient_event
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	I-Salient_event
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	I-Salient_event
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	em.prep	Location_in_time#	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	B-Unit
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57196 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	B-Causa
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	I-Causa
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Causa
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	I-Causa
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	I-Causa
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	I-Causa
+7	,	_			_	116173	_	_	_	_	_	_	_	I-Causa
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	B-Tempo
+9	1903	_			_	116173	_	_	_	_	_	_	_	I-Tempo
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	terminar.v	Causar_terminar	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	B-Processo
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	I-Processo
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	I-Processo
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57197 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	B-Entidade
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	I-Entidade
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	conhecido.a	Ser_nomeado	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	B-Nome
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	I-Nome
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	I-Nome
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57198 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	revolução.n	Revolution#	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	B-Place
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57199 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	B-Descriptor
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	I-Descriptor
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	I-Descriptor
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	venda.n	Negócios	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	B-Product
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	I-Product
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Product
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	I-Product
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	B-Proprietor
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	I-Proprietor
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57604 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	assinatura.n	Sign_agreement#	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	B-Agreement
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	I-Agreement
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	I-Agreement
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	I-Agreement
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	B-Time
+9	1903	_			_	116173	_	_	_	_	_	_	_	I-Time
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57607 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	tratado.n	Documentos	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	B-Especificação
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	I-Especificação
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57611 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	conflito.n	Hostile_encounter#	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	O
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	O
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57616 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	B-Role
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	I-Role
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	I-Role
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	I-Role
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	O
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	acordo.n	Sign_agreement#	O
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	B-Agreement
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	I-Agreement
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Agreement
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	I-Agreement
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Agreement
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	I-Agreement
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	B-Beneficiary
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	I-Beneficiary
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57622 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	B-Controlling_entity
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	I-Controlling_entity
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	determinar.v	Control#	O
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	B-Dependent_situation
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	I-Dependent_situation
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Dependent_situation
+28	território	_	território	N	_	116173	_	_	_	_	_	_	_	I-Dependent_situation
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	I-Dependent_situation
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	I-Dependent_situation
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	O
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	O
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57813 - A assinatura do Tratado de Petrópolis, em 1903, terminou com os conflitos – conhecidos como Revolução Acreana – e um acordo determinou a venda do território do Acre ao Brasil.
+1	A	_	a	PREP	_	116173	_	_	_	_	_	_	_	O
+2	assinatura	_	assinatura	N	_	116173	_	_	_	_	_	_	_	O
+3	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+4	Tratado	_	tratado	A	_	116173	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116173	_	_	_	_	_	_	_	O
+6	Petrópolis	_	petrópolis	N	_	116173	_	_	_	_	_	_	_	O
+7	,	_			_	116173	_	_	_	_	_	_	_	O
+8	em	_	em	PREP	_	116173	_	_	_	_	_	_	_	O
+9	1903	_			_	116173	_	_	_	_	_	_	_	O
+10	,	_			_	116173	_	_	_	_	_	_	_	O
+11	terminou	_	terminar	V	_	116173	_	_	_	_	_	_	_	O
+12	com	_	com	PREP	_	116173	_	_	_	_	_	_	_	O
+13	os	_	o	ART	_	116173	_	_	_	_	_	_	_	O
+14	conflitos	_	conflito	N	_	116173	_	_	_	_	_	_	_	O
+15	?	_			_	116173	_	_	_	_	_	_	_	O
+16	conhecidos	_	conhecido	A	_	116173	_	_	_	_	_	_	_	O
+17	como	_	comer	V	_	116173	_	_	_	_	_	_	_	O
+18	Revolução	_	revolução	N	_	116173	_	_	_	_	_	_	_	O
+19	Acreana	_	acreano	A	_	116173	_	_	_	_	_	_	_	O
+20	?	_			_	116173	_	_	_	_	_	_	_	O
+21	e	_	ser	V	_	116173	_	_	_	_	_	_	_	O
+22	um	_	um	A	_	116173	_	_	_	_	_	_	_	B-Causa_formacional
+23	acordo	_	acordar	V	_	116173	_	_	_	_	_	_	_	I-Causa_formacional
+24	determinou	_	determinar	V	_	116173	_	_	_	_	_	_	_	I-Causa_formacional
+25	a	_	a	PREP	_	116173	_	_	_	_	_	_	_	I-Causa_formacional
+26	venda	_	venda	N	_	116173	_	_	_	_	_	_	_	I-Causa_formacional
+27	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	O
+28	território	_	território	N	_	116173	_	_	_	_	_	território.n	Local	O
+29	do	_	de	PREP	_	116173	_	_	_	_	_	_	_	B-Local
+30	Acre	_	acre	N	_	116173	_	_	_	_	_	_	_	I-Local
+31	ao	_	ao	PREP	_	116173	_	_	_	_	_	_	_	B-Recipiente_possuidor
+32	Brasil	_	brasil	A	_	116173	_	_	_	_	_	_	_	I-Recipiente_possuidor
+33	.	_			_	116173	_	_	_	_	_	_	_	O
+
+# 57200 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	B-Total
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	I-Total
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	I-Total
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	B-Total
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	incluir.v	Inclusão	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	B-Parte
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	I-Parte
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Parte
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	I-Parte
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	I-Parte
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	I-Parte
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57201 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	tradição.n	Custom#	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	B-Protagonist
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	I-Protagonist
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57202 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	começar.v	Processo_iniciar	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	B-Evento
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	I-Evento
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Evento
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	I-Evento
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	I-Evento
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	I-Evento
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	I-Evento
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	I-Evento
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	I-Evento
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Evento
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	I-Evento
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57203 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	B-Criador
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	B-Criador
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	criar.v	Criar	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	B-Entidade_criada
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	I-Entidade_criada
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57204 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	B-Nome
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	I-Nome
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	região.n	Local	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57623 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	B-Tempo
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	I-Tempo
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	I-Tempo
+4	,	_			_	116174	_	_	_	_	_	_	_	I-Tempo
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	B-Agente
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	I-Agente
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	seguir.v	Adotar_seleção	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	B-Valor
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	I-Valor
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	I-Valor
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	I-Valor
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	I-Valor
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Valor
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	I-Valor
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Valor
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	I-Valor
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	I-Valor
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57624 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	modelo.n	Exemplar#	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	B-Type
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57625 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	B-Political_region
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	I-Political_region
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	B-Economy
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	econômico.a	Economy#	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	B-Descriptor
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	I-Descriptor
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Descriptor
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	I-Descriptor
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Descriptor
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	I-Descriptor
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	I-Descriptor
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	I-Descriptor
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	I-Descriptor
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Descriptor
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	I-Descriptor
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Descriptor
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	I-Descriptor
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	I-Descriptor
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	I-Descriptor
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57627 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	B-Factor
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	I-Factor
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	I-Factor
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	B-Factor
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	privilegiar.v	Importance#	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	B-Undertaking
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	I-Undertaking
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Undertaking
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	I-Undertaking
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57628 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	exploração.n	Mining#	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	B-Resource
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	I-Resource
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57629 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	madeira.n	Substance#	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57633 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	B-Action
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	I-Action
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	B-Object
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	certificado.a	Legality#	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57634 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	preservação.n	Preserving#	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	B-Undergoer
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	I-Undergoer
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	I-Undergoer
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	I-Undergoer
+26	,	_			_	116174	_	_	_	_	_	_	_	I-Undergoer
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57637 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	condição.n	State_of_entity#	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	B-State
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57638 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	crescimento.n	Cause_expansion#	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57639 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	B-Dependente
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	necessário.a	Ser_necessário	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57803 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	hoje em dia.adv	Temporal_collocation#	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	B-Event_description
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	I-Event_description
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	I-Event_description
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	I-Event_description
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	I-Event_description
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	I-Event_description
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	I-Event_description
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	I-Event_description
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Event_description
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	I-Event_description
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Event_description
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	I-Event_description
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	I-Event_description
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	I-Event_description
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	I-Event_description
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Event_description
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	I-Event_description
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Event_description
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	I-Event_description
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	I-Event_description
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	I-Event_description
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57814 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	O
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	O
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	O
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	O
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	O
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	O
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	O
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	O
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	O
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	nativo.n	Indigenous_origin#	O
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	_	_	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	O
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	O
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	O
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	O
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	O
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	O
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	O
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	O
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	O
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	O
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	O
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57815 - Hoje em dia, o Acre segue um modelo econômico que privilegia a exploração de madeira certificada e inclui a preservação das tradições dos nativos, medidas que começam a criar as condições necessárias para o crescimento racional da região.
+1	Hoje	_	hoje	ADV	_	116174	_	_	_	_	_	_	_	O
+2	em	_	em	PREP	_	116174	_	_	_	_	_	_	_	O
+3	dia	_	dia	N	_	116174	_	_	_	_	_	_	_	O
+4	,	_			_	116174	_	_	_	_	_	_	_	O
+5	o	_	o	ART	_	116174	_	_	_	_	_	_	_	O
+6	Acre	_	acre	N	_	116174	_	_	_	_	_	_	_	O
+7	segue	_	seguir	V	_	116174	_	_	_	_	_	_	_	O
+8	um	_	um	A	_	116174	_	_	_	_	_	_	_	B-Cause
+9	modelo	_	modelo	N	_	116174	_	_	_	_	_	_	_	I-Cause
+10	econômico	_	económico	A	_	116174	_	_	_	_	_	_	_	I-Cause
+11	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	I-Cause
+12	privilegia	_	privilegiar	V	_	116174	_	_	_	_	_	_	_	I-Cause
+13	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Cause
+14	exploração	_	exploração	N	_	116174	_	_	_	_	_	_	_	I-Cause
+15	de	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Cause
+16	madeira	_	madeira	N	_	116174	_	_	_	_	_	_	_	I-Cause
+17	certificada	_	certificado	A	_	116174	_	_	_	_	_	_	_	I-Cause
+18	e	_	ser	V	_	116174	_	_	_	_	_	_	_	I-Cause
+19	inclui	_	incluir	V	_	116174	_	_	_	_	_	_	_	I-Cause
+20	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Cause
+21	preservação	_	preservação	N	_	116174	_	_	_	_	_	_	_	I-Cause
+22	das	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Cause
+23	tradições	_	tradição	N	_	116174	_	_	_	_	_	_	_	I-Cause
+24	dos	_	de	PREP	_	116174	_	_	_	_	_	_	_	I-Cause
+25	nativos	_	nativo	A	_	116174	_	_	_	_	_	_	_	I-Cause
+26	,	_			_	116174	_	_	_	_	_	_	_	O
+27	medidas	_	medido	A	_	116174	_	_	_	_	_	medida.n	Causation#	O
+28	que	_	que	ADV	_	116174	_	_	_	_	_	_	_	B-Cause
+29	começam	_	começar	V	_	116174	_	_	_	_	_	_	_	B-Effect
+30	a	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Effect
+31	criar	_	criar	V	_	116174	_	_	_	_	_	_	_	I-Effect
+32	as	_	a	PREP	_	116174	_	_	_	_	_	_	_	I-Effect
+33	condições	_	condição	N	_	116174	_	_	_	_	_	_	_	I-Effect
+34	necessárias	_	necessário	A	_	116174	_	_	_	_	_	_	_	I-Effect
+35	para	_	para	PREP	_	116174	_	_	_	_	_	_	_	I-Effect
+36	o	_	o	ART	_	116174	_	_	_	_	_	_	_	I-Effect
+37	crescimento	_	crescimento	N	_	116174	_	_	_	_	_	_	_	I-Effect
+38	racional	_	racional	A	_	116174	_	_	_	_	_	_	_	I-Effect
+39	da	_	dar	V	_	116174	_	_	_	_	_	_	_	I-Effect
+40	região	_	região	N	_	116174	_	_	_	_	_	_	_	I-Effect
+41	.	_			_	116174	_	_	_	_	_	_	_	O
+
+# 57206 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	116175	_	_	_	_	_	_	_	B-Lugar
+2	Branco	_	branco	A	_	116175	_	_	_	_	_	_	_	I-Lugar
+3	oferece	_	oferecer	V	_	116175	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	116175	_	_	_	_	_	infraestrutura.n	Infraestrutura	O
+5	de	_	dar	V	_	116175	_	_	_	_	_	_	_	B-Tipo
+6	hospedagem	_	hospedagem	N	_	116175	_	_	_	_	_	_	_	I-Tipo
+7	adequadas	_	adequado	A	_	116175	_	_	_	_	_	_	_	B-Finalidade
+8	à	_	a	PREP	_	116175	_	_	_	_	_	_	_	I-Finalidade
+9	recepção	_	recepção	N	_	116175	_	_	_	_	_	_	_	I-Finalidade
+10	de	_	dar	V	_	116175	_	_	_	_	_	_	_	I-Finalidade
+11	turistas	_	turista	A	_	116175	_	_	_	_	_	_	_	I-Finalidade
+12	.	_			_	116175	_	_	_	_	_	_	_	O
+
+# 57207 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	116175	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116175	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	116175	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	116175	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116175	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	116175	_	_	_	_	_	hospedagem domiciliar.n	Acomodação	O
+7	adequadas	_	adequado	A	_	116175	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	116175	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	116175	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	116175	_	_	_	_	_	_	_	B-Turista
+11	turistas	_	turista	A	_	116175	_	_	_	_	_	_	_	I-Turista
+12	.	_			_	116175	_	_	_	_	_	_	_	O
+
+# 57640 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	116175	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116175	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	116175	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	116175	_	_	_	_	_	_	_	B-Item
+5	de	_	dar	V	_	116175	_	_	_	_	_	_	_	I-Item
+6	hospedagem	_	hospedagem	N	_	116175	_	_	_	_	_	_	_	I-Item
+7	adequadas	_	adequado	A	_	116175	_	_	_	_	_	adequado.a	Suficiência	O
+8	à	_	a	PREP	_	116175	_	_	_	_	_	_	_	B-Situação_habilitada
+9	recepção	_	recepção	N	_	116175	_	_	_	_	_	_	_	I-Situação_habilitada
+10	de	_	dar	V	_	116175	_	_	_	_	_	_	_	I-Situação_habilitada
+11	turistas	_	turista	A	_	116175	_	_	_	_	_	_	_	I-Situação_habilitada
+12	.	_			_	116175	_	_	_	_	_	_	_	O
+
+# 57641 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	116175	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116175	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	116175	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	116175	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116175	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	116175	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	116175	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	116175	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	116175	_	_	_	_	_	recepção.n	Social_event#	O
+10	de	_	dar	V	_	116175	_	_	_	_	_	_	_	B-Attendee
+11	turistas	_	turista	A	_	116175	_	_	_	_	_	_	_	I-Attendee
+12	.	_			_	116175	_	_	_	_	_	_	_	O
+
+# 58018 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	116175	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116175	_	_	_	_	_	_	_	O
+3	oferece	_	oferecer	V	_	116175	_	_	_	_	_	_	_	O
+4	infraestruturas	_	infra-estrutura	N	_	116175	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116175	_	_	_	_	_	_	_	O
+6	hospedagem	_	hospedagem	N	_	116175	_	_	_	_	_	_	_	O
+7	adequadas	_	adequado	A	_	116175	_	_	_	_	_	_	_	O
+8	à	_	a	PREP	_	116175	_	_	_	_	_	_	_	O
+9	recepção	_	recepção	N	_	116175	_	_	_	_	_	_	_	O
+10	de	_	dar	V	_	116175	_	_	_	_	_	_	_	O
+11	turistas	_	turista	A	_	116175	_	_	_	_	_	turista.n	Pessoas_por_atividade_de_lazer	O
+12	.	_			_	116175	_	_	_	_	_	_	_	O
+
+# 59864 - Rio Branco oferece infraestruturas de hospedagem adequadas à recepção de turistas.
+1	Rio	_	rio	N	_	116175	_	_	_	_	_	_	_	B-Operadora
+2	Branco	_	branco	A	_	116175	_	_	_	_	_	_	_	I-Operadora
+3	oferece	_	oferecer	V	_	116175	_	_	_	_	_	oferecer.v	Serviço_turístico_vender	O
+4	infraestruturas	_	infra-estrutura	N	_	116175	_	_	_	_	_	_	_	B-Serviço_turístico
+5	de	_	dar	V	_	116175	_	_	_	_	_	_	_	I-Serviço_turístico
+6	hospedagem	_	hospedagem	N	_	116175	_	_	_	_	_	_	_	I-Serviço_turístico
+7	adequadas	_	adequado	A	_	116175	_	_	_	_	_	_	_	B-Descrição
+8	à	_	a	PREP	_	116175	_	_	_	_	_	_	_	I-Descrição
+9	recepção	_	recepção	N	_	116175	_	_	_	_	_	_	_	I-Descrição
+10	de	_	dar	V	_	116175	_	_	_	_	_	_	_	I-Descrição
+11	turistas	_	turista	A	_	116175	_	_	_	_	_	_	_	I-Descrição
+12	.	_			_	116175	_	_	_	_	_	_	_	O
+
+# 57209 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	B-Added_set
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	I-Added_set
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	outro.a	Increment#	O
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	_	_	B-Initial_set
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	I-Initial_set
+8	região	_	região	N	_	116176	_	_	_	_	_	_	_	I-Initial_set
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	B-Class
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	I-Class
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	I-Class
+13	origem	_	origem	N	_	116176	_	_	_	_	_	_	_	I-Class
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	I-Class
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	_	_	I-Class
+16	direta	_	direto	A	_	116176	_	_	_	_	_	_	_	I-Class
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	I-Class
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	_	_	I-Class
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57210 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	B-Local
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	I-Local
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	_	_	B-Local_relativo
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	_	_	I-Local_relativo
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	O
+8	região	_	região	N	_	116176	_	_	_	_	_	região.n	Local	O
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	B-Descrição
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	I-Descrição
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	I-Descrição
+13	origem	_	origem	N	_	116176	_	_	_	_	_	_	_	I-Descrição
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	I-Descrição
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	_	_	I-Descrição
+16	direta	_	direto	A	_	116176	_	_	_	_	_	_	_	I-Descrição
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	I-Descrição
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	_	_	I-Descrição
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57212 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	O
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	_	_	O
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	_	_	O
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	O
+8	região	_	região	N	_	116176	_	_	_	_	_	_	_	O
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	O
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	O
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	B-Entidade
+13	origem	_	origem	N	_	116176	_	_	_	_	_	origem.n	Origiem	O
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	B-Origem
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	_	_	I-Origem
+16	direta	_	direto	A	_	116176	_	_	_	_	_	_	_	I-Origem
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	I-Origem
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	_	_	I-Origem
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57642 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	B-Entity_1
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	I-Entity_1
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	_	_	O
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	_	_	O
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	O
+8	região	_	região	N	_	116176	_	_	_	_	_	_	_	O
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	O
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	O
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	O
+13	origem	_	origem	N	_	116176	_	_	_	_	_	_	_	O
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	O
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	ligação.n	Relation#	O
+16	direta	_	direto	A	_	116176	_	_	_	_	_	_	_	B-Relation_type
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	B-Entity_2
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	_	_	I-Entity_2
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57807 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	B-Nome
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	I-Nome
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	_	_	O
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	capital.n	Locais_políticos	O
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	B-Localização_relativa
+8	região	_	região	N	_	116176	_	_	_	_	_	_	_	I-Localização_relativa
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	B-Descrição
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	I-Descrição
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	I-Descrição
+13	origem	_	origem	N	_	116176	_	_	_	_	_	_	_	I-Descrição
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	I-Descrição
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	_	_	I-Descrição
+16	direta	_	direto	A	_	116176	_	_	_	_	_	_	_	I-Descrição
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	I-Descrição
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	_	_	I-Descrição
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57812 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	O
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	_	_	O
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	_	_	O
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	O
+8	região	_	região	N	_	116176	_	_	_	_	_	_	_	O
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	B-Comparison_event
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	I-Comparison_event
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	I-Comparison_event
+13	origem	_	origem	N	_	116176	_	_	_	_	_	_	_	I-Comparison_event
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	B-Comparison_activity
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	_	_	I-Comparison_activity
+16	direta	_	direto	A	_	116176	_	_	_	_	_	direto.a	Manner#	O
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	B-Salient_entity
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	_	_	I-Salient_entity
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57975 - Rio Branco, como outras capitais da região, tem na sua origem uma ligação direta aos seringais.
+1	Rio	_	rio	N	_	116176	_	_	_	_	_	_	_	O
+2	Branco	_	branco	A	_	116176	_	_	_	_	_	_	_	O
+3	,	_			_	116176	_	_	_	_	_	_	_	O
+4	como	_	comer	V	_	116176	_	_	_	_	_	_	_	O
+5	outras	_	outro	A	_	116176	_	_	_	_	_	_	_	O
+6	capitais	_	capital	A	_	116176	_	_	_	_	_	_	_	O
+7	da	_	dar	V	_	116176	_	_	_	_	_	_	_	O
+8	região	_	região	N	_	116176	_	_	_	_	_	_	_	O
+9	,	_			_	116176	_	_	_	_	_	_	_	O
+10	tem	_	ter	V	_	116176	_	_	_	_	_	_	_	O
+11	na	_	no	PREP	_	116176	_	_	_	_	_	_	_	O
+12	sua	_	sua	A	_	116176	_	_	_	_	_	_	_	O
+13	origem	_	origem	N	_	116176	_	_	_	_	_	_	_	O
+14	uma	_	um	A	_	116176	_	_	_	_	_	_	_	O
+15	ligação	_	ligação	N	_	116176	_	_	_	_	_	_	_	O
+16	direta	_	direto	A	_	116176	_	_	_	_	_	_	_	O
+17	aos	_	ao	PREP	_	116176	_	_	_	_	_	_	_	O
+18	seringais	_	seringal	N	_	116176	_	_	_	_	_	seringal.n	Mining#	O
+19	.	_			_	116176	_	_	_	_	_	_	_	O
+
+# 57213 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	investir.v	Cause_to_make_progress#	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	B-Project
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	I-Project
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	O
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	O
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	O
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	O
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	O
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57214 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	B-Possuidor
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	I-Possuidor
+9	conta	_	contar	V	_	116177	_	_	_	_	_	contar.v	Posse	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	B-Posse
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	B-Posse
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	I-Posse
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	I-Posse
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	I-Posse
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	I-Posse
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	I-Posse
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	O
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	O
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57215 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	O
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	O
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	importante.a	Importance#	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	B-Field
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	I-Field
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	I-Field
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	O
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	O
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	O
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57216 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	B-Entidade_saliente
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	I-Entidade_saliente
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	O
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	O
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	trabalho.n	Trabalhar	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	B-Descrição
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	I-Descrição
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57643 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	B-Producer
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	I-Producer
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	produção.n	Manufacturing#	O
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	B-Product
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	I-Product
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	O
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	O
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	O
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57644 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	O
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	O
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	madeira.n	Substance#	O
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	O
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	O
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	O
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57645 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	O
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	O
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	O
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	B-Object
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	certificado.a	Legality#	O
+18	através	_	através	ADV	_	116177	_	_	_	_	_	_	_	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	O
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	O
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	O
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	O
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57809 - Além de investir em serviços, Rio Branco conta ainda com uma importante produção de madeira certificada através do trabalho manual sustentável.
+1	Além	_	alar	V	_	116177	_	_	_	_	_	_	_	O
+2	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+3	investir	_	investir	V	_	116177	_	_	_	_	_	_	_	O
+4	em	_	em	PREP	_	116177	_	_	_	_	_	_	_	O
+5	serviços	_	serviço	N	_	116177	_	_	_	_	_	_	_	O
+6	,	_			_	116177	_	_	_	_	_	_	_	O
+7	Rio	_	rio	N	_	116177	_	_	_	_	_	_	_	O
+8	Branco	_	branco	A	_	116177	_	_	_	_	_	_	_	O
+9	conta	_	contar	V	_	116177	_	_	_	_	_	_	_	O
+10	ainda	_	ainda	ADV	_	116177	_	_	_	_	_	_	_	O
+11	com	_	com	PREP	_	116177	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116177	_	_	_	_	_	_	_	O
+13	importante	_	importante	A	_	116177	_	_	_	_	_	_	_	O
+14	produção	_	produção	N	_	116177	_	_	_	_	_	_	_	B-Comparison_event
+15	de	_	dar	V	_	116177	_	_	_	_	_	_	_	O
+16	madeira	_	madeira	N	_	116177	_	_	_	_	_	_	_	B-Salient_entity
+17	certificada	_	certificado	A	_	116177	_	_	_	_	_	_	_	I-Salient_entity
+18	através	_	através	ADV	_	116177	_	_	_	_	_	através.adv	Manner#	O
+19	do	_	de	PREP	_	116177	_	_	_	_	_	_	_	B-Comparison_activity
+20	trabalho	_	trabalhar	V	_	116177	_	_	_	_	_	_	_	I-Comparison_activity
+21	manual	_	manual	A	_	116177	_	_	_	_	_	_	_	I-Comparison_activity
+22	sustentável	_	sustentável	A	_	116177	_	_	_	_	_	_	_	B-Manner
+23	.	_			_	116177	_	_	_	_	_	_	_	O
+
+# 57217 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	possuir.v	Posse	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	B-Posse
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	I-Posse
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	B-Descrição
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	I-Descrição
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	I-Descrição
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	I-Descrição
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	I-Descrição
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	B-Posse
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	I-Posse
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	B-Descrição
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	I-Descrição
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Descrição
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	I-Descrição
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	I-Descrição
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Descrição
+24	estado)	_			_	116178	_	_	_	_	_	_	_	I-Descrição
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57218 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	museu.n	Prédios	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	B-Descrição
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	I-Descrição
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	I-Descrição
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	I-Descrição
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	I-Descrição
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	I-Descrição
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	O
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	O
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	O
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	O
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	O
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+24	estado)	_			_	116178	_	_	_	_	_	_	_	O
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57647 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	B-Text
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	I-Text
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	sobre.prep	Topic#	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	B-Topic
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	I-Topic
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	I-Topic
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	I-Topic
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	I-Topic
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	I-Topic
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	O
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	O
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	O
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	O
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	O
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+24	estado)	_			_	116178	_	_	_	_	_	_	_	O
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57649 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	O
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	O
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	B-Representation
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	I-Representation
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	fotografia.n	Create_representation#	O
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	B-Purpose
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	B-Represented
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	I-Represented
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	I-Represented
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	I-Represented
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	I-Represented
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	I-Represented
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Represented
+24	estado)	_			_	116178	_	_	_	_	_	_	_	I-Represented
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57650 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	O
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	O
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	O
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	B-Predicate
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	histórico.a	Domain#	O
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	B-Explanation
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	I-Explanation
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	I-Explanation
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	I-Explanation
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	I-Explanation
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	I-Explanation
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Explanation
+24	estado)	_			_	116178	_	_	_	_	_	_	_	I-Explanation
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57810 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	aquisição.n	Getting_scenario#	O
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	B-Theme
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	I-Theme
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	B-Recipient
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	I-Recipient
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	O
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	O
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	O
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	O
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	O
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+24	estado)	_			_	116178	_	_	_	_	_	_	_	O
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57811 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	O
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	O
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	exposição.n	Causar_percepção	O
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	B-Explicação 
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	I-Explicação 
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	I-Explicação 
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Explicação 
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	I-Explicação 
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	I-Explicação 
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	I-Explicação 
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	I-Explicação 
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	I-Explicação 
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Explicação 
+24	estado)	_			_	116178	_	_	_	_	_	_	_	I-Explicação 
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57817 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	O
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	O
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	O
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	O
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	O
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	O
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	O
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	O
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	O
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	O
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	O
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	O
+24	estado)	_			_	116178	_	_	_	_	_	estado.n	Locais_políticos	O
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57819 - Possui um museu sobre a aquisição de Acre pelo Brasil e uma exposição com fotografias históricas do Movimento Autonomista (responsável pela emancipação do estado).
+1	Possui	_	possuir	V	_	116178	_	_	_	_	_	_	_	O
+2	um	_	um	A	_	116178	_	_	_	_	_	_	_	O
+3	museu	_	museu	N	_	116178	_	_	_	_	_	_	_	O
+4	sobre	_	sobre	N	_	116178	_	_	_	_	_	_	_	O
+5	a	_	a	PREP	_	116178	_	_	_	_	_	_	_	O
+6	aquisição	_	aquisição	N	_	116178	_	_	_	_	_	_	_	O
+7	de	_	dar	V	_	116178	_	_	_	_	_	_	_	O
+8	Acre	_	acre	N	_	116178	_	_	_	_	_	_	_	O
+9	pelo	_	pelar	V	_	116178	_	_	_	_	_	_	_	O
+10	Brasil	_	brasil	A	_	116178	_	_	_	_	_	_	_	O
+11	e	_	ser	V	_	116178	_	_	_	_	_	_	_	O
+12	uma	_	um	A	_	116178	_	_	_	_	_	_	_	B-Explanation
+13	exposição	_	exposição	N	_	116178	_	_	_	_	_	_	_	I-Explanation
+14	com	_	com	PREP	_	116178	_	_	_	_	_	_	_	I-Explanation
+15	fotografias	_	fotografia	N	_	116178	_	_	_	_	_	_	_	I-Explanation
+16	históricas	_	histórico	A	_	116178	_	_	_	_	_	_	_	I-Explanation
+17	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	B-Actor
+18	Movimento	_	movimento	N	_	116178	_	_	_	_	_	_	_	I-Actor
+19	Autonomista	_	autonomista	A	_	116178	_	_	_	_	_	_	_	I-Actor
+20	(responsável	_			_	116178	_	_	_	_	_	_	_	O
+21	pela	_	péla	N	_	116178	_	_	_	_	_	_	_	B-Affected
+22	emancipação	_	emancipação	N	_	116178	_	_	_	_	_	_	_	I-Affected
+23	do	_	de	PREP	_	116178	_	_	_	_	_	_	_	I-Affected
+24	estado)	_			_	116178	_	_	_	_	_	_	_	I-Affected
+25	.	_			_	116178	_	_	_	_	_	_	_	O
+
+# 57221 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	B-Name
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	floresta.n	Locais_naturais	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57821 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	destruição.n	Destroying#	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	B-Undergoer
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	I-Undergoer
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	B-Destroyer
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	I-Destroyer
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	I-Destroyer
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57976 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	março.n	Temporal_subregion#	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	B-Time_period
+6	1904	_			_	116179	_	_	_	_	_	_	_	I-Time_period
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57977 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	história.n	Domain#	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	B-Predicate
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	I-Predicate
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57978 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	B-Factor
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	B-Undertaking
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	I-Undertaking
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	I-Undertaking
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	I-Undertaking
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	I-Undertaking
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	I-Undertaking
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	simbolo.n	Importance#	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	B-Field
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	I-Field
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	I-Field
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	I-Field
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	I-Field
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	I-Field
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	I-Field
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Field
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	I-Field
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	I-Field
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	I-Field
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	I-Field
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	I-Field
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	I-Field
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	I-Field
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	I-Field
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Field
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	I-Field
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	I-Field
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	I-Field
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	I-Field
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	I-Field
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	I-Field
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57979 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	grande.a	Notabilidade	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	B-Entidade
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57980 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	B-Posição_hierárquica
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	fazendeiro.n	Pessoas_por_vocação	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57982 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	ocupação.n	Invading#	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	B-Result
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	I-Result
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	B-Land
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	I-Land
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	B-Invader
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	I-Invader
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	I-Invader
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57983 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	B-Issue
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	I-Issue
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	B-Cognizer
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	I-Cognizer
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	contra.n	Taking_sides#	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	B-Explanation
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	I-Explanation
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Explanation
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	I-Explanation
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	I-Explanation
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	I-Explanation
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	I-Explanation
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	I-Explanation
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	I-Explanation
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57984 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	B-Tipo
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	extrativista.n	Pessoas_por_vocação	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	B-Descrição
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	I-Descrição
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	I-Descrição
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Descrição
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	I-Descrição
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	I-Descrição
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	I-Descrição
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	I-Descrição
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	I-Descrição
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	I-Descrição
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57985 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	pequeno.a	Notabilidade	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	B-Entidade
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57987 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	B-Action
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	I-Action
+20	a	_	a	PREP	_	116179	_	_	_	_	_	a favor.n	Taking_sides#	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	a favor.n	Taking_sides#	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	B-Issue
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	I-Issue
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	I-Issue
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Issue
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	I-Issue
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	I-Issue
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	I-Issue
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	I-Issue
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	I-Issue
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 57990 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	_	_	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	O
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	O
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+6	1904	_			_	116179	_	_	_	_	_	_	_	O
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	luta.n	Taking_sides#	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	B-Issue
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	I-Issue
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	I-Issue
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	I-Issue
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	I-Issue
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Issue
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	I-Issue
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	I-Issue
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	I-Issue
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	I-Issue
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	I-Issue
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	I-Issue
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	I-Issue
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	I-Issue
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	I-Issue
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	I-Issue
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	I-Issue
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	I-Issue
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	I-Issue
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	I-Issue
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	I-Issue
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+
+# 59481 - Fundada oficialmente em março de 1904, Xapuri entrou para a história do Brasil como um símbolo da luta a favor do meio ambiente e pelos direitos dos pequenos extrativistas contra a ocupação e destruição da floresta por grandes fazendeiros.
+1	Fundada	_	fundado	A	_	116179	_	_	_	_	_	fundado.a	Intentionally_create#	O
+2	oficialmente	_	oficialmente	ADV	_	116179	_	_	_	_	_	_	_	O
+3	em	_	em	PREP	_	116179	_	_	_	_	_	_	_	B-Time
+4	março	_	marco	N	_	116179	_	_	_	_	_	_	_	I-Time
+5	de	_	dar	V	_	116179	_	_	_	_	_	_	_	I-Time
+6	1904	_			_	116179	_	_	_	_	_	_	_	I-Time
+7	,	_			_	116179	_	_	_	_	_	_	_	O
+8	Xapuri	_	xapuri	N	_	116179	_	_	_	_	_	_	_	O
+9	entrou	_	entrar	V	_	116179	_	_	_	_	_	_	_	O
+10	para	_	para	PREP	_	116179	_	_	_	_	_	_	_	O
+11	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+12	história	_	historiar	V	_	116179	_	_	_	_	_	_	_	O
+13	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+14	Brasil	_	brasil	A	_	116179	_	_	_	_	_	_	_	O
+15	como	_	comer	V	_	116179	_	_	_	_	_	_	_	O
+16	um	_	um	A	_	116179	_	_	_	_	_	_	_	O
+17	símbolo	_	símbolo	N	_	116179	_	_	_	_	_	_	_	O
+18	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+19	luta	_	luta	N	_	116179	_	_	_	_	_	_	_	O
+20	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+21	favor	_	favor	N	_	116179	_	_	_	_	_	_	_	O
+22	do	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+23	meio	_	meio	A	_	116179	_	_	_	_	_	_	_	O
+24	ambiente	_	ambiente	A	_	116179	_	_	_	_	_	_	_	O
+25	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+26	pelos	_	pêlo	N	_	116179	_	_	_	_	_	_	_	O
+27	direitos	_	direito	A	_	116179	_	_	_	_	_	_	_	O
+28	dos	_	de	PREP	_	116179	_	_	_	_	_	_	_	O
+29	pequenos	_	pequeno	A	_	116179	_	_	_	_	_	_	_	O
+30	extrativistas	_	extrativista	A	_	116179	_	_	_	_	_	_	_	O
+31	contra	_	contra	ADV	_	116179	_	_	_	_	_	_	_	O
+32	a	_	a	PREP	_	116179	_	_	_	_	_	_	_	O
+33	ocupação	_	ocupação	N	_	116179	_	_	_	_	_	_	_	O
+34	e	_	ser	V	_	116179	_	_	_	_	_	_	_	O
+35	destruição	_	destruição	N	_	116179	_	_	_	_	_	_	_	O
+36	da	_	dar	V	_	116179	_	_	_	_	_	_	_	O
+37	floresta	_	floresta	N	_	116179	_	_	_	_	_	_	_	O
+38	por	_	por	PREP	_	116179	_	_	_	_	_	_	_	O
+39	grandes	_	grande	A	_	116179	_	_	_	_	_	_	_	O
+40	fazendeiros	_	fazendeiro	N	_	116179	_	_	_	_	_	_	_	O
+41	.	_			_	116179	_	_	_	_	_	_	_	O
+

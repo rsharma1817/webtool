@@ -132,14 +132,12 @@ class MPage extends MBase
      */
     public function setTemplate()
     {
-        $path = Manager::getThemePath('templates');
+        $path = Manager::getThemePath();
         $this->template = new MTemplate($path);
         $this->template->context('manager', Manager::getInstance());
         $this->template->context('page', $this);
         $this->template->context('charset', Manager::getOptions('charset'));
         $this->template->context('template', $this->template);
-        $this->template->context('icon', new MIcon());
-        $this->template->context('appURL', Manager::getAppURL() . '/');
     }
 
     public function getTemplate()
@@ -388,18 +386,11 @@ class MPage extends MBase
         return $this->scripts->generate($this->getName());
     }
 
-    public function fetch($template = '', $params = null) {
+    public function fetch($template = '')
+    {
         $template = $template ? : $this->getTemplateName();
-        $html = $template != '' ? $this->template->fetch($template . '.html', ($params ? $params : [])) : $this->generate();
+        $html = $template != '' ? $this->template->fetch($template . '.html') : $this->generate();
         return $html;
-    }
-
-    public function getUIComponentPath($template) {
-        return Manager::getAppPath('ui/components/' . $template);
-    }
-
-    public function fetchThemeComponent($template = '', $params = null) {
-        return $this->template->fetchPath(Manager::getThemePath() . '/components/' . $template . '.html', ($params ? $params : []));
     }
 
     /**

@@ -21,7 +21,9 @@ class ViewFrame extends map\ViewFrameMap
         return [];
     }
 
-    public function applyFilter($criteria, $filter) {
+    public function listByFilter($filter)
+    {
+        $criteria = $this->getCriteria()->select('idFrame, entry, active, idEntity, entries.name as name')->orderBy('entries.name');
         Base::entryLanguage($criteria);
         if ($filter->idFrame) {
             $criteria->where("idFrame = {$filter->idFrame}");
@@ -51,21 +53,8 @@ class ViewFrame extends map\ViewFrameMap
         }
         if ($filter->idDomain) {
             Base::relation($criteria, 'ViewFrame', 'Domain', 'rel_hasdomain');
-            $criteria->where("Domain.idDomain IN ({$filter->idDomain})");
+            $criteria->where("Domain.idDomain = {$filter->idDomain}");
         }
-    }
-
-    public function listByFilter($filter)
-    {
-        mdump($filter);
-        $criteria = $this->getCriteria()->select('idFrame, entry, active, idEntity, entries.name as name, entries.description as definition')->orderBy('entries.name');
-        $this->applyFilter($criteria, $filter);
-        return $criteria;
-    }
-
-    public function listByInitial($filter) {
-        $criteria = $this->getCriteria()->select('substr(entries.name,1,1) initial, idFrame, entry, active, idEntity, entries.name as name')->orderBy('entries.name');
-        $this->applyFilter($criteria, $filter);
         return $criteria;
     }
 

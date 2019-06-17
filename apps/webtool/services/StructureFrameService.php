@@ -16,7 +16,7 @@ class StructureFrameService extends MService
             $node['id'] = 'f' . $row['idFrame'];
             $node['text'] = $row['name'];
             $node['state'] = 'closed';
-            $node['iconCls'] = 'icon-blank fa fa-square fa8px entity_frame';
+            $node['iconCls'] = 'icon-blank fa fa-square fa16px entity_frame';
             $node['entry'] = $row['entry'];
             $result[] = $node;
         }
@@ -51,7 +51,7 @@ class StructureFrameService extends MService
             $node['id'] = 'l' . $idLU;
             $node['text'] = $name;
             $node['state'] = 'closed';
-            $node['iconCls'] = 'icon-blank fa fa-square fa8px entity_lu';
+            $node['iconCls'] = 'icon-blank fa fa-hashtag fa12px entity_lu';
             $result[] = $node;
         }
         return json_encode($result);
@@ -108,9 +108,9 @@ class StructureFrameService extends MService
         $result = array();
         $qualia = new fnbr\models\Qualia($idQualia);
         $fes = $qualia->listFEs($idLanguage);
-        foreach ($fes as $idFE => $name) {
+        foreach ($fes as $idEntityRelation => $name) {
             $node = array();
-            $node['id'] = 'e' . $idFE;
+            $node['id'] = 'e' . $idEntityRelation;
             $node['text'] = $name;
             $node['state'] = 'closed';
             $node['iconCls'] = 'icon-blank fa12px entity_lu';

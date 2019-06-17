@@ -296,7 +296,7 @@ class AnnotationService extends MService
         );
 
         foreach ($chars as $i => $char) {
-            $width = 15;
+            $width = 13;
             if ($language == 'jp') {
                 if ($char['char'] == ' ') {
                     continue;
@@ -453,7 +453,7 @@ class AnnotationService extends MService
                 'coreType' => $row['coreType']
             ];
         }
-
+mdump($result);
         // UDTree
         $UDTreeLayer = [];
         $UDTreeLayer['none'] = '';
