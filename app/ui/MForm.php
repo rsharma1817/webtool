@@ -22,7 +22,7 @@ class MForm extends MControl
         $this->tools = NULL;
     }
 
-    public function addControl($control)
+    public function addControl($control, $pos = NULL)
     {
         parent::addControl($control);
         $control->setForm($this);
@@ -52,7 +52,7 @@ class MForm extends MControl
 
     public function createFields()
     {
-        
+
     }
 
     public function setFields($fields)
@@ -96,8 +96,8 @@ class MForm extends MControl
                     } else {
                         // usa a classe form-group do bootstrap.php
                         $fields .= "<div class=\"mFormRow\">{$formGroup}</div>";
-                    }    
-                    
+                    }
+
                 }
             }
         }
@@ -114,7 +114,7 @@ class MForm extends MControl
                     $button->action = 'POST';
                 } else if (strpos($button->action, '|') === false) {
                     $button->action .= '|' . $this->getId();
-                }    
+                }
                 $inner .= $button->generate();
             }
         }
@@ -182,14 +182,14 @@ class MForm extends MControl
             $this->page->onSubmit($this->property->onsubmit, $this->property->id);
         }
 
-        
+
         // se o form tem fields com validators, define onSubmit
         $validators = '';
         if (count($this->property->toValidate)) {
             $this->page->onSubmit("$('#{$this->property->id}').form('validate')", $this->id);
             $validators = implode(',', $this->property->bsValidator);
         }
-        
+
         // obtem o codigo html via template
         $result = $this->painter->fetch('mform', $this, [
             'panel' => $panel,

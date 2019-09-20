@@ -163,6 +163,7 @@ class MXMLControls extends MBase
         $this->getPropertiesFromNode($control, $node);
         MUtil::setIfNull($control->property->name, $control->property->id);
         $this->handleChildren($control, $node);
+        /*
         if ($attributes['base'] != '') {
             $file = $this->path . '/' . $attributes['base'] . '.xml';
             $baseControls = $this->fetch($file, $this->context);
@@ -170,6 +171,7 @@ class MXMLControls extends MBase
             $first->addControl($control);
             return $first;
         }
+        */
         return $control;
     }
 
@@ -341,7 +343,10 @@ class MXMLControls extends MBase
             if ($value{1} == '{') {
                 $value = str_replace("\$this", "\$context", $value);
                 $value = substr($value, 2, -2);
-                $valueFunction = create_function('$context', 'return ' . $value . ';');
+                //$valueFunction = create_function('$context', 'return ' . $value . ';');
+                $valueFunction = function () use ($context, $value) {
+                    return eval($value);
+                };
                 $value = $valueFunction($context);
             }
         } elseif (strpos($value, '{{') !== false) {

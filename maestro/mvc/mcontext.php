@@ -1,19 +1,6 @@
 <?php
-/* Copyright [2011, 2013, 2017] da Universidade Federal de Juiz de Fora
- * Este arquivo é parte do programa Framework Maestro.
- * O Framework Maestro é um software livre; você pode redistribuí-lo e/ou
- * modificá-lo dentro dos termos da Licença Pública Geral GNU como publicada
- * pela Fundação do Software Livre (FSF); na versão 2 da Licença.
- * Este programa é distribuído na esperança que possa ser  útil,
- * mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO a qualquer
- * MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU/GPL
- * em português para maiores detalhes.
- * Você deve ter recebido uma cópia da Licença Pública Geral GNU, sob o título
- * "LICENCA.txt", junto com este programa, se não, acesse o Portal do Software
- * Público Brasileiro no endereço www.softwarepublico.gov.br ou escreva para a
- * Fundação do Software Livre(FSF) Inc., 51 Franklin St, Fifth Floor, Boston, MA
- * 02110-1301, USA.
- */
+
+use Illuminate\Http\Request;
 
 /**
  * A URL tem o seguinte formato:
@@ -149,7 +136,7 @@ class MContext
      */
     private $path;
 
-    public function __construct($request)
+    public function __construct(Request $request)
     {
         $this->isCore = false;
         if (is_string($request)) {
@@ -157,14 +144,16 @@ class MContext
             $this->url = $this->path;
         } else {
             $this->request = $request;
-            if ($this->request->querystring != '') {
-                parse_str($this->request->querystring, $this->vars);
-            }
-            $this->path = $this->request->getPathInfo();
-            $this->url = $this->request->path;
-            $this->method = $this->request->getMethod();
+            //if ($this->request->querystring != '') {
+            //    parse_str($this->request->querystring, $this->vars);
+            //}
+            $this->vars = $this->request->all();
+            $this->path = $this->request->path();//getPathInfo();
+            mtrace('MContext path = '  . $this->path);
+            $this->url = $this->request->url();//path;
+            $this->method = $this->request->method();//getMethod();
             $this->contentType = $this->request->getContentType();
-            $this->resultFormat = strtoupper($this->request->getFormat());
+            $this->resultFormat = strtoupper($this->request->format());
             $this->isAjax = Manager::isAjaxCall();
         }
         $this->isFileUpload = (mrequest('__ISFILEUPLOAD') == 'yes');
@@ -172,6 +161,7 @@ class MContext
 
     public function defineContext()
     {
+        /*
         $pathParts = explode('/', $this->path);
         $part = null;
         $component = '';
@@ -292,6 +282,7 @@ class MContext
         mtrace('action: ' . $this->action);
         mtrace('id: ' . $this->id);
         mtrace(']]');
+        */
     }
 
     /**

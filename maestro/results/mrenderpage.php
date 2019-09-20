@@ -36,8 +36,8 @@ class MRenderPage extends MResult
 
     public function apply($request, $response)
     {
-        $response->setOut($this->content);
-        $response->setHeader('Content-type', 'Content-type: text/html; charset=UTF-8');
+        //$response->setOut($this->content);
+        $this->headers('Content-type', 'Content-type: text/html; charset=UTF-8');
     }
 
 }

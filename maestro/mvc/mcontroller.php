@@ -30,6 +30,7 @@ class MController
     protected $action;
     protected $data;
     protected $params;
+    protected $result;
     public $renderArgs = array();
 
     public function __construct()
@@ -86,7 +87,35 @@ class MController
 
     public function isPost()
     {
-        return Manager::getContext()->isPost();
+        return \Manager::getRequest()->isMethod('post');
+    }
+
+    public function handle($action)
+    {
+        try {
+            $this->setData();
+            $this->setParams($this->getData());
+            $this->init();
+            $this->dispatch($action);
+            return $this->getResult();
+        } catch (ENotFoundException $e) {
+            $this->result = new MNotFound($e->getMessage());
+        } catch (ESecurityException $e) {
+            $this->result = new MInternalError($e);
+        } catch (ETimeOutException $e) {
+            $this->result = new MInternalError($e);
+        } catch (ERuntimeException $e) {
+            $this->result = new MRunTimeError($e);
+        } catch (EDBException $e) {
+            if (Manager::PROD()) {
+                $e = new EDBException("Ocorreu um problema com o Banco de Dados.", $e->getCode());
+            }
+            $this->result = new MInternalError($e);
+        } catch (EMException $e) {
+            $this->result = new MInternalError($e);
+        } //catch (Exception $e) {
+          //  $this->result = new MInternalError($e);
+        //}
     }
 
     public function init()
@@ -206,12 +235,14 @@ class MController
 
     public function setResult($result)
     {
-        Manager::getFrontController()->setResult($result);
+        //Manager::getFrontController()->setResult($result);
+        $this->result = $result;
     }
 
     public function getResult()
     {
-        return Manager::getFrontController()->getResult();
+        //return Manager::getFrontController()->getResult();
+        return $this->result;
     }
 
     public function getContainer()
@@ -618,7 +649,8 @@ class MController
      */
     private function decryptData()
     {
-        if (!\Manager::getRequest()->getIsPostRequest()) {
+        //if (!\Manager::getRequest()->getIsPostRequest()) {
+        if (Manager::getRequest()->method() != 'post') {
             return;
         }
 

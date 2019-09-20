@@ -19,7 +19,7 @@ class MDialog extends MControl
         $this->tools = NULL;
     }
 
-    public function addControl($control)
+    public function addControl($control, $pos = NULL)
     {
         $className = ($control->className == 'mhtml') ? $control->tag : $control->className;
         if (($className == 'buttons') || ($className == 'help') || ($className == 'tools') || ($className == 'toolbar')) {

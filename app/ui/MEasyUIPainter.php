@@ -2,16 +2,16 @@
 
 /* Copyright [2011, 2012, 2013] da Universidade Federal de Juiz de Fora
  * Este arquivo é parte do programa Framework Maestro.
- * O Framework Maestro é um software livre; você pode redistribuí-lo e/ou 
- * modificá-lo dentro dos termos da Licença Pública Geral GNU como publicada 
+ * O Framework Maestro é um software livre; você pode redistribuí-lo e/ou
+ * modificá-lo dentro dos termos da Licença Pública Geral GNU como publicada
  * pela Fundação do Software Livre (FSF); na versão 2 da Licença.
- * Este programa é distribuído na esperança que possa ser  útil, 
+ * Este programa é distribuído na esperança que possa ser  útil,
  * mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO a qualquer
- * MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU/GPL 
+ * MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU/GPL
  * em português para maiores detalhes.
  * Você deve ter recebido uma cópia da Licença Pública Geral GNU, sob o título
  * "LICENCA.txt", junto com este programa, se não, acesse o Portal do Software
- * Público Brasileiro no endereço www.softwarepublico.gov.br ou escreva para a 
+ * Público Brasileiro no endereço www.softwarepublico.gov.br ou escreva para a
  * Fundação do Software Livre(FSF) Inc., 51 Franklin St, Fifth Floor, Boston, MA
  * 02110-1301, USA.
  */
@@ -45,7 +45,7 @@ class MEasyUIPainter extends MBasePainter
     }
 
     /*
-     * Métodos auxiliares para tratamento de controles EasyUI 
+     * Métodos auxiliares para tratamento de controles EasyUI
      */
 
     /**
@@ -165,19 +165,19 @@ EOT;
     public function minputfield($control)
     {
         $this->setPluginClass($control);
-        if ($control->property->placeholder) {
+        if (isset($control->property->placeholder)) {
             $control->options->prompt = $control->property->placeholder;
         }
-        $control->options->width = $control->style->width ? : '150px';
-        if ($control->property->mask) {
+        $control->options->width = $control->style->width ?? '150px';
+        if (isset($control->property->mask)) {
             $maskOptions = $control->property->maskOptions != '' ? ',' . $control->property->maskOptions : '';
             $onLoad = "$('#{$control->property->id}').textbox('textbox').mask('{$control->property->mask}'{$maskOptions});";
             $this->page->onLoad($onLoad);
         }
         // processa os validators e retorna o campo hidden, se necessário
         $hidden = MValidator::process($control);
-        $prefix = $control->property->prefix;
-        $sufix = $control->property->sufix;
+        $prefix = $control->property->prefix ?? '';
+        $sufix = $control->property->sufix ?? '';
         $attributes = $this->getAttributes($control);
         return <<<EOT
         {$prefix}<input {$attributes}/>{$sufix}{$hidden} 
@@ -187,11 +187,12 @@ EOT;
     public function mtextfield($control)
     {
         $control->plugin = 'textbox';
-        if ($control->property->type == "search") {
-            $icons = "[{ iconCls: 'icon-search', handler: function(e) { " . $control->property->action . "}}]";
+        $type = $control->property->type ?? '';
+        if ($type == "search") {
+            $icons = "[{ iconCls: 'icon-search', handler: function(e) { " . ($control->property->action ?? '') . "}}]";
             $control->options->icons = (object) $icons;
         }
-        $control->property->type = ($control->property->type != 'file') ? $control->property->type : '';
+        $control->property->type = ($type != 'file') ? $type : '';
         return $this->minputfield($control);
     }
 
@@ -322,7 +323,7 @@ EOT;
         $control->property->maskOptions = "{reverse: true}";
         return $this->mtextfield($control);
     }
-    
+
     public function msearchfield($control)
     {
         $control->plugin = 'searchbox';
@@ -353,8 +354,8 @@ EOT;
     <input {$attributes}>
 EOT;
     }
-    
-            
+
+
     public function meditor($control)
     {
         $control->property->jId = '#' . $control->property->id;
@@ -427,7 +428,7 @@ EOT;
 
         if ($control->hasItems()) {
             foreach ($control->controls as $child) {
-                
+
                 if ($child->tag == 'mlookupcolumn') {
                     $columns[] = array(
                         'field' => strtoupper($child->property->field),
@@ -450,7 +451,7 @@ EOT;
         $this->page->addJsCode("$('#{$control->property->id}').data('lookup', '" . MJSON::encode($lookup) . "');\n");
         $this->page->addJsCode("$('#{$control->property->id}').data('related', '" . MJSON::encode($control->property->related) . "');\n");
         $this->page->addJsCode("$('#{$control->property->id}').data('filters', '" . MJSON::encode($control->property->filters) . "');\n");
-        
+
         $this->page->onLoad("mlookup('{$control->property->id}');");
         $attributes = $this->getAttributes($control);
         /*
@@ -471,7 +472,7 @@ EOT;
         $control->form->property->enctype = "multipart/form-data";
         return $this->minputfield($control);
     }
-    
+
     public function mcheckbox($control){
         $attributes = $this->getAttributes($control);
         $text = $control->property->text ?: $control->property->label;
@@ -496,7 +497,8 @@ EOT;
             'confirmation' => 'confirm',
             'warning' => 'warning'
         ];
-        $dataJson = MJSON::encode((object)[
+        //$dataJson = MJSON::encode((object)[
+        $dataJson = json_encode((object)[
             'type' => $promptType[$control->property->type],
             'title' => ucFirst(_M($control->property->type)),
             'msg' => $control->property->msg,
@@ -507,7 +509,7 @@ EOT;
         $action2 = MAction::parseAction(addslashes($control->property->action2));
         //$this->page->onLoad("console.log(manager.action);");
         $this->page->onLoad("var {$control->property->id} = theme.prompt('{$control->property->id}','{$dataJson}',\"{$action1}\",\"{$action2}\");");
-        $show = ($control->property->show === false) ? false : true;
+        $show = $control->property->show ?? true;
         if ($show) {
             $this->page->onLoad("{$control->property->id}.show();");
         }
@@ -593,7 +595,7 @@ EOT;
 
     private function glyphicon($control)
     {
-        return $control->property->glyph ? "<div style='padding:3px' class='{$this->glyphclass($control)}' aria-hidden='true'></div>" : "";
+        return isset($control->property->glyph) ? "<div style='padding:3px' class='{$this->glyphclass($control)}' aria-hidden='true'></div>" : "";
     }
 
     public function mlinkbutton($control)
@@ -618,13 +620,14 @@ EOT;
         $control->plugin = 'linkbutton';
         $control->addClass('mFormButton');
         $glyph = $this->glyphicon($control);
-        $control->property->iconCls = $control->property->iconCls ? : $control->property->icon;
-        $control->property->type = $control->property->type ? : "button";
+        $control->property->iconCls = $control->property->iconCls ?? ($control->property->icon ?? '');
+        $control->property->type = $control->property->type ?? "button";
         MUtil::setIfNull($control->property->action, 'POST');
         MAction::generate($control);
         $this->setPluginClass($control);
         $attributes = $this->getAttributes($control);
-        $text = $glyph . (($control->property->value != '') ? "{$control->property->value}" : (($control->property->text != '') ? "{$control->property->text}" : "{$control->property->caption}"));
+        $text = $glyph . ((isset($control->property->value)) ? "{$control->property->value}" : ((isset($control->property->text)) ? "{$control->property->text}" : "{($control->property->caption ?? '')}"));
+        $type = '';
         return <<<EOT
 <button {$type}{$attributes}>
     {$text}
@@ -686,7 +689,7 @@ EOT;
     public function mmenubaritem($control)
     {
         $control->property->text = $control->property->label;
-        $control->options->iconCls = $control->property->icon ? : ($control->property->iconCls ? : $this->glyphclass($control));
+        $control->options->iconCls = $control->property->icon ?? ($control->property->iconCls ?? $this->glyphclass($control));
         foreach ($control->controls as $c) {
             if ($c->className == 'mmenu') {
                 $control->options->menu = '#' . $c->property->id;
@@ -726,7 +729,7 @@ EOT;
         $attributes = $this->getAttributes($control);
         if ($control->hasItems()) {
             $inner = $this->generateToString($control->controls);
-        } elseif ($control->property->cdata) {
+        } elseif (isset($control->property->cdata)) {
             $inner = $control->property->cdata;
         } else {
             $inner = $control->inner;
@@ -788,7 +791,7 @@ EOT;
             }
             $inner .= '<div class="clear"></div>';
         }
-        
+
         $attributes = $this->getAttributes($control);
         return <<<EOT
 <div {$attributes}>
@@ -836,16 +839,16 @@ EOT;
         $control->setId($control->id);
         $control->plugin = 'dialog';
         //$control->options->closed = isset($control->property->closed) ? $control->property->closed : true;
-        $control->options->modal = ($control->property->modal === false) ? false : true;
+        $control->options->modal = $control->property->modal ?? true;
         $control->options->doSize = true;
-        if ($control->property->file) {
+        if (isset($control->property->file)) {
             mdump('---' . $control->property->file);
             $dialog = $control->getControlsFromXML($control->property->file);
             $control->addControls($dialog);
         }
         $onClose = "function() {" . $control->property->onClose . " $('#{$control->property->id}').dialog('destroy', true);}";
         $control->options->onClose = (object) $onClose;
-        $state = ($control->property->state == "open") ? 'false' : 'true';
+        $state = $control->property->state ?? (($control->property->state == "open") ? 'false' : 'true');
         $onLoad = <<<EOT
 $('#{$control->property->id}').dialog({closed: {$state}});
 $('#{$control->property->id}').dialog('resize',{width:'auto',height:'auto'});

@@ -68,23 +68,13 @@ class MTemplate //extends MComponent
 
     public function load($fileName)
     {
-        $this->template = (($this->templateEngine == 'latte') ? $this->path . DIRECTORY_SEPARATOR : '') . $fileName;
-
+        $this->template = $this->path . DIRECTORY_SEPARATOR . $fileName;
     }
 
     public function render($args = array())
     {
         $params = array_merge($this->context, $args);
-        if ($this->templateEngine == 'smarty') {
-            foreach ($params as $name => $value) {
-                $this->engine->assign($name, $value);
-            }
-            return $this->engine->fetch($this->template);
-        }
-        if ($this->templateEngine == 'latte') {
-            return $this->engine->renderToString($this->template, $params);
-        }
-
+        return $this->engine->renderToString($this->template, $params);
     }
 
     public function exists($fileName)

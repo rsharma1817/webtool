@@ -486,7 +486,7 @@ class MJSON
             case 'object':
 
                 // suporte a objetos escalares
-                if ($var->scalar) {
+                if (isset($var->scalar)) {
                     return $var->scalar;
                 }
 

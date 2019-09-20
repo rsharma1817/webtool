@@ -11,20 +11,20 @@ class MainController extends \MController
 
     public function init()
     {
-        Manager::checkLogin(false);
+        \Manager::checkLogin(false);
     }
 
     public function main()
     {
-        if (Manager::isLogged()) {
+        if (\Manager::isLogged()) {
             $this->render('formMain');
         } else {
-            if (Manager::getConf('login.handler') == 'auth0') {
+            if (\Manager::getConf('login.handler') == 'auth0') {
 
-                $this->data->domain = Manager::getConf('login.AUTH0_DOMAIN');
-                $this->data->client_id = Manager::getConf('login.AUTH0_CLIENT_ID');
-                $this->data->client_secret = Manager::getConf('login.AUTH0_CLIENT_SECRET');
-                $this->data->redirect_uri = Manager::getConf('login.AUTH0_CALLBACK_URL');
+                $this->data->domain = \Manager::getConf('login.AUTH0_DOMAIN');
+                $this->data->client_id = \Manager::getConf('login.AUTH0_CLIENT_ID');
+                $this->data->client_secret = \Manager::getConf('login.AUTH0_CLIENT_SECRET');
+                $this->data->redirect_uri = \Manager::getConf('login.AUTH0_CALLBACK_URL');
 
                 $auth0 = new Auth0([
                     'domain' => $this->data->domain,
@@ -39,7 +39,7 @@ class MainController extends \MController
                 $this->data->userInfo = $auth0->getUser();
                 $this->render('auth0Login');
             } else {
-                $this->data->datasources = Manager::getConf('fnbr.datasource');
+                $this->data->datasources = \Manager::getConf('fnbr.datasource');
                 $this->data->action = "@auth/login/authenticate|formLogin";
                 $this->render('formLogin');
             }
@@ -53,29 +53,29 @@ class MainController extends \MController
 
     public function login()
     {
-        $this->data->datasources = Manager::getConf('fnbr.datasource');
+        $this->data->datasources = \Manager::getConf('fnbr.datasource');
         $this->data->action = "@auth/login/authenticate|formLogin";
         $this->render('formLogin');
     }
 
     public function logout()
     {
-        Manager::getAuth()->logout();
-        $main = Manager::getURL('main');
-        if (Manager::getConf('login.handler') == 'auth0') {
-            $main = Manager::getConf('login.logout') . urlencode(Manager::getBaseURL(true));
+        \Manager::getAuth()->logout();
+        $main = \Manager::getURL('main');
+        if (\Manager::getConf('login.handler') == 'auth0') {
+            $main = \Manager::getConf('login.logout') . urlencode(\Manager::getBaseURL(true));
         }
         $this->redirect($main);
     }
 
     public function auth0Callback()
     {
-        $goMain = "=main";//Manager::getURL('main');
+        $goMain = "=main";//\Manager::getURL('main');
         try {
-            $this->data->domain = Manager::getConf('login.AUTH0_DOMAIN');
-            $this->data->client_id = Manager::getConf('login.AUTH0_CLIENT_ID');
-            $this->data->client_secret = Manager::getConf('login.AUTH0_CLIENT_SECRET');
-            $this->data->redirect_uri = Manager::getConf('login.AUTH0_CALLBACK_URL');
+            $this->data->domain = \Manager::getConf('login.AUTH0_DOMAIN');
+            $this->data->client_id = \Manager::getConf('login.AUTH0_CLIENT_ID');
+            $this->data->client_secret = \Manager::getConf('login.AUTH0_CLIENT_SECRET');
+            $this->data->redirect_uri = \Manager::getConf('login.AUTH0_CALLBACK_URL');
 
             $auth0 = new Auth0([
                 'domain' => $this->data->domain,
@@ -88,14 +88,14 @@ class MainController extends \MController
             ]);
 
             $userInfo = $auth0->getUser();
-            $user = Manager::getAppService('authuser');
+            $user = \Manager::getAppService('authuser');
             $status = $user->auth0Login($userInfo);
             if ($status == 'new') {
                 $this->renderPrompt('info', _M('User registered. Now it is necessary Administrator approval.'), $goMain);
             } elseif ($status == 'pending') {
                 $this->renderPrompt('info', _M('User already registered, but waiting for Administrator approval.'), $goMain);
             } elseif ($status == 'logged') {
-                $this->redirect(Manager::getURL('main'));
+                $this->redirect(\Manager::getURL('main'));
             } else {
                 $this->renderPrompt('error', _M('Login failed; contact administrator.', $goMain));
             }
@@ -108,22 +108,22 @@ class MainController extends \MController
     public function changeLanguage()
     {
         $idLanguage = Base::getIdLanguage($this->data->id);
-        Manager::getSession()->idLanguage = $idLanguage;
-        $this->redirect(Manager::getURL('main'));
+        \Manager::getSession()->idLanguage = $idLanguage;
+        $this->redirect(\Manager::getURL('main'));
     }
 
     public function changeLevel()
     {
-        $login = Manager::getLogin();
+        $login = \Manager::getLogin();
         $toLevel = $this->data->id;
         $user = $login->getUser();
         $levels = $user->getAvaiableLevels();
         if ($levels[$toLevel]) {
             $newUser = new fnbr\auth\models\User($levels[$toLevel]);
             $login->setUser($newUser);
-            Manager::getSession()->mfnLayers = $newUser->getConfigData('fnbrLayers');
-            Manager::getSession()->mfnLevel = $toLevel;
-            $this->redirect(Manager::getURL('main'));
+            \Manager::getSession()->mfnLayers = $newUser->getConfigData('fnbrLayers');
+            \Manager::getSession()->mfnLevel = $toLevel;
+            $this->redirect(\Manager::getURL('main'));
         } else {
             $this->renderPrompt('error', _M('You don\'t have such level.'));
         }
@@ -132,7 +132,7 @@ class MainController extends \MController
 
     public function jcryption()
     {
-        $path = Manager::getAppPath('conf');
+        $path = \Manager::getAppPath('conf');
         $pathPUB = $path . '/rsa_1024_pub.pem';
         $pathPVT = $path . '/rsa_1024_priv.pem';
         $jc = new fnbr\models\jcryption($pathPUB, $pathPVT);

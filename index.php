@@ -1,36 +1,40 @@
 <?php
 
-$dir = dirname(__FILE__);
+/*
+|--------------------------------------------------------------------------
+| Create The Application
+|--------------------------------------------------------------------------
+|
+| First we need to get an application instance. This creates an instance
+| of the application / container and bootstraps the application so it
+| is ready to receive HTTP / Console requests from the environment.
+|
+*/
 
-ini_set("error_reporting", "E_ALL & ~E_NOTICE & ~E_STRICT");
-ini_set("display_errors", 1);
-ini_set("log_errors",1);
-ini_set("error_log","{$dir}/var/log/php_error.log");
+// Maestro
+//ini_set("error_reporting", E_ALL && ~E_NOTICE);
+//ini_set("log_errors", "on");
+//ini_set("error_log", "../var/log/php_error.log");
 
-require_once($dir . '/vendor/autoload.php');
+error_reporting(E_ERROR | E_WARNING | E_PARSE);
 
-set_error_handler('Manager::errorHandler');
 
-Manager::init();
-Manager::processRequest();
+$app = require __DIR__.'/bootstrap/app.php';
+
+// ajusta a URI para o caso de subfolder
+//$SCRIPT_NAME = str_replace(['\\', '/index.php'], ['/', ''], ($_SERVER['SCRIPT_NAME'] ?? ($_SERVER['PHP_SELF'] ?? '')));
+//$_SERVER['REQUEST_URI'] = preg_replace('|' . $SCRIPT_NAME . '|', '', $_SERVER['REQUEST_URI'], 1);
 
 /*
-$container = require_once 'maestro/bootstrap.php';
-
-$manager = $container->get(Manager::class);
-
-$request = Zend\Diactoros\ServerRequestFactory::fromGlobals();
-$response = $manager->handle($container, $request);
-
-$manager->terminate($request, $response);
+|--------------------------------------------------------------------------
+| Run The Application
+|--------------------------------------------------------------------------
+|
+| Once we have the application, we can handle the incoming request
+| through the kernel, and send the associated response back to
+| the client's browser allowing them to enjoy the creative
+| and wonderful application we have prepared for them.
+|
 */
-/*
 
-$conf = dirname(__FILE__).'/conf/conf.php';
-set_error_handler('Manager::errorHandler');
-var_dump($conf);
-var_dump($dir);
-Manager::init($conf, $dir);
-var_dump('a');
-var_dump('b');
-*/
+$app->run();

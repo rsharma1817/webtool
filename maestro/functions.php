@@ -17,7 +17,8 @@
 
 function _M($msg, $params = NULL)
 {
-    return Manager::getMessage($msg, $params) ?: $msg;
+    //return Manager::getMessage($msg, $params) ?: $msg;
+    return $msg;
 }
 
 function mdump($var, $tag = null)

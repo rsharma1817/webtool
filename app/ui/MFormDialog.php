@@ -5,9 +5,7 @@ class MFormDialog extends MForm
 
     public function generateFields()
     {
-        if (isset($control->fields->controls) == 1) {
-            $style="style=border-spacing:0px;";
-        }    
+        $style = isset($control->fields->controls) ? "style=border-spacing:0px;" : '';
         $fields = "<div class='mFormContainer' {$style}>";
         $control = $this->fields;
         if ($control->hasItems()) {
@@ -16,9 +14,9 @@ class MFormDialog extends MForm
                     $fields .= $field->generate();
                 } else {
                     $mfieldlabel = new mfieldlabel(['id' => $field->property->id, 'text' => $field->property->label]);
-                    if ($this->property->layout == 'horizontal') {
+                    //if ($this->property->layout == 'horizontal') {
                         //$mfieldlabel->setClass($this->labelClass);
-                    }
+                    //}
                     $label = $mfieldlabel->generate();
                     if ($label) {
                         $formGroup = "<div class=\"mFormColumn\">{$label}</div>"."<div class=\"mFormColumn\">{$field->generate()}</div>";
@@ -32,7 +30,7 @@ class MFormDialog extends MForm
                     } else {
                         // usa a classe form-group do bootstrap.php
                         $fields .= "<div class=\"mFormRow\">{$formGroup}</div>";
-                    }    
+                    }
                 }
             }
         }
@@ -51,10 +49,10 @@ class MFormDialog extends MForm
         }
         return $inner;
     }
-    
+
     public function generateForm()
     {
-        $this->property->action = $this->property->action ? : Manager::getCurrentURL();
+        $this->property->action = $this->property->action ?? Manager::getCurrentURL();
         MUtil::setIfNull($this->property->method, 'POST');
         MUtil::setIfNull($this->style->width, "100%");
         $this->property->role = "form";
@@ -72,24 +70,24 @@ class MFormDialog extends MForm
             $tools = $this->generateTools();
         }
         // menubar
-        if ($this->property->menubar) {
+        if (isset($this->property->menubar)) {
             $menubar = $this->property->menubar->generate();
         }
-        
+
         // por default, o método de submissão é POST
         MUtil::setIfNull($this->property->method, "POST");
-        
-        if ($this->property->onsubmit) {
+
+        if (isset($this->property->onsubmit)) {
             $this->page->onSubmit($this->property->onsubmit, $this->property->id);
         }
-        
+
         // se o form tem fields com validators, define onSubmit
         $validators = '';
         if (isset($this->property->toValidate)) {
             $this->page->onSubmit("$('#{$this->property->id}').form('validate')", $this->property->id);
             $validators = implode(',', $this->property->bsValidator);
         }
-        
+
         // obtem o codigo html via template
         $inner = $this->painter->fetch('mformdialog', $this, [
             'fields' => $fields,
@@ -97,12 +95,12 @@ class MFormDialog extends MForm
             'help' => $help,
             'tools' => $tools,
             'validators' => $validators,
-            'menubar' => $menubar
+            'menubar' => $menubar ?? ''
         ]);
         return $inner;
     }
-    
-    
+
+
     public function generate()
     {
         // dialog
@@ -110,9 +108,9 @@ class MFormDialog extends MForm
         $dialog->setId($this->property->id . '_dialog');
         $dialog->property->title = $this->property->title;
         $dialog->property->close = $this->property->close;
-        $dialog->property->onClose = $this->property->onClose;
+        $dialog->property->onClose = $this->property->onClose ?? '';
         $dialog->property->class = $this->property->class;
-        $dialog->style->width = $this->style->width;
+        $dialog->style->width = $this->style->width ?? '';
         $dialog->options = $this->options;
         if ($this->buttons) {
             $dialog->options->buttons = '#' . $this->property->id . '_buttons';
@@ -120,7 +118,7 @@ class MFormDialog extends MForm
         if ($this->tools) {
             $dialog->options->toolbar = '#' . $this->property->id . '_tools';
         }
-        $dialog->property->state = "open";        
+        $dialog->property->state = "open";
         $dialog->options->border = isset($this->style->border) ? $this->style->border : true;
         $this->options = new \stdClass(); // remove as options do form
         $dialog->inner = $this->generateForm();

@@ -168,7 +168,7 @@ class Manager
      */
     public $mad;
     /*
-     * Array com as classes importadas. 
+     * Array com as classes importadas.
      */
     public $import = array();
     /*
@@ -178,7 +178,7 @@ class Manager
     /*
      * Nome da aplicação sendo executada.
      */
-    public $app;
+    public static $app;
     /*
      * Controller sendo executado.
      */
@@ -226,6 +226,11 @@ class Manager
      */
     public $trace;
 
+    static protected $_baseUrl;
+    static protected $_scriptUrl;
+
+    static $module;
+
     /**
      * Construtor.
      * Construtor da classe Manager.
@@ -249,22 +254,6 @@ class Manager
         return self::$instance;
     }
 
-    public function handle($container, $request)
-    {
-        $routes = require_once __DIR__ . '/../conf/routes.php';
-        $middlewareQueue[] = new FastRoute($routes);
-        $middlewareQueue[] = new RequestHandler($container);
-        $requestHandler = new Relay($middlewareQueue);
-        $response = $requestHandler->handle($request);
-        return $response;
-    }
-
-    public function terminate($request, $response)
-    {
-        $emitter = new SapiEmitter();
-        return $emitter->emit($response);
-    }
-
     /**
      * Inicialização do Framework.
      * Método chamado pelo FrontPage (index.php) para inicializar os atributos
@@ -273,24 +262,24 @@ class Manager
      * @param string $basePath
      * @param string $app
      */
-    public static function init()
+    public static function init($conf, $basePath)
     {
         $m = Manager::getInstance();
         $m->basePath = $basePath;
-        $m->appsPath = $basePath;
+        $m->appsPath = $basePath . '/app';
         $m->coreAppsPath = $basePath . '/maestro/apps';
-        $m->app = $app;
         $m->confPath = $basePath . '/conf';
         $m->publicPath = $basePath . '/public';
         $m->classPath = $basePath . '/maestro/classes';
         $m->loadAutoload($basePath . '/vendor/autoload_manager.php');
         $managerConfigFile = $m->confPath . '/conf.php';
         $m->loadConf($managerConfigFile);
-        if ($configFile != $managerConfigFile) { // carrega configurações adicionais
-            $m->loadConf($managerConfigFile);
-        }
-        $m->container = require_once 'bootstrap.php';
-        register_shutdown_function("shutdown");
+        $m->app = $m->getConf('app');
+        //if ($configFile != $managerConfigFile) { // carrega configurações adicionais
+        //    $m->loadConf($managerConfigFile);
+        //}
+        $m->initialize();
+        //register_shutdown_function("shutdown");
     }
 
     /**
@@ -425,8 +414,9 @@ class Manager
             $path = self::$instance->appPath;
         }
         */
+        $path = self::$instance->appsPath;
         if ($module) {
-            $path .= '/modules/' . $module;
+            $path .= '/Modules/' . $module;
         }
         if ($file) {
             $path .= '/' . $file;
@@ -533,7 +523,7 @@ class Manager
     public static function autoload($className)
     {
         $class = strtolower($className);
-        $file = self::$instance->autoload[$class];
+        $file = self::$instance->autoload[$class] ?? '';
         if ($file != '') {
             if (file_exists($file)) {
                 include_once($file);
@@ -582,10 +572,21 @@ class Manager
      * Processa a requisição feita via browser após a inicialização do Framework,
      * delegando a execução para o FrontController.
      */
+    /*
     public static function handler($return = false)
     {
         self::$instance->controller->handlerRequest();
         return self::$instance->controller->handlerResponse($return);
+    }
+     */
+    public static function handler($module, $controller, $action, $routes) {
+        self::$module = $module;
+        $class = $routes[$module][$controller];
+        $handler = new $class;
+        $handler->setModule($module);
+        $handler->setName($controller);
+        $response = $handler->handle($action);
+        return $response;
     }
 
     /**
@@ -594,11 +595,13 @@ class Manager
      */
     public static function initialize()
     {
+        /*
         if (self::$instance->java = ($_SERVER["SERVER_SOFTWARE"] == "JavaBridge")) {
             require_once(self::$instance->home . "/java/Java.inc");
             self::$instance->javaContext = java_context();
             self::$instance->javaServletContext = java_context()->getServletContext();
         }
+        */
         self::$instance->getObject('login');
         self::$msg = new MMessages(self::$instance->getOptions('language'));
         self::$msg->loadMessages();
@@ -607,7 +610,7 @@ class Manager
         setlocale(LC_ALL, self::$instance->getOptions("locale"));
         self::$instance->setLog('manager');
         self::$instance->mad = self::$instance->conf['mad']['module'];
-        self::$instance->controller = MFrontController::getInstance();
+        //self::$instance->controller = MFrontController::getInstance();
         $varPath = self::$instance->getOptions('varPath');
         if (!file_exists($varPath)) {
             mkdir($varPath);
@@ -637,7 +640,7 @@ class Manager
      * Carrega ações a partir de um arquivo actions.php.
      * @param string $actionsFile
      */
-    public function loadActions($actionsFile)
+    public static function loadActions($actionsFile)
     {
         if (file_exists($actionsFile)) {
             $actions = require($actionsFile);
@@ -660,7 +663,9 @@ class Manager
      */
     public static function getApp()
     {
-        return self::getContext()->getApp();
+        //return self::getContext()->getApp();
+        return self::$app;
+
     }
 
     /**
@@ -668,7 +673,7 @@ class Manager
      */
     public static function getModule()
     {
-        return self::getContext()->getModule();
+        return self::$module;
     }
 
     /**
@@ -710,9 +715,15 @@ class Manager
     /**
      * Retorna o objeto MRequest (instanciado no FrontController).
      */
+    public static function setRequest($value)
+    {
+        self::$instance->request = $value;
+    }
+
     public static function getRequest()
     {
-        return self::$instance->controller->getRequest();
+        //return self::$instance->controller->getRequest();
+        return self::$instance->request;
     }
 
     /**
@@ -740,7 +751,7 @@ class Manager
      */
     public static function isAjaxCall()
     {
-        return !is_null(self::getRequest()) && self::getRequest()->isAjax();
+        return !is_null(self::getRequest()) && self::getRequest()->ajax();
     }
 
     /**
@@ -1071,9 +1082,9 @@ class Manager
             if ($class == NULL) {
                 $class = "mauthdb";
             }
-            if (!(self::$instance->import('security::' . $class, $class))) {
-                self::$instance->import('modules::' . self::$conf['login']['module'] . '::classes::' . $class, $class, self::$instance->php);
-            }
+            //if (!(self::$instance->import('security::' . $class, $class))) {
+            //    self::$instance->import('modules::' . self::$conf['login']['module'] . '::classes::' . $class, $class, self::$instance->php);
+            //}
             self::$instance->auth = new $class();
         }
         return self::$instance->auth;
@@ -1183,12 +1194,36 @@ class Manager
 
     public static function getBaseURL($absolute = false)
     {
-        return $absolute ? self::$instance->getRequest()->getBaseURL(true) : self::$instance->baseURL;
+        if (self::$_baseUrl === null)
+            self::$_baseUrl = rtrim(dirname(self::$instance->getScriptUrl()), '\\/');
+        $url = $absolute ? str_replace("\/index.php", "", self::$instance->getRequest()->root()) : self::$_baseUrl;
+        return $url;
+    }
+
+    public static function getScriptUrl()
+    {
+        if (self::$_scriptUrl === null) {
+            $scriptName = basename($_SERVER['SCRIPT_FILENAME']);
+            if (basename($_SERVER['SCRIPT_NAME']) === $scriptName)
+                self::$_scriptUrl = $_SERVER['SCRIPT_NAME'];
+            else if (basename($_SERVER['PHP_SELF']) === $scriptName)
+                self::$_scriptUrl = $_SERVER['PHP_SELF'];
+            else if (isset($_SERVER['ORIG_SCRIPT_NAME']) && basename($_SERVER['ORIG_SCRIPT_NAME']) === $scriptName)
+                self::$_scriptUrl = $_SERVER['ORIG_SCRIPT_NAME'];
+            else if (($pos = strpos($_SERVER['PHP_SELF'], '/' . $scriptName)) !== false)
+                self::$_scriptUrl = substr($_SERVER['SCRIPT_NAME'], 0, $pos) . '/' . $scriptName;
+            else if (isset($_SERVER['DOCUMENT_ROOT']) && strpos($_SERVER['SCRIPT_FILENAME'], $_SERVER['DOCUMENT_ROOT']) === 0)
+                self::$_scriptUrl = str_replace('\\', '/', str_replace($_SERVER['DOCUMENT_ROOT'], '', $_SERVER['SCRIPT_FILENAME']));
+            else
+                throw new Exception('MRequest is unable to determine the entry script URL.');
+        }
+        return self::$_scriptUrl;
     }
 
     public static function getAppURL($app = '', $file = '', $absolute = false)
     {
         $app = ($app ?: self::$instance->getApp());
+        mtrace('app = ' . $app);
 //        return $appURL = self::$instance->getBaseURL($absolute) . (self::$instance->java ? '' : '/index.php') . '/' . $app . ($file ? '/' . $file : '');
         return $appURL = self::$instance->getBaseURL($absolute) . '/index.php' . '/' . $app . ($file ? '/' . $file : '');
     }
@@ -1197,7 +1232,8 @@ class Manager
     {
         $app = ($app ?: self::$instance->getApp());
 //        return self::$instance->getBaseURL($absolute) . (self::$instance->java ? '' : '/apps') . '/' . $app . '/public' . ($file ? '/' . $file : '');
-        return self::$instance->getBaseURL($absolute) . '/apps' . '/' . $app . '/public' . ($file ? '/' . $file : '');
+//        return self::$instance->getBaseURL($absolute) . '/apps' . '/' . $app . '/public' . ($file ? '/' . $file : '');
+        return self::$instance->getBaseURL($absolute) . '/public' . ($file ? '/' . $file : '');
     }
 
     public static function getDownloadURL($controller = '', $file = '', $inline = false, $absolute = true)
@@ -1213,7 +1249,51 @@ class Manager
         if (Manager::getOptions('compatibility')) {
             $action = str_replace(':', '/', $action);
         }
-        $url = self::$instance->getContext()->buildURL($action, $args);
+        //$url = self::$instance->getContext()->buildURL($action, $args);
+        $url = self::buildURL($action, $args);
+        return $url;
+    }
+
+    public static function buildURL($action = '', $parameters = array())
+    {
+        $app = self::getApp();
+        //$module = self::getModule();
+        if ($action{0} == '@') {
+            $url = self::getAppURL($app);
+            $action = substr($action, 1);
+        } elseif ($action{0} == '>') {
+            $url = self::getAppURL($app);
+            $action = substr($action, 1);
+        } elseif ($action{0} == '#') {
+            $url = self::getStaticURL();
+            $action = substr($action, 1);
+        } else {
+            $url = self::getAppURL($app,'', true);
+        }
+        //$path = '';
+        $parts = explode('/', $action);
+        $i = 0;
+        $n = count($parts);
+        if ($parts[$i] == $app) {
+            ++$i;
+            --$n;
+        }
+        if ($n == 4) {
+            $path = '/' . $parts[$i] . '/' . $parts[$i + 1] . '/' . $parts[$i + 2] . '/' . $parts[$i + 3];
+        } elseif ($n == 3) { //module
+            $path = '/' . $parts[$i] . '/' . $parts[$i + 1] . '/' . $parts[$i + 2];
+        } elseif ($n == 2) {
+            $path = '/' . $parts[$i] . '/' . $parts[$i + 1];
+        } elseif ($n == 1) {
+            $path = '/' . $parts[$i];
+        } else {
+            throw new EMException(_M('Error building URL. Action = ' . $action));
+        }
+        if (count($parameters)) {
+            $query = http_build_query($parameters);
+            $path .= ((strpos($path, '?') === false) ? '?' : '') . $query;
+        }
+        $url .= $path;
         return $url;
     }
 
@@ -1269,11 +1349,13 @@ class Manager
         $theme = self::$instance->getTheme();
         $app = self::$instance->getApp();
         $path = self::getPublicPath($app, '', 'themes/' . $theme);
-        if (is_dir($path)) {
-            $url = self::$instance->getAbsoluteURL("apps/{$app}" . Manager::getOptions('srcPath') . "/public/themes/{$theme}/{$file}");
-        } else {
-            $url = self::$instance->getAbsoluteURL("public/themes/{$theme}/{$file}");
-        }
+        //if (is_dir($path)) {
+            //$url = self::$instance->getAbsoluteURL("apps/{$app}" . Manager::getOptions('srcPath') . "/public/themes/{$theme}/{$file}");
+        //    $url = self::$instance->getAbsoluteURL("public/themes/{$theme}/{$file}");
+        //} else {
+        //    $url = self::$instance->getAbsoluteURL("public/themes/{$theme}/{$file}");
+        //}
+        $url = self::$instance->getAbsoluteURL("public/themes/{$theme}/{$file}");
         return $url;
     }
 
@@ -1286,7 +1368,7 @@ class Manager
      */
     public static function getCurrentURL($parametrized = false)
     { //static
-        if (!($url = self::$instance->getRequest()->getURL())) {
+        if (!($url = self::$instance->getRequest()->fullURL())) {
             //$url = self::$instance->baseURL . (self::$instance->java ? '' : '/' . self::$instance->getConf('options.dispatch'));
             $url = self::$instance->baseURL . '/' . self::$instance->getConf('options.dispatch');
         }

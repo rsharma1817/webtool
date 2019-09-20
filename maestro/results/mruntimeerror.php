@@ -23,7 +23,7 @@
  */
 class MRuntimeError extends MResult
 {
-    protected $exception;
+    //protected $exception;
     protected $request;
     protected $response;
 
