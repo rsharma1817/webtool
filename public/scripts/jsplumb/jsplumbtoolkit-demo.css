@@ -13,25 +13,25 @@ body {
     padding: 0;
 }
 
-.jtk-bootstrap {
+.jtk-bootstrap.php {
   min-height:100vh;
   display:flex;
   flex-direction: column;  
 }
 
-.jtk-bootstrap .jtk-page-container {
+.jtk-bootstrap.php .jtk-page-container {
     display:flex;
     width:100vw;
     justify-content: center;
     flex:1;
   }
 
-  .jtk-bootstrap .jtk-container {
+  .jtk-bootstrap.php .jtk-container {
     width: 60%;
     max-width:800px;
   }
 
-  .jtk-bootstrap-wide .jtk-container {
+  .jtk-bootstrap.php-wide .jtk-container {
       width: 80%;
       max-width:1187px;
   }

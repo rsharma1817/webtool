@@ -1,5 +1,5 @@
 /* ========================================================================
- * bootstrap-switch - v3.3.2
+ * bootstrap.php-switch - v3.3.2
  * http://www.bootstrap-switch.org
  * ========================================================================
  * Copyright 2012-2013 Mattia Larentis
@@ -397,10 +397,10 @@
         var $form;
         $form = this.$element.closest("form");
         if ($form.length) {
-          $form.off("reset.bootstrapSwitch").removeData("bootstrap-switch");
+          $form.off("reset.bootstrapSwitch").removeData("bootstrap.php-switch");
         }
         this.$container.children().not(this.$element).remove();
-        this.$element.unwrap().unwrap().off(".bootstrapSwitch").removeData("bootstrap-switch");
+        this.$element.unwrap().unwrap().off(".bootstrapSwitch").removeData("bootstrap.php-switch");
         return this.$element;
       };
 
@@ -636,18 +636,18 @@
       BootstrapSwitch.prototype._formHandler = function() {
         var $form;
         $form = this.$element.closest("form");
-        if ($form.data("bootstrap-switch")) {
+        if ($form.data("bootstrap.php-switch")) {
           return;
         }
         return $form.on("reset.bootstrapSwitch", function() {
           return window.setTimeout(function() {
             return $form.find("input").filter(function() {
-              return $(this).data("bootstrap-switch");
+              return $(this).data("bootstrap.php-switch");
             }).each(function() {
               return $(this).bootstrapSwitch("state", this.checked);
             });
           }, 1);
-        }).data("bootstrap-switch", true);
+        }).data("bootstrap.php-switch", true);
       };
 
       BootstrapSwitch.prototype._getClasses = function(classes) {
@@ -673,9 +673,9 @@
       this.each(function() {
         var $this, data;
         $this = $(this);
-        data = $this.data("bootstrap-switch");
+        data = $this.data("bootstrap.php-switch");
         if (!data) {
-          $this.data("bootstrap-switch", data = new BootstrapSwitch(this, option));
+          $this.data("bootstrap.php-switch", data = new BootstrapSwitch(this, option));
         }
         if (typeof option === "string") {
           return ret = data[option].apply(data, args);
@@ -700,7 +700,7 @@
       labelText: "&nbsp;",
       handleWidth: "auto",
       labelWidth: "auto",
-      baseClass: "bootstrap-switch",
+      baseClass: "bootstrap.php-switch",
       wrapperClass: "wrapper",
       onInit: function() {},
       onSwitchChange: function() {}

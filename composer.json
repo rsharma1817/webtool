@@ -32,36 +32,39 @@
     "zendframework/zend-validator": "2.8.*",
     "zendframework/zend-captcha": "2.6.*",
     "beberlei/assert": "dev-master",
-    "php-di/php-di": "5.2.*",
-    "latte/latte": "2.4.*"
+    "php-di/php-di": "6.*",
+    "latte/latte": "2.4.*",
+    "relay/relay": "^2.0",
+    "zendframework/zend-diactoros": "^2.1",
+    "middlewares/fast-route": "^1.2",
+    "middlewares/request-handler": "^1.4"
   },
   "require-dev": {
     "phpunit/phpunit": "*"
   },
   "autoload": {
     "files": [
-      "maestro/classes/functions.php"
+      "maestro/functions.php"
     ],
     "psr-4": {
-      "database\\": "maestro/classes/database",
-      "fnbr\\": "",
-      "fnbr\\auth\\": "modules/auth/"
+      "database\\": "maestro/database",
+      "fnbr\\": "app/modules"
     },
     "classmap": [
-      "maestro/classes/manager.php",
-      "maestro/classes/interfaces",
-      "maestro/classes/database",
-      "maestro/classes/services",
-      "maestro/classes/mvc",
-      "maestro/classes/results",
-      "maestro/classes/persistence",
-      "maestro/classes/extensions",
-      "maestro/classes/security",
-      "maestro/classes/types",
-      "maestro/classes/ui",
-      "maestro/classes/utils",
-      "components",
-      "filters"
+      "maestro/manager.php",
+      "maestro/interfaces",
+      "maestro/database",
+      "maestro/services",
+      "maestro/mvc",
+      "maestro/results",
+      "maestro/persistence",
+      "maestro/extensions",
+      "maestro/security",
+      "maestro/types",
+      "maestro/ui",
+      "maestro/utils",
+      "app/components",
+      "app/filters"
     ]
   },
   "scripts": {
@@ -70,4 +73,3 @@
     ]
   }
 }
-
