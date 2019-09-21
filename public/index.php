@@ -11,15 +11,8 @@
 |
 */
 
-// Maestro
-//ini_set("error_reporting", E_ALL && ~E_NOTICE);
-//ini_set("log_errors", "on");
-//ini_set("error_log", "../var/log/php_error.log");
 
-error_reporting(E_ERROR | E_WARNING | E_PARSE);
-
-
-$app = require __DIR__.'/bootstrap/app.php';
+$app = require __DIR__.'/../bootstrap/app.php';
 
 // ajusta a URI para o caso de subfolder
 //$SCRIPT_NAME = str_replace(['\\', '/index.php'], ['/', ''], ($_SERVER['SCRIPT_NAME'] ?? ($_SERVER['PHP_SELF'] ?? '')));

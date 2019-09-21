@@ -1,24 +1,11 @@
 <?php
 
-
 /**
  * Classe principal do framework.
  * Manager é um façade para várias classes utilitárias e de serviços do framework.
- *
- * @category    Maestro
- * @package     Core
- * @version     3.0
- * @since       1.0
- * @copyright  Copyright (c) 2003-2017 UFJF (http://www.ufjf.br)
- * @license    http://maestro.org.br
  */
 
 use Composer\Script\Event;
-use DI\ContainerBuilder;
-use Middlewares\FastRoute;
-use Middlewares\RequestHandler;
-use Narrowspark\HttpEmitter\SapiEmitter;
-use Relay\Relay;
 
 define('MAESTRO_NAME', 'Maestro 3.0');
 define('MAESTRO_VERSION', '3.0');
@@ -54,14 +41,13 @@ define('ACTION_GROUP', 6);
 define('FETCH_ASSOC', \PDO::FETCH_ASSOC);
 define('FETCH_NUM', \PDO::FETCH_NUM);
 
-require_once 'classloader.php';
+//require_once 'classloader.php';
 
 class Manager
 {
     /*
      * Extensão dos arquivos de código.
      */
-
     static private $fileExtension = '.php';
     /*
      * Caracter separador dos namespaces.
@@ -230,6 +216,8 @@ class Manager
     static protected $_scriptUrl;
 
     static $module;
+    static $handler;
+    static $action;
 
     /**
      * Construtor.
@@ -266,21 +254,49 @@ class Manager
     {
         $m = Manager::getInstance();
         $m->basePath = $basePath;
-        $m->appsPath = $basePath . '/app';
+        $m->appPath = $basePath . '/app';
         $m->coreAppsPath = $basePath . '/maestro/apps';
         $m->confPath = $basePath . '/conf';
         $m->publicPath = $basePath . '/public';
         $m->classPath = $basePath . '/maestro/classes';
         $m->loadAutoload($basePath . '/vendor/autoload_manager.php');
-        $managerConfigFile = $m->confPath . '/conf.php';
-        $m->loadConf($managerConfigFile);
+        $configFile = $m->confPath . '/conf.php';
+        $m->loadConf($configFile);
         $m->app = $m->getConf('app');
-        //if ($configFile != $managerConfigFile) { // carrega configurações adicionais
-        //    $m->loadConf($managerConfigFile);
-        //}
         $m->initialize();
         //register_shutdown_function("shutdown");
     }
+
+    /**
+     * Inicialização básica do Framework.
+     * Inicializa "variáveis globais", mensagens do framework, log e FrontController.
+     */
+    public static function initialize()
+    {
+        self::$instance->getObject('login');
+        self::$msg = new MMessages(self::$instance->getOptions('language'));
+        self::$msg->loadMessages();
+        self::$instance->mode = self::$instance->getOptions("mode");
+        date_default_timezone_set(self::$instance->getOptions("timezone"));
+        setlocale(LC_ALL, self::$instance->getOptions("locale"));
+        self::$instance->setLog('manager');
+        self::$instance->mad = self::$instance->conf['mad']['module'];
+        //self::$instance->controller = MFrontController::getInstance();
+        $varPath = self::$instance->getOptions('varPath');
+        if (!file_exists($varPath)) {
+            mkdir($varPath);
+        }
+        if (!file_exists($varPath . '/templates')) {
+            mkdir($varPath . '/templates');
+        }
+        if (!file_exists($varPath . '/files')) {
+            mkdir($varPath . '/files');
+        }
+        if (!file_exists($varPath . '/log')) {
+            mkdir($varPath . '/log');
+        }
+    }
+
 
     /**
      * Instancia (caso não exista) e retorna um objeto utilitário ou de serviço
@@ -325,39 +341,27 @@ class Manager
      * Retorna o path absoluto de $relative.
      * @return string
      */
-    public static function getAbsolutePath($relative = NULL)
+    public static function getAbsolutePath($relative = null)
     {
-        $path = self::$instance->getHome();
-        if ($relative) {
-            $path .= '/' . $relative;
-        }
-        return $path;
+        return self::$instance->getHome() . ($relative ? "/{$relative}" : '');
     }
 
     /**
      * Retorna o path da classe $class.
      * @return string
      */
-    public static function getClassPath($class = '')
+    public static function getClassPath($class = null)
     {
-        $path = self::$instance->classPath;
-        if ($class) {
-            $path .= '/' . $class;
-        }
-        return $path;
+        return self::$instance->classPath . ($class ? "/{$class}" : '');
     }
 
     /**
      * Retorna o path do arquivo de configuração $conf.
      * @return string
      */
-    public static function getConfPath($conf = '')
+    public static function getConfPath($conf = null)
     {
-        $path = self::$instance->confPath;
-        if ($conf) {
-            $path .= '/' . $conf;
-        }
-        return $path;
+        return self::$instance->confPath  . ($conf ? "/{$conf}" : '');
     }
 
     /**
@@ -367,7 +371,7 @@ class Manager
     public static function getPublicPath($app = '', $module = '', $file = '')
     {
         if ($app) {
-            $path = self::$instance->appsPath . '/' . $app;
+            $path = self::$instance->appPath . '/' . $app;
             if ($module) {
                 $path .= '/modules/' . $module;
             }
@@ -389,11 +393,7 @@ class Manager
     {
         $path = self::$instance->themePath;
         if ($path == '') {
-            $path = self::getPublicPath(self::getApp(), '', 'themes/' . self::getTheme());
-            if (!is_dir($path)) {
-                $path = self::getPublicPath('', '', 'themes/' . self::getTheme());
-            }
-            self::$instance->themePath = $path;
+            self::$instance->themePath = self::getPublicPath('', '', 'themes/' . self::getTheme());
         }
         if ($theme) {
             $path .= '/' . $theme;
@@ -407,21 +407,13 @@ class Manager
      */
     public static function getAppPath($file = '', $module = '', $app = '')
     {
-        /*
-        if ($app) {
-            $path = self::$instance->appsPath . '/' . $app;
-        } else {
-            $path = self::$instance->appPath;
-        }
-        */
-        $path = self::$instance->appsPath;
+        $path = self::$instance->appPath;
         if ($module) {
             $path .= '/Modules/' . $module;
         }
         if ($file) {
             $path .= '/' . $file;
         }
-
         return $path;
     }
 
@@ -440,7 +432,7 @@ class Manager
      */
     public static function getFrameworkPath($file = '')
     {
-        $path = self::$instance->getHome() . '/core';
+        $path = self::$instance->getHome() . '/maestro';
         if ($file) {
             $path .= '/' . $file;
         }
@@ -456,7 +448,7 @@ class Manager
      */
     public static function getFilesPath($file = '', $session = false)
     {
-        $path = self::$instance->getHome() . '/core/var/files';
+        $path = self::$instance->getHome() . '/storage/app/files';
         if ($file) {
             if ($session) {
                 $sid = self::$instance->getSession()->getId();
@@ -476,6 +468,7 @@ class Manager
      * @param string $includePath Path das classes que será carregadas.
      * @param boolean $append
      */
+    /*
     public static function registerAutoloader($namespace, $includePath, $append = false)
     {
         $classLoader = new ClassLoader($namespace, $includePath);
@@ -490,11 +483,13 @@ class Manager
             spl_autoload_register(array('Manager', 'autoload'));
         }
     }
+    */
 
     /**
      * Adiciona path para classes que são carregadas via Autoloader.
      * @param string $includePath
      */
+    /*
     public static function addAutoloadPath($includePath)
     {
         $path = realpath($includePath);
@@ -502,19 +497,21 @@ class Manager
             self::$autoloadPaths[] = $path;
         }
     }
+    */
 
     /**
      * Adiciona classe a ser carregada via Autoloader.
      * @param type $className Nome da classe.
      * @param type $classPath Path da classe.
      */
+    /*
     public static function addAutoloadClass($className, $classPath)
     {
         if (file_exists($classPath)) {
             self::$instance->autoload[$className] = $classPath;
         }
     }
-
+*/
     /**
      * Carrega uma classe.
      * @param string $className Nome da classe.
@@ -553,20 +550,23 @@ class Manager
     /**
      * Configura o framework para execução offline
      */
+    /*
     public static function setupContext($context = '', $data = NULL)
     {
         self::$instance->initialize();
         self::$instance->controller->setupContext($context, $data);
     }
-
+*/
     /**
      * Processa a requisição feita via browser. Executado pelo FrontPage (index.php).
      */
+    /*
     public static function processRequest($return = false)
     {
         self::$instance->initialize();
         return self::$instance->handler($return);
     }
+    */
 
     /**
      * Processa a requisição feita via browser após a inicialização do Framework,
@@ -581,49 +581,14 @@ class Manager
      */
     public static function handler($module, $controller, $action, $routes) {
         self::$module = $module;
+        self::$handler = $controller;
+        self::$action = $action;
         $class = $routes[$module][$controller];
         $handler = new $class;
         $handler->setModule($module);
         $handler->setName($controller);
         $response = $handler->handle($action);
         return $response;
-    }
-
-    /**
-     * Inicialização básica do Framework.
-     * Inicializa "variáveis globais", mensagens do framework, log e FrontController.
-     */
-    public static function initialize()
-    {
-        /*
-        if (self::$instance->java = ($_SERVER["SERVER_SOFTWARE"] == "JavaBridge")) {
-            require_once(self::$instance->home . "/java/Java.inc");
-            self::$instance->javaContext = java_context();
-            self::$instance->javaServletContext = java_context()->getServletContext();
-        }
-        */
-        self::$instance->getObject('login');
-        self::$msg = new MMessages(self::$instance->getOptions('language'));
-        self::$msg->loadMessages();
-        self::$instance->mode = self::$instance->getOptions("mode");
-        date_default_timezone_set(self::$instance->getOptions("timezone"));
-        setlocale(LC_ALL, self::$instance->getOptions("locale"));
-        self::$instance->setLog('manager');
-        self::$instance->mad = self::$instance->conf['mad']['module'];
-        //self::$instance->controller = MFrontController::getInstance();
-        $varPath = self::$instance->getOptions('varPath');
-        if (!file_exists($varPath)) {
-            mkdir($varPath);
-        }
-        if (!file_exists($varPath . '/templates')) {
-            mkdir($varPath . '/templates');
-        }
-        if (!file_exists($varPath . '/files')) {
-            mkdir($varPath . '/files');
-        }
-        if (!file_exists($varPath . '/log')) {
-            mkdir($varPath . '/log');
-        }
     }
 
     /**
@@ -681,7 +646,7 @@ class Manager
      */
     public static function getCurrentController()
     {
-        return self::$instance->controller->getController();
+        return self::$handler;
     }
 
     /**
@@ -689,7 +654,7 @@ class Manager
      */
     public static function getCurrentAction()
     {
-        return self::$instance->controller->getAction();
+        return self::$action;
     }
 
     /**
@@ -713,7 +678,7 @@ class Manager
     }
 
     /**
-     * Retorna o objeto MRequest (instanciado no FrontController).
+     * Retorna o objeto MRequest (instanciado pelo Lumen).
      */
     public static function setRequest($value)
     {
@@ -739,10 +704,12 @@ class Manager
      * Retorna o objeto FrontController.
      * @return type
      */
+    /*
     public static function getFrontController()
     {
         return self::$instance->controller;
     }
+    */
 
     /**
      * Retorna informação sobre o tipo da requisição.
@@ -774,10 +741,12 @@ class Manager
         return self::$instance->getRequest()->isDownload();
     }
 
+    /*
     public static function SPI()
     {
         return MUtil::getBooleanValue(self::$instance->getOptions('SPI'));
     }
+    */
 
     /*
      * Retorna 1 se o servidor está em modo de desenvolvimento
@@ -835,6 +804,8 @@ class Manager
             && $errno == 2
             && strpos($errstr, 'Declaration of') === 0;
     }
+
+    /*
 
     public function getPathOfAlias($alias)
     {
@@ -935,6 +906,7 @@ class Manager
         }
         return $result;
     }
+    */
 
     public static function getConf($key)
     {
@@ -1027,10 +999,12 @@ class Manager
      * @returns (tipo) desc
      *
      */
+    /*
     public static function setDispatcher($url)
     {
         self::$instance->dispatch = $url;
     }
+    */
 
     /**
      * Brief Description.
@@ -1039,11 +1013,12 @@ class Manager
      * @returns (tipo) desc
      *
      */
+    /*
     public static function getContext()
     {
         return self::$instance->controller->getContext();
     }
-
+*/
     /**
      * Brief Description.
      * Complete Description.
@@ -1191,6 +1166,8 @@ class Manager
     {
         return self::$msg->get($key, $parameters);
     }
+
+    
 
     public static function getBaseURL($absolute = false)
     {
