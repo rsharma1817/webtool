@@ -1,153 +1,210 @@
 <script type="text/javascript">
+$(function () {
+        //extractionFileUploaded();
+        //console.log(player);
+    /*
+    $("#jquery_jplayer_1").jPlayer({
+        ready: function () {
+            $(this).jPlayer("setMedia", {
+                title: "Big Buck Bunny Trailer",
+                //m4v: "http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v",
+                //ogv: "http://www.jplayer.org/video/ogv/Big_Buck_Bunny_Trailer.ogv",
+                //poster: "http://www.jplayer.org/video/poster/Big_Buck_Bunny_Trailer_480x270.png"
+                m4v: {{$manager->getBaseURL() . '/apps/webtool/files/multimodal/videos/fnbr1_ed.mp4'}},
+            });
+        },
+        cssSelectorAncestor: "#jp_container_1",
+        swfPath: {{$manager->getBaseURL() . '/apps/webtool/public/scripts/jplayer/'}},
+        supplied: "m4v",
+        useStateClassSkin: true,
+        autoBlur: false,
+        smoothPlayBar: true,
+        keyEnabled: true,
+        remainingDuration: true,
+        toggleDuration: true
+    });
 
-    let doodle = document.querySelector('#doodle');
-let canvas = document.querySelector('#canvas');
-let ctx = canvas.getContext('2d');
-//let videoFile = document.querySelector('#videoFile');
-//let zipFile = document.querySelector('#zipFile');
-//let xmlFile = document.querySelector('#xmlFile');
-//let videoDimensionsElement = document.querySelector('#videoDimensions');
-//let extractionProgressElement = document.querySelector('#extractionProgress');
-//let downloadFramesButton = document.querySelector('#downloadFrames');
-//let playButton = document.querySelector('#play');
-//let pauseButton = document.querySelector('#pause');
-let speedInput = document.querySelector('#speed');
-//let sliderElement = document.querySelector('#slider');
-//let generateXmlButton = document.querySelector('#generateXml');
+     */
 
-$('#slider').slider({
-    onSlideStart: function() {
-        console.log('slide start');
-    },
-    onSlideEnd: function() {
-        console.log('slide end ' + this.value);
-        player.seek(this.value)
-    }
-});
+    var myPlayer = $("#jquery_jplayer_1"),
+        myPlayerData,
+        fixFlash_mp4, // Flag: The m4a and m4v Flash player gives some old currentTime values when changed.
+        fixFlash_mp4_id, // Timeout ID used with fixFlash_mp4
+        ignore_timeupdate, // Flag used with fixFlash_mp4
+        options = {
+            ready: function (event) {
+                // Hide the volume slider on mobile browsers. ie., They have no effect.
+                //if(event.jPlayer.status.noVolume) {
+                    // Add a class and then CSS rules deal with it.
+                //    $(".jp-gui").addClass("jp-no-volume");
+                //}
+                // Determine if Flash is being used and the mp4 media type is supplied. BTW, Supplying both mp3 and mp4 is pointless.
+                fixFlash_mp4 = event.jPlayer.flash.used && /m4a|m4v/.test(event.jPlayer.options.supplied);
+                // Setup the player with media.
+                $(this).jPlayer("setMedia", {
+                    // mp3: "http://www.jplayer.org/audio/mp3/Miaow-07-Bubble.mp3",
+                    m4v: {{$manager->getBaseURL() . '/apps/webtool/files/multimodal/videos/fnbr1_ed.mp4'}},
+                    //oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg"
+                });
+            },
+            timeupdate: function(event) {
+                if(!ignore_timeupdate) {
+                    myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+                }
+            },
+            /*
+            volumechange: function(event) {
+                if(event.jPlayer.options.muted) {
+                    myControl.volume.slider("value", 0);
+                } else {
+                    myControl.volume.slider("value", event.jPlayer.options.volume);
+                }
+            },
 
-let slider = {
-    init: function (min, max) {
-        $('#slider').slider({
-            min: min,
-            max: max,
-            showTip: true,
-        });
-        $('#slider').slider('enable');
-    },
-    setPosition: function (frameNumber) {
-        //console.log('set position ' + frameNumber);
-        $('#slider').slider({
-            value: frameNumber
-        });
-    },
-    reset: function () {
-        $('#slider').slider('disable');
-    }
-};
+             */
+            swfPath: {{$manager->getBaseURL() . '/apps/webtool/public/scripts/jplayer/'}},
+            supplied: "m4a",
+            cssSelectorAncestor: "#jp_container_1",
+            wmode: "window",
+            keyEnabled: true
+        },
+        myControl = {
+            progress: $('#slider') //$(options.cssSelectorAncestor + " .jp-progress-slider"),
+            //volume: $(options.cssSelectorAncestor + " .jp-volume-slider")
+        };
 
+    // Instance jPlayer
+    myPlayer.jPlayer(options);
 
-$('#btnPlay').linkbutton({
-    iconCls: 'fa fa-play',
-    size: null,
-    disable: true,
-    onClick: function () {
-        console.log('play clicked');
-        playClicked();
-    }
-});
-
-$('#btnPause').linkbutton({
-    iconCls: 'fa fa-pause',
-    size: null,
-    disable: true,
-    onClick: function () {
-        console.log('pause clicked');
-        pauseClicked();
-    }
-});
-
-$('#btnBackward').linkbutton({
-    iconCls: 'fa fa-step-backward',
-    size: null,
-    disable: true,
-    onClick: function () {
-        player.backward();
-    }
-});
-
-$('#btnForward').linkbutton({
-    iconCls: 'fa fa-step-forward',
-    size: null,
-    disable: true,
-    onClick: function () {
-        player.forward();
-    }
-});
+    // A pointer to the jPlayer data object
+    myPlayerData = myPlayer.data("jPlayer");
 
 
 
-$('#btnNewBox').linkbutton({
-    iconCls: 'far fa-square',
-    size: null,
-    disable: true,
-    onClick: function () {
-        //newBboxElement();
-        doodle.style.cursor = 'crosshair';
-    }
-});
+    $('#slider').slider({
+        onSlideStart: function() {
+            console.log('slide start');
+        },
+        onSlideEnd: function() {
+            console.log('slide end ' + this.value);
+            player.seek(this.value)
+        }
+    });
 
-$('#btnUpdateObjects').linkbutton({
-    iconCls: 'fa fa-save',
-    size: null,
-    disable: true,
-    onClick: function () {
-        generateXml();
-    }
-});
-
-/*
-var columns = [
-    {field:'idObject', title:'ID'},
-    {field:'startFrame', title:'start'},
-    {field:'endFrame', title:'end'},
-    {field:'frameElement', title:'FE'},
-];
-*/
-
-var columns = [
-    {field:'idObject', title:'ID'},
-    {field:'visible', title:'Visible', formatter: function(value,row,index){
-        console.log(value);
-        return value[0].outerHTML;
-        }},
-    {field:'hide', title:'Hide Others', formatter: function(value,row,index){
-            console.log(value);
-            return value[0].outerHTML;
-        }},
-    {field:'frameElement', title:'FE'},
-];
+    let slider = {
+        init: function (min, max) {
+            $('#slider').slider({
+                min: min,
+                max: max,
+                showTip: true,
+            });
+            $('#slider').slider('enable');
+        },
+        setPosition: function (frameNumber) {
+            //console.log('set position ' + frameNumber);
+            $('#slider').slider({
+                value: frameNumber
+            });
+        },
+        reset: function () {
+            $('#slider').slider('disable');
+        }
+    };
 
 
-console.log(columns);
+    $('#btnPlay').linkbutton({
+        iconCls: 'fa fa-play',
+        size: null,
+        disable: true,
+        onClick: function () {
+            console.log('play clicked');
+            playClicked();
+        }
+    });
 
-$('#objectsGrid').datagrid({
-    url:{{$data->urlObjects}},
+    $('#btnPause').linkbutton({
+        iconCls: 'fa fa-pause',
+        size: null,
+        disable: true,
+        onClick: function () {
+            console.log('pause clicked');
+            pauseClicked();
+        }
+    });
+
+    $('#btnBackward').linkbutton({
+        iconCls: 'fa fa-step-backward',
+        size: null,
+        disable: true,
+        onClick: function () {
+            player.backward();
+        }
+    });
+
+    $('#btnForward').linkbutton({
+        iconCls: 'fa fa-step-forward',
+        size: null,
+        disable: true,
+        onClick: function () {
+            player.forward();
+        }
+    });
+
+
+
+    $('#btnNewBox').linkbutton({
+        iconCls: 'far fa-square',
+        size: null,
+        disable: true,
+        onClick: function () {
+            //newBboxElement();
+            doodle.style.cursor = 'crosshair';
+        }
+    });
+
+    $('#btnUpdateObjects').linkbutton({
+        iconCls: 'fa fa-save',
+        size: null,
+        disable: true,
+        onClick: function () {
+            generateXml();
+        }
+    });
+
+    var columns = [
+        {field:'idObject', title:'ID'},
+        {field:'visible', title:'Visible', formatter: function(value,row,index){
+                console.log(value);
+                return value[0].outerHTML;
+            }},
+        {field:'hide', title:'Hide Others', formatter: function(value,row,index){
+                console.log(value);
+                return value[0].outerHTML;
+            }},
+        {field:'frameElement', title:'FE'},
+    ];
+
+
+    console.log(columns);
+
+    $('#objectsGrid').datagrid({
+        url:{{$data->urlObjects}},
     method:'get',
         title: 'Objects',
-    //collapsible:true,
-    //fitColumns: false,
-    //autoRowHeight: false,
-    //nowrap: true,
-    //rowStyler: annotation.rowStyler,
-    showHeader: true,
-    onBeforeSelect: function() {return false;},
+        //collapsible:true,
+        //fitColumns: false,
+        //autoRowHeight: false,
+        //nowrap: true,
+        //rowStyler: annotation.rowStyler,
+        showHeader: true,
+        onBeforeSelect: function() {return false;},
 //onSelect: annotation.onSelect,
 //onClickCell: annotation.onClickCell,
 //onRowContextMenu: annotation.onRowContextMenu,
 //onHeaderContextMenu: annotation.onHeaderContextMenu,
 //toolbar: tb,
 //frozenColumns: [frozenColumns],
-columns: [columns],
+    columns: [columns],
 //onLoadSuccess: function() {
 //    annotation.initCursor();
 //}
@@ -416,10 +473,10 @@ columns: [columns],
 
     function initializeCanvasDimensions(img) {
 
-       doodle.style.width = img.width + 'px';
-       doodle.style.height = img.height + 'px';
-       canvas.width = img.width;
-       canvas.height = img.height;
+        doodle.style.width = img.width + 'px';
+        doodle.style.height = img.height + 'px';
+        canvas.width = img.width;
+        canvas.height = img.height;
         $('#slider').slider({width: img.width + 'px'});
 
         /*
@@ -479,41 +536,41 @@ columns: [columns],
         let zip = null;
         let url = {{$manager->getBaseURL() . '/apps/webtool/files/multimodal/videoframes/fnbr2.zip'}}
         console.log(url);
-                promise = extractFramesFromZipUrl(config, url);
+        promise = extractFramesFromZipUrl(config, url);
 
-                promise.then((frames) => {
-                    console.log(frames);
-                    //extractionProgressElement.innerHTML = 'Extraction completed. ' + frames.totalFrames() + ' frames captured.';
-                    console.log('Extraction completed. ' + frames.totalFrames() + ' frames captured.');
-                    if (frames.totalFrames() > 0) {
-                        frames.getFrame(0).then((blob) => {
-                            blobToImage(blob).then((img) => {
-                                initializeCanvasDimensions(img);
-                                ctx.drawImage(img, 0, 0);
-                                //videoDimensionsElement.innerHTML = 'Video dimensions determined: ' + img.width + 'x' + img.height;
-                                console.log('Video dimensions determined: ' + img.width + 'x' + img.height);
+        promise.then((frames) => {
+            console.log(frames);
+            //extractionProgressElement.innerHTML = 'Extraction completed. ' + frames.totalFrames() + ' frames captured.';
+            console.log('Extraction completed. ' + frames.totalFrames() + ' frames captured.');
+            if (frames.totalFrames() > 0) {
+                frames.getFrame(0).then((blob) => {
+                    blobToImage(blob).then((img) => {
+                        initializeCanvasDimensions(img);
+                        ctx.drawImage(img, 0, 0);
+                        //videoDimensionsElement.innerHTML = 'Video dimensions determined: ' + img.width + 'x' + img.height;
+                        console.log('Video dimensions determined: ' + img.width + 'x' + img.height);
 
-                                framesManager.set(frames);
-                                console.log('pos framesManager');
-                                slider.init(
-                                    0,
-                                    framesManager.frames.totalFrames() - 1,
-                                    //(frameNumber) => {console.log(frameNumber); player.seek(frameNumber)}
-                                );
-                                player.ready();
+                        framesManager.set(frames);
+                        console.log('pos framesManager');
+                        slider.init(
+                            0,
+                            framesManager.frames.totalFrames() - 1,
+                            //(frameNumber) => {console.log(frameNumber); player.seek(frameNumber)}
+                        );
+                        player.ready();
 
-                                //xmlFile.disabled = false;
-                                //playButton.disabled = false;
-                                //downloadFramesButton.disabled = false;
-                                //generateXmlButton.disabled = false;
-                                $('#btnPlay').linkbutton('enable');
-                            });
-                        });
-                    }
-
-                    //videoFile.disabled = false;
-                    //zipFile.disabled = false;
+                        //xmlFile.disabled = false;
+                        //playButton.disabled = false;
+                        //downloadFramesButton.disabled = false;
+                        //generateXmlButton.disabled = false;
+                        $('#btnPlay').linkbutton('enable');
+                    });
                 });
+            }
+
+            //videoFile.disabled = false;
+            //zipFile.disabled = false;
+        });
 
     }
 
@@ -541,7 +598,7 @@ columns: [columns],
             handles: "n, e, s, w",
             //stop: (e, ui) => {
             onStopResize: (e) => {
-                    let position = bbox.position();
+                let position = bbox.position();
                 onChange(Math.round(position.left), Math.round(position.top), Math.round(bbox.width()), Math.round(bbox.height()));
             }
         });
@@ -864,37 +921,7 @@ columns: [columns],
         reader.readAsText(this.files[0]);
     }
 
-    // Keyboard shortcuts
-/*
-    window.onkeydown = function (e) {
-        let preventDefault = true;
 
-        if (e.keyCode === 32) { // space
-            player.toogle();
-        } else if (e.keyCode === 78) { // n
-            doodle.style.cursor = 'crosshair';
-        } else if (e.keyCode === 27) { // escape
-            if (tmpAnnotatedObject != null) {
-                doodle.removeChild(tmpAnnotatedObject.dom);
-                tmpAnnotatedObject = null;
-            }
-            doodle.style.cursor = 'default';
-        } else if (e.keyCode == 37) { // left
-            player.seek(player.currentFrame - 1);
-        } else if (e.keyCode == 39) { // right
-            player.seek(player.currentFrame + 1);
-        } else {
-            preventDefault = false;
-        }
 
-        if (preventDefault) {
-            e.preventDefault();
-        }
-    };
-*/
-
-$(function () {
-        extractionFileUploaded();
-        console.log(player);
-    });
+});
 </script>
