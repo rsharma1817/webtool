@@ -1,3 +1,5 @@
+//Vue.use(Vuex)
+//console.log(base);
 let store = new Vuex.Store({
     state: {
         model: {},
@@ -6,15 +8,15 @@ let store = new Vuex.Store({
         swfPath: '',
         urlLookupFrame: '',
         urlLookupFE: '',
-        currentFrame: 0,
+        currentTime: 0,
         currentState: 'paused',
         duration: 0,
         totalFrames: 0,
         annotation: {}
     },
     getters: {
-        currentFrame(state) {
-            return state.currentFrame
+        currentTime(state) {
+            return state.currentTime
         },
         currentState(state) {
             return state.currentState
@@ -24,8 +26,15 @@ let store = new Vuex.Store({
         },
     },
     mutations: {
-        currentFrame(state, value) {
-            state.currentFrame = value;
+        fromLatte(state, latte) {
+            state.title = latte.title;
+            state.m4v = latte.m4v;
+            state.swfPath = latte.swfPath;
+            state.urlLookupFrame = latte.urlLookupFrame;
+            state.urlLookupFE = latte.urlLookupFE;
+        },
+        currentTime(state, time) {
+            state.currentTime = time;
         },
         currentState(state, value) {
             state.currentState = value;
