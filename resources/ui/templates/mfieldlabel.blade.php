@@ -1,0 +1,1 @@
+<label for="{{$control->id}}">{{$control->text}}</label>

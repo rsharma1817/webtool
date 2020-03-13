@@ -15,7 +15,7 @@ services:
             - ${VHOSTS_DIR-./config/vhosts}:/etc/apache2/sites-enabled
             - ${LOG_DIR-./logs/apache2}:/var/log/apache2
         #        build: .
-        command: bash -c "cd /var/www/html && composer install --ignore-platform-reqs && cd /var/www/html/apps/webtool && composer install --ignore-platform-reqs && apache2-foreground"
+        command: bash -c "cd /var/www/html && composer install --ignore-platform-reqs && apache2-foreground"
         #        restart: on-failure
         depends_on:
             - db

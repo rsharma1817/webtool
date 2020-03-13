@@ -1,0 +1,24 @@
+{{include 'header.html'}}
+<!-- basic preloader:
+<div id="loader"><div id="loaderInner" style="direction:ltr;">Carregando.... </div></div>
+-->
+
+<div id="appContainer" style="width:100%;height:100%;">
+        <div class="ui fixed inverted menu">
+            <a href="#" class="header item">
+                {{$manager->getOptions('mainTitle')|noescape}}
+            </a>
+            {{$page->generate('MainMenu')|noescape}}
+            <div id="right" class="right menu">
+            {{$page->generate('UserMenu')|noescape}}
+            </div>
+        </div>
+        <div id="centerPane" style="height:100vh; padding-top:40px; padding-bottom: 24px;">
+            {{$page->generate('content')|noescape}}
+        </div>
+    <div class="ui inverted vertical footer" style="position: absolute; bottom: 0; width: 100%; height:24px">
+        &nbsp;© 2008, 2020 FrameNetBrasil Project
+    </div>
+</div>
+
+{{include 'footer.html'}}

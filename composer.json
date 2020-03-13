@@ -19,40 +19,69 @@
     }
   ],
   "require": {
-    "psr/log": "1.0.0",
-    "phpmailer/phpmailer": "~6.0",
-    "aura/session": "^2.1",
-    "beberlei/assert": "dev-master",
-    "php-di/php-di": "5.2.*",
-    "latte/latte": "2.4.*"
+    "php": "7.4.*",
+    "laravel/lumen-framework": "^7.0",
+    "ext-pdo": "*",
+    "doctrine/common": "^2.10.0",
+    "doctrine/dbal": "^2.9.2",
+    "nesbot/carbon": "^2.28",
+    "swiftmailer/swiftmailer": "^5.4",
+    "fresque/fresque": "1.3.1",
+    "neitanod/forceutf8": "^2.0",
+    "phpfastcache/phpfastcache": "^7.0",
+    "auth0/auth0-php": "~5.0",
+    "aura/session": "^2.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "*"
+    "fzaninotto/faker": "^1.9.1",
+    "mockery/mockery": "^1.3.1",
+    "phpunit/phpunit": "^8.5"
   },
   "autoload": {
     "files": [
-      "core/classes/functions.php"
+      "maestro/classes/functions.php"
     ],
     "psr-4": {
-      "database\\": "core/classes/database"
+      "database\\": "maestro/classes/database",
+      "App\\": "app/",
+      "fnbr\\": "app/",
+      "fnbr\\auth\\": "modules/auth/"
     },
     "classmap": [
-      "core/classes/manager.php",
-      "core/classes/interfaces",
-      "core/classes/database",
-      "core/classes/services",
-      "core/classes/mvc",
-      "core/classes/results",
-      "core/classes/persistence",
-      "core/classes/security",
-      "core/classes/types",
-      "core/classes/ui",
-      "core/classes/utils"
+      "maestro/classes/manager.php",
+      "maestro/classes/interfaces",
+      "maestro/classes/database",
+      "maestro/classes/services",
+      "maestro/classes/mvc",
+      "maestro/classes/results",
+      "maestro/classes/persistence",
+      "maestro/classes/security",
+      "maestro/classes/types",
+      "maestro/classes/utils",
+      "resources/ui",
+      "resources/ui/components",
+      "app/filters"
     ]
   },
+  "autoload-dev": {
+    "classmap": [
+      "tests/"
+    ]
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "scripts": {
+    "post-root-package-install": [
+      "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+    ],
     "post-autoload-dump": [
-      "Manager::postAutoloadDump"
+      "Manager::postAutoloadDump",
+      "Manager::createFileMap"
     ]
   }
 }
