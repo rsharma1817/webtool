@@ -687,6 +687,7 @@ HERE;
 
     public function createLayersForLU($lu, $data)
     {
+        mdump($data);
         $layerType = new LayerType();
         $layerTypes = $layerType->listToLU($lu);
         foreach ($layerTypes as $lt) {
@@ -711,7 +712,7 @@ HERE;
                                 $label->setStartChar($startChar);
                                 $label->setEndChar($endChar);
                                 $label->save();
-                                $startChar = $endChar = 0;
+                                $startChar = $endChar = -1;
                             }
                         } else {
                             if ($startChar == -1) {
