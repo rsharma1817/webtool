@@ -176,7 +176,6 @@ class MContext
         $part = null;
         $component = '';
         $app = array_shift($pathParts);
-        mdump('=============== app = '. $app);
         if ($app != '') {
             if ($app == 'core') {
                 $this->isCore = true;
@@ -318,7 +317,7 @@ class MContext
             }
         } else {
             $this->app = Manager::getOptions('startup');
-            $controller = 'Main';
+            $controller = 'main';
         }
         if ($controller) {
             $this->controller = $controller;
