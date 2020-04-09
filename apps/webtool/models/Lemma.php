@@ -44,8 +44,13 @@ class Lemma extends map\LemmaMap
                 $entity = new Entity();
                 $alias = 'lemma_' . $this->name . '_' . $this->idLemma;
                 $entity->getByAlias($alias);
-                if ($entity->getIdEntity()) {
-                    throw new \Exception("This Lemma already exists!.");
+                $idEntity = $entity->getIdEntity();
+                if ($idEntity) {
+                    $this->setIdEntity($idEntity);
+                    if ($this->isPersistent()) {
+                        parent::save();
+                    }
+                    //throw new \Exception("This Lemma already exists!.");
                 } else {
                     $entity->setAlias($alias);
                     $entity->setType('LM');
