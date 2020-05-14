@@ -9,7 +9,7 @@ This repository contains a customized Maestro copy. Webtool app is localized at 
 ## GSoC 2020 Project Idea 2: New Frame-Based Image and Video Annotation Pipeline for the FNBr Webtool
 This branch contains the code for this project selected under Google Summer of Code 2020.
 
-Contributor- Prishita Ray
+Contributor- Prishita Ray  
 Mentors- Tiago Timponi Torrent, Ely Matos, Marcelo Viridiano, Fred Belcavello
 
 ### Summary of Project
