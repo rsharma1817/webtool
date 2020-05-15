@@ -38,16 +38,16 @@ Each pipeline component is a Python class that implements a simple method. They 
 
 Typical actions include:
 
-• validating data (checking that the URL points to a video file)
-• checking for duplicates (and dropping them)
-• storing the video in the database
+* validating data (checking that the URL points to a video file)
+* checking for duplicates (and dropping them)
+* storing the video in the database
 
 The pipeline needs a few extra functions for processing video files:
 
-• check video width/height to make sure they meet a minimum constraint (720x480/WideSD)
-• convert all downloaded videos to a common format (MP4) and codec (H.264)
-• thumbnail generation
-• keep an internal queue of those media URLs which are currently being scheduled for download, and connect those responses that arrive containing the same media to that queue (this avoids downloading the same media more than once)
+* check video width/height to make sure they meet a minimum constraint (720x480/WideSD)
+* convert all downloaded videos to a common format (MP4) and codec (H.264)
+* thumbnail generation
+* keep an internal queue of those media URLs which are currently being scheduled for download, and connect those responses that arrive containing the same media to that queue (this avoids downloading the same media more than once)
 
 ### Filtering out small videos
 
@@ -117,7 +117,7 @@ Transcriptions should have timestamps that identify the exact point in an audio/
 
     For example: 00:00:08,204 –> 00:00:10,143 - Good morning.
 
-Timestamps will use the format `[HH:MM:SSS`] where `HH`, `MM`, `SSS` are hours, minutes and milliseconds from the beginning and ending of each sentence in the audio track.
+Timestamps will use the format `[HH:MM:SSS]` where `HH`, `MM`, `SSS` are hours, minutes and milliseconds from the beginning and ending of each sentence in the audio track.
 
 Once finished processing, the Speech-to-Text API will return the transcription to be stored in the following file:
 
