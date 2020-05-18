@@ -84,6 +84,8 @@ Where:
 
 `/full` is a sub-directory to separate full videos from thumbnails (if used) and video segments.
 
+The existing database for videos will be managed using the MySQL workbench, using the DocumentMM table, that contains the path for the videos, and the SentenceMM table, that holds the sentences and associated timestamps in the video. 
+
 ### Thumbnail generation for videos
 
 The video pipeline should automatically create thumbnails of the downloaded videos.
@@ -111,6 +113,8 @@ Example of image files stored using small and big thumbnail names:
     <IMAGES_STORE>/thumbs/small/abcf9fa8e0d025ed1a35e425122a4de86980334b.jpg
     <IMAGES_STORE>/thumbs/big/abcf9fa8e0d025ed1a35e425122a4de86980334b.jpg
     
+The thumbnail images will be stored in the JPEG format.
+    
 ### Audio Transcription
 
 Transcriptions should have timestamps that identify the exact point in an audio/video where the given text was spoken.
@@ -123,7 +127,9 @@ Once finished processing, the Speech-to-Text API will return the transcription t
 
     <TEXT_STORE>/transcripts/<video_id>.txt
 
-###### /* [Via IBM Cloud Speech-to-text?](https://cloud.ibm.com/catalog/services/speech-to-text)
+###### /* [Via Google Cloud Speech-to-text?](https://cloud.google.com/speech-to-text)
+
+The advantages of using the Google Cloud Speech-to-text API is its affordability and its ability to detect multiple languages present in the video. 
 
 ### Subtitle Extraction
 
@@ -136,6 +142,8 @@ Once finished processing, the Speech-to-Text API will return the transcription t
 Once finished processing, the tool will return the subtitles to be stored in the following file:
 
     <TEXT_STORE>/subtitles/<video_id>.srt
+    
+In case visual subtitles are not present in a video, only the Speech-to-Text API will be used to generate the audio transcriptions, in Portuguese.
 
 ### Transcription-Subtitle Alignment
 
@@ -146,10 +154,20 @@ This "validation interface" should have a simple UI, consisting mainly of a vide
 After reviewing, the tool should merge both audio transcripts and extracted subtitles (aligned and synced according to their timestamps) into one single file, then output to a combined folder.
 
     <TEXT_STORE>/combined/<video_id>.json
+    
+The video will not be segmented, however a provision must be made to locate the start and end timestamps of a sentence that is to be annotated. 
 
 ### Item Exporter
 
-Once we have all of the above, we want to export those items to the webtool. For this purpose, the pipeline should provide different output formats, such as XML, CSV or JSON.
+Once we have all of the above, we want to export those items to the webtool. For this purpose, the pipeline should provide different output formats, such as XML, CSV or JSON. The JSON format will be used for the second part of the project, i.e. object extraction.
+
+### Timeline
+
+The tasks specified in the workflow will be completed as follows:  
+*June 1st-June 7th*: Tasks 1 to 5  
+*June 8th-June 15th*: Tasks 6, 9 and 10 to generate the audio transcriptions  
+*June 15th-June 22nd*: Tasks 7, 8 and 11 to generate video subtitles  
+*June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
 
 ---
 
