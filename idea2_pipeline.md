@@ -207,7 +207,24 @@ The image name will be updated sequentially for every object being stored.
 11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. 
 12. Identified objects in the video will be stored in the ObjectMM table of the webtool database. 
 
+### Data Compilation and Reporting Module
 
+With the textual and image data obtained from these two pipelines, and automated annotation procedure for the video will be performed as follows:
+
+1. Download the Flickr30k dataset, that contains images with their corresponding captions
+2. Get the images from the object store folder
+3. Train a CNN+LSTM model on the Flickr30k dataset for image caption generation as described in the following link-
+https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/
+4. Generate captions for the object images
+5. Convert the captions to Portuguese using the Google Translate API
+6. Add POS tags for the textual data (words and phrases) from the SentenceMM table, and the image data (captions) from step 4.
+7. Match the POS-tagged words, phrases and captions with lexical units from the Frame table in the database, either directly or using synonym checks possible with Altervista, or the Big Huge Thesaurus APIs.
+http://thesaurus.altervista.org/service
+http://words.bighugelabs.com/api.php
+8. List the frames that are invoked by the lexical units.
+9. Train an ML model for semantic annotation of lexical units with their corresponding frame elements. This can be done using the already annotated Wikipedia corpus and others.
+10. Using the trained model, generate annotations for the captions, words and phrases
+11. Captions with same frame elements as certain words and phrases, will be cross-annotated.
 
 
 
