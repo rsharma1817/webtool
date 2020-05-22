@@ -169,6 +169,49 @@ The tasks specified in the workflow will be completed as follows:
 *June 15th-June 22nd*: Tasks 7, 8 and 11 to generate video subtitles  
 *June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
 
+### Semi-Automatization of the Annotation Process
+
+The objects within a video need to be detected and tracked over time to form the image data that will be used for automated annotation/
+
+#### The workflow
+
+1. The preprocessed video from the previous pipeline is imported into the webtool from the server.
+2. To annotate a sentence, the start and end timestamps of that sentence are chosen.
+3. Run the video with each frame having a time gap of 1 second, using VATIC.js.
+4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. 
+5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list.
+6. For the following 5 frames, the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm will track these objects by interpolating the current coordinates of the detected objects.
+https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/ 
+7. The 5 frame constraint is kept for each detected object that is to be tracked, to ensure that it is present in the video for at least five seconds, otherwise tracking it is not useful and won't help in annotation. 
+
+Two cases that may arise are as follows:
+
+* An object detected in the first frame does not persist in the video for the next 5 frames. In that case, the coordinates of the object will be discarded and it will not be considered for annotation.
+* The object is present in the video for the next 5 frames. Its original coordinates are then retained and an image is generated from the bounding boxes.
+
+8. In the latter case, a minimum size constraint and image quality resolution will have to be met to save the image.
+
+For example:
+
+    OBJECT_MIN_HEIGHT =  800 pixels
+    OBJECT_MIN_WIDTH = 800 pixels
+    OBJECT_QUALITY = 200 DPI (Dots per inch)
+    
+9. The generated images will be stored in a folder as follows:
+
+    <OBJECTS_STORE>/<video_id>/image_name.JPG
+    
+The image name will be updated sequentially for every object being stored.
+    
+10. Using a windowing technique, the same object detection and tracking process from steps 4 to 9 will be followed for the duration of the video. Every new object that is tracked successfully will be added to the list storing the coordinates.
+11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. 
+12. Identified objects in the video will be stored in the ObjectMM table of the webtool database. 
+
+
+
+
+
+
 ---
 
 Some links for reference:
