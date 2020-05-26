@@ -39,8 +39,12 @@ class MInternalError extends MResult
         try {
             mtrace('InternalError: ' . $this->exception->getMessage());
             $template = new MTemplate();
+			$template->context('manager', Manager::getInstance());
+	        $template->context('charset', Manager::getOptions('charset'));
+	        $template->context('template', $template);
+
             $template->context('result', $this->exception);
-            $errorHtml = MTemplateLocator::fetch($template, 'errors', $response->getStatus() . "." . ($format == null ? "html" : $format));
+            $errorHtml = MTemplateLocator::fetch($template, 'errors', '500.html');
 
             if ($request->isAjax() && ($format == "html")) {
                 if ($this->ajax->isEmpty()) {
