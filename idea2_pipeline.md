@@ -1,6 +1,6 @@
 ## List of deliverables vs Schedule
 
-### Data Import/Export Pipeline
+### Part 1: Data Import/Export Pipeline
 
 While all the user have to do is import a video file, what happens under the hood is mildly more complex:
 
@@ -169,7 +169,7 @@ The tasks specified in the workflow will be completed as follows:
 *June 15th-June 22nd*: Tasks 7, 8 and 11 to generate video subtitles  
 *June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
 
-### Semi-Automatization of the Annotation Process
+### Part 2: Semi-Automatization of the Annotation Process
 
 The objects within a video need to be detected and tracked over time to form the image data that will be used for automated annotation/
 
@@ -207,7 +207,7 @@ The image name will be updated sequentially for every object being stored.
 11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. 
 12. Identified objects in the video will be stored in the ObjectMM table of the webtool database. 
 
-### Data Compilation and Reporting Module
+### Part 3: Data Compilation and Reporting Module
 
 With the textual and image data obtained from these two pipelines, and automated annotation procedure for the video will be performed as follows:
 
