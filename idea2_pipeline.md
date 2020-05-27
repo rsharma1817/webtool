@@ -210,7 +210,7 @@ The preprocessed video imported into the webtool will be run in frames of fixed 
 
 In each frame, the YOLO (You Look Only Once) model using neural networks which is trained on an image database such as DarkNet, will help in identifying objects of interest. The DarkNet database can be installed by the instructions mentioned here- https://medium.com/analytics-vidhya/installing-darknet-on-windows-462d84840e5a. Since VATIC is a javascript video annotation tool, to perform these image processing tasks, the OpenCV javascript module will be used. However, a drawback of OpenCV is that it directly gives the centre coordinates x and y probabilities, width(w) and height(h) from the actual pixel coordinates, without returning the original coordinates i.e. x_start, x_end, y_start, y_end of the detected objects. 
 
-![alt text](https://github.com/FrameNetBrasil/webtool/edit/gsoc2020_2/YOLO.JPG) 
+![alt text](https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_2/YOLO.JPG) 
 
     x = (x_mean- x_start)/x_start
     y = (y_mean- y_start)/y_start
@@ -317,13 +317,13 @@ Finally the frame to which the lexical unit belongs is found from the database. 
 An ML model will be trained on an already annotated FrameNet text (eg: the Wikipedia corpus), so that it can generate frame elements for unseen data, that is the text and image data in our project, obtained from parts 1 and 2. The model should be able to accurately identify the frame elements that each lexical unit invokes. Moreover, if an image caption and a subtitles text or phrase invoke the same frame element, they should be cross-annotated. This will then be used to generate the Gold Standard Corpus.
 
 Following are some papers that I referred to decide on an ML model that would be most suitable:
-http://www.cs.cmu.edu/~ark/SEMAFOR/
-https://github.com/microth/mateplus
-https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163
-https://arxiv.org/pdf/1706.09528v1.pdf
-https://www.aclweb.org/anthology/P15-2036.pdf
-http://www.coli.uni-saarland.de/projects/salsa/shal/
-http://nlp.cs.lth.se/software/semantic-parsing-framenet-frames/  
+http://www.cs.cmu.edu/~ark/SEMAFOR/  
+https://github.com/microth/mateplus  
+https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163  
+https://arxiv.org/pdf/1706.09528v1.pdf  
+https://www.aclweb.org/anthology/P15-2036.pdf  
+http://www.coli.uni-saarland.de/projects/salsa/shal/  
+http://nlp.cs.lth.se/software/semantic-parsing-framenet-frames/   
 
 
 #### Timeline
