@@ -210,7 +210,7 @@ The preprocessed video imported into the webtool will be run in frames of fixed 
 
 In each frame, the YOLO (You Look Only Once) model using neural networks which is trained on an image database such as DarkNet, will help in identifying objects of interest. The DarkNet database can be installed by the instructions mentioned here- https://medium.com/analytics-vidhya/installing-darknet-on-windows-462d84840e5a. Since VATIC is a javascript video annotation tool, to perform these image processing tasks, the OpenCV javascript module will be used. However, a drawback of OpenCV is that it directly gives the centre coordinates x and y probabilities, width(w) and height(h) from the actual pixel coordinates, without returning the original coordinates i.e. x_start, x_end, y_start, y_end of the detected objects. 
 
-![alt text](https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_2/YOLO.JPG) 
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/YOLO.JPG) 
 
     x = (x_mean- x_start)/x_start
     y = (y_mean- y_start)/y_start
