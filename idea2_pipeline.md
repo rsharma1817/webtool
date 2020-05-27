@@ -24,13 +24,13 @@ _*@PRISHIta123 Take some time to expand/make changes to this workflow*_
 14. Transcriptions and subtitles are organized into sentences and stored according to the Webtool standard;
 15. Reviewed file is uploaded to the FrameNet Webtool.
 
-### Pipeline Architecture
+#### Pipeline Architecture
 
 
 
-### Vídeo Import/Convert
+#### Vídeo Import/Convert
 
-### Importing from URL
+#### Importing from URL
 
 After a video URL has been entered by the user, it must be sent to the pipeline which processes it through several components that are executed sequentially.
 
@@ -49,7 +49,7 @@ The pipeline needs a few extra functions for processing video files:
 * thumbnail generation
 * keep an internal queue of those media URLs which are currently being scheduled for download, and connect those responses that arrive containing the same media to that queue (this avoids downloading the same media more than once)
 
-### Filtering out small videos
+#### Filtering out small videos
 
 When using the video pipeline, users might try to upload videos which are too small. The tool should restrict videos which do not have the minimum allowed size in the VIDEO_MIN_HEIGHT and VIDEO_MIN_WIDTH settings.
 
@@ -62,7 +62,7 @@ It should be possible to set just one size constraint or both. When setting both
 
 By default, there are no size constraints, so all videos are processed.
 
-### File storage system
+#### File storage system
 
 The video files should be stored using a SHA1 hash of their URLs for the file names.
 
@@ -86,7 +86,7 @@ Where:
 
 The existing database for videos will be managed using the MySQL workbench, using the DocumentMM table, that contains the path for the videos, and the SentenceMM table, that holds the sentences and associated timestamps in the video. 
 
-### Thumbnail generation for videos
+#### Thumbnail generation for videos
 
 The video pipeline should automatically create thumbnails of the downloaded videos.
 
@@ -115,7 +115,7 @@ Example of image files stored using small and big thumbnail names:
     
 The thumbnail images will be stored in the JPEG format.
     
-### Audio Transcription
+#### Audio Transcription
 
 Transcriptions should have timestamps that identify the exact point in an audio/video where the given text was spoken.
 
@@ -131,7 +131,7 @@ Once finished processing, the Speech-to-Text API will return the transcription t
 
 The advantages of using the Google Cloud Speech-to-text API is its affordability and its ability to detect multiple languages present in the video. 
 
-### Subtitle Extraction
+#### Subtitle Extraction
 
 *Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.*
 
@@ -145,7 +145,7 @@ Once finished processing, the tool will return the subtitles to be stored in the
     
 In case visual subtitles are not present in a video, only the Speech-to-Text API will be used to generate the audio transcriptions, in Portuguese.
 
-### Transcription-Subtitle Alignment
+#### Transcription-Subtitle Alignment
 
 The tool should have an interface to compare video and text files (audio transcripts and extracted subtitles) side by side, allowing users to review, search and make the necessary edits and corrections of any errors.
 
@@ -157,17 +157,18 @@ After reviewing, the tool should merge both audio transcripts and extracted subt
     
 The video will not be segmented, however a provision must be made to locate the start and end timestamps of a sentence that is to be annotated. 
 
-### Item Exporter
+#### Item Exporter
 
 Once we have all of the above, we want to export those items to the webtool. For this purpose, the pipeline should provide different output formats, such as XML, CSV or JSON. The JSON format will be used for the second part of the project, i.e. object extraction.
 
-### Timeline
+#### Timeline
 
 The tasks specified in the workflow will be completed as follows:  
 *June 1st-June 7th*: Tasks 1 to 5  
 *June 8th-June 15th*: Tasks 6, 9 and 10 to generate the audio transcriptions  
 *June 15th-June 22nd*: Tasks 7, 8 and 11 to generate video subtitles  
 *June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
+*July 2nd-July 3rd*:Phase 1 evaluation
 
 ### Part 2: Semi-Automatization of the Annotation Process
 
@@ -181,31 +182,79 @@ The objects within a video need to be detected and tracked over time to form the
 4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. 
 5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list.
 6. For the following 5 frames, the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm will track these objects by interpolating the current coordinates of the detected objects.
-https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/ 
 7. The 5 frame constraint is kept for each detected object that is to be tracked, to ensure that it is present in the video for at least five seconds, otherwise tracking it is not useful and won't help in annotation. 
+8. If the image for an object is generated after the previous step is performed, a minimum size constraint and image quality resolution will have to be met to save the image.
+9. The generated images will be stored in the OBJECTS_STORE folder.
+10. Using a windowing technique, the same object detection and tracking process from steps 4 to 9 will be followed for the duration of the video. Every new object that is tracked successfully will be added to the list storing the coordinates.
+11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. 
+12. Identified objects in the video will be stored in the ObjectMM table of the webtool database. 
+
+#### Running videos with VATIC.js
+
+The preprocessed video imported into the webtool will be run in frames of fixed duration (i.e. 1 second) by adjusting the speed multiplier option in VATIC. This step is important to effectively detect objects in the given frame, with as much accuracy as possible, and minimizing noise due to movements.  
+
+#### Object Detection
+
+In each frame, the YOLO (You Look Only Once) model using neural networks which is trained on an image database such as DarkNet, will help in identifying objects of interest. The DarkNet database can be installed by the instructions mentioned here- https://medium.com/analytics-vidhya/installing-darknet-on-windows-462d84840e5a. Since VATIC is a javascript video annotation tool, to perform these image processing tasks, the OpenCV javascript module will be used. However, a drawback of OpenCV is that it directly gives the centre coordinates x and y probabilities, width(w) and height(h) from the actual pixel coordinates, without returning the original coordinates i.e. x_start, x_end, y_start, y_end of the detected objects. 
+
+![alt text](https://github.com/FrameNetBrasil/webtool/edit/gsoc2020_2/ubuntu_version.JPG) 
+
+    x = (x_mean- x_start)/x_start
+    y = (y_mean- y_start)/y_start
+    w = actual_width/frame_width
+    h = actual_height/frame_height 
+    
+In order to get these original pixel coordinates, a modification to the file that generates these values can be made as follows:
+
+    x_start = round(x- w/2)
+    y_start = round(y- h/2)
+    x_end = x_start + w
+    y_end = y_start + h
+    
+This gives back the original pixel coordinate values for the object.
+
+#### Object Tracking
+
+After the objects have been detected in the first frame, they will be tracked for the next five frames to ensure that they are present in the video, and are significant to the annotation process. For this, the Kanade Lucas Tomasi (KLT) feature tracking algorithm will be used: https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/ 
+
+ Based on the bounding boxes of the objects, the algorithm will use them as interest points for local optimization. KLT uses a squared distance  criterion to check for transformation parameters such as displacement in x and y  from the original positions. Thus, the bounded boxes of the identified objects are  expanded using interpolation while they are being tracked with the help of these  transformation parameters as features. KLT is chosen as it is able to handle occlusions very well, and can track major transformations over shorter periods of  time efficiently too.
 
 Two cases that may arise are as follows:
 
 * An object detected in the first frame does not persist in the video for the next 5 frames. In that case, the coordinates of the object will be discarded and it will not be considered for annotation.
 * The object is present in the video for the next 5 frames. Its original coordinates are then retained and an image is generated from the bounding boxes.
 
-8. In the latter case, a minimum size constraint and image quality resolution will have to be met to save the image.
+In the second case, an image will be generated for the object based on its bounding box coordinates.
+
+This same procedure is followed using a windowing technique for every set of five frames for the duration of the video, to identify all possible objects. 
+
+#### User Validation
+
+Based on the objects identified by the model, the user has to make a decision to accept or reject them. Therefore, an option is provided to the user for manual bounding box creation in case he is not satisfied. 
+
+#### Saving Identified Objects in File Storage System
+
+Before the images of the tracked objects can be stored in the file system, they need to meet certain size and quality requirements, to ensure better accuracy for annotation.
 
 For example:
 
     OBJECT_MIN_HEIGHT =  800 pixels
     OBJECT_MIN_WIDTH = 800 pixels
     OBJECT_QUALITY = 200 DPI (Dots per inch)
-    
-9. The generated images will be stored in a folder as follows:
+
+A folder to store the images of these objects will be created as follows:
 
     <OBJECTS_STORE>/<video_id>/image_name.JPG
     
-The image name will be updated sequentially for every object being stored.
+The image name will be updated sequentially for every new object being stored.
     
-10. Using a windowing technique, the same object detection and tracking process from steps 4 to 9 will be followed for the duration of the video. Every new object that is tracked successfully will be added to the list storing the coordinates.
-11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. 
-12. Identified objects in the video will be stored in the ObjectMM table of the webtool database. 
+#### Timeline
+
+The tasks specified in the workflow will be completed as follows:
+*July 3rd- July 10th*: Tasks 1 to 5 for object detection using YOLO   
+*July 11th- July 20th*: Tasks 6,7 and 10 for object tracking  
+*July 21st- July 25th*: Tasks 9,11 and 12 for validation and storage in file system  
+*July 26th- July 27th*: Phase 2 evaluation   
 
 ### Part 3: Data Compilation and Reporting Module
 
@@ -225,6 +274,23 @@ http://words.bighugelabs.com/api.php
 9. Train an ML model for semantic annotation of lexical units with their corresponding frame elements. This can be done using the already annotated Wikipedia corpus and others.
 10. Using the trained model, generate annotations for the captions, words and phrases
 11. Captions with same frame elements as certain words and phrases, will be cross-annotated.
+
+#### Generating Image Captions
+
+#### Preprocessing
+
+#### Identifying Lexical Units and Frames
+
+#### Automated Annotation 
+
+#### Timeline
+
+The tasks specified in the workflow will be completed as follows:
+*July 28th- Aug 3rd*: Tasks 1 to 4 for generating image captions using trained model  
+*Aug 4th- Aug 6th*: Tasks 5 to 6 for POS tagging textual and image data  
+*Aug 7th- Aug 15th*: Tasks 7 to 8 for identifying frames  
+*Aug 16th- Aug 27th*: Tasks 9 to 11 for automatically annotating the corpus  
+*Aug 28th- Aug 30th*: Final Evaluation  
 
 ---
 
