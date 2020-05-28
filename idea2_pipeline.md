@@ -135,6 +135,7 @@ Once finished processing, the Speech-to-Text API will return the transcription t
 
 The advantages of using the Google Cloud Speech-to-text API is its affordability and its ability to detect multiple languages present in the video. 
 
+![question](https://img.shields.io/static/v1?label=&message=question&color=green) @PRISHIta123 I suggested using IBM Watson speech-to-text because of the 500MB/month we get with the [Lite (free) account](https://cloud.ibm.com/catalog/services/speech-to-text). Are you considering the fact that Google only offers 60MB/month? 
 
 #### Subtitle Extraction
 
@@ -191,6 +192,9 @@ The objects within a video need to be detected and tracked over time to form the
 2. To annotate a sentence, the start and end timestamps of that sentence are chosen.
 3. Run the video with each frame having a time gap of 1 second, using VATIC.js.
 4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. 
+
+![question](https://img.shields.io/static/v1?label=&message=question&color=green) @PRISHIta123 you said on Slack that you would be training a new model if COCO does not perform well. Is this training included in step 4 of the workflow?
+
 5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list.
 6. For the following 5 frames, the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm will track these objects by interpolating the current coordinates of the detected objects.
 7. The 5 frame constraint is kept for each detected object that is to be tracked, to ensure that it is present in the video for at least five seconds, otherwise tracking it is not useful and won't help in annotation. 
