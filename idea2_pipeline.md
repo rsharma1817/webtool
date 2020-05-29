@@ -131,7 +131,7 @@ Once finished processing, the Speech-to-Text API will return the transcription t
 
     <TEXT_STORE>/transcripts/<video_id>.txt
 
-###### /* [Via Google Cloud Speech-to-text?](https://cloud.google.com/speech-to-text)
+###### /* [Via IBM Watson Speech-to-text?](https://www.ibm.com/in-en/cloud/watson-speech-to-text)
 
 The advantages of using the Google Cloud Speech-to-text API is its affordability and its ability to detect multiple languages present in the video. 
 
@@ -191,7 +191,7 @@ The objects within a video need to be detected and tracked over time to form the
 1. The preprocessed video from the previous pipeline is imported into the webtool from the server.
 2. To annotate a sentence, the start and end timestamps of that sentence are chosen.
 3. Run the video with each frame having a time gap of 1 second, using VATIC.js.
-4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. 
+4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. In case COCO does not perform well, a new model will be trained using the DarkNet dataset, and in addition, changes to the code for obtaining the actual pixel coordinates will also be made.
 
 ![question](https://img.shields.io/static/v1?label=&message=question&color=green) @PRISHIta123 you said on Slack that you would be training a new model if COCO does not perform well. Is this training included in step 4 of the workflow?
 
