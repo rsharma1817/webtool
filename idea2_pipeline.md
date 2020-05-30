@@ -271,7 +271,7 @@ The image name will be updated sequentially for every new object being stored.
     
 #### Timeline
 
-The tasks specified in the workflow will be completed as follows:
+The tasks specified in the workflow will be completed as follows:  
 *July 3rd- July 10th*: Tasks 1 to 5 for object detection using YOLO   
 *July 11th- July 20th*: Tasks 6,7 and 10 for object tracking  
 *July 21st- July 25th*: Tasks 9,11 and 12 for validation and storage in file system  
@@ -332,7 +332,7 @@ http://nlp.cs.lth.se/software/semantic-parsing-framenet-frames/
 
 #### Timeline
 
-The tasks specified in the workflow will be completed as follows:
+The tasks specified in the workflow will be completed as follows:  
 *July 28th- Aug 3rd*: Tasks 1 to 4 for generating image captions using trained model  
 *Aug 4th- Aug 6th*: Tasks 5 to 6 for POS tagging textual and image data  
 *Aug 7th- Aug 15th*: Tasks 7 to 8 for identifying frames  
