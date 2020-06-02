@@ -7,6 +7,14 @@ The idea 3 includes better compatibility of the Webtool and more data visualizat
 Data that the system would be using must be compatible and flexible because of its use in GlobalFrameNet and various other platforms. 
 Thus an interface to convert data in order to be imported from varioius types like XML,CONLLU and JSON is aimed to be created.
 
+1.Implementation of feature to import XML files (using the Berkeley format) at menu "Utils"
+
+2. Implementation of feature to import CONLLU files (using similar CoNLL output from OpenSESAME) at menu "Utils"
+
+3. Export of XML files (it is necessary to adapt/correct the current existing code)
+
+4. Export of CONLL files (it is necessary to adapt/correct the current existing code)
+
 #### Exporting to CONLLU format as opposed to the previous CONLL format.
 
 Since CONLL is an old format and has been upgraded to CONLLU format it is necessary to update to the latest version
