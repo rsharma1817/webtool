@@ -2,7 +2,7 @@
 
 ### Tasks scheduled for this week
 1. User import a video file (via direct upload or importing from a url) 
-* webtool video uploader UI [[go to Figma]](https://www.figma.com/files/team/849735308127207951/GSoC2020) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+* webtool video uploader UI [[go to Figma]](https://www.figma.com/files/project/9936175/Webtool-Video-Uploaded) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 2. File/URL is validated (checking that the URL points to a video file)  
 3. Check the database for duplicates (inform user/drop duplicate file)  
 4. Check video width/height to make sure they meet a minimum constraint  
