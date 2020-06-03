@@ -20,6 +20,10 @@
 ### Observations
 
 ...
+
+## Week 02 - (Jun 08 - Jun 14)
+
+### Tasks scheduled for this week
 ---
 
 Remember to use tags! You can add multiple tags to any task.
