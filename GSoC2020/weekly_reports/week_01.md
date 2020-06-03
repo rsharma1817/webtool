@@ -2,13 +2,17 @@
 
 ### Tasks scheduled for this week
 
-.
-.
+The tasks for this week are to understand the relevant parts of the FrameNet WebTool and try to figure out how the final product should look like.So I have to create a prototype of all the tasks that I plan to do as a part of my project, which are the data conversion and data visualization parts which are :
+
+Section 1.1 Implementation for importing from XML, CONLLU, JSON
+
+Section 1.2 Making the Lexical Entry Report more interactive 
+
+and Creating my test cases on which the implementation would be done
 
 
 ### Challenges and solutions
 
-...
 
 
 ### Tasks completed
@@ -24,14 +28,4 @@
 
 ...
 ---
-Remember to use tags! You can add multiple tags to any task.
 
-![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) = done and ready for User Acceptance Testing (UAT)<br>
-![uat-passed](https://img.shields.io/static/v1?label=UAT&message=passed&color=success) = tested and ready to merge with Master<br>
-![deployed](https://img.shields.io/static/v1?label=&message=deployed&color=success) = merged with Master<br>
-![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) = task deferred from one week to the next<br>
-![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue) = needs help from mentors<br>
-![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) = **blocked** task that needs discussion with mentors<br>
-![important](https://img.shields.io/static/v1?label=&message=important&color=red) = something that needs to be addressed immediately<br>
-
-Use [Shields.io](https://shields.io) to creat new tags if needed.
