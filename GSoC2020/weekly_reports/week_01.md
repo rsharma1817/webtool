@@ -8,7 +8,7 @@ Section 1.1 Implementation for importing from XML, CONLLU, JSON
 
 Section 1.2 Making the Lexical Entry Report more interactive 
 
-and Creating my test cases on which the implementation would be done
+and Creating my test cases on which the implementation would be done ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
 ### Challenges and solutions
