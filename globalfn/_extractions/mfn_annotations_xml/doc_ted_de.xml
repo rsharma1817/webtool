@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="fullText.xsl"?>
+<fullTextAnnotation>
+	<header>
+		<corpus ID="1" description="crp_mfn" name="TED_Creativity_corpus">
+			<document ID="8" description="doc_ted_de" name="doc_ted_de"/>
+		</corpus>
+	</header>
+	<sentence ID="1275">
+		<text>Guten Morgen.</text>
+		<annotationSet ID="9245" frameID="326" frameName="Desirability" luID="29470" luName="gut.a">
+			<layer name="fe">
+				<label ID="2309" end="11" name="Evaluee" start="6"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="4" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9435" frameID="206" frameName="Calendric_unit" luID="29634" luName="morgen.n">
+			<layer name="fe">
+				<label ID="7052" end="11" name="Unit" start="6"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="11" name="Target" start="6"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7052" end="-1" itype="INC" name="Unit" start="-1"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1276">
+		<text>Wie geht es Ihnen?</text>
+		<annotationSet ID="9686" frameID="34" frameName="Questioning" luID="29749" luName="wie.adv">
+			<layer name="fe">
+				<label ID="138" end="10" name="Message" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="2" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="137" end="16" name="Addressee" start="12"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10774" frameID="365" frameName="Feeling" luID="30011" luName="geht es.v">
+			<layer name="target">
+				<label ID="1577" end="0" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2654" end="2" name="Evaluation" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="0" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2649" end="16" name="Experiencer" start="12"/>
+				<label ID="2654" end="2" name="Evaluation" start="0"/>
+				<label ID="2649" end="16" name="Experiencer" start="12"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="10" name="Target" start="9"/>
+				<label ID="1577" end="10" name="Target" start="9"/>
+				<label ID="1577" end="7" name="Target" start="4"/>
+				<label ID="1577" end="7" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1277">
+		<text>Es war großartig, nicht wahr?</text>
+		<annotationSet ID="9246" frameID="326" frameName="Desirability" luID="29471" luName="großartig.a">
+			<layer name="target">
+				<label ID="1577" end="15" name="Target" start="7"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2309" end="1" name="Evaluee" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10230" frameID="663" frameName="Be_in_agreement_on_assessment" luID="29843" luName="nicht wahr.adv">
+			<layer name="target">
+				<label ID="1577" end="22" name="Target" start="18"/>
+				<label ID="1577" end="22" name="Target" start="18"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5456" end="15" name="Opinion" start="0"/>
+				<label ID="5456" end="15" name="Opinion" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="27" name="Target" start="24"/>
+				<label ID="1577" end="27" name="Target" start="24"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1278">
+		<text>Die ganze Sache hier hat mich umgehauen.</text>
+		<annotationSet ID="10766" frameID="226" frameName="Entity" luID="29472" luName="sache.n">
+			<layer name="fe">
+				<label ID="1843" end="14" name="Entity" start="10"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="10"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1840" end="8" name="Constituent_parts" start="0"/>
+				<label ID="1840" end="19" name="Constituent_parts" start="16"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10767" frameID="680" frameName="Ranked_expectation" luID="29635" luName="ganz.a">
+			<layer name="fe">
+				<label ID="5583" end="14" name="Entity" start="10"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="8" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10776" frameID="40" frameName="Emotion_directed" luID="30013" luName="umhauen.v">
+			<layer name="fe">
+				<label ID="165" end="19" name="Stimulus" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="38" name="Target" start="30"/>
+			</layer>
+			<layer name="fe">
+				<label ID="163" end="28" name="Experiencer" start="25"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1279">
+		<text>Also ich gehe jetzt.</text>
+		<annotationSet ID="9248" frameID="51" frameName="Departing" luID="29473" luName="gehen.v">
+			<layer name="fe">
+				<label ID="2039" end="18" name="Time" start="14"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="12" name="Target" start="9"/>
+			</layer>
+			<layer name="fe">
+				<label ID="206" end="7" name="Theme" start="5"/>
+				<label ID="207" end="-1" itype="DNI" name="Source" start="-1"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1280">
+		<text>Es gab drei Leitmotive, die sich durch die Konferenz zogen, die wichtig sind für das, worüber ich sprechen will.</text>
+		<annotationSet ID="9250" frameID="1039" frameName="Being_relevant" luID="29475" luName="wichtig.a">
+			<layer name="target">
+				<label ID="1577" end="70" name="Target" start="64"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9731" end="62" name="Phenomenon" start="60"/>
+				<label ID="9732" end="83" name="Endeavor" start="77"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9251" frameID="338" frameName="Desiring" luID="29476" luName="wollen.v">
+			<layer name="target">
+				<label ID="1577" end="110" name="Target" start="107"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2469" end="105" name="Event" start="98"/>
+				<label ID="2467" end="96" name="Experiencer" start="94"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9438" frameID="253" frameName="Text_creation" luID="29637" luName="sprechen.v">
+			<layer name="fe">
+				<label ID="1686" end="-1" itype="INC" name="Text" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="105" name="Target" start="98"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1684" end="96" name="Author" start="94"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10369" frameID="437" frameName="Existence" luID="29849" luName="es gab.v">
+			<layer name="fe">
+				<label ID="3193" end="21" name="Entity" start="7"/>
+				<label ID="3193" end="21" name="Entity" start="7"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="5" name="Target" start="3"/>
+				<label ID="1577" end="5" name="Target" start="3"/>
+				<label ID="1577" end="1" name="Target" start="0"/>
+				<label ID="1577" end="1" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10370" frameID="343" frameName="Topic" luID="29850" luName="drei Leitmotive.n">
+			<layer name="fe">
+				<label ID="2453" end="51" name="Text" start="39"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="12"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2453" end="51" name="Text" start="39"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="10" name="Target" start="7"/>
+				<label ID="1577" end="10" name="Target" start="7"/>
+				<label ID="1577" end="21" name="Target" start="12"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10792" frameID="857" frameName="Presence" luID="29851" luName="sich durch.adv">
+			<layer name="target">
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="57" name="Target" start="53"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7919" end="51" name="Location" start="39"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="57" name="Target" start="53"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7919" end="51" name="Location" start="39"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="37" name="Target" start="33"/>
+				<label ID="1577" end="37" name="Target" start="33"/>
+				<label ID="1577" end="31" name="Target" start="28"/>
+				<label ID="1577" end="31" name="Target" start="28"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7918" end="26" name="Entity" start="24"/>
+				<label ID="7918" end="26" name="Entity" start="24"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="0" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10810" frameID="28" frameName="Discussion" luID="30041" luName="konferenz.n">
+			<layer name="target">
+				<label ID="1577" end="51" name="Target" start="43"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1281">
+		<text>Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen, die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite.</text>
+		<annotationSet ID="9252" frameID="20" frameName="Evidence" luID="29477" luName="zeugnis.n">
+			<layer name="fe">
+				<label ID="81" end="176" name="Support" start="137"/>
+				<label ID="82" end="64" name="Proposition" start="41"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="31"/>
+			</layer>
+			<layer name="fe">
+				<label ID="666" end="132" name="Depictive" start="66"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9257" frameID="836" frameName="Diversity" luID="29482" luName="vielfalt.n">
+			<layer name="fe">
+				<label ID="7716" end="-1" itype="INC" name="Dimension" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="156" name="Target" start="149"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7715" end="147" name="Group" start="144"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9685" frameID="326" frameName="Desirability" luID="29748" luName="überwältigend.a">
+			<layer name="fe">
+				<label ID="2309" end="39" name="Evaluee" start="31"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="29" name="Target" start="15"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9687" frameID="424" frameName="Speak_on_topic" luID="29754" luName="vortrag.n">
+			<layer name="target">
+				<label ID="1577" end="83" name="Target" start="75"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9888" frameID="836" frameName="Diversity" luID="29790" luName="Bandbreite.n">
+			<layer name="target">
+				<label ID="1577" end="176" name="Target" start="167"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7715" end="165" name="Group" start="162"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10372" frameID="60" frameName="Perception_active" luID="29852" luName="gehört haben.v">
+			<layer name="target">
+				<label ID="1577" end="105" name="Target" start="101"/>
+				<label ID="1577" end="105" name="Target" start="101"/>
+				<label ID="1577" end="99" name="Target" start="94"/>
+				<label ID="1577" end="99" name="Target" start="94"/>
+			</layer>
+			<layer name="fe">
+				<label ID="263" end="88" name="Phenomenon" start="75"/>
+				<label ID="263" end="88" name="Phenomenon" start="75"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10787" frameID="278" frameName="People" luID="30027" luName="menschlich.a">
+			<layer name="target">
+				<label ID="1577" end="52" name="Target" start="41"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10788" frameID="22" frameName="Coming_up_with" luID="29479" luName="kreativität.n">
+			<layer name="target">
+				<label ID="1577" end="64" name="Target" start="54"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10789" frameID="278" frameName="People" luID="29480" luName="mensch.n">
+			<layer name="target">
+				<label ID="1577" end="127" name="Target" start="120"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1282">
+		<text>Zweitens befinden wir uns an einem Punkt, an dem wir keine Ahnung haben, wie es in Zukunft weitergeht.</text>
+		<annotationSet ID="9094" frameID="14" frameName="Awareness" luID="29337" luName="keine Ahnung haben.v">
+			<layer name="target">
+				<label ID="1577" end="64" name="Target" start="59"/>
+				<label ID="1577" end="64" name="Target" start="59"/>
+			</layer>
+			<layer name="fe">
+				<label ID="638" end="57" name="Degree" start="53"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="57" name="Target" start="53"/>
+			</layer>
+			<layer name="fe">
+				<label ID="60" end="100" name="Topic" start="73"/>
+				<label ID="638" end="57" name="Degree" start="53"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="57" name="Target" start="53"/>
+			</layer>
+			<layer name="fe">
+				<label ID="60" end="100" name="Topic" start="73"/>
+				<label ID="638" end="57" name="Degree" start="53"/>
+				<label ID="60" end="100" name="Topic" start="73"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="57" name="Target" start="53"/>
+				<label ID="1577" end="70" name="Target" start="66"/>
+			</layer>
+			<layer name="fe">
+				<label ID="57" end="51" name="Cognizer" start="49"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="70" name="Target" start="66"/>
+			</layer>
+			<layer name="fe">
+				<label ID="57" end="51" name="Cognizer" start="49"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="70" name="Target" start="66"/>
+				<label ID="1577" end="64" name="Target" start="59"/>
+			</layer>
+			<layer name="fe">
+				<label ID="57" end="51" name="Cognizer" start="49"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9159" frameID="481" frameName="Being_located" luID="29368" luName="sich an einem Punkt befinden.v">
+			<layer name="target">
+				<label ID="1577" end="33" name="Target" start="29"/>
+				<label ID="1577" end="16" name="Target" start="9"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7882" end="100" name="Location" start="42"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="27" name="Target" start="26"/>
+				<label ID="1577" end="33" name="Target" start="29"/>
+				<label ID="1577" end="16" name="Target" start="9"/>
+				<label ID="1577" end="33" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7882" end="100" name="Location" start="42"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="27" name="Target" start="26"/>
+				<label ID="1577" end="16" name="Target" start="9"/>
+				<label ID="1577" end="33" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7882" end="100" name="Location" start="42"/>
+				<label ID="7882" end="41" name="Location" start="26"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="33" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7882" end="100" name="Location" start="42"/>
+				<label ID="3914" end="20" name="Theme" start="18"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="27" name="Target" start="26"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3914" end="20" name="Theme" start="18"/>
+				<label ID="7882" end="100" name="Location" start="42"/>
+				<label ID="7882" end="41" name="Location" start="26"/>
+				<label ID="3914" end="20" name="Theme" start="18"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="35"/>
+				<label ID="1577" end="27" name="Target" start="26"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3914" end="20" name="Theme" start="18"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="35"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7882" end="41" name="Location" start="26"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="35"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3914" end="20" name="Theme" start="18"/>
+				<label ID="7882" end="41" name="Location" start="26"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="35"/>
+				<label ID="1577" end="16" name="Target" start="9"/>
+				<label ID="1577" end="27" name="Target" start="26"/>
+				<label ID="1577" end="39" name="Target" start="35"/>
+				<label ID="1577" end="16" name="Target" start="9"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7882" end="41" name="Location" start="26"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9258" frameID="133" frameName="Process_continue" luID="29483" luName="weitergehen.v">
+			<layer name="fe">
+				<label ID="728" end="89" name="Time" start="80"/>
+				<label ID="725" end="78" name="Event" start="77"/>
+				<label ID="723" end="75" name="Manner" start="73"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="100" name="Target" start="91"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9688" frameID="547" frameName="Ordinal_numbers" luID="29755" luName="zweitens.num">
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9689" frameID="865" frameName="Alternatives" luID="29503" luName="zukunft.n">
+			<layer name="target">
+				<label ID="1577" end="89" name="Target" start="83"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1283">
+		<text>Keine Ahnung, wie das enden wird.</text>
+		<annotationSet ID="9690" frameID="14" frameName="Awareness" luID="29337" luName="keine Ahnung haben.v">
+			<layer name="target">
+				<label ID="1577" end="11" name="Target" start="6"/>
+				<label ID="1577" end="11" name="Target" start="6"/>
+				<label ID="1577" end="11" name="Target" start="6"/>
+			</layer>
+			<layer name="fe">
+				<label ID="638" end="4" name="Degree" start="0"/>
+				<label ID="638" end="4" name="Degree" start="0"/>
+				<label ID="638" end="4" name="Degree" start="0"/>
+				<label ID="60" end="31" name="Topic" start="14"/>
+				<label ID="60" end="31" name="Topic" start="14"/>
+				<label ID="60" end="31" name="Topic" start="14"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9691" frameID="208" frameName="Process_end" luID="29756" luName="enden.v">
+			<layer name="target">
+				<label ID="1577" end="26" name="Target" start="22"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1404" end="20" name="Process" start="18"/>
+				<label ID="1411" end="16" name="Manner" start="14"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1284">
+		<text>Ich interessiere mich für Bildung.</text>
+		<annotationSet ID="9095" frameID="101" frameName="Education_teaching" luID="29338" luName="bildung.n">
+			<layer name="fe">
+				<label ID="431" end="-1" itype="INI" name="Teacher" start="-1"/>
+				<label ID="432" end="-1" itype="INI" name="Student" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="26"/>
+			</layer>
+			<layer name="fe">
+				<label ID="434" end="-1" itype="INI" name="Subject" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10373" frameID="42" frameName="Experiencer_focus" luID="29853" luName="interessiere mich.v">
+			<layer name="target">
+				<label ID="1577" end="15" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="168" end="2" name="Experiencer" start="0"/>
+				<label ID="168" end="2" name="Experiencer" start="0"/>
+				<label ID="169" end="32" name="Content" start="22"/>
+				<label ID="169" end="32" name="Content" start="22"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="20" name="Target" start="17"/>
+				<label ID="1577" end="20" name="Target" start="17"/>
+				<label ID="1577" end="15" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1285">
+		<text>Im Grunde finde ich, dass sich eigentlich jeder für Bildung interessiert.</text>
+		<annotationSet ID="9259" frameID="642" frameName="Opinion" luID="29484" luName="finden.v">
+			<layer name="fe">
+				<label ID="5229" end="71" name="Opinion" start="21"/>
+				<label ID="5228" end="18" name="Cognizer" start="16"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="10"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9260" frameID="101" frameName="Education_teaching" luID="29338" luName="bildung.n">
+			<layer name="target">
+				<label ID="1577" end="58" name="Target" start="52"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9889" frameID="1206" frameName="Hedging" luID="29791" luName="eigentlich.adv">
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="31"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11278" end="46" name="Hedged_content" start="42"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10418" frameID="42" frameName="Experiencer_focus" luID="29853" luName="interessiere mich.v">
+			<layer name="target">
+				<label ID="1577" end="29" name="Target" start="26"/>
+				<label ID="1577" end="29" name="Target" start="26"/>
+				<label ID="1577" end="71" name="Target" start="60"/>
+				<label ID="1577" end="71" name="Target" start="60"/>
+			</layer>
+			<layer name="fe">
+				<label ID="169" end="58" name="Content" start="48"/>
+				<label ID="169" end="58" name="Content" start="48"/>
+				<label ID="168" end="46" name="Experiencer" start="42"/>
+				<label ID="168" end="46" name="Experiencer" start="42"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1286">
+		<text>Finden Sie nicht auch?</text>
+		<annotationSet ID="9692" frameID="642" frameName="Opinion" luID="29484" luName="finden.v">
+			<layer name="fe">
+				<label ID="5228" end="9" name="Cognizer" start="7"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="5" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9693" frameID="1186" frameName="Negation" luID="29485" luName="nicht.adv">
+			<layer name="target">
+				<label ID="1577" end="15" name="Target" start="11"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9694" frameID="663" frameName="Be_in_agreement_on_assessment" luID="29757" luName="auch.adv">
+			<layer name="target">
+				<label ID="1577" end="20" name="Target" start="17"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5447" end="9" name="Cognizer_1" start="7"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1287">
+		<text>Das ist recht bemerkenswert.</text>
+		<annotationSet ID="9890" frameID="912" frameName="Mental_stimulus_stimulus_focus" luID="29792" luName="bemerkenswert.adv">
+			<layer name="target">
+				<label ID="1577" end="26" name="Target" start="14"/>
+			</layer>
+			<layer name="fe">
+				<label ID="8536" end="12" name="Degree" start="8"/>
+				<label ID="8535" end="2" name="Stimulus" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1288">
+		<text>Wenn Sie auf einer Dinner-Party sind und erzählen, dass sie im Bildungswesen arbeiten -- offen gesagt, ist man nicht oft bei Dinner-Parties, wenn man im Bildungswesen arbeitet.</text>
+		<annotationSet ID="9263" frameID="257" frameName="Being_employed" luID="29487" luName="arbeiten.v">
+			<layer name="target">
+				<label ID="1577" end="174" name="Target" start="167"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1996" end="165" name="Field" start="150"/>
+				<label ID="1988" end="148" name="Employee" start="146"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9695" frameID="1192" frameName="Conditional_occurrence" luID="29490" luName="wenn.c">
+			<layer name="target">
+				<label ID="1577" end="3" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11106" end="84" name="Profiled_possibility" start="5"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9696" frameID="904" frameName="Attending" luID="29758" luName="sein.v">
+			<layer name="target">
+				<label ID="1577" end="35" name="Target" start="32"/>
+			</layer>
+			<layer name="fe">
+				<label ID="8453" end="30" name="Event" start="9"/>
+				<label ID="8452" end="7" name="Agent" start="5"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9697" frameID="454" frameName="Telling" luID="29759" luName="erzählen.v">
+			<layer name="fe">
+				<label ID="3502" end="7" name="Speaker" start="5"/>
+				<label ID="3504" end="84" name="Message" start="51"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="48" name="Target" start="41"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9698" frameID="257" frameName="Being_employed" luID="29487" luName="arbeiten.v">
+			<layer name="fe">
+				<label ID="1988" end="58" name="Employee" start="56"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="84" name="Target" start="77"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1996" end="75" name="Field" start="60"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9699" frameID="904" frameName="Attending" luID="29758" luName="sein.v">
+			<layer name="target">
+				<label ID="1577" end="105" name="Target" start="103"/>
+			</layer>
+			<layer name="fe">
+				<label ID="8453" end="138" name="Event" start="121"/>
+				<label ID="8486" end="119" name="Iterations" start="111"/>
+				<label ID="8452" end="109" name="Agent" start="107"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9700" frameID="1192" frameName="Conditional_occurrence" luID="29490" luName="wenn.c">
+			<layer name="fe">
+				<label ID="11107" end="138" name="Consequence" start="103"/>
+				<label ID="11106" end="174" name="Profiled_possibility" start="141"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="144" name="Target" start="141"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9891" frameID="114" frameName="Social_event" luID="29793" luName="Dinner-Party.n">
+			<layer name="fe">
+				<label ID="546" end="30" name="Social_event" start="19"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="30" name="Target" start="19"/>
+			</layer>
+			<layer name="fe">
+				<label ID="552" end="7" name="Attendee" start="5"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="130" name="Target" start="125"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9892" frameID="101" frameName="Education_teaching" luID="29794" luName="Bildungswesen.n">
+			<layer name="target">
+				<label ID="1577" end="75" name="Target" start="63"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9893" frameID="114" frameName="Social_event" luID="29793" luName="Dinner-Party.n">
+			<layer name="target">
+				<label ID="1577" end="138" name="Target" start="125"/>
+			</layer>
+			<layer name="fe">
+				<label ID="552" end="109" name="Attendee" start="107"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9894" frameID="101" frameName="Education_teaching" luID="29794" luName="Bildungswesen.n">
+			<layer name="target">
+				<label ID="1577" end="165" name="Target" start="153"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10374" frameID="26" frameName="Candidness" luID="29854" luName="offen gesagt.a">
+			<layer name="fe">
+				<label ID="102" end="174" name="Message" start="103"/>
+				<label ID="102" end="174" name="Message" start="103"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="100" name="Target" start="95"/>
+				<label ID="1577" end="100" name="Target" start="95"/>
+				<label ID="1577" end="93" name="Target" start="89"/>
+				<label ID="1577" end="93" name="Target" start="89"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1289">
+		<text>Man wird erst gar nicht eingeladen.</text>
+		<annotationSet ID="9895" frameID="35" frameName="Request" luID="29802" luName="einladen.v">
+			<layer name="fe">
+				<label ID="142" end="2" name="Addressee" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="33" name="Target" start="24"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10375" frameID="1186" frameName="Negation" luID="29855" luName="gar nicht.adv">
+			<layer name="target">
+				<label ID="1577" end="22" name="Target" start="18"/>
+				<label ID="1577" end="16" name="Target" start="14"/>
+				<label ID="1577" end="16" name="Target" start="14"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11073" end="7" name="Negated_proposition" start="0"/>
+				<label ID="11073" end="7" name="Negated_proposition" start="0"/>
+				<label ID="11073" end="33" name="Negated_proposition" start="24"/>
+				<label ID="11073" end="33" name="Negated_proposition" start="24"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="22" name="Target" start="18"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1290">
+		<text>Auf jeden Fall nicht zweimal, seltsamerweise.</text>
+		<annotationSet ID="9164" frameID="103" frameName="Likelihood" luID="29371" luName="auf jeden Fall.c">
+			<layer name="target">
+				<label ID="1577" end="2" name="Target" start="0"/>
+				<label ID="1577" end="2" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="447" end="-1" itype="DNI" name="Hypothetical_event" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="13" name="Target" start="10"/>
+			</layer>
+			<layer name="fe">
+				<label ID="447" end="-1" itype="DNI" name="Hypothetical_event" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="13" name="Target" start="10"/>
+			</layer>
+			<layer name="fe">
+				<label ID="447" end="-1" itype="DNI" name="Hypothetical_event" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="13" name="Target" start="10"/>
+				<label ID="1577" end="8" name="Target" start="4"/>
+				<label ID="1577" end="8" name="Target" start="4"/>
+				<label ID="1577" end="8" name="Target" start="4"/>
+				<label ID="1577" end="2" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9265" frameID="1186" frameName="Negation" luID="29485" luName="nicht.adv">
+			<layer name="target">
+				<label ID="1577" end="19" name="Target" start="15"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9266" frameID="74" frameName="Frequency" luID="29488" luName="zweimal.adv">
+			<layer name="target">
+				<label ID="1577" end="27" name="Target" start="21"/>
+			</layer>
+			<layer name="fe">
+				<label ID="6005" end="-1" itype="INC" name="Attribute" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9896" frameID="541" frameName="Typicality" luID="29796" luName="seltsamerweise.adv">
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="30"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1291">
+		<text>Das ist merkwürdig.</text>
+		<annotationSet ID="9267" frameID="541" frameName="Typicality" luID="29489" luName="merkwürdig.a">
+			<layer name="target">
+				<label ID="1577" end="17" name="Target" start="8"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4374" end="2" name="State_of_affairs" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1292">
+		<text>Sind Sie aber eingeladen und reden mit jemandem, also wenn jemand fragt: 'Was machen Sie so?'und Sie: 'Ich arbeite im Bildungswesen', sieht man, wie den anderen das Blut aus dem Gesicht weicht.</text>
+		<annotationSet ID="9268" frameID="1192" frameName="Conditional_occurrence" luID="29490" luName="wenn.c">
+			<layer name="fe">
+				<label ID="11107" end="191" name="Consequence" start="134"/>
+				<label ID="11106" end="130" name="Profiled_possibility" start="73"/>
+				<label ID="11106" end="72" name="Profiled_possibility" start="59"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="57" name="Target" start="54"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9269" frameID="34" frameName="Questioning" luID="29491" luName="fragen.v">
+			<layer name="fe">
+				<label ID="138" end="90" name="Message" start="74"/>
+				<label ID="137" end="-1" itype="DNI" name="Addressee" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="70" name="Target" start="66"/>
+			</layer>
+			<layer name="fe">
+				<label ID="136" end="64" name="Speaker" start="59"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9270" frameID="257" frameName="Being_employed" luID="29487" luName="arbeiten.v">
+			<layer name="fe">
+				<label ID="1996" end="130" name="Field" start="115"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="113" name="Target" start="107"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1988" end="105" name="Employee" start="103"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9274" frameID="51" frameName="Departing" luID="29495" luName="weichen.v">
+			<layer name="fe">
+				<label ID="207" end="184" name="Source" start="170"/>
+				<label ID="206" end="168" name="Theme" start="161"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="191" name="Target" start="186"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9701" frameID="683" frameName="Being_active" luID="29760" luName="machen.v">
+			<layer name="fe">
+				<label ID="5597" end="87" name="Agent" start="85"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="83" name="Target" start="78"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5592" end="76" name="Activity" start="74"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9702" frameID="15" frameName="Becoming_aware" luID="29761" luName="sehen.v">
+			<layer name="fe">
+				<label ID="62" end="191" name="Phenomenon" start="145"/>
+				<label ID="61" end="142" name="Cognizer" start="140"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="138" name="Target" start="134"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9897" frameID="35" frameName="Request" luID="29802" luName="einladen.v">
+			<layer name="target">
+				<label ID="1577" end="23" name="Target" start="14"/>
+			</layer>
+			<layer name="fe">
+				<label ID="142" end="7" name="Addressee" start="5"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9898" frameID="101" frameName="Education_teaching" luID="29794" luName="Bildungswesen.n">
+			<layer name="target">
+				<label ID="1577" end="130" name="Target" start="118"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10376" frameID="1192" frameName="Conditional_occurrence" luID="29856" luName="sind sie.v">
+			<layer name="fe">
+				<label ID="11106" end="46" name="Profiled_possibility" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="3" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11106" end="46" name="Profiled_possibility" start="0"/>
+				<label ID="11107" end="191" name="Consequence" start="134"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="5"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11107" end="191" name="Consequence" start="134"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="5"/>
+				<label ID="1577" end="3" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10377" frameID="477" frameName="Chatting" luID="29857" luName="reden mit.v">
+			<layer name="target">
+				<label ID="1577" end="37" name="Target" start="35"/>
+				<label ID="1577" end="33" name="Target" start="29"/>
+				<label ID="1577" end="33" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3863" end="7" name="Interlocutor_1" start="5"/>
+				<label ID="3864" end="46" name="Interlocutor_2" start="39"/>
+				<label ID="3863" end="7" name="Interlocutor_1" start="5"/>
+				<label ID="3864" end="46" name="Interlocutor_2" start="39"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="37" name="Target" start="35"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10378" frameID="108" frameName="Body_parts" luID="29858" luName="das Blut.n">
+			<layer name="target">
+				<label ID="1577" end="168" name="Target" start="165"/>
+				<label ID="1577" end="168" name="Target" start="165"/>
+				<label ID="1577" end="163" name="Target" start="161"/>
+				<label ID="1577" end="163" name="Target" start="161"/>
+			</layer>
+			<layer name="fe">
+				<label ID="472" end="159" name="Possessor" start="149"/>
+				<label ID="522" end="184" name="Orientational_location" start="174"/>
+				<label ID="522" end="184" name="Orientational_location" start="174"/>
+				<label ID="472" end="159" name="Possessor" start="149"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10379" frameID="108" frameName="Body_parts" luID="29859" luName="dem Gesicht.n">
+			<layer name="target">
+				<label ID="1577" end="176" name="Target" start="174"/>
+				<label ID="1577" end="176" name="Target" start="174"/>
+				<label ID="1577" end="184" name="Target" start="178"/>
+				<label ID="1577" end="184" name="Target" start="178"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10811" frameID="498" frameName="Increment" luID="29771" luName="andere.n">
+			<layer name="target">
+				<label ID="1577" end="159" name="Target" start="153"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1293">
+		<text>'Oh Gott, warum ich?</text>
+		<annotationSet ID="9703" frameID="34" frameName="Questioning" luID="29762" luName="warum.adv">
+			<layer name="fe">
+				<label ID="138" end="18" name="Message" start="10"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="10"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10793" frameID="504" frameName="Religious_belief" luID="29539" luName="gott.n">
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1294">
+		<text>Mein einziger freier Abend in der Woche.'</text>
+		<annotationSet ID="9899" frameID="327" frameName="Sole_instance" luID="29797" luName="einzig.adv">
+			<layer name="fe">
+				<label ID="2748" end="25" name="Type" start="14"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="12" name="Target" start="5"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10812" frameID="206" frameName="Calendric_unit" luID="30031" luName="abend.n">
+			<layer name="target">
+				<label ID="1577" end="25" name="Target" start="21"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10813" frameID="206" frameName="Calendric_unit" luID="29496" luName="woche.n">
+			<layer name="target">
+				<label ID="1577" end="38" name="Target" start="34"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1295">
+		<text>Fragen Sie sie nach ihrer Schulbildung, nageln sie Sie an die Wand.</text>
+		<annotationSet ID="9276" frameID="101" frameName="Education_teaching" luID="29497" luName="schulbildung.n">
+			<layer name="target">
+				<label ID="1577" end="37" name="Target" start="26"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9704" frameID="34" frameName="Questioning" luID="29491" luName="fragen.v">
+			<layer name="target">
+				<label ID="1577" end="5" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="139" end="37" name="Topic" start="15"/>
+				<label ID="137" end="13" name="Addressee" start="11"/>
+				<label ID="136" end="9" name="Speaker" start="7"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9705" frameID="177" frameName="Attaching" luID="29765" luName="nageln.v">
+			<layer name="fe">
+				<label ID="1021" end="53" name="Item" start="51"/>
+				<label ID="1020" end="49" name="Agent" start="47"/>
+				<label ID="1485" end="65" name="Goal" start="55"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="45" name="Target" start="40"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10419" frameID="1192" frameName="Conditional_occurrence" luID="29868" luName="fragen Sie.V">
+			<layer name="fe">
+				<label ID="11106" end="37" name="Profiled_possibility" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="9" name="Target" start="7"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11107" end="65" name="Consequence" start="40"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="9" name="Target" start="7"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11107" end="65" name="Consequence" start="40"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="5" name="Target" start="1"/>
+				<label ID="1577" end="5" name="Target" start="1"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11106" end="37" name="Profiled_possibility" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10420" frameID="1160" frameName="Retaining" luID="29369" luName="an die Wand nageln.v">
+			<layer name="fe">
+				<label ID="10820" end="53" name="Theme" start="51"/>
+				<label ID="10819" end="49" name="Agent" start="47"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="45" name="Target" start="40"/>
+			</layer>
+			<layer name="fe">
+				<label ID="10820" end="53" name="Theme" start="51"/>
+				<label ID="10819" end="49" name="Agent" start="47"/>
+				<label ID="10820" end="53" name="Theme" start="51"/>
+				<label ID="10819" end="49" name="Agent" start="47"/>
+				<label ID="10819" end="49" name="Agent" start="47"/>
+				<label ID="10822" end="65" name="Place" start="55"/>
+				<label ID="10822" end="65" name="Place" start="55"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="45" name="Target" start="40"/>
+			</layer>
+			<layer name="fe">
+				<label ID="10822" end="65" name="Place" start="55"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="45" name="Target" start="40"/>
+				<label ID="1577" end="45" name="Target" start="40"/>
+			</layer>
+			<layer name="fe">
+				<label ID="10822" end="65" name="Place" start="55"/>
+				<label ID="10820" end="53" name="Theme" start="51"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10822" frameID="488" frameName="Architectural_part" luID="30042" luName="wand.n">
+			<layer name="target">
+				<label ID="1577" end="65" name="Target" start="62"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1296">
+		<text>Denn es ist eines dieser Themen, die Leute tief berühren, wie Religion, Geld und andere Sachen.</text>
+		<annotationSet ID="9280" frameID="789" frameName="Money" luID="29501" luName="geld.n">
+			<layer name="target">
+				<label ID="1577" end="75" name="Target" start="72"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9706" frameID="336" frameName="Stimulus_focus" luID="29769" luName="berühren.v">
+			<layer name="fe">
+				<label ID="2400" end="35" name="Stimulus" start="25"/>
+				<label ID="2434" end="93" name="Comparison_set" start="58"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="55" name="Target" start="48"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2402" end="46" name="Degree" start="43"/>
+				<label ID="2401" end="41" name="Experiencer" start="37"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9707" frameID="504" frameName="Religious_belief" luID="29770" luName="religion.n">
+			<layer name="target">
+				<label ID="1577" end="69" name="Target" start="62"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9708" frameID="498" frameName="Increment" luID="29771" luName="andere.n">
+			<layer name="fe">
+				<label ID="4091" end="93" name="Added_set" start="81"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="86" name="Target" start="81"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4092" end="75" name="Initial_set" start="62"/>
+				<label ID="4006" end="93" name="Class" start="88"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9900" frameID="417" frameName="Reason" luID="29798" luName="denn.adv">
+			<layer name="fe">
+				<label ID="3094" end="93" name="State_of_affairs" start="5"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="3" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10694" frameID="813" frameName="Being_in_category" luID="29936" luName="ein.art">
+			<layer name="fe">
+				<label ID="7396" end="55" name="Category" start="18"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="16" name="Target" start="12"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7395" end="6" name="Item" start="5"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10814" frameID="343" frameName="Topic" luID="29498" luName="thema.n">
+			<layer name="target">
+				<label ID="1577" end="30" name="Target" start="25"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10815" frameID="278" frameName="People" luID="29499" luName="leute.n">
+			<layer name="target">
+				<label ID="1577" end="41" name="Target" start="37"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1297">
+		<text>Ich habe ein großes Interesse an Bildung, und ich denke, das haben wir alle.</text>
+		<annotationSet ID="9162" frameID="40" frameName="Emotion_directed" luID="29370" luName="Interesse haben an.v">
+			<layer name="fe">
+				<label ID="163" end="2" name="Experiencer" start="0"/>
+				<label ID="163" end="2" name="Experiencer" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="28" name="Target" start="20"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1251" end="18" name="Degree" start="13"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="30"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1251" end="18" name="Degree" start="13"/>
+				<label ID="164" end="39" name="Topic" start="30"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="30"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1251" end="18" name="Degree" start="13"/>
+				<label ID="164" end="39" name="Topic" start="30"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="4"/>
+				<label ID="1577" end="31" name="Target" start="30"/>
+				<label ID="1577" end="7" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="164" end="39" name="Topic" start="30"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="4"/>
+				<label ID="1577" end="28" name="Target" start="20"/>
+			</layer>
+			<layer name="fe">
+				<label ID="163" end="2" name="Experiencer" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="28" name="Target" start="20"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9283" frameID="101" frameName="Education_teaching" luID="29338" luName="bildung.n">
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="33"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9901" frameID="170" frameName="Quantified_mass" luID="29799" luName="alle.adv">
+			<layer name="target">
+				<label ID="1577" end="74" name="Target" start="71"/>
+			</layer>
+			<layer name="fe">
+				<label ID="979" end="69" name="Individuals" start="67"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10790" frameID="17" frameName="Cogitation" luID="29776" luName="denken.v">
+			<layer name="target">
+				<label ID="1577" end="54" name="Target" start="50"/>
+			</layer>
+			<layer name="fe">
+				<label ID="70" end="48" name="Cognizer" start="46"/>
+				<label ID="71" end="74" name="Topic" start="57"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10816" frameID="997" frameName="Size" luID="29502" luName="groß.a">
+			<layer name="fe">
+				<label ID="9411" end="28" name="Entity" start="20"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="18" name="Target" start="13"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1298">
+		<text>Wir haben ein großes, persönliches Interesse, teilweise Bildung dazu gedacht ist, uns in diese Zukunft zu bringen, die wir nicht fassen können.</text>
+		<annotationSet ID="9163" frameID="40" frameName="Emotion_directed" luID="29370" luName="Interesse haben an.v">
+			<layer name="fe">
+				<label ID="163" end="2" name="Experiencer" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="35"/>
+			</layer>
+			<layer name="fe">
+				<label ID="163" end="2" name="Experiencer" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="35"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1251" end="33" name="Degree" start="14"/>
+				<label ID="1251" end="33" name="Degree" start="14"/>
+				<label ID="1251" end="33" name="Degree" start="14"/>
+				<label ID="165" end="141" name="Stimulus" start="46"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="8" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="165" end="141" name="Stimulus" start="46"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="8" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="165" end="141" name="Stimulus" start="46"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="8" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="163" end="2" name="Experiencer" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="35"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9285" frameID="101" frameName="Education_teaching" luID="29338" luName="bildung.n">
+			<layer name="target">
+				<label ID="1577" end="62" name="Target" start="56"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9287" frameID="1186" frameName="Negation" luID="29485" luName="nicht.adv">
+			<layer name="target">
+				<label ID="1577" end="127" name="Target" start="123"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11073" end="141" name="Negated_proposition" start="115"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9709" frameID="49" frameName="Cause_motion" luID="29774" luName="bringen.v">
+			<layer name="target">
+				<label ID="1577" end="112" name="Target" start="106"/>
+			</layer>
+			<layer name="fe">
+				<label ID="195" end="101" name="Goal" start="86"/>
+				<label ID="192" end="84" name="Theme" start="82"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9710" frameID="496" frameName="Capability" luID="29775" luName="können.v">
+			<layer name="target">
+				<label ID="1577" end="141" name="Target" start="136"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4000" end="134" name="Event" start="129"/>
+				<label ID="4001" end="127" name="Degree" start="123"/>
+				<label ID="3999" end="121" name="Entity" start="119"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10380" frameID="798" frameName="Means" luID="29860" luName="dazu gedacht.a">
+			<layer name="fe">
+				<label ID="7278" end="112" name="Purpose" start="82"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="75" name="Target" start="69"/>
+				<label ID="1577" end="75" name="Target" start="69"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7278" end="112" name="Purpose" start="82"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="67" name="Target" start="64"/>
+				<label ID="1577" end="67" name="Target" start="64"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10695" frameID="493" frameName="Grasp" luID="29937" luName="fassen.v">
+			<layer name="fe">
+				<label ID="3983" end="101" name="Phenomenon" start="95"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="134" name="Target" start="129"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3982" end="121" name="Cognizer" start="119"/>
+				<label ID="3983" end="117" name="Phenomenon" start="115"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10817" frameID="997" frameName="Size" luID="29502" luName="groß.a">
+			<layer name="target">
+				<label ID="1577" end="19" name="Target" start="14"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9411" end="43" name="Entity" start="35"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1299">
+		<text>Denken Sie nur: Kinder, die dieses Jahr in die Schule kommen, werden im Jahr 2065 in Rente gehen.</text>
+		<annotationSet ID="9288" frameID="490" frameName="People_by_age" luID="29504" luName="kind.n">
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="16"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9711" frameID="17" frameName="Cogitation" luID="29776" luName="denken.v">
+			<layer name="fe">
+				<label ID="71" end="95" name="Topic" start="16"/>
+				<label ID="70" end="9" name="Cognizer" start="7"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="5" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9712" frameID="134" frameName="Activity_start" luID="29777" luName="kommen.v">
+			<layer name="fe">
+				<label ID="1781" end="26" name="Agent" start="16"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="59" name="Target" start="54"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1391" end="52" name="Activity" start="40"/>
+				<label ID="736" end="38" name="Time" start="28"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10818" frameID="206" frameName="Calendric_unit" luID="29505" luName="jahr.n">
+			<layer name="fe">
+				<label ID="7052" end="38" name="Unit" start="35"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="38" name="Target" start="35"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1318" end="33" name="Relative_time" start="28"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1300">
+		<text>Keiner hat eine Ahnung, trotz jeglicher Expertise, die wir die letzten vier Tage erleben durften, wie die Welt in fünf Jahren aussehen wird.</text>
+		<annotationSet ID="9096" frameID="14" frameName="Awareness" luID="29339" luName="eine Ahnung haben.v">
+			<layer name="fe">
+				<label ID="58" end="138" name="Content" start="98"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="16"/>
+			</layer>
+			<layer name="fe">
+				<label ID="57" end="5" name="Cognizer" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="16"/>
+				<label ID="1577" end="14" name="Target" start="11"/>
+			</layer>
+			<layer name="fe">
+				<label ID="58" end="138" name="Content" start="98"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="11"/>
+				<label ID="1577" end="14" name="Target" start="11"/>
+				<label ID="1577" end="9" name="Target" start="7"/>
+				<label ID="1577" end="9" name="Target" start="7"/>
+				<label ID="1577" end="9" name="Target" start="7"/>
+			</layer>
+			<layer name="fe">
+				<label ID="57" end="5" name="Cognizer" start="0"/>
+				<label ID="57" end="5" name="Cognizer" start="0"/>
+				<label ID="58" end="138" name="Content" start="98"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="16"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9291" frameID="125" frameName="Expertise" luID="29506" luName="expertise.n">
+			<layer name="target">
+				<label ID="1577" end="48" name="Target" start="40"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9713" frameID="952" frameName="Concessive" luID="29778" luName="trotz.prep">
+			<layer name="fe">
+				<label ID="9104" end="21" name="Main_assertion" start="0"/>
+				<label ID="9102" end="95" name="Conceded_state_of_affairs" start="30"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="28" name="Target" start="24"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9714" frameID="61" frameName="Give_impression" luID="29779" luName="aussehen.v">
+			<layer name="fe">
+				<label ID="270" end="109" name="Phenomenon" start="102"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="133" name="Target" start="126"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9902" frameID="1008" frameName="Opportunity" luID="29800" luName="dürfen.v">
+			<layer name="target">
+				<label ID="1577" end="95" name="Target" start="89"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9558" end="57" name="Agent" start="55"/>
+				<label ID="9559" end="87" name="Desirable_situation" start="30"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10819" frameID="196" frameName="Cardinal_numbers" luID="29507" luName="vier.num">
+			<layer name="fe">
+				<label ID="2716" end="79" name="Entity" start="76"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="74" name="Target" start="71"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10820" frameID="196" frameName="Cardinal_numbers" luID="29509" luName="fünf.num">
+			<layer name="target">
+				<label ID="1577" end="117" name="Target" start="114"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2716" end="124" name="Entity" start="119"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10821" frameID="206" frameName="Calendric_unit" luID="29505" luName="jahr.n">
+			<layer name="target">
+				<label ID="1577" end="124" name="Target" start="119"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10823" frameID="206" frameName="Calendric_unit" luID="30043" luName="tag.n">
+			<layer name="target">
+				<label ID="1577" end="79" name="Target" start="76"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1301">
+		<text>Und trotzdem sollen wir sie dafür ausbilden.</text>
+		<annotationSet ID="9296" frameID="952" frameName="Concessive" luID="29510" luName="trotzdem.adv">
+			<layer name="fe">
+				<label ID="9104" end="42" name="Main_assertion" start="13"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="11" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9102" end="-1" itype="CNI" name="Conceded_state_of_affairs" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9297" frameID="361" frameName="Being_obligated" luID="29511" luName="sollen.v">
+			<layer name="fe">
+				<label ID="2602" end="22" name="Responsible_party" start="20"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="18" name="Target" start="13"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2603" end="42" name="Duty" start="24"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9715" frameID="101" frameName="Education_teaching" luID="29780" luName="ausbilden.v">
+			<layer name="fe">
+				<label ID="431" end="22" name="Teacher" start="20"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="42" name="Target" start="34"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7154" end="32" name="Purpose" start="28"/>
+				<label ID="432" end="26" name="Student" start="24"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1302">
+		<text>Die Unvorhersagbarkeit ist, finde ich, atemberaubend.</text>
+		<annotationSet ID="9298" frameID="642" frameName="Opinion" luID="29484" luName="finden.v">
+			<layer name="fe">
+				<label ID="5229" end="25" name="Opinion" start="0"/>
+				<label ID="5229" end="51" name="Opinion" start="39"/>
+				<label ID="5228" end="36" name="Cognizer" start="34"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="28"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9299" frameID="336" frameName="Stimulus_focus" luID="29512" luName="atemberaubend.a">
+			<layer name="fe">
+				<label ID="2400" end="21" name="Stimulus" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="51" name="Target" start="39"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10381" frameID="21" frameName="Expectation" luID="29862" luName="die Unvorhersagbarkeit.n">
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="4"/>
+				<label ID="1577" end="21" name="Target" start="4"/>
+				<label ID="1577" end="2" name="Target" start="0"/>
+				<label ID="1577" end="2" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1303">
+		<text>Und das dritte Thema ist, dass wir uns trotzdem alle einig sind, dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten, neue Wege zu gehen.</text>
+		<annotationSet ID="9300" frameID="343" frameName="Topic" luID="29498" luName="thema.n">
+			<layer name="fe">
+				<label ID="2452" end="155" name="Topic" start="26"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="19" name="Target" start="15"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9301" frameID="952" frameName="Concessive" luID="29510" luName="trotzdem.adv">
+			<layer name="target">
+				<label ID="1577" end="46" name="Target" start="39"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9104" end="119" name="Main_assertion" start="26"/>
+				<label ID="9102" end="-1" itype="CNI" name="Conceded_state_of_affairs" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9302" frameID="490" frameName="People_by_age" luID="29504" luName="kind.n">
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="75" name="Target" start="70"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9303" frameID="496" frameName="Capability" luID="29513" luName="fähigkeit.n">
+			<layer name="fe">
+				<label ID="4000" end="154" name="Event" start="137"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="113" name="Target" start="103"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3999" end="75" name="Entity" start="70"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9716" frameID="326" frameName="Desirability" luID="29781" luName="außergewöhnlich.a">
+			<layer name="fe">
+				<label ID="2309" end="113" name="Evaluee" start="103"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="101" name="Target" start="86"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2310" end="84" name="Degree" start="77"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9717" frameID="58" frameName="Self_motion" luID="29535" luName="gehen.v">
+			<layer name="target">
+				<label ID="1577" end="154" name="Target" start="150"/>
+			</layer>
+			<layer name="fe">
+				<label ID="249" end="145" name="Path" start="137"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9903" frameID="170" frameName="Quantified_mass" luID="29799" luName="alle.adv">
+			<layer name="target">
+				<label ID="1577" end="51" name="Target" start="48"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1304">
+		<text>Sirena gestern Abend war wunderbar, nicht wahr?</text>
+		<annotationSet ID="9304" frameID="326" frameName="Desirability" luID="29514" luName="wunderbar.a">
+			<layer name="target">
+				<label ID="1577" end="33" name="Target" start="25"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2311" end="19" name="Circumstances" start="7"/>
+				<label ID="2309" end="5" name="Evaluee" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10382" frameID="663" frameName="Be_in_agreement_on_assessment" luID="29843" luName="nicht wahr.adv">
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="36"/>
+				<label ID="1577" end="45" name="Target" start="42"/>
+				<label ID="1577" end="45" name="Target" start="42"/>
+				<label ID="1577" end="40" name="Target" start="36"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10797" frameID="206" frameName="Calendric_unit" luID="30031" luName="abend.n">
+			<layer name="target">
+				<label ID="1577" end="19" name="Target" start="15"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1318" end="13" name="Relative_time" start="7"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1305">
+		<text>Allein zu sehen, wozu sie in der Lage ist.</text>
+		<annotationSet ID="9097" frameID="496" frameName="Capability" luID="29340" luName="in der Lage sein.v">
+			<layer name="fe">
+				<label ID="4000" end="20" name="Event" start="17"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="38"/>
+				<label ID="1577" end="27" name="Target" start="26"/>
+				<label ID="1577" end="36" name="Target" start="33"/>
+				<label ID="1577" end="27" name="Target" start="26"/>
+				<label ID="1577" end="40" name="Target" start="38"/>
+				<label ID="1577" end="36" name="Target" start="33"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3999" end="24" name="Entity" start="22"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="38"/>
+				<label ID="1577" end="36" name="Target" start="33"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3999" end="24" name="Entity" start="22"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="36" name="Target" start="33"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3999" end="24" name="Entity" start="22"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3999" end="24" name="Entity" start="22"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4000" end="20" name="Event" start="17"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4000" end="20" name="Event" start="17"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="29"/>
+				<label ID="1577" end="27" name="Target" start="26"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4000" end="20" name="Event" start="17"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="38"/>
+				<label ID="1577" end="27" name="Target" start="26"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9718" frameID="64" frameName="Perception_experience" luID="29492" luName="sehen.v">
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="10"/>
+			</layer>
+			<layer name="fe">
+				<label ID="288" end="40" name="Phenomenon" start="17"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1306">
+		<text>Sie ist außergewöhnlich, aber ich denke, sie ist nicht, sozusagen, außergewöhnlich in Bezug auf die Gesamtheit aller Kinder.</text>
+		<annotationSet ID="9305" frameID="1186" frameName="Negation" luID="29485" luName="nicht.adv">
+			<layer name="target">
+				<label ID="1577" end="53" name="Target" start="49"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11073" end="47" name="Negated_proposition" start="41"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9719" frameID="170" frameName="Quantified_mass" luID="29783" luName="gesamtheit.n">
+			<layer name="fe">
+				<label ID="979" end="122" name="Individuals" start="111"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="109" name="Target" start="100"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10707" frameID="541" frameName="Typicality" luID="29782" luName="außergewöhnlich.a">
+			<layer name="fe">
+				<label ID="4374" end="43" name="State_of_affairs" start="41"/>
+				<label ID="4375" end="122" name="Comparison_set" start="83"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="81" name="Target" start="67"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10708" frameID="642" frameName="Opinion" luID="29772" luName="denken.v">
+			<layer name="target">
+				<label ID="1577" end="38" name="Target" start="34"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5228" end="32" name="Cognizer" start="30"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10781" frameID="541" frameName="Typicality" luID="29782" luName="außergewöhnlich.a">
+			<layer name="target">
+				<label ID="1577" end="22" name="Target" start="8"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10798" frameID="490" frameName="People_by_age" luID="29504" luName="kind.n">
+			<layer name="target">
+				<label ID="1577" end="122" name="Target" start="117"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1307">
+		<text>Sie ist eine Person mit außerordentlicher Hingabe, die ihr Talent gefunden hat.</text>
+		<annotationSet ID="9308" frameID="278" frameName="People" luID="29516" luName="person.n">
+			<layer name="fe">
+				<label ID="1855" end="48" name="Persistent_characteristic" start="20"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="18" name="Target" start="13"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1854" end="-1" itype="INC" name="Person" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9310" frameID="15" frameName="Becoming_aware" luID="29518" luName="finden.v">
+			<layer name="target">
+				<label ID="1577" end="73" name="Target" start="66"/>
+			</layer>
+			<layer name="fe">
+				<label ID="62" end="64" name="Phenomenon" start="59"/>
+				<label ID="62" end="58" name="Phenomenon" start="55"/>
+				<label ID="61" end="53" name="Cognizer" start="51"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9720" frameID="813" frameName="Being_in_category" luID="29784" luName="sein.v">
+			<layer name="fe">
+				<label ID="7396" end="48" name="Category" start="8"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="6" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7395" end="2" name="Item" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10799" frameID="27" frameName="Commitment" luID="30032" luName="hingabe.n">
+			<layer name="target">
+				<label ID="1577" end="48" name="Target" start="42"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10800" frameID="496" frameName="Capability" luID="29517" luName="talent.n">
+			<layer name="target">
+				<label ID="1577" end="64" name="Target" start="59"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1308">
+		<text>Ich behaupte, dass alle Kinder gewaltige Talente haben und dass wir sie vergeuden, und zwar ziemlich rücksichtslos.</text>
+		<annotationSet ID="9311" frameID="490" frameName="People_by_age" luID="29504" luName="kind.n">
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="29" name="Target" start="24"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9721" frameID="107" frameName="Possession" luID="29785" luName="haben.v">
+			<layer name="fe">
+				<label ID="457" end="29" name="Owner" start="19"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="53" name="Target" start="49"/>
+			</layer>
+			<layer name="fe">
+				<label ID="463" end="47" name="Possession" start="31"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9722" frameID="78" frameName="Frugality" luID="29786" luName="vergeuden.v">
+			<layer name="target">
+				<label ID="1577" end="80" name="Target" start="72"/>
+			</layer>
+			<layer name="fe">
+				<label ID="341" end="70" name="Resource" start="68"/>
+				<label ID="339" end="66" name="Resource_controller" start="64"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9723" frameID="24" frameName="Mental_property" luID="29787" luName="rücksichtslos.a">
+			<layer name="fe">
+				<label ID="95" end="80" name="Behavior" start="64"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="113" name="Target" start="101"/>
+			</layer>
+			<layer name="fe">
+				<label ID="932" end="99" name="Degree" start="92"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10231" frameID="37" frameName="Statement" luID="29812" luName="behaupten.v">
+			<layer name="fe">
+				<label ID="154" end="80" name="Message" start="14"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="11" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="152" end="2" name="Speaker" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10801" frameID="496" frameName="Capability" luID="29517" luName="talent.n">
+			<layer name="target">
+				<label ID="1577" end="47" name="Target" start="41"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4001" end="39" name="Degree" start="31"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10802" frameID="997" frameName="Size" luID="30034" luName="gewaltig.a">
+			<layer name="fe">
+				<label ID="9411" end="47" name="Entity" start="41"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="31"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10803" frameID="170" frameName="Quantified_mass" luID="29799" luName="alle.adv">
+			<layer name="target">
+				<label ID="1577" end="22" name="Target" start="19"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1309">
+		<text>Ich möchte also über Bildung und Kreativität sprechen.</text>
+		<annotationSet ID="9313" frameID="338" frameName="Desiring" luID="29519" luName="mögen.v">
+			<layer name="fe">
+				<label ID="2469" end="44" name="Event" start="16"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="9" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2467" end="2" name="Experiencer" start="0"/>
+				<label ID="2469" end="52" name="Event" start="45"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9314" frameID="101" frameName="Education_teaching" luID="29338" luName="bildung.n">
+			<layer name="target">
+				<label ID="1577" end="27" name="Target" start="21"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9315" frameID="22" frameName="Coming_up_with" luID="29479" luName="kreativität.n">
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="33"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9724" frameID="424" frameName="Speak_on_topic" luID="29788" luName="sprechen.v">
+			<layer name="fe">
+				<label ID="3125" end="43" name="Topic" start="16"/>
+				<label ID="3124" end="2" name="Speaker" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="52" name="Target" start="45"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1310">
+		<text>Meine Überzeugung ist, dass Kreativität heute genauso wichtig für Bildung ist, wie Lesen und Schreiben, und wir sollten sie gleichwertig behandeln.</text>
+		<annotationSet ID="9316" frameID="642" frameName="Opinion" luID="29520" luName="überzeugung.n">
+			<layer name="fe">
+				<label ID="5229" end="101" name="Opinion" start="23"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="16" name="Target" start="6"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5228" end="4" name="Cognizer" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9318" frameID="376" frameName="Importance" luID="29521" luName="wichtig.a">
+			<layer name="fe">
+				<label ID="6896" end="44" name="Time" start="40"/>
+				<label ID="2835" end="38" name="Factor" start="28"/>
+				<label ID="2854" end="72" name="Field" start="62"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="60" name="Target" start="54"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9319" frameID="101" frameName="Education_teaching" luID="29338" luName="bildung.n">
+			<layer name="target">
+				<label ID="1577" end="72" name="Target" start="66"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9320" frameID="634" frameName="Desirable_event" luID="29522" luName="sollen.v">
+			<layer name="fe">
+				<label ID="5154" end="145" name="State_of_affairs" start="124"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="118" name="Target" start="112"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9321" frameID="325" frameName="Evaluative_comparison" luID="29523" luName="gleichwertig.a">
+			<layer name="fe">
+				<label ID="2256" end="122" name="Profiled_item" start="120"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="135" name="Target" start="124"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10804" frameID="1177" frameName="Reading_activity" luID="30035" luName="lesen.n">
+			<layer name="target">
+				<label ID="1577" end="87" name="Target" start="83"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10805" frameID="253" frameName="Text_creation" luID="30037" luName="schreiben.n">
+			<layer name="target">
+				<label ID="1577" end="101" name="Target" start="93"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10806" frameID="22" frameName="Coming_up_with" luID="29479" luName="kreativität.n">
+			<layer name="target">
+				<label ID="1577" end="38" name="Target" start="28"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10807" frameID="1155" frameName="Treating_and_mistreating" luID="30038" luName="behandeln.v">
+			<layer name="fe">
+				<label ID="10768" end="135" name="Manner" start="124"/>
+				<label ID="10770" end="122" name="Affected_party" start="120"/>
+				<label ID="10767" end="110" name="Agent" start="108"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="145" name="Target" start="137"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1311">
+		<text>Danke.</text>
+		<annotationSet ID="10782" frameID="446" frameName="Judgment_direct_address" luID="30018" luName="danken.v">
+			<layer name="target">
+				<label ID="1577" end="4" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1313">
+		<text>Vielen Dank.</text>
+		<annotationSet ID="10783" frameID="446" frameName="Judgment_direct_address" luID="30019" luName="dank.n">
+			<layer name="target">
+				<label ID="1577" end="10" name="Target" start="7"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3367" end="5" name="Degree" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1314">
+		<text>So, noch 15 Minuten Zeit.</text>
+		<annotationSet ID="9322" frameID="201" frameName="Measure_duration" luID="29524" luName="minute.n">
+			<layer name="target">
+				<label ID="1577" end="18" name="Target" start="12"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1190" end="10" name="Count" start="9"/>
+				<label ID="1191" end="-1" itype="INC" name="Unit" start="-1"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1315">
+		<text>Okay, ich wurde geboren am … Nein.</text>
+		<annotationSet ID="9323" frameID="459" frameName="Being_born" luID="29525" luName="gebären.v">
+			<layer name="fe">
+				<label ID="3779" end="25" name="Time" start="24"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="22" name="Target" start="16"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3778" end="8" name="Child" start="6"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9324" frameID="1186" frameName="Negation" luID="29526" luName="nein.adv">
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="29"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1316">
+		<text>Ich habe vor kurzem eine tolle Geschichte gehört -- ich erzähle sie zu gern -- über ein kleines Mädchen, die in Zeichnen saß.</text>
+		<annotationSet ID="9325" frameID="272" frameName="Text" luID="29527" luName="geschichte.n">
+			<layer name="fe">
+				<label ID="1792" end="123" name="Topic" start="79"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="31"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9898" end="29" name="Descriptor" start="25"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9326" frameID="997" frameName="Size" luID="29528" luName="klein.a">
+			<layer name="fe">
+				<label ID="9411" end="102" name="Entity" start="96"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="94" name="Target" start="88"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9327" frameID="490" frameName="People_by_age" luID="29529" luName="mädchen.n">
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+				<label ID="3967" end="-1" itype="INC" name="Age" start="-1"/>
+				<label ID="3966" end="123" name="Descriptor" start="105"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="102" name="Target" start="96"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3965" end="94" name="Persistent_characteristic" start="88"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10784" frameID="64" frameName="Perception_experience" luID="30020" luName="gehört haben.v">
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="4"/>
+				<label ID="1577" end="7" name="Target" start="4"/>
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="47" name="Target" start="42"/>
+				<label ID="1577" end="47" name="Target" start="42"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10794" frameID="454" frameName="Telling" luID="29759" luName="erzählen.v">
+			<layer name="fe">
+				<label ID="3506" end="74" name="Manner" start="68"/>
+				<label ID="3504" end="66" name="Message" start="64"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="62" name="Target" start="56"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3502" end="54" name="Speaker" start="52"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10795" frameID="326" frameName="Desirability" luID="30029" luName="toll.a">
+			<layer name="fe">
+				<label ID="2309" end="40" name="Evaluee" start="31"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="29" name="Target" start="25"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10796" frameID="13" frameName="Posture" luID="30030" luName="sitzen.v">
+			<layer name="target">
+				<label ID="1577" end="123" name="Target" start="121"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1317">
+		<text>Sie war 6 und malte hinten in der letzten Reihe und die Lehrerin sagte, dass dieses kleine Mädchen fast nie aufpasste, außer in der Zeichenstunde.</text>
+		<annotationSet ID="9328" frameID="756" frameName="Create_physical_artwork" luID="29530" luName="malen.v">
+			<layer name="target">
+				<label ID="1577" end="18" name="Target" start="14"/>
+			</layer>
+			<layer name="fe">
+				<label ID="6374" end="2" name="Creator" start="0"/>
+				<label ID="6382" end="46" name="Place" start="20"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9329" frameID="101" frameName="Education_teaching" luID="29531" luName="lehrerin.n">
+			<layer name="fe">
+				<label ID="431" end="-1" itype="INC" name="Teacher" start="-1"/>
+				<label ID="432" end="-1" itype="DNI" name="Student" start="-1"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="63" name="Target" start="56"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9330" frameID="37" frameName="Statement" luID="29532" luName="sagen.v">
+			<layer name="fe">
+				<label ID="154" end="144" name="Message" start="72"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="69" name="Target" start="65"/>
+			</layer>
+			<layer name="fe">
+				<label ID="152" end="63" name="Speaker" start="52"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9331" frameID="490" frameName="People_by_age" luID="29529" luName="mädchen.n">
+			<layer name="target">
+				<label ID="1577" end="97" name="Target" start="91"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+				<label ID="3965" end="89" name="Persistent_characteristic" start="84"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9332" frameID="74" frameName="Frequency" luID="29533" luName="nie.adv">
+			<layer name="target">
+				<label ID="1577" end="106" name="Target" start="104"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1254" end="102" name="Degree" start="99"/>
+				<label ID="326" end="116" name="Event" start="108"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9333" frameID="457" frameName="Attention" luID="29534" luName="aufpassen.v">
+			<layer name="target">
+				<label ID="1577" end="116" name="Target" start="108"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3724" end="97" name="Perceiver" start="77"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10808" frameID="131" frameName="Part_orientational" luID="30039" luName="hinten.adv">
+			<layer name="target">
+				<label ID="1577" end="25" name="Target" start="20"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1318">
+		<text>Die Lehrerin war fasziniert, ging zu ihr herüber und fragte: 'Was malst du denn da?'</text>
+		<annotationSet ID="9334" frameID="101" frameName="Education_teaching" luID="29531" luName="lehrerin.n">
+			<layer name="target">
+				<label ID="1577" end="11" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9335" frameID="58" frameName="Self_motion" luID="29535" luName="gehen.v">
+			<layer name="fe">
+				<label ID="6303" end="47" name="Direction" start="41"/>
+				<label ID="250" end="39" name="Goal" start="34"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="29"/>
+			</layer>
+			<layer name="fe">
+				<label ID="247" end="11" name="Self_mover" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9336" frameID="34" frameName="Questioning" luID="29491" luName="fragen.v">
+			<layer name="fe">
+				<label ID="136" end="11" name="Speaker" start="0"/>
+				<label ID="138" end="83" name="Message" start="61"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="58" name="Target" start="53"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9337" frameID="755" frameName="Create_representation" luID="29536" luName="malen.v">
+			<layer name="fe">
+				<label ID="6358" end="73" name="Creator" start="72"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="70" name="Target" start="66"/>
+			</layer>
+			<layer name="fe">
+				<label ID="6360" end="64" name="Represented" start="62"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1319">
+		<text>Und das Mädchen sagte: 'Ich zeichne ein Bild von Gott.'</text>
+		<annotationSet ID="9338" frameID="490" frameName="People_by_age" luID="29529" luName="mädchen.n">
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="8"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9339" frameID="37" frameName="Statement" luID="29532" luName="sagen.v">
+			<layer name="target">
+				<label ID="1577" end="20" name="Target" start="16"/>
+			</layer>
+			<layer name="fe">
+				<label ID="152" end="14" name="Speaker" start="8"/>
+				<label ID="152" end="7" name="Speaker" start="4"/>
+				<label ID="154" end="53" name="Message" start="24"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9340" frameID="755" frameName="Create_representation" luID="29537" luName="zeichnen.v">
+			<layer name="fe">
+				<label ID="6358" end="26" name="Creator" start="24"/>
+				<label ID="6360" end="52" name="Represented" start="45"/>
+				<label ID="6357" end="43" name="Representation" start="36"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="34" name="Target" start="28"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9341" frameID="754" frameName="Physical_artworks" luID="29538" luName="bild.n">
+			<layer name="fe">
+				<label ID="6354" end="52" name="Represented" start="45"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="40"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9342" frameID="504" frameName="Religious_belief" luID="29539" luName="gott.n">
+			<layer name="target">
+				<label ID="1577" end="52" name="Target" start="49"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1320">
+		<text>Und die Lehrerin sagte: 'Aber niemand weiß, wie Gott aussieht.'</text>
+		<annotationSet ID="9343" frameID="101" frameName="Education_teaching" luID="29531" luName="lehrerin.n">
+			<layer name="target">
+				<label ID="1577" end="15" name="Target" start="8"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9344" frameID="37" frameName="Statement" luID="29532" luName="sagen.v">
+			<layer name="fe">
+				<label ID="154" end="60" name="Message" start="25"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="17"/>
+			</layer>
+			<layer name="fe">
+				<label ID="152" end="15" name="Speaker" start="4"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9345" frameID="504" frameName="Religious_belief" luID="29539" luName="gott.n">
+			<layer name="target">
+				<label ID="1577" end="51" name="Target" start="48"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10785" frameID="14" frameName="Awareness" luID="30026" luName="wissen.v">
+			<layer name="target">
+				<label ID="1577" end="41" name="Target" start="38"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1321">
+		<text>Und das Mädchen antwortete: 'Gleich wissen sie es.'</text>
+		<annotationSet ID="9346" frameID="490" frameName="People_by_age" luID="29529" luName="mädchen.n">
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="8"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3964" end="-1" itype="INC" name="Person" start="-1"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9347" frameID="36" frameName="Communication_response" luID="29540" luName="antworten.v">
+			<layer name="fe">
+				<label ID="148" end="49" name="Message" start="29"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="25" name="Target" start="16"/>
+			</layer>
+			<layer name="fe">
+				<label ID="146" end="14" name="Speaker" start="4"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10786" frameID="14" frameName="Awareness" luID="30026" luName="wissen.v">
+			<layer name="target">
+				<label ID="1577" end="41" name="Target" start="36"/>
+			</layer>
+			<layer name="fe">
+				<label ID="60" end="48" name="Topic" start="47"/>
+				<label ID="57" end="45" name="Cognizer" start="43"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1322">
+		<text>Als mein Sohn vier war in England -- er war eigentlich überall vier.</text>
+		<annotationSet ID="9348" frameID="95" frameName="Kinship" luID="29541" luName="sohn.n">
+			<layer name="target">
+				<label ID="1577" end="12" name="Target" start="9"/>
+			</layer>
+			<layer name="fe">
+				<label ID="414" end="7" name="Ego" start="4"/>
+				<label ID="413" end="-1" itype="INC" name="Alter" start="-1"/>
+				<label ID="413" end="12" name="Alter" start="9"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9349" frameID="489" frameName="Age" luID="29542" luName="vier.num">
+			<layer name="fe">
+				<label ID="3957" end="12" name="Entity" start="4"/>
+				<label ID="3959" end="-1" itype="INC" name="Age" start="-1"/>
+				<label ID="3962" end="32" name="Circumstances" start="23"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="17" name="Target" start="14"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9350" frameID="175" frameName="Political_locales" luID="29543" luName="england.n">
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="26"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9351" frameID="179" frameName="Locative_relation" luID="29544" luName="überall.adv">
+			<layer name="target">
+				<label ID="1577" end="61" name="Target" start="55"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9352" frameID="489" frameName="Age" luID="29542" luName="vier.num">
+			<layer name="target">
+				<label ID="1577" end="66" name="Target" start="63"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3959" end="-1" itype="INC" name="Age" start="-1"/>
+				<label ID="3962" end="61" name="Circumstances" start="55"/>
+				<label ID="3957" end="38" name="Entity" start="37"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1323">
+		<text>Genau genommen war er das ganze Jahr vier, egal wo er hinging.</text>
+		<annotationSet ID="9353" frameID="206" frameName="Calendric_unit" luID="29505" luName="jahr.n">
+			<layer name="target">
+				<label ID="1577" end="35" name="Target" start="32"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="9354" frameID="489" frameName="Age" luID="29542" luName="vier.num">
+			<layer name="fe">
+				<label ID="3962" end="60" name="Circumstances" start="43"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="40" name="Target" start="37"/>
+			</layer>
+			<layer name="fe">
+				<label ID="3961" end="35" name="Time" start="22"/>
+				<label ID="3957" end="20" name="Entity" start="19"/>
+				<label ID="3959" end="-1" itype="INC" name="Age" start="-1"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1324">
+		<text>Er spielte im Krippenspiel mit.</text>
+		<annotationSet ID="9355" frameID="382" frameName="Performers_and_roles" luID="29545" luName="spielen.v">
+			<layer name="fe">
+				<label ID="2871" end="25" name="Performance" start="11"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="9" name="Target" start="3"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2872" end="1" name="Performer" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1325">
+		<text>Erinnern Sie sich an die Geschichte?</text>
+		<annotationSet ID="10696" frameID="587" frameName="Remembering_information" luID="29935" luName="erinnern.v">
+			<layer name="fe">
+				<label ID="4710" end="34" name="Mental_content" start="18"/>
+				<label ID="4709" end="11" name="Cognizer" start="9"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="7" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10768" frameID="272" frameName="Text" luID="29527" luName="geschichte.n">
+			<layer name="fe">
+				<label ID="1784" end="34" name="Text" start="25"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="34" name="Target" start="25"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1326">
+		<text>Nein, sie ist groß.</text>
+		<annotationSet ID="10697" frameID="997" frameName="Size" luID="29502" luName="groß.a">
+			<layer name="target">
+				<label ID="1577" end="17" name="Target" start="14"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9411" end="8" name="Entity" start="6"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10726" frameID="1186" frameName="Negation" luID="29526" luName="nein.adv">
+			<layer name="fe">
+				<label ID="11074" end="17" name="Factual_situation" start="6"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="3" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1327">
+		<text>Es ist eine großartige Geschichte!</text>
+		<annotationSet ID="10698" frameID="326" frameName="Desirability" luID="29471" luName="großartig.a">
+			<layer name="fe">
+				<label ID="2309" end="32" name="Evaluee" start="23"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="21" name="Target" start="12"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10727" frameID="272" frameName="Text" luID="29527" luName="geschichte.n">
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="23"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9898" end="21" name="Descriptor" start="12"/>
+				<label ID="1784" end="1" name="Text" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1328">
+		<text>Mel Gibson machte die Fortsetzung.</text>
+		<annotationSet ID="10699" frameID="945" frameName="Sequence" luID="29938" luName="fortsetzung.n">
+			<layer name="fe">
+				<label ID="9056" end="32" name="Entities" start="22"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="32" name="Target" start="22"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10700" frameID="756" frameName="Create_physical_artwork" luID="29939" luName="machen.v">
+			<layer name="fe">
+				<label ID="6374" end="9" name="Creator" start="0"/>
+				<label ID="6376" end="32" name="Representation" start="18"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="16" name="Target" start="11"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10728" frameID="278" frameName="People" luID="29971" luName="Mel Gibson.n">
+			<layer name="target">
+				<label ID="1577" end="9" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1854" end="9" name="Person" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="2" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1854" end="9" name="Person" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="2" name="Target" start="0"/>
+				<label ID="1577" end="9" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1329">
+		<text>Vielleicht haben Sie sie gesehen.</text>
+		<annotationSet ID="10701" frameID="938" frameName="Possibility" luID="29940" luName="vielleicht.adv">
+			<layer name="fe">
+				<label ID="8986" end="31" name="Possible_event" start="11"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="9" name="Target" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10702" frameID="60" frameName="Perception_active" luID="29941" luName="sehen.v">
+			<layer name="target">
+				<label ID="1577" end="31" name="Target" start="25"/>
+			</layer>
+			<layer name="fe">
+				<label ID="263" end="23" name="Phenomenon" start="21"/>
+				<label ID="262" end="19" name="Perceiver_agentive" start="17"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1330">
+		<text>'Die Geburt II' James spielte den Joseph, worüber wir begeistert waren, weil wir das als eine der Hauptrollen betrachten.</text>
+		<annotationSet ID="10703" frameID="382" frameName="Performers_and_roles" luID="29545" luName="spielen.v">
+			<layer name="fe">
+				<label ID="2869" end="52" name="Audience" start="50"/>
+				<label ID="2877" end="39" name="Role" start="34"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="28" name="Target" start="22"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2872" end="20" name="Performer" start="16"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10704" frameID="16" frameName="Categorization" luID="29942" luName="betrachten.v">
+			<layer name="fe">
+				<label ID="68" end="108" name="Category" start="85"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="119" name="Target" start="110"/>
+			</layer>
+			<layer name="fe">
+				<label ID="67" end="83" name="Item" start="81"/>
+				<label ID="66" end="79" name="Cognizer" start="77"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10729" frameID="40" frameName="Emotion_directed" luID="29977" luName="begeistern.v">
+			<layer name="target">
+				<label ID="1577" end="63" name="Target" start="54"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2594" end="14" name="Event" start="0"/>
+				<label ID="163" end="52" name="Experiencer" start="50"/>
+				<label ID="2569" end="119" name="Explanation" start="72"/>
+				<label ID="165" end="39" name="Stimulus" start="16"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10732" frameID="278" frameName="People" luID="29980" luName="james.n">
+			<layer name="target">
+				<label ID="1577" end="20" name="Target" start="16"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10733" frameID="278" frameName="People" luID="29981" luName="joseph.n">
+			<layer name="target">
+				<label ID="1577" end="39" name="Target" start="34"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10770" frameID="813" frameName="Being_in_category" luID="29870" luName="eine.art">
+			<layer name="fe">
+				<label ID="7396" end="108" name="Category" start="98"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="92" name="Target" start="89"/>
+			</layer>
+			<layer name="fe">
+				<label ID="7395" end="83" name="Item" start="81"/>
+				<label ID="7394" end="79" name="Cognizer" start="77"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10771" frameID="1" frameName="Causation" luID="30008" luName="weil.c">
+			<layer name="fe">
+				<label ID="6980" end="39" name="Circumstances" start="0"/>
+				<label ID="5" end="69" name="Effect" start="42"/>
+				<label ID="3" end="119" name="Cause" start="72"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="75" name="Target" start="72"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10777" frameID="382" frameName="Performers_and_roles" luID="30014" luName="Hauptrolle.n">
+			<layer name="fe">
+				<label ID="2877" end="83" name="Role" start="81"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="108" name="Target" start="98"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1331">
+		<text>Der Ort war voll gestopft von uns allen in T-Shirts: 'James Robinson IST Joseph.'</text>
+		<annotationSet ID="10705" frameID="856" frameName="Locale_by_event" luID="29943" luName="ort.n">
+			<layer name="fe">
+				<label ID="7917" end="80" name="Descriptor" start="12"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="6" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10706" frameID="220" frameName="Fullness" luID="29944" luName="voll gestopft.a">
+			<layer name="target">
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="24" name="Target" start="17"/>
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="24" name="Target" start="17"/>
+				<label ID="1577" end="15" name="Target" start="12"/>
+				<label ID="1577" end="15" name="Target" start="12"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1438" end="6" name="Container" start="4"/>
+				<label ID="1438" end="6" name="Container" start="4"/>
+				<label ID="1439" end="80" name="Contents" start="26"/>
+				<label ID="1439" end="80" name="Contents" start="26"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10709" frameID="123" frameName="Clothing" luID="29945" luName="T-Shirt.n">
+			<layer name="fe">
+				<label ID="608" end="78" name="Descriptor" start="54"/>
+				<label ID="604" end="50" name="Garment" start="43"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="43" name="Target" start="43"/>
+			</layer>
+			<layer name="fe">
+				<label ID="605" end="38" name="Wearer" start="30"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10730" frameID="278" frameName="People" luID="29979" luName="James Robinson.n">
+			<layer name="target">
+				<label ID="1577" end="67" name="Target" start="60"/>
+				<label ID="1577" end="58" name="Target" start="54"/>
+				<label ID="1577" end="58" name="Target" start="54"/>
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="67" name="Target" start="60"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10731" frameID="278" frameName="People" luID="29981" luName="joseph.n">
+			<layer name="target">
+				<label ID="1577" end="78" name="Target" start="73"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10734" frameID="37" frameName="Statement" luID="29982" luName="sein.v">
+			<layer name="fe">
+				<label ID="154" end="78" name="Message" start="54"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="71" name="Target" start="69"/>
+			</layer>
+			<layer name="fe">
+				<label ID="956" end="50" name="Medium" start="43"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1332">
+		<text>Er musste nicht reden, aber wissen Sie noch, der Teil, wo die drei Könige kommen?</text>
+		<annotationSet ID="10710" frameID="627" frameName="Needing" luID="29946" luName="müssen.v">
+			<layer name="fe">
+				<label ID="5112" end="20" name="Requirement" start="16"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="8" name="Target" start="3"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5111" end="1" name="Cognizer" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10735" frameID="1186" frameName="Negation" luID="29485" luName="nicht.adv">
+			<layer name="fe">
+				<label ID="11073" end="8" name="Negated_proposition" start="0"/>
+				<label ID="11073" end="20" name="Negated_proposition" start="16"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="14" name="Target" start="10"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10736" frameID="303" frameName="Part_ordered_segments" luID="29983" luName="teil.n">
+			<layer name="fe">
+				<label ID="2065" end="79" name="Part_prop" start="55"/>
+				<label ID="2066" end="52" name="Part" start="49"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="52" name="Target" start="49"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10737" frameID="506" frameName="People_by_jurisdiction" luID="29984" luName="könig.n">
+			<layer name="target">
+				<label ID="1577" end="72" name="Target" start="67"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4061" end="72" name="Person" start="67"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10738" frameID="196" frameName="Cardinal_numbers" luID="29985" luName="drei.num">
+			<layer name="target">
+				<label ID="1577" end="65" name="Target" start="62"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2716" end="72" name="Entity" start="67"/>
+				<label ID="2715" end="65" name="Number" start="62"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10772" frameID="253" frameName="Text_creation" luID="30009" luName="reden.v">
+			<layer name="target">
+				<label ID="1577" end="20" name="Target" start="16"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1684" end="1" name="Author" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10773" frameID="1058" frameName="Becoming_visible" luID="30010" luName="kommen.v">
+			<layer name="target">
+				<label ID="1577" end="79" name="Target" start="74"/>
+			</layer>
+			<layer name="fe">
+				<label ID="9839" end="72" name="Entity" start="58"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10775" frameID="587" frameName="Remembering_information" luID="30012" luName="wissen noch.v">
+			<layer name="target">
+				<label ID="1577" end="33" name="Target" start="28"/>
+				<label ID="1577" end="0" name="Target" start="0"/>
+				<label ID="1577" end="33" name="Target" start="28"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4710" end="79" name="Mental_content" start="45"/>
+				<label ID="4710" end="79" name="Mental_content" start="45"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="42" name="Target" start="39"/>
+				<label ID="1577" end="42" name="Target" start="39"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4709" end="37" name="Cognizer" start="35"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="0" name="Target" start="0"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4709" end="37" name="Cognizer" start="35"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1333">
+		<text>Sie bringen Geschenke, Gold, Weihrauch und Myrrhe.</text>
+		<annotationSet ID="10713" frameID="127" frameName="Giving" luID="29949" luName="bringen.v">
+			<layer name="fe">
+				<label ID="8192" end="26" name="Depictive" start="23"/>
+				<label ID="674" end="20" name="Theme" start="12"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="10" name="Target" start="4"/>
+			</layer>
+			<layer name="fe">
+				<label ID="672" end="2" name="Donor" start="0"/>
+				<label ID="8192" end="48" name="Depictive" start="43"/>
+				<label ID="8192" end="37" name="Depictive" start="29"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10739" frameID="609" frameName="Substance" luID="29986" luName="gold.n">
+			<layer name="fe">
+				<label ID="4968" end="26" name="Substance" start="23"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="26" name="Target" start="23"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10740" frameID="609" frameName="Substance" luID="29987" luName="weihrauch.n">
+			<layer name="fe">
+				<label ID="4968" end="37" name="Substance" start="29"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="37" name="Target" start="29"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10741" frameID="609" frameName="Substance" luID="29988" luName="myrrhe.n">
+			<layer name="fe">
+				<label ID="4968" end="48" name="Substance" start="43"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="48" name="Target" start="43"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1334">
+		<text>Das ist wirklich passiert.</text>
+		<annotationSet ID="10714" frameID="168" frameName="Event" luID="29950" luName="passieren.v">
+			<layer name="fe">
+				<label ID="3547" end="15" name="Manner" start="8"/>
+				<label ID="903" end="2" name="Event" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="24" name="Target" start="17"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10742" frameID="103" frameName="Likelihood" luID="29989" luName="wirklich.a">
+			<layer name="fe">
+				<label ID="447" end="24" name="Hypothetical_event" start="17"/>
+				<label ID="510" end="15" name="Degree" start="8"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="15" name="Target" start="8"/>
+			</layer>
+			<layer name="fe">
+				<label ID="447" end="2" name="Hypothetical_event" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1335">
+		<text>Wir saßen da und ich glaube, sie vertauschten die Reihenfolge, weil wir hinterher fragten: 'War das okay für dich?'und er: 'Ja.</text>
+		<annotationSet ID="10715" frameID="64" frameName="Perception_experience" luID="29951" luName="dasitzen.v">
+			<layer name="fe">
+				<label ID="287" end="2" name="Perceiver_passive" start="0"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="8" name="Target" start="4"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10717" frameID="241" frameName="Bungling" luID="29953" luName="vertauschen.v">
+			<layer name="fe">
+				<label ID="1565" end="60" name="Patient" start="46"/>
+				<label ID="1569" end="44" name="Action" start="33"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="44" name="Target" start="33"/>
+			</layer>
+			<layer name="fe">
+				<label ID="1564" end="31" name="Agent" start="29"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10718" frameID="349" frameName="Time_vector" luID="29954" luName="hinterher.adv">
+			<layer name="fe">
+				<label ID="2501" end="60" name="Landmark_event" start="0"/>
+				<label ID="3489" end="114" name="Event" start="82"/>
+				<label ID="2503" end="80" name="Direction" start="72"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="80" name="Target" start="72"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10719" frameID="34" frameName="Questioning" luID="29491" luName="fragen.v">
+			<layer name="target">
+				<label ID="1577" end="88" name="Target" start="82"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4205" end="80" name="Time" start="72"/>
+				<label ID="136" end="70" name="Speaker" start="68"/>
+				<label ID="138" end="114" name="Message" start="91"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10722" frameID="36" frameName="Communication_response" luID="29957" luName="er.pron">
+			<layer name="fe">
+				<label ID="148" end="125" name="Message" start="124"/>
+				<label ID="147" end="70" name="Addressee" start="68"/>
+				<label ID="146" end="120" name="Speaker" start="119"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="120" name="Target" start="119"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10743" frameID="945" frameName="Sequence" luID="29990" luName="reihenfolge.n">
+			<layer name="target">
+				<label ID="1577" end="60" name="Target" start="50"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10744" frameID="1211" frameName="Affirm_or_deny" luID="29991" luName="ja.adv">
+			<layer name="fe">
+				<label ID="11361" end="113" name="Topic" start="92"/>
+				<label ID="11326" end="125" name="Message" start="124"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="125" name="Target" start="124"/>
+			</layer>
+			<layer name="fe">
+				<label ID="11325" end="120" name="Speaker" start="119"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10745" frameID="326" frameName="Desirability" luID="29992" luName="okay.a">
+			<layer name="fe">
+				<label ID="2368" end="112" name="Affected_party" start="105"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="103" name="Target" start="100"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2309" end="98" name="Evaluee" start="96"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10778" frameID="1143" frameName="Condition_symptom_relation" luID="30015" luName="weil.c">
+			<layer name="fe">
+				<label ID="10641" end="60" name="Medical_condition" start="29"/>
+				<label ID="10642" end="125" name="Symptom" start="63"/>
+				<label ID="10640" end="19" name="Patient" start="17"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="66" name="Target" start="63"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10780" frameID="129" frameName="Certainty" luID="30016" luName="glauben.v">
+			<layer name="fe">
+				<label ID="697" end="60" name="Content" start="29"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="26" name="Target" start="21"/>
+			</layer>
+			<layer name="fe">
+				<label ID="695" end="19" name="Cognizer" start="17"/>
+				<label ID="8228" end="125" name="Explanation" start="63"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1336">
+		<text>War was falsch?'</text>
+		<annotationSet ID="10720" frameID="668" frameName="Correctness" luID="29955" luName="falsch.a">
+			<layer name="target">
+				<label ID="1577" end="13" name="Target" start="8"/>
+			</layer>
+			<layer name="fe">
+				<label ID="5488" end="6" name="Information" start="4"/>
+				<label ID="8022" end="2" name="Time" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+	<sentence ID="1337">
+		<text>Sie hatten die Rollen getauscht.</text>
+		<annotationSet ID="10723" frameID="563" frameName="Exchange" luID="29958" luName="tauschen.v">
+			<layer name="target">
+				<label ID="1577" end="30" name="Target" start="22"/>
+			</layer>
+			<layer name="fe">
+				<label ID="4523" end="20" name="Themes" start="11"/>
+				<label ID="4519" end="2" name="Exchangers" start="0"/>
+			</layer>
+		</annotationSet>
+		<annotationSet ID="10724" frameID="382" frameName="Performers_and_roles" luID="29959" luName="rolle.n">
+			<layer name="fe">
+				<label ID="2877" end="20" name="Role" start="15"/>
+			</layer>
+			<layer name="target">
+				<label ID="1577" end="20" name="Target" start="15"/>
+			</layer>
+			<layer name="fe">
+				<label ID="2872" end="2" name="Performer" start="0"/>
+			</layer>
+		</annotationSet>
+	</sentence>
+</fullTextAnnotation>
