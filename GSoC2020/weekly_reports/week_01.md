@@ -10,7 +10,7 @@
 
 ### Challenges and solutions
 
-I was facing some problems with implementing the size constraint for the videos. To get the dimensions of the video, I am using the getID3 php file, but that does not support all video formats (e.g. .mkv files are not supported). Moreover, it requires the actual path of the file to be uploaded on the user's computer that can lead to privacy issues. Though it works fine on my computer, this access may not be allowed on a random user's computer. So I have decided to explore other ways of resolving this issue in the next week, so that this check would not have to be performed only after the file is uploaded on the server.
+I was facing some problems with implementing the size constraint for the videos. To get the dimensions of the video, I am using the getID3 php file, but that does not support all video formats (e.g. .mkv files are not supported). Moreover, it requires the actual path of the file to be uploaded on the user's computer that can lead to privacy issues. Though it works fine on my computer, this access may not be allowed on a random user's computer. So I need help to find a way to perform this check only after the file is uploaded on the server. Both getID3 and ffmpeg require the user file's path details.  
 
 ### Tasks postponed to next week
 Task 4: Size constraints on video to be uploaded.
