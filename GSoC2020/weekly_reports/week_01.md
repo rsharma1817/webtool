@@ -5,7 +5,7 @@
 *  layout for the webtool video uploader UI [[go to Figma]](https://www.figma.com/files/project/9936175/Webtool-Video-Uploaded) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 2. File/URL is validated (checking that the URL points to a video file) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 3. Check the database for duplicates (inform user/drop duplicate file) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-4. Check video width/height to make sure they meet a minimum constraint ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) 
+4. Check video width/height to make sure they meet a minimum constraint ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue)  
 5. Non-duplicate video is uploaded/scraped and stored ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ### Challenges and solutions
