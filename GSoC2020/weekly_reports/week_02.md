@@ -1,4 +1,4 @@
-## Week 02 - (Jun 08 - Jun 21)
+## Week 02 - (Jun 08 - Jun 14)
 
 ### Tasks scheduled for this week
 
