@@ -1,42 +1,34 @@
 ## Week 01 - (Jun 01 - Jun 07)
 
-### Tasks scheduled for this week (Tasks 1-5)  
-1. User import a video file (via direct upload or importing from a url)
-*  layout for the webtool video uploader UI [[go to Figma]](https://www.figma.com/files/project/9936175/Webtool-Video-Uploaded) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-2. File/URL is validated (checking that the URL points to a video file) ![uat-failed](https://img.shields.io/static/v1?label=UAT&message=failed&color=red) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
-3. Check the database for duplicates (inform user/drop duplicate file) ![uat-failed](https://img.shields.io/static/v1?label=UAT&message=failed&color=red) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
-4. Check video width/height to make sure they meet a minimum constraint ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
-5. Non-duplicate video is uploaded/scraped and stored ![uat-failed](https://img.shields.io/static/v1?label=UAT&message=failed&color=red) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+### Tasks scheduled for this week
+
+The tasks for this week are to understand the relevant parts of the FrameNet WebTool and try to figure out how the final product should look like.So I have to create a prototype of all the tasks that I plan to do as a part of my project, which are the data conversion and data visualization parts which are :
+
+Section 1.1 Implementation for importing from XML, CONLLU, JSON
+
+Section 1.2 Making the Lexical Entry Report more interactive ![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) 
+
+link to the document-  https://www.figma.com/file/vRP2BgU3I3yaDxBYzNBChK/Untitled?node-id=7%3A52
+
+and Creating my test cases on which the implementation would be done ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+
 
 ### Challenges and solutions
 
-I was facing some problems with implementing the size constraint for the videos. To get the dimensions of the video, I am using the getID3 php file, but that does not support all video formats (e.g. .mkv files are not supported). Moreover, it requires the actual path of the file to be uploaded on the user's computer that can lead to privacy issues. Though it works fine on my computer, this access may not be allowed on a random user's computer. So I need help to find a way to perform this check only after the file is uploaded on the server. Both getID3 and ffmpeg require the user file's path details.  
+The proposed solutions have been demonstrated in the link -
+https://www.figma.com/file/vRP2BgU3I3yaDxBYzNBChK/Untitled?node-id=7%3A52
+
+### Tasks completed
+
+Implementation ideas of Section 1.1 and 1.2
+
 
 ### Tasks postponed to next week
-Task 4: Size constraints on video to be uploaded.
+
+Discussions on the implementation ideas
 
 ### Observations
-In the preprocessing tool, the user can choose to upload a video from his local computer or provide a url. In the first case, various constraints such as duplicacy of files, size constraints as well as availability of files are checked before being uploaded. If the constraints are met, the video file is stored with its SHA1 hash value on the server. In the second case, the validity of the URL is checked based on regexes for Youtube videos. The options of selecting language, corpus and document from the webtool MySQL database (webtool_db) is provided to the user as well. 
 
-## Week 02 - (Jun 08 - Jun 14)  
-
-### Tasks scheduled for this week (Tasks 6, 9 and 10) 
-6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored
-
-![important](https://img.shields.io/static/v1?label=&message=important&color=red)<br>*keep in mind that FLAC/44.1KHz/Mono is just an example of the most common file specification for speech-to-text. Check for **real specifications** on the documentation of the platform you chose.*
-
-9. Audio file uploaded to Cloud Storage/Speech API  
-10. Transcription returns from Cloud Speech API and stored  
-
-Remember to use tags! You can add multiple tags to any task.
-
-![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) = done and ready for User Acceptance Testing (UAT)<br>
-![uat-passed](https://img.shields.io/static/v1?label=UAT&message=passed&color=success) = tested and ready to merge with Master<br>
-![deployed](https://img.shields.io/static/v1?label=&message=deployed&color=success) = merged with Master<br>
-![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) = task deferred from one week to the next<br>
-![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue) = needs help from mentors<br>
-![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) = **blocked** task that needs discussion with mentors<br>
-![important](https://img.shields.io/static/v1?label=&message=important&color=red) = something that needs to be addressed immediately<br>
-
-Use [Shields.io](https://shields.io) to creat new tags if needed.
+...
+---
 
