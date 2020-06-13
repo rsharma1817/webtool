@@ -51,7 +51,49 @@
 
 ### Tasks postponed to next week
 
-None :)
+None :sunglasses:
+
+### Deliverables
+
+#### LU Identification (without modification)
+Filename: `{lang}_ID_to_LUs.pkl`
+
+`sent_ID -> (word, lemma, start_pos, pos) -> {framenet_lus.ID}}`
+
+```
+1274: defaultdict(set, {('Thank', 'thank', 0, 'VERB'): {8945, 8946}, 
+			('very', 'very', 10, 'ADV'): {174, 911, 3067, 7444, 10309, 11665, 14102, 14110, 14218, 14745, 15715, 16470}})})
+```
+
+#### LU Identification (with Modification 1)
+Filename: `{source_lang}_{target_lang}_{n-gram}_ID_to_LUs.pkl`
+
+`(source_sent_ID, target_sent_ID, source_LU, source_embedding) -> (potential LU, embedding)`
+
+```
+(1076, 1336, 'said', tensor([-0.7068, -0.3851, -0.8780,  ...,  0.3474,  1.4252, -0.7536])): ("falsch ? '", tensor([-0.6113,  0.2115, -0.1122,  ...,  0.8754,  0.6139,  0.1818]))
+```
+
+#### Frame Identification (without modification)
+Filename: `{lang}_ID_to_frames.pkl`
+
+`sent_ID -> [(word, frame)]`
+
+```
+1268: [('gift', 'Kinship'), ('human', 'Information')],
+1269: [('use', 'Being_named'), ('avert', 'Desirability'), ('talked', 'Collaboration'), ('to', 'Cardinal_numbers'), ('have', 'Calendric_unit')],
+```
+
+
+#### Frame Identification (with Modification 2)
+Filename: `{source_lang}_{target_lang}_ID_to_frames.pkl`
+
+`(source_sent_ID, target_sent_ID) -> {(target_LU, source_frame, pred_frame)}`
+
+```
+(1334, 1074): {('happened', 'Event', 'Event'), ('happened', 'Likelihood', 'Likelihood')},
+(1337, 1077): {('switched', 'Exchange', 'Replacing'), ('switched', 'Performers_and_roles', 'Performers_and_roles')}})
+```
 
 ---
 Remember to use tags! You can add multiple tags to any task.
