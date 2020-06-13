@@ -1,4 +1,4 @@
-## Week 01 - (Jun 01 - Jun 07)
+## Week 02 - (Jun 08 - Jun 14)
 
 ### Tasks scheduled for this week
 - Train the classifier to identify semantic frames with the combined train and test dataset fromhttps://github.com/andersjo/any-language-frames ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
