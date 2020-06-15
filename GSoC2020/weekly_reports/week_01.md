@@ -33,6 +33,10 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 9. Audio file uploaded to Cloud Storage/Speech API  
 10. Transcription returns from Cloud Speech API and stored  
 
+## Week 03 - (Jun 15 - Jun 22)  
+
+### Tasks scheduled for this week (Tasks 7, 8 and 11) 
+
 Remember to use tags! You can add multiple tags to any task.
 
 ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) = done and ready for User Acceptance Testing (UAT)<br>
