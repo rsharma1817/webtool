@@ -40,9 +40,9 @@ I am facing some issues with integrating the backend functions with the React fr
 
 ### Tasks scheduled for this week (Tasks 7, 8 and 11) 
 
-7.Video converted (MP4/H.264) and stored;
-8.Video thumbnails generated and stored;
-11.Subtitles extracted from video with Python-tesseract and stored;
+7.Video converted (MP4/H.264) and stored  
+8.Video thumbnails generated and stored  
+11.Subtitles extracted from video with Python-tesseract and stored  
 
 Remember to use tags! You can add multiple tags to any task.
 
