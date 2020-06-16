@@ -26,16 +26,23 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 2. File/URL is validated (checking that the URL points to a video file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 3. Check the database for duplicates (inform user/drop duplicate file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 5. Non-duplicate video is uploaded/scraped and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
-6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored
+6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored  ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
 ![important](https://img.shields.io/static/v1?label=&message=important&color=red)<br>*keep in mind that FLAC/44.1KHz/Mono is just an example of the most common file specification for speech-to-text. Check for **real specifications** on the documentation of the platform you chose.*
 
-9. Audio file uploaded to Cloud Storage/Speech API  
-10. Transcription returns from Cloud Speech API and stored  
+9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+### Observations
+I am facing some issues with integrating the backend functions with the React frontend, especially with the modal box rendering (since the formats are different in PHP and React) and MySQL connectivity. I was working on the week 2 tasks, but then had to shift in between to React and change the platform again, therefore, this is causing some delay, but these will be resolved by tomorrow. I can then start working on the other tasks that are scheduled for this week. The React frontend files for the new tool are updated in the Github master branch. 
 
 ## Week 03 - (Jun 15 - Jun 22)  
 
 ### Tasks scheduled for this week (Tasks 7, 8 and 11) 
+
+7.Video converted (MP4/H.264) and stored;
+8.Video thumbnails generated and stored;
+11.Subtitles extracted from video with Python-tesseract and stored;
 
 Remember to use tags! You can add multiple tags to any task.
 
