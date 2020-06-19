@@ -1,8 +1,9 @@
 
 
+
 <div id="divExportXML" class="easyui-panel" title='Corpus - Export XML' collapsible="false" data-options="fit:true">
 
-    <form id="formExportXML" action="{{$manager->getURL('utils/export/exportXML')}}">
+    <form id="formExportXML" action="{{$manager->getURL('utils/export/formExportXML')}}">
         <input type="hidden" id="idCorpus" name="idCorpus" value="{{$data->idCorpus}}"/>
         <input type="hidden" id="documents" name="documents" value=""/>
     </form>
@@ -37,11 +38,12 @@
 
 
     $("#documentGrid").datagrid({
-        title: 'Select documents - Corpus: ' + {{$data->corpusName}},
-        checkbox: true,
-        url: {{$manager->getURL('api/reportcorpus/getDataDocumentCorpus')}} + '/' + {{$data->idCorpus}},
+        title: 'Select documents - Corpus: ' + $data.corpusName,
+        checkbox: true,    
+        url: $manager.getURL('api/reportcorpus/getDataDocumentCorpus')  + '/' + $data.idCorpus,
         method: 'get'
     });
+  
 
     $("#btnExport").linkbutton({
         onClick: function() {
@@ -58,3 +60,6 @@
     })
 
 </script>
+
+</body>
+</html>
