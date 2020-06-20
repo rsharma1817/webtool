@@ -42,14 +42,14 @@ I am facing some issues with integrating the backend functions with the React fr
 2. File/URL is validated (checking that the URL points to a video file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 3. Check the database for duplicates (inform user/drop duplicate file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 5. Non-duplicate video is uploaded/scraped and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) 
-6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ![important](https://img.shields.io/static/v1?label=&message=important&color=red)<br>*keep in mind that FLAC/44.1KHz/Mono is just an example of the most common file specification for speech-to-text. Check for **real specifications** on the documentation of the platform you chose.*
 
 7.Video converted (MP4/H.264) and stored  
 8.Video thumbnails generated and stored  
-9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)<br>
-10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)<br>
+9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)<br> ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)<br> ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 11.Subtitles extracted from video with Python-tesseract and stored  
 
 Remember to use tags! You can add multiple tags to any task.
