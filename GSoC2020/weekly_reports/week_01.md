@@ -50,7 +50,7 @@ I am facing some issues with integrating the backend functions with the React fr
 8.Video thumbnails generated and stored  
 9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
-11.Subtitles extracted from video with Python-tesseract and stored  
+11.Subtitles extracted from video with Python-tesseract and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
 Remember to use tags! You can add multiple tags to any task.
 
