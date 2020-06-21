@@ -52,6 +52,15 @@ I am facing some issues with integrating the backend functions with the React fr
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 11.Subtitles extracted from video with Python-tesseract and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
+## Week 04 - (Jun 22 - Jul 1)  
+
+### Tasks scheduled for this week (Tasks 12, 13, 14 and 15) 
+11.Subtitles extracted from video with Python-tesseract and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)  
+12. Transcription and subtitles synced/aligned and merged into a single text file;  
+13. User review the video and sentences (side by side) for validation;  
+14. Transcriptions and subtitles are organized into sentences and stored according to the Webtool standard;  
+15. Reviewed file is uploaded to the FrameNet Webtool.  
+
 Remember to use tags! You can add multiple tags to any task.
 
 ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) = done and ready for User Acceptance Testing (UAT)<br>
