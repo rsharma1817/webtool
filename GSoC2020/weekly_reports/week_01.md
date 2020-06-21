@@ -30,7 +30,7 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 
 ![important](https://img.shields.io/static/v1?label=&message=important&color=red)<br>*keep in mind that FLAC/44.1KHz/Mono is just an example of the most common file specification for speech-to-text. Check for **real specifications** on the documentation of the platform you chose.*
 
-9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) 
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
 ### Observations
@@ -48,8 +48,8 @@ I am facing some issues with integrating the backend functions with the React fr
 
 7.Video converted (MP4/H.264) and stored  
 8.Video thumbnails generated and stored  
-9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 11.Subtitles extracted from video with Python-tesseract and stored  
 
 Remember to use tags! You can add multiple tags to any task.
