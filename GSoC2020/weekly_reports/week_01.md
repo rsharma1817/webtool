@@ -6,7 +6,7 @@ The tasks for this week are to understand the relevant parts of the FrameNet Web
 
 Section 1.1 Implementation for importing from XML, CONLLU, JSON
 
-Section 1.2 Making the Lexical Entry Report more interactive ![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) 
+Section 1.2 Making the Lexical Entry Report more interactive ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 link to the document-  https://www.figma.com/file/vRP2BgU3I3yaDxBYzNBChK/Untitled?node-id=7%3A52
 
