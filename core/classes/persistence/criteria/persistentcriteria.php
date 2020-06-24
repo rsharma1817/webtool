@@ -96,7 +96,7 @@ class PersistentCriteria extends BaseCriteria
     {
 //        $className = trim(strtolower($className));
         $className = trim($className);
-        return $this->maps[$className];
+        return $this->maps[$className] ?? '';
     }
 
     public function addClass($className, $alias = '', $classMap = NULL)
@@ -147,7 +147,7 @@ class PersistentCriteria extends BaseCriteria
             if ((strrpos($className, '\\') === false) && (strrpos($className, 'business') === false)) {
                 $fullClassName = $this->classMap->getNamespace() . '\\' . $className;
             }
-            $alias = $this->classes[$fullClassName][1];
+            $alias = $this->classes[$fullClassName][1] ?? '';
         } else {
             $alias = $this->alias;
         }

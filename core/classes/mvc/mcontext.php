@@ -211,7 +211,8 @@ class MContext
             $ctlr = $part;
             // first try via filemap
             if (($controller == '') && ($component == '') && (($service == '') || $hasApi)) {
-                $fileMap = Manager::getAppPath("vendor/filemap.php", "", $this->app);
+                //$fileMap = Manager::getAppPath("vendor/filemap.php", "", $this->app);
+                $fileMap = Manager::getAbsolutePath("vendor/filemap.php");
                 if (file_exists($fileMap)) {
                     $this->fileMap = require($fileMap);
                     $ns = ($this->module ? $this->module . '\\' : '');

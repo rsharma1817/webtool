@@ -335,8 +335,8 @@ class MBusinessModel extends PersistentObject
         return $this;
     }
 
-    public function save($force = false) {
-        if (!$this->isPersistent() || $this->wasChanged() || $force == true) {
+    public function save($data = null) {
+        if (!$this->isPersistent() || $this->wasChanged()) {
             parent::save();
             $this->setOriginalData();
             return true;

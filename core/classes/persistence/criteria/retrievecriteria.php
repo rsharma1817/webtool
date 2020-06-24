@@ -229,7 +229,7 @@ class RetrieveCriteria extends PersistentCriteria
     private function processOrder($order)
     {
         $parts = explode(' ', $order);
-        return trim($this->getOperand($parts[0])->getSqlOrder() . ' ' . $parts[1] . ' ' . $parts[2] . ' ' . $parts[3]);
+        return trim($this->getOperand($parts[0])->getSqlOrder() . ' ' . ($parts[1] ?? '') . ' ' . ($parts[2] ?? '') . ' ' . ($parts[3] ?? ''));
     }
 
     public function distinct($distinct = TRUE)
@@ -276,7 +276,7 @@ class RetrieveCriteria extends PersistentCriteria
                             } while ($classMap != NULL);
                         } else {
                             $parts = explode(' as ', $attribute);
-                            $this->columns[] = trim($parts[0]) . (($label = trim($parts[1])) ? ' as ' . $label : '');
+                            $this->columns[] = trim($parts[0]) . (($label = (trim($parts[1] ?? ''))) ? ' as ' . $label : '');
                         }
                     }
                 } else {

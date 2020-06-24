@@ -8,6 +8,15 @@ use fnbr\auth\models\Group;
  */
 class Base {
 
+    static public function getSessionLanguage() {
+        $session = \Manager::getSession();
+        if ($session) {
+            return $session->idLanguage;
+        } else {
+           return self::getIdLanguage(\Manager::getOptions('language'));
+        }
+    }
+
     static public function languages() {
         $language = new Language();
         $languages = $language->getCriteria()->select("idLanguage, language")->asQuery()->chunkResult('idLanguage', 'language');
@@ -42,7 +51,7 @@ class Base {
     }
 
     static public function entryLanguage($criteria, $association = '') {
-        $idLanguage = \Manager::getSession()->idLanguage;
+        $idLanguage = self::getSessionLanguage();
         if ($association == '') {
             $associationCriteria = $criteria->getAssociation('entries');
             $alias = ($associationCriteria ? $associationCriteria->getAlias() : '');

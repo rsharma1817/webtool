@@ -59,7 +59,7 @@ class MDatabase implements \IDataBase
             $platform = self::$_platformMap[$this->config['driver']];
             $this->platform = new $platform($this);
             $this->config['platform'] = $this->platform;
-            $driver = self::$_driverClass[$this->config['driver']];
+            $driver = self::$_driverClass[$this->config['driver']] ?? '';
             if ($driver != '') {
                 $this->config['driverClass'] = $driver;
                 unset($this->config['driver']);
@@ -69,12 +69,12 @@ class MDatabase implements \IDataBase
 
             $this->params = $this->connection->getParams();
             $this->platform->connect();
-            $ormLogger = $this->config['ormLoggerClass'];
+            $ormLogger = $this->config['ormLoggerClass'] ?? '';
             if ($ormLogger) {
                 $this->ormLogger = new $ormLogger();
             }
 
-            if ($this->config['enableUserInformation']) {
+            if ($this->config['enableUserInformation'] ?? '') {
                 $this->setUserInformation();
             }
         } catch (\Exception $e) {

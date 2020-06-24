@@ -194,7 +194,7 @@ class ClassMap
 
         if (is_string($name)) {
             do {
-                $attributeMap = $classMap->hashedAttributeMaps[$name];
+                $attributeMap = $classMap->hashedAttributeMaps[$name] ?? null;
                 $classMap = $classMap->superClassMap;
             } while ($areSuperClassesIncluded && ($attributeMap == null) && ($classMap != null));
         } else {

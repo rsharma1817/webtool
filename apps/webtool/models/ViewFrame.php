@@ -34,6 +34,9 @@ class ViewFrame extends map\ViewFrameMap
         if ($filter->frame) {
             $criteria->where("entries.name LIKE '{$filter->frame}%'");
         }
+        if ($filter->name) {
+            $criteria->where("entries.name LIKE '{$filter->name}%'");
+        }
         if ($filter->lu) {
             $criteria->distinct(true);
             $criteria->where("lus.name LIKE '{$filter->lu}%'");

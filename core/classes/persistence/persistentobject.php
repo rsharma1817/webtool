@@ -128,9 +128,9 @@ class PersistentObject
         $this->manager->saveObjectRaw($this);
     }
 
-    public function save()
+    public function save($data = null)
     {
-        $this->manager->saveObject($this);
+        $this->manager->saveObject($this, $data);
     }
 
     public function saveAssociation($association)

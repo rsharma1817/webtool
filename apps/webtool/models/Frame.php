@@ -173,7 +173,7 @@ HERE;
         return $feCoreSet;
     }
 
-    public function listAll($idLanguage)
+    public function listAll($filter = '', $attribute = '', $order = '')
     {
         $criteria = $this->getCriteria()->select('*, entries.name as name')->orderBy('entries.name');
         Base::entryLanguage($criteria);
@@ -274,7 +274,7 @@ HERE;
         }
     }
 
-    public function save($data)
+    public function save($data = null)
     {
         $transaction = $this->beginTransaction();
         try {

@@ -74,7 +74,7 @@ class PHPConfigLoader
         //} else {
             $className = trim($className);
         //}
-        if ($className{0} == '\\') {
+        if ($className[0] == '\\') {
             $className = substr($className, 1);
         }
         if ($className == '') {

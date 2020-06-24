@@ -125,7 +125,7 @@ class MSQL
         $can = 0;
 
         for ($i = 0; $i < $l; $i++) {
-            $c = $source{$i};
+            $c = $source[$i];
 
             if (!$can) {
                 if ($c == ',') {
@@ -299,7 +299,7 @@ class MSQL
                         $this->paramType[$i] = $param[1];
                     }
                     $param = (\is_null($param) || !isset($param) ? NULL : $param);
-                    if (\is_string($param) && ($param{0} == ':')) {
+                    if (\is_string($param) && ($param[0] == ':')) {
                         $textParam = substr($param, 1);
                     } else {
                         $textParam = '?';
@@ -414,10 +414,10 @@ class MSQL
                 $this->_getJoin();
             }
 
-            $sqlText = 'SELECT ' . ($this->distinct ? 'DISTINCT ' : '') . implode($this->columns, ',');
+            $sqlText = 'SELECT ' . ($this->distinct ? 'DISTINCT ' : '') . implode(',', $this->columns);
 
             if (count($this->tables)) {
-                $sqlText .= ' FROM   ' . implode($this->tables, ',');
+                $sqlText .= ' FROM   ' . implode(',', $this->tables);
             }
 
             if ($this->where != '') {
@@ -425,7 +425,7 @@ class MSQL
             }
 
             if (count($this->groupBy)) {
-                $sqlText .= ' GROUP BY ' . implode($this->groupBy, ',');
+                $sqlText .= ' GROUP BY ' . implode(',',$this->groupBy);
             }
 
             if ($this->having != '') {
@@ -433,7 +433,7 @@ class MSQL
             }
 
             if (count($this->orderBy)) {
-                $sqlText .= ' ORDER BY ' . implode($this->orderBy, ',');
+                $sqlText .= ' ORDER BY ' . implode(',',$this->orderBy);
             }
         }
 

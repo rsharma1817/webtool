@@ -79,7 +79,7 @@ class MTrace
         $this->trace[] = $message;
 
         if (!$tag) {
-            $tag = Manager::getConf('logs')['tag'];
+            $tag = Manager::getConf('logs')['tag'] ?? '';
         }
 
         if (strlen($tag) > 0) {
