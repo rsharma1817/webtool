@@ -121,7 +121,7 @@ class ExportController extends MController
 
     public function formExportXML(){
         try {
-            $this->data->idCorpus = $this->data->id;
+            $this->data->idCorpus = 1;
             $corpus = new fnbr\models\Corpus($this->data->idCorpus);
             $user = fnbr\models\Base::getCurrentUser();
             $this->data->corpusName = $corpus->getName();
