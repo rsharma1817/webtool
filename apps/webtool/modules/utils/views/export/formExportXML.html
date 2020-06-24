@@ -40,7 +40,7 @@
     $("#documentGrid").datagrid({
         title: 'Select documents - Corpus: ' + {{$data->corpusName}},
         checkbox: true,    
-        url: {{$manager.getURL('api/reportcorpus/getDataDocumentCorpus')}}  + '/' + {{$data->idCorpus}},
+        url: {{$manager->getURL('api/reportcorpus/getDataDocumentCorpus')}}  + '/' + {{$data->idCorpus}},
   
         method: 'get'
     });
