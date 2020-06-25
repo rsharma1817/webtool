@@ -3,11 +3,17 @@
 ### Tasks scheduled for this week
 The task for these two weeks are:
 1. to implement the import and export functionalities for the CONLLU and XML types.
+
  a. Import XML ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue)
- b. Export XML ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
- c. Import CONLLU ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
- d. Export CONLLU ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+b. Export XML ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+c. Import CONLLU ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+d. Export CONLLU ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
 2. Understanding the current work done for it and understanding the framework of the Webtool as it was natively built by the mentors. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) 
+
 3. As the work of previous week,further discussions needed to be made on the prototype that was developed for the implementation of Section 1.2. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ### Challenges and solutions
