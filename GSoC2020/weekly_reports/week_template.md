@@ -32,7 +32,9 @@ Remember to use tags! You can add multiple tags to any task.
 ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) = task deferred from one week to the next<br>
 ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue) = needs help from mentors<br>
 ![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) = **blocked** task that needs discussion with mentors<br>
+![stretch](https://img.shields.io/static/v1?label=&message=stretch&color=orange) = stretch goal <br>
 ![important](https://img.shields.io/static/v1?label=&message=important&color=red) = something that needs to be addressed immediately<br>
+
 
 Use [Shields.io](https://shields.io) to creat new tags if needed.
 
