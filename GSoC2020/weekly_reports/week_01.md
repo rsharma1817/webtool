@@ -59,7 +59,7 @@ I am facing some issues with integrating the backend functions with the React fr
 12. Transcription and subtitles synced/aligned and merged into a single text file; ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)    
 13. User review the video and sentences (side by side) for validation;  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)   
 14. Transcriptions and subtitles are organized into sentences and stored according to the Webtool standard;  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)    
-15. Reviewed file is uploaded to the FrameNet Webtool.  
+15. Reviewed file is uploaded to the FrameNet Webtool.  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 
 Remember to use tags! You can add multiple tags to any task.
 
