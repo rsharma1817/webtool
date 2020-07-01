@@ -75,6 +75,8 @@ The application has three sections: the Options section allows you to upload a v
 
 This video demonstrates how the application works based on the pipeline describe above:  
 
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download.gif)
+
 ## Implementation 
 
 The below section describes each step of the preprocessing pipeline in more detail:  
