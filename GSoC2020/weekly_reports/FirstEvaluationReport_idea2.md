@@ -13,13 +13,14 @@ The main motivation for this project is to create a more automated and simplifie
 
 ## Tools and Technologies Used
 
-The following tools and technologies were utilized to create the video preprocessing tool (Charon):
-*React-Native- The video preprocessing tool (Charon) has been created using React Native where the user interacts with the client 
-*Axios- Requests are sent or received by the client through axios to or from PHP server files. 
-*Xampp (Apache Server and MySQL database)- The PHP server files are run on the Apache server of Xampp, that provides cross-platform support. Updates to  the webtool MySQL database was done using Phpmyadmin.  
-*To handle audio and video manipulation, the PHP-FFMPeg and getID3 libraries have been used.   
-*To extract subtitles from the video, a PHP wrapper for the Google Tesseract engine provided by thiagoalessio/Tesseract-OCR was utilized. 
-*For generating audio transcripts from the video files, I used the IBM Watson Speech-to-Text API that was invoked using the Guzzle Http package library. 
+The following tools and technologies were utilized to create the video preprocessing tool (Charon):  
+**React-Native**- The video preprocessing tool (Charon) has been created using React Native where the user interacts with the client  
+**Axios**- Requests are sent or received by the client through axios to or from PHP server files.   
+**Xampp (Apache Server and MySQL database)**- The PHP server files are run on the Apache server of Xampp, that provides cross-platform support. Updates to  the webtool MySQL database was done using Phpmyadmin.  
+**PHP-FFMPeg**- To convert video to audio and change video file formats, the PHP-FFMPeg library was used.   
+**getID3**- This library was used to obtain video file metadata for manipulation.    
+**Google-Tesseract**- To extract subtitles from the video, a PHP wrapper for the Google Tesseract engine provided by thiagoalessio/Tesseract-OCR was utilized.  
+**IBM Watson Speech-to-Text API**- For generating audio transcripts from the video files, I used the IBM Watson Speech-to-Text API that was invoked using the Guzzle Http package library.  
 
 ## Process Flow Diagram 
 
