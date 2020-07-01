@@ -75,7 +75,10 @@ The application has three sections: the Options section allows you to upload a v
 
 This video demonstrates how the application works based on the pipeline describe above:  
 
-![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download.gif)
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download1.gif)
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download2.gif)
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download3.gif)
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download4.gif)
 
 ## Implementation 
 
