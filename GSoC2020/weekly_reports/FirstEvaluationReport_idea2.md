@@ -208,10 +208,12 @@ The tasks specified in the workflow will be completed as follows:
 *June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
 *July 2nd-July 3rd*: Phase 1 evaluation
 
+## Weekly Reports
+These are the weekly reports of my work during the first coding period from June 1- June 30 2020:
 
-## Week 01 - (Jun 01 - Jun 07)
+### Week 01 - (Jun 01 - Jun 07)
 
-### Tasks scheduled for this week (Tasks 1-5)  
+#### Tasks scheduled for this week (Tasks 1-5)  
 1. User import a video file (via direct upload or importing from a url)
 *  layout for the webtool video uploader UI [[go to Figma]](https://www.figma.com/files/project/9936175/Webtool-Video-Uploaded) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 2. File/URL is validated (checking that the URL points to a video file) ![uat-failed](https://img.shields.io/static/v1?label=UAT&message=failed&color=red) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
@@ -219,21 +221,21 @@ The tasks specified in the workflow will be completed as follows:
 4. Check video width/height to make sure they meet a minimum constraint ![uat-passed](https://img.shields.io/static/v1?label=UAT&message=passed&color=success)
 5. Non-duplicate video is uploaded/scraped and stored ![uat-failed](https://img.shields.io/static/v1?label=UAT&message=failed&color=red) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
-### Challenges and solutions
+#### Challenges and solutions
 
 I was facing some problems with implementing the size constraint for the videos. To get the dimensions of the video, I am using the getID3 php file, but that does not support all video formats (e.g. .mkv files are not supported). Moreover, it requires the actual path of the file to be uploaded on the user's computer that can lead to privacy issues. Though it works fine on my computer, this access may not be allowed on a random user's computer. So I need help to find a way to perform this check only after the file is uploaded on the server. Both getID3 and ffmpeg require the user file's path details.  
 
-### Tasks postponed to next week
+#### Tasks postponed to next week
 2. File/URL is validated (checking that the URL points to a video file)
 3. Check the database for duplicates (inform user/drop duplicate file) 
 5. Non-duplicate video is uploaded/scraped and stored 
 
-### Observations
+#### Observations
 In the preprocessing tool, the user can choose to upload a video from his local computer or provide a url. In the first case, various constraints such as duplicacy of files, size constraints as well as availability of files are checked before being uploaded. If the constraints are met, the video file is stored with its SHA1 hash value on the server. In the second case, the validity of the URL is checked based on regexes for Youtube videos. The options of selecting language, corpus and document from the webtool MySQL database (webtool_db) is provided to the user as well. 
 
-## Week 02 - (Jun 08 - Jun 14)  
+### Week 02 - (Jun 08 - Jun 14)  
 
-### Tasks scheduled for this week (Tasks 6, 9 and 10) 
+#### Tasks scheduled for this week (Tasks 6, 9 and 10) 
 2. File/URL is validated (checking that the URL points to a video file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 3. Check the database for duplicates (inform user/drop duplicate file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 5. Non-duplicate video is uploaded/scraped and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
@@ -243,6 +245,10 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 
 9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) 
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+#### Challenges and Solutions
+
+#### Tasks postponed to next week
 
 ### Observations
 I am facing some issues with integrating the backend functions with the React frontend, especially with the modal box rendering (since the formats are different in PHP and React) and MySQL connectivity. I was working on the week 2 tasks, but then had to shift in between to React and change the platform again, therefore, this is causing some delay, but these will be resolved by tomorrow. I can then start working on the other tasks that are scheduled for this week. The React frontend files for the new tool are updated in the Github master branch. 
@@ -263,6 +269,12 @@ I am facing some issues with integrating the backend functions with the React fr
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 11.Subtitles extracted from video with Python-tesseract and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
+#### Challenges and Solutions
+
+#### Tasks postponed to next week
+
+### Observations
+
 ## Week 04 - (Jun 22 - Jul 1)  
 
 ### Tasks scheduled for this week (Tasks 12, 13, 14 and 15) 
@@ -271,6 +283,12 @@ I am facing some issues with integrating the backend functions with the React fr
 13. User review the video and sentences (side by side) for validation;  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)   
 14. Transcriptions and subtitles are organized into sentences and stored according to the Webtool standard;  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)    
 15. Reviewed file is uploaded to the FrameNet Webtool.  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+
+#### Challenges and Solutions
+
+#### Tasks postponed to next week
+
+### Observations
 
 Remember to use tags! You can add multiple tags to any task.
 
@@ -282,5 +300,7 @@ Remember to use tags! You can add multiple tags to any task.
 ![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) = **blocked** task that needs discussion with mentors<br>
 ![important](https://img.shields.io/static/v1?label=&message=important&color=red) = something that needs to be addressed immediately<br>
 
-Use [Shields.io](https://shields.io) to creat new tags if needed.
+Use [Shields.io](https://shields.io) to create new tags if needed.
+
+## Self Assessment 
 
