@@ -67,7 +67,7 @@ The tasks specified in the workflow will be completed as follows:
 
 To describe the functionality of the preprocessing tool, the following flowchart iterates over the next steps and error conditions that are handled while interacting with the application:  
 
-![alt text](https://github.com/FrameNetBrasil/webtool/edit/gsoc2020_2/GSoC2020/weekly_reports/GSoC Flowchart.jpg)
+![alt text](https://github.com/FrameNetBrasil/webtool/edit/gsoc2020_2/GSoC2020/weekly_reports/GSoCFlowchart.jpg)
 
 ## Demonstration of Working Application
 
