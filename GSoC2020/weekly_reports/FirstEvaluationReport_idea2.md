@@ -57,7 +57,7 @@ While all the user have to do is import a video file, what happens under the hoo
 
 To describe the functionality of the preprocessing tool, the following flowchart iterates over the next steps and error conditions that are handled while interacting with the application:  
 
-
+## Demonstration of Working Application
 
 ## Implementation 
 
@@ -240,9 +240,6 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 3. Check the database for duplicates (inform user/drop duplicate file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 5. Non-duplicate video is uploaded/scraped and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored  ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
-
-![important](https://img.shields.io/static/v1?label=&message=important&color=red)<br>*keep in mind that FLAC/44.1KHz/Mono is just an example of the most common file specification for speech-to-text. Check for **real specifications** on the documentation of the platform you chose.*
-
 9. Audio file uploaded to Cloud Storage/Speech API ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) 
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
@@ -250,12 +247,12 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 
 #### Tasks postponed to next week
 
-### Observations
+#### Observations
 I am facing some issues with integrating the backend functions with the React frontend, especially with the modal box rendering (since the formats are different in PHP and React) and MySQL connectivity. I was working on the week 2 tasks, but then had to shift in between to React and change the platform again, therefore, this is causing some delay, but these will be resolved by tomorrow. I can then start working on the other tasks that are scheduled for this week. The React frontend files for the new tool are updated in the Github master branch. 
 
-## Week 03 - (Jun 15 - Jun 22)  
+### Week 03 - (Jun 15 - Jun 22)  
 
-### Tasks scheduled for this week (Tasks 7, 8 and 11) 
+#### Tasks scheduled for this week (Tasks 7, 8 and 11) 
 2. File/URL is validated (checking that the URL points to a video file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 3. Check the database for duplicates (inform user/drop duplicate file) ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 5. Non-duplicate video is uploaded/scraped and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) 
@@ -273,11 +270,11 @@ I am facing some issues with integrating the backend functions with the React fr
 
 #### Tasks postponed to next week
 
-### Observations
+#### Observations
 
-## Week 04 - (Jun 22 - Jul 1)  
+### Week 04 - (Jun 22 - Jul 1)  
 
-### Tasks scheduled for this week (Tasks 12, 13, 14 and 15) 
+#### Tasks scheduled for this week (Tasks 12, 13, 14 and 15) 
 11.Subtitles extracted from video with Python-tesseract and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 12. Transcription and subtitles synced/aligned and merged into a single text file; ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)    
 13. User review the video and sentences (side by side) for validation;  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)   
@@ -288,7 +285,7 @@ I am facing some issues with integrating the backend functions with the React fr
 
 #### Tasks postponed to next week
 
-### Observations
+#### Observations
 
 Remember to use tags! You can add multiple tags to any task.
 
