@@ -13,7 +13,8 @@ The main motivation for this project is to create a more automated and simplifie
 
 ## Tools and Technologies Used
 
-The following tools and technologies were utilized to create the video preprocessing tool (Charon):  
+The following tools and technologies were utilized to create the video preprocessing tool (Charon): 
+
 **React-Native**- The video preprocessing tool (Charon) has been created using React Native where the user interacts with the client  
 **Axios**- Requests are sent or received by the client through axios to or from PHP server files.   
 **Xampp (Apache Server and MySQL database)**- The PHP server files are run on the Apache server of Xampp, that provides cross-platform support. Updates to  the webtool MySQL database was done using Phpmyadmin.  
