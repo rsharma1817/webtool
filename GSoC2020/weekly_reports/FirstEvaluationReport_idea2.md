@@ -53,6 +53,15 @@ While all the user have to do is import a video file, what happens under the hoo
 14. Transcriptions and subtitles are organized into sentences and stored according to the Webtool standard;
 15. Reviewed file is uploaded to the FrameNet Webtool.
 
+#### Timeline
+
+The tasks specified in the workflow will be completed as follows:  
+*June 1st-June 7th*: Tasks 1 to 5  
+*June 8th-June 15th*: Tasks 6, 9 and 10 to generate the audio transcriptions  
+*June 15th-June 22nd*: Tasks 7, 8 and 11 to generate video subtitles  
+*June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
+*July 2nd-July 3rd*: Phase 1 evaluation
+
 ## Pipeline Architecture/ Process Flow Diagram 
 
 To describe the functionality of the preprocessing tool, the following flowchart iterates over the next steps and error conditions that are handled while interacting with the application:  
@@ -198,15 +207,6 @@ The video will not be segmented, however a provision must be made to locate the 
 
 Once we have all of the above, we want to export those items to the webtool. For this purpose, the pipeline should provide different output formats, such as XML, CSV or JSON. The JSON format will be used for the second part of the project, i.e. object extraction.
 
-
-#### Timeline
-
-The tasks specified in the workflow will be completed as follows:  
-*June 1st-June 7th*: Tasks 1 to 5  
-*June 8th-June 15th*: Tasks 6, 9 and 10 to generate the audio transcriptions  
-*June 15th-June 22nd*: Tasks 7, 8 and 11 to generate video subtitles  
-*June 22nd-July 1st*: Tasks 12 to 15, for validation, and integration into the webtool   
-*July 2nd-July 3rd*: Phase 1 evaluation
 
 ## Weekly Reports
 These are the weekly reports of my work during the first coding period from June 1- June 30 2020:
