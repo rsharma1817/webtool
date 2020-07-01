@@ -1,3 +1,34 @@
+# GSoC 2020 First Evaluation Report 
+### Project: New Frame-Based Image and Video Annotation Pipeline for the FrameNet Brasil Web Annotation Tool
+
+Organization: FrameNet Brasil (UFJF)
+Student: Prishita Ray  
+Mentors: Tiago Timponi Torrent, Ely Edison Matos, Marcelo Viridiano, Fred Belcavello  
+
+####Link to project repository: https://github.com/FrameNetBrasil/charon  
+
+## Project Summary
+
+The main motivation for this project is to create a more automated and simplified video annotation pipeline using both image and textual data for the FrameNet webtool. The existing version relies on manual annotation which is a highly tedious task. In order to annotate multimodal corpora, individual frames or ideas depicted within the video need to be extracted using corresponding audio transcriptions and identified objects. This is important to obtain fine grained semantic representations of events and entities. Moreover, the video may be presented in multiple languages that need to be detected and translated to Portuguese. Also individual objects within a video need to be tracked and identified to generate corresponding textual frame elements that can speed up the annotation process.  
+
+## Tools and Technologies Used
+
+The following tools and technologies were utilized to create the video preprocessing tool (Charon):
+*React-Native- The video preprocessing tool (Charon) has been created using React Native where the user interacts with the client 
+*Axios- Requests are sent or received by the client through axios to or from PHP server files. 
+*Xampp (Apache Server and MySQL database)- The PHP server files are run on the Apache server of Xampp, that provides cross-platform support. Updates to  the webtool MySQL database was done using Phpmyadmin.
+*To handle audio and video manipulation, the PHP-FFMPeg and getID3 libraries have been used. 
+*To extract subtitles from the video, a PHP wrapper for the Google Tesseract engine provided by thiagoalessio/Tesseract-OCR was utilized. 
+*For generating audio transcripts from the video files, I used the IBM Watson Speech-to-Text API that was invoked using the Guzzle Http package library. 
+
+## Process Flow Diagram 
+
+To describe the functionality of the preprocessing tool, the following flowchart iterates over the next steps and error conditions that are handled while interacting with the application:  
+
+
+
+
+
 ## Week 01 - (Jun 01 - Jun 07)
 
 ### Tasks scheduled for this week (Tasks 1-5)  
