@@ -256,8 +256,15 @@ In the preprocessing tool, the user can choose to upload a video from his local 
 10. Transcription returns from Cloud Speech API and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
 #### Challenges and Solutions
+In this week, there was some delay due to a change in the frontend platform. The tasks were completed in the subsequent weeks.  
 
 #### Tasks postponed to next week
+2. File/URL is validated (checking that the URL points to a video file) 
+3. Check the database for duplicates (inform user/drop duplicate file) 
+5. Non-duplicate video is uploaded/scraped and stored 
+6. Audio track extracted and converted (FLAC / 44,100 Hz / Mono) and stored  
+9. Audio file uploaded to Cloud Storage/Speech API 
+10. Transcription returns from Cloud Speech API and stored 
 
 #### Observations
 I am facing some issues with integrating the backend functions with the React frontend, especially with the modal box rendering (since the formats are different in PHP and React) and MySQL connectivity. I was working on the week 2 tasks, but then had to shift in between to React and change the platform again, therefore, this is causing some delay, but these will be resolved by tomorrow. I can then start working on the other tasks that are scheduled for this week. The React frontend files for the new tool are updated in the Github master branch. 
@@ -276,10 +283,13 @@ I am facing some issues with integrating the backend functions with the React fr
 11.Subtitles extracted from video with Python-tesseract and stored ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 
 #### Challenges and Solutions
+In some cases, ffmpeg is not able to convert video file formats to .mp4, such as in the case of .avi files. So the user would have to be notified to upload files of only supported formats, such as .mp4, .mkv, etc.  
 
 #### Tasks postponed to next week
+11.Subtitles extracted from video with Python-tesseract and stored  
 
 #### Observations
+IBM Cloud Speech-to-Text API is taking a very long time to generate the audio transcripts. Timestamps returned are in mmm:ss format. not hh:mm:ss format. 
 
 ### Week 04 - (Jun 22 - Jul 1)  
 
@@ -291,10 +301,14 @@ I am facing some issues with integrating the backend functions with the React fr
 15. Reviewed file is uploaded to the FrameNet Webtool.  ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 
 #### Challenges and Solutions
+Tesseract often misidentifies normal alphabets as special symbols (such as f is mistaken for the symbol { ) which creates problems during alignment. Moreover, adjusting the frame rate per second (fps) is difficult in some cases as different speeches have different rates, thus extracting the right number of frames so as to extract unique subtitles in each frame is important. After a lot of trial and error with multiple speech videos having subtitles, I found that the average fps of 1/5 works the best in most cases. 
 
 #### Tasks postponed to next week
+The tasks scheduled for this month are completed.
 
 #### Observations
+There are some cases where insertion of new words is not working properly when trying to align transcripts with subtitles. Also the video needs to be segmented based on the timestamps from the transcripts, which I was facing some difficulty in doing, as IBM Watson generates timestamps in terms of minutes and seconds instead of the required hh:mm:ss format. 
+
 
 Remember to use tags! You can add multiple tags to any task.
 
@@ -309,4 +323,4 @@ Remember to use tags! You can add multiple tags to any task.
 Use [Shields.io](https://shields.io) to create new tags if needed.
 
 ## Self Assessment 
-
+With the completion of the first month of my participation in GSoC, there are several things that I learnt while working on my project. Initially, I was not so confident that I would be able to complete so many tasks in the given time, as I haven't worked in depth with web development before. It seemed difficult at first, and there were times when I felt demotivated, not just because I got stuck while working but also because of the surrounding pressure in such tough times, that made it harder for me to concentrate. Around the end of the second week, I and my mentors decided to shift to React as the frontend platform, instead of using PHP that I was originally working with, so I had to restart on the frontend work once again, that led to some delay in my week2 tasks, which I had to postpone and complete along with the week 3 tasks. Thus, around week 3 I was facing a lot of time pressure, to complete the tasks, and there were many issues with the change in format, as I could not connect the MySQL webtool database with the application, etc. But there is one thing that has significantly helped me complete the work apart from the constant support and guidance from my mentors, who were ready to cater to my doubts, and that is belief in myself, a spirit of not-giving up no matter how big a problem is, and overall patience, to learn anything new. I realized that it is okay to fail any number of times, because that means that we are making mistakes and learning to do things the right way. Moreover, I gained knowledge in a wide variety of areas, right from developing a website, working with popular tools such as Tesseract and IBM Watson Speech-to-Text, understanding their shortcomings and exploiting the outputs along with some previous knowledge on NLP to align transcripts with subtitles based on Levenshtein distance, to perform insertion, replacement, deletion operations and video processing with FFMpeg. While working, i realized that Videos are a relatively complex type of data to extract information from, and therefore handling them accurately can be crucial to obtaining the right kind of output. This experience has really been great and I look forward to working on the upcoming tasks with the same persistence and spirit. 
