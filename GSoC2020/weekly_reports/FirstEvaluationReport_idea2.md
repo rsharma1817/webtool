@@ -6,6 +6,7 @@ Student: Prishita Ray
 Mentors: Tiago Timponi Torrent, Ely Edison Matos, Marcelo Viridiano, Fred Belcavello  
 
 **Link to project repository**: https://github.com/FrameNetBrasil/charon  
+*Please follow the installation steps provided in the README.md file to run the application on your computer*
 
 ## Project Summary
 
