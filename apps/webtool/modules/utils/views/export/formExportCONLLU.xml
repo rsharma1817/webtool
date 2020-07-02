@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<view>
+    <mforndialog id="" title="" close="">
+        <fields>
+            <mvcontainer>
+                <mspan></mspan>
+            </mvcontainer>
+        </fields>
+    </mforndialog>
+</view>

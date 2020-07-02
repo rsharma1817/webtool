@@ -286,23 +286,33 @@ class Document extends map\DocumentMap
                 throw new \EModelException('Failed to open XML file.');
             }
             //mdump($array);
+            mdump('I was here 1');
             $text = [];
-            foreach ($array['p'] as $p => $par) {
+            foreach ($array as $p => $par) {
+                mdump('I was here 2');
                 $sentences = [];
-                foreach ($par as $s => $l) {
-                    if (is_array($l)) {
-                        foreach ($l as $x => $l1) {
-                            //mdump($p . ' - ' . $x . ' - ' . $l1);
-                            $sentences[] = $l1;
+                if($par == "subCorpus") {
+                    foreach ($par as $s => $l) {
+                        mdump('I was here 3');
+                        if (is_array($l)) {
+                            foreach ($l as $x => $l1) {
+
+                                mdump($p . ' - ' . $x . ' - ' . $l1);
+                                mdump('I was here 4');
+                                $sentences[] = $l1;
+
+                            }
+                        } else {
+                            //mdump($p . ' - ' . '0' . ' - ' . $l);
+                            mdump('I was here 5');
+                            //$sentences[] = $l;
                         }
-                    } else {
-                        //mdump($p . ' - ' . '0' . ' - ' . $l);
-                        $sentences[] = $l;
                     }
+                    $text[] = $sentences;
+                    mdump($sentences);
                 }
-                $text[] = $sentences;
             }
-            mdump($text);
+
 
             $this->createSubCorpusFullText($data);
             foreach ($text as $p => $sentences) {
