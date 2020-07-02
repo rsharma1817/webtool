@@ -291,7 +291,6 @@ class Document extends map\DocumentMap
             foreach ($array as $p => $par) {
                 mdump('I was here 2');
                 $sentences = [];
-                if($par == "subCorpus") {
                     foreach ($par as $s => $l) {
                         mdump('I was here 3');
                         if (is_array($l)) {
@@ -299,18 +298,19 @@ class Document extends map\DocumentMap
 
                                 mdump($p . ' - ' . $x . ' - ' . $l1);
                                 mdump('I was here 4');
+                                if($x=="sentence")
                                 $sentences[] = $l1;
 
                             }
                         } else {
                             //mdump($p . ' - ' . '0' . ' - ' . $l);
                             mdump('I was here 5');
-                            //$sentences[] = $l;
+                            if($s=="sentence")
+                            $sentences[] = $l;
                         }
                     }
                     $text[] = $sentences;
                     mdump($sentences);
-                }
             }
 
 

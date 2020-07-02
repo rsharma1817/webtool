@@ -107,7 +107,11 @@ class ExportController extends MController
 
     public function formExportCONLLU(){
         try {
-
+            $this->data->idCorpus = 1;
+            $corpus = new fnbr\models\Corpus($this->data->idCorpus);
+            $user = fnbr\models\Base::getCurrentUser();
+            $this->data->corpusName = $corpus->getName();
+            $this->data->email = $user->getEmail();
             $this->data->action='@utils/exportCONLL';
             $this->render();
         } catch (EMException $e) {
