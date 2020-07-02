@@ -1,9 +1,20 @@
 ## Week 02-03 - (Jun 08 - Jun 21)
 
 ### Tasks scheduled for this week
-The task for these two weeks is to implement the import and export functionalities for the CONLLU and XML data types. This work starts mainly by understanding the current work done for it and understanding the 
-framework of the Webtool as it was natively built by the mentors.  As the work of previous week,further discussions needed to be made on the prototype that was developed  
-for the implementation of Section 1.2. 
+The task for these two weeks are:
+1. to implement the import and export functionalities for the CONLLU and XML types.
+
+ a. Import XML ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue)
+
+b. Export XML ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+c. Import CONLLU ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+d. Export CONLLU ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+
+2. Understanding the current work done for it and understanding the framework of the Webtool as it was natively built by the mentors. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) 
+
+3. As the work of previous week,further discussions needed to be made on the prototype that was developed for the implementation of Section 1.2. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ### Challenges and solutions
  
@@ -19,8 +30,10 @@ Some parts of the implementaion of XML import is done.
 
 ### Tasks postponed to next week
 
-CONllU import and export is remaining along with the fixing of the existing code for export of XML.
-Besides some testing is needed for the parts implemented. 
+  Export XML
+  Import CONLLU
+  Export CONLLU
+  Besides testing is needed for the parts implemented. 
 
 ### Observations
 
