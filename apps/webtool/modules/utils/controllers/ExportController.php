@@ -121,11 +121,19 @@ class ExportController extends MController
 
     public function exportCONLL(){
         try {
-            $idDocument = $this->data->id;
-            $document = new fnbr\models\Document($idDocument);
+            $documents = \Maestro\Utils\Mutil::parseFiles('documents');
             $service = Manager::getAppService('data');
-            $conll = $service->exportDocumentToCONLL($document);
-            $fileName = $document->getName() . '.conll.txt';
+            if(count($documents))
+            {
+                $conll = $service->exportDocumentToCONLL($documents[0]);
+                $fileName = $documents->getName() . '.conll.txt';
+                $mfile = MFile::file($conll, false, $fileName);
+                $this->renderFile($mfile);
+            }else{
+                $this->renderPrompt('information',OK);
+            }
+
+            $fileName = $documents->getName() . '.conll.txt';
             $mfile = MFile::file($conll, false, $fileName);
             $this->renderFile($mfile);
         } catch (EMException $e) {
@@ -162,7 +170,7 @@ class ExportController extends MController
             if(count($documents))
             {
                 $service = Manager::getAppService('data');
-                $docs=$service->exportCorpusToXML($documents[0]);
+                $docs=$service->exportCorpusToXML($documents);
                 $this->renderFile($docs);
             }else{
                 $this->renderPrompt('information',OK);

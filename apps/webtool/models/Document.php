@@ -298,39 +298,71 @@ class Document extends map\DocumentMap
 
                                 mdump($p . ' - ' . $x . ' - ' . $l1);
                                 mdump('I was here 4');
-                                if($x=="sentence")
+                                if(($x=="sentence")&&($p != "valences")&&($p != "header"))
                                 $sentences[] = $l1;
 
                             }
                         } else {
                             //mdump($p . ' - ' . '0' . ' - ' . $l);
                             mdump('I was here 5');
-                            if($s=="sentence")
+                            if(($s=="sentence")&&($p != "valences")&&($p != "header"))
                             $sentences[] = $l;
                         }
                     }
                     $text[] = $sentences;
-                    mdump($sentences);
+                    //mdump($sentences);
             }
-
+            //mdump($text);
 
             $this->createSubCorpusFullText($data);
             foreach ($text as $p => $sentences) {
                 $paragraphNum = $p + 1;
                 $paragraph = $this->createParagraph($paragraphNum);
                 $sentenceNum = 0;
-                foreach ($sentences as $s => $sentence) {
-                    $row = str_replace("\t", " ", $sentence);
-                    $row = str_replace("\n", " ", $row);
-                    $row = trim($row);
-                    if ($row == '') {
-                        continue;
+                foreach ($sentences as $k => $inner) {
+                    foreach ($inner as $s => $sentence) {
+                        mdump($p . '-' . $inner . '-' . $sentence . '-out');
+                        if(is_array($sentence))
+                            {
+                                foreach ($sentence as $a=>$b)
+                                    if($a=="text"){
+                                        mdump($b);
+                                        $row = str_replace("\t", " ", $b);
+                                        $row = str_replace("\n", " ", $row);
+                                        mdump($inner . '-' . $sentence . '-' . $b);
+                                        $row = trim($row);
+                                        if ($row == '') {
+                                            continue;
+                                        }
+                                        $sentenceNum = $sentenceNum + 1;
+                                        mdump($paragraphNum . ' - ' . $sentenceNum . ' - ' . $text);
+                                        $sentence = $this->createSentence($paragraph, $sentenceNum, $row, $idLanguage);
+                                        $data->idSentence = $sentence->getId();
+                                        $this->createAnnotationFullText($data);
+
+                                    }
+
+                            }else {
+                            continue;
+
+                            }
+                        if ($s == "text") {
+                            mdump($sentence);
+                            $row = str_replace("\t", " ", $sentence);
+                            $row = str_replace("\n", " ", $row);
+                            mdump($p . '-' . $inner . '-' . $sentence);
+                            $row = trim($row);
+                            if ($row == '') {
+                                continue;
+                            }
+                            $sentenceNum = $sentenceNum + 1;
+                            mdump($paragraphNum . ' - ' . $sentenceNum . ' - ' . $text);
+                            $sentence = $this->createSentence($paragraph, $sentenceNum, $row, $idLanguage);
+                            $data->idSentence = $sentence->getId();
+                            $this->createAnnotationFullText($data);
+                        }
+
                     }
-                    $sentenceNum = $sentenceNum + 1;
-                    mdump($paragraphNum . ' - ' . $sentenceNum . ' - ' . $text);
-                    $sentence = $this->createSentence($paragraph, $sentenceNum, $row, $idLanguage);
-                    $data->idSentence = $sentence->getId();
-                    $this->createAnnotationFullText($data);
                 }
             }
 
