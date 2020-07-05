@@ -343,23 +343,21 @@ class Document extends map\DocumentMap
                                     }
 
                             }else {
-                            continue;
-
+                                 if ($s == "text") {
+                                mdump($sentence);
+                                $row = str_replace("\t", " ", $sentence);
+                                $row = str_replace("\n", " ", $row);
+                                mdump($p . '-' . $inner . '-' . $sentence);
+                                $row = trim($row);
+                                if ($row == '') {
+                                    continue;
+                                }
+                                $sentenceNum = $sentenceNum + 1;
+                                mdump($paragraphNum . ' - ' . $sentenceNum . ' - ' . $text);
+                                $sentence = $this->createSentence($paragraph, $sentenceNum, $row, $idLanguage);
+                                $data->idSentence = $sentence->getId();
+                                $this->createAnnotationFullText($data);
                             }
-                        if ($s == "text") {
-                            mdump($sentence);
-                            $row = str_replace("\t", " ", $sentence);
-                            $row = str_replace("\n", " ", $row);
-                            mdump($p . '-' . $inner . '-' . $sentence);
-                            $row = trim($row);
-                            if ($row == '') {
-                                continue;
-                            }
-                            $sentenceNum = $sentenceNum + 1;
-                            mdump($paragraphNum . ' - ' . $sentenceNum . ' - ' . $text);
-                            $sentence = $this->createSentence($paragraph, $sentenceNum, $row, $idLanguage);
-                            $data->idSentence = $sentence->getId();
-                            $this->createAnnotationFullText($data);
                         }
 
                     }
