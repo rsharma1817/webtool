@@ -5,7 +5,7 @@
 1. The preprocessed video from the previous pipeline is imported into the webtool from the server.
 2. To annotate a sentence, the start and end timestamps of that sentence are chosen.
 3. Run the video with each frame having a time gap of 1 second, using VATIC.js.
-4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. In case COCO does not perform well, a new model will be trained using the ImageNet dataset, and in addition, changes to the code for obtaining the actual pixel coordinates will also be made.
+4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. In case COCO does not perform well, a new model will be trained using the Open Images dataset (v6), and in addition, changes to the code for obtaining the actual pixel coordinates will also be made.
 5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list.
 
 
