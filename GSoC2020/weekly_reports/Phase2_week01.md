@@ -6,7 +6,7 @@
 2. To annotate a sentence, the start and end timestamps of that sentence are chosen.
 3. Run the video with each frame having a time gap of 1 second, using VATIC.js. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 4. Objects in a frame will be detected automatically using a trained object detection model, which will also create bounding boxes around them. Changes to the code for obtaining the actual pixel coordinates of bounding boxes will also be made.
-5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list or csv file ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
 ### Challenges and solutions
