@@ -11,7 +11,7 @@
 
 ### Challenges and solutions
 
-The model training is taking some time due to the complexity of the network and dataset size, which I tried to perform on my local machine, and am now running on Google Colab. The results will be ready for testing within the next few days. 
+The model training is taking some time due to the complexity of the network and dataset size, which I tried to perform on my local machine, and am now running on a Kaggle kernel. The results will be ready for testing within the next few days. 
 
 
 ### Tasks completed
@@ -32,7 +32,7 @@ The model training is taking some time due to the complexity of the network and 
 
 ### Tasks scheduled for this week
 
-2. To annotate a sentence, the start and end timestamps of that sentence are chosen. ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+2. To annotate a sentence, the start and end timestamps of that sentence are chosen. ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 4. Objects in a frame will be detected automatically using a trained object detection model, which will also create bounding boxes around them. Changes to the code for obtaining the actual pixel coordinates of bounding boxes will also be made. ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 6. For the following 5 frames, the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm will track these objects by interpolating the current coordinates of the detected objects.
 7. The 5 frame constraint is kept for each detected object that is to be tracked, to ensure that it is present in the video for at least five seconds, otherwise tracking it is not useful and won't help in annotation. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
