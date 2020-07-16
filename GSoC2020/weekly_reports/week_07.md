@@ -4,7 +4,7 @@
 - Create word alignments across parallel sentences in the Global FrameNet using the `fast_align` library (see Chris Dyer, Victor Chahuneau, and Noah A. Smith. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proc. of NAACL.) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Updated `globalfn` library with more comprehensive documentation (such as the output example) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Updated the `Annotation` class in `globalfn` library with tokenized text, LUs, frames, FEs, which make word-to-word annotation transfer simpler ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-- Created the error.log file that shows the tokenized annotation errors due to annotation errors existing in the webtool database ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Created the [error.log](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/globalfn/_extractions/error.log) file that shows the tokenized annotation errors due to annotation errors existing in the webtool database ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
 
