@@ -15,6 +15,3 @@ def full_text(lang):
     ids, sents = pickle.load(open(pickled_file, 'rb'))
     assert len(ids) == len(sents)
     return list(zip(ids, sents))
-
-
-print(full_text('en'))

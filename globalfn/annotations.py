@@ -24,3 +24,7 @@ def annotation(sent_id):
     res = all_annotations(lang)
     assert sent_id in res
     return res[sent_id]
+
+def annotation_annoID(annoID):
+    # TODO: retrieve annotation using annoID
+    ...
