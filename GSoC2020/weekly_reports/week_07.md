@@ -1,7 +1,7 @@
 ## Week 07 - (Jul 13 - Jul 19)
 
 ### Tasks scheduled for this week
-- Create word alignments across parallel sentences in the Global FrameNet using the `fast_align` library (see Chris Dyer, Victor Chahuneau, and Noah A. Smith. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proc. of NAACL.)
+- Create word alignments across parallel sentences in the Global FrameNet using the `fast_align` library (see Chris Dyer, Victor Chahuneau, and Noah A. Smith. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proc. of NAACL.) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
 
