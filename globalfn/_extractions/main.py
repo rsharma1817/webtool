@@ -65,7 +65,7 @@ class Annotation:
         try:
             assert count >= len(self.lu_idx)
         except:
-            print("Problems with Annotations of LUs on WebTool")
+            print("Problems with Tokenized Annotations of LUs on WebTool")
             print(self)
             print(count, len(self.lu_idx))
 
@@ -82,9 +82,8 @@ class Annotation:
         try:
             assert count >= len(self.fe_idx)
         except:
-            print("Problems with Annotations of FEs on WebTool")
+            print("Problems with Tokenized Annotations of FEs on WebTool")
             print(self)
-            print(count, len(self.fe_idx))
 
 
 def get_annot_helper(e):
