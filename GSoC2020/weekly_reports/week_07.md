@@ -1,16 +1,21 @@
 ## Week 07 - (Jul 13 - Jul 19)
 
 ### Tasks scheduled for this week
-- Create word alignments across parallel sentences in the Global FrameNet using the `fast_align` library (see Chris Dyer, Victor Chahuneau, and Noah A. Smith. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proc. of NAACL.) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Updated `globalfn` library with more comprehensive documentation (such as the output example) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Updated the `Annotation` class in `globalfn` library with tokenized text, LUs, frames, FEs, which make word-to-word annotation transfer simpler ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Created the [error.log](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/globalfn/_extractions/error.log) file that shows the tokenized annotation errors due to annotation errors existing in the webtool database ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-
+---
+- Create word alignments across parallel sentences in the Global FrameNet using the `fast_align` library (see Chris Dyer, Victor Chahuneau, and Noah A. Smith. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proc. of NAACL.) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Transfer frame elements based on the word alignments from a source sentence to a target sentence. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Evaluate the frame elements labeling using metrics such as the hamming loss and its break-down, exact match ratio, and the distribution of the Matching Number of FEs
 
 
 ### Challenges and solutions
+#### Choice of Evaluation Metric
 
-...
+Microaverage and macroaverage of F1 scores are not really feasible for this multilabel tasks of frame elements because the frame element labels are too granular: we have to compute the precision and recall for each frame element label under each frame (i.e., the frame-frame element pair). This leads to many classes having at most 1 data points.
+
+**Solution**: Calculate the hard, soft, total hamming loss, and the exact matching ratio. 
 
 
 ### Tasks completed
