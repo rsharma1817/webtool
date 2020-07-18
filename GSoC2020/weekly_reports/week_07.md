@@ -46,13 +46,14 @@ Here are the constituency parsing models I've attempted so far:
 
 
 ### Tasks completed
-
-....
+1. Restructure the `globalfn` library 
+    - Include tokenized representation of sentence, LUs, frames, and FEs in the `Annotation` class for easier annotation transfer when we work with tokenized text.
+    - Better documentation.
+2. Baseline: word-to-word FE transfer
+3. Modified baseline: Constituents-to-word FE transfer
 
 ### Tasks postponed to next week
-
-...
-...
+Meeting with Mentors on July 20, 2020.
 
 ### Observations
 
