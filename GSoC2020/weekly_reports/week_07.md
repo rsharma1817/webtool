@@ -10,10 +10,6 @@
 - Transfer frame elements based on the constituency-to-word alignment from English source sentences to target sentences. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Evaluate the frame elements labeling using metrics such as the hamming loss and its break-down, exact match ratio, and the distribution of the Matching Number of FEs ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
----
-Open the following issues in the open-source libraries: ![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange)
-- AllenNLP Constituency Parsing: https://github.com/allenai/allennlp/issues/4493
-- Berkeley Neural Parser for Parsing German sentences: https://github.com/nikitakit/self-attentive-parser/issues/64
 
 ### Challenges and solutions
 #### 1. Choice of Evaluation Metrics
@@ -34,7 +30,6 @@ Here are the constituency parsing models I've attempted so far:
     - On the [repo](https://github.com/opener-project/constituent-parser), it is unclear how the readily available KAF file is generated for constituency parsing. Particularly, the authors did not mention how to generate the text-layer fragment of a KAF file from a sentence. See issue: https://github.com/opener-project/VU-kaf-parser/issues/1 
 - [LXParser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html) (based on LXTokenizer and Stanford Parser) for parsing Portuguese sentences
     - I ran into the error of not able to execute the binary file when I followed the instructions on https://github.com/cgl/portuguese-nlp/blob/master/docs/parse.md. See issue: https://github.com/cgl/portuguese-nlp/issues/3
-
 - [FreeLing]
 
 **Solution**:
