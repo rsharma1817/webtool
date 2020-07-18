@@ -23,14 +23,23 @@ Here are the constituency parsing models I've attempted so far:
 - [Berkeley Neural Parser](https://github.com/nikitakit/self-attentive-parser):
     - Parsing a single German sentence requires more than 12GB Nvidia T4 GPU RAM. See issue: https://github.com/nikitakit/self-attentive-parser/issues/64
     - The language support does not include Portuguese.
+
 - [AllenNLP](https://github.com/allenai/allennlp)
     - Only supports the constituency parsing of English sentences. See issue: https://github.com/allenai/allennlp/issues/4493
-- [OpeNER](http://opener.olery.com/constituent-parser) for parsing German sentences
-    - Web services are not available for verifying the usage.
+
+- [OpeNER](http://opener.olery.com/
+    - Intended for parsing German sentences.
+    - [Web services]((http://opener.olery.com/constituent-parser) are not available for verifying the parser.
     - On the [repo](https://github.com/opener-project/constituent-parser), it is unclear how the readily available KAF file is generated for constituency parsing. Particularly, the authors did not mention how to generate the text-layer fragment of a KAF file from a sentence. See issue: https://github.com/opener-project/VU-kaf-parser/issues/1 
-- [LXParser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html) (based on LXTokenizer and Stanford Parser) for parsing Portuguese sentences
+    
+
+- [LXParser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html) (based on LXTokenizer and Stanford Parser)
     - I ran into the error of not able to execute the binary file when I followed the instructions on https://github.com/cgl/portuguese-nlp/blob/master/docs/parse.md. See issue: https://github.com/cgl/portuguese-nlp/issues/3
-- [FreeLing]
+    - Intended for parsing Portuguese sentences
+    
+- [Stanza](https://stanfordnlp.github.io/stanza/corenlp_client.html) (Python library that allows access to the Java toolkit, Stanford CoreNLP)
+    - Intended for parsing German sentences
+    - I am able to create the constituency tree for English but not German sentences (even after downloaded the [German model](https://nlp.stanford.edu/software/lex-parser.html#Download) for the Stanford Statistical parser). See issue: https://github.com/stanfordnlp/stanza/issues/384
 
 **Solution**:
 
