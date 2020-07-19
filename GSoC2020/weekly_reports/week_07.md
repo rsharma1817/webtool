@@ -42,7 +42,8 @@ Here are the constituency parsing models I've attempted so far:
     - Intended for parsing German sentences
     - I am able to create the constituency tree for English but not German sentences (even after downloaded the [German model](https://nlp.stanford.edu/software/lex-parser.html#Download) for the Stanford Statistical parser). See issue: https://github.com/stanfordnlp/stanza/issues/384
 
-**Solution**:
+**Solution**: Constituent-to-word FE transfer.
+
 
 
 ### Tasks completed
@@ -50,14 +51,15 @@ Here are the constituency parsing models I've attempted so far:
     - Include tokenized representation of sentence, LUs, frames, and FEs in the `Annotation` class for easier annotation transfer when we work with tokenized text.
     - Better documentation.
 2. Baseline: word-to-word FE transfer
-3. Modified baseline: Constituents-to-word FE transfer
+3. Proposed modification: Constituent-to-word FE transfer
+4. Evaluation of annotation transfer of FEs
 
 ### Tasks postponed to next week
 Meeting with Mentors on July 20, 2020.
 
-### Observations
+### Results/Observations
 
-...
+
 ---
 Remember to use tags! You can add multiple tags to any task.
 
