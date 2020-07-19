@@ -52,14 +52,14 @@ Here are the constituency parsing models I've attempted so far, and I am finally
 1. Restructure the `globalfn` library 
     - Include tokenized representation of sentence, LUs, frames, and FEs in the `Annotation` class for easier annotation transfer when we work with tokenized text.
     - Better documentation.
-2. Baseline: word-to-word FE transfer
-3. Proposed modification: Constituent-to-word FE transfer
-4. Constituent-to-constituent FE transfer.
+2. Baseline: word-to-word FE transfer ![completed](https://img.shields.io/static/v1?label=EN-DE&message=completed&color=green) ![completed](https://img.shields.io/static/v1?label=EN-PT&message=completed&color=green) ![completed](https://img.shields.io/static/v1?label=PT-EN&message=completed&color=green) ![completed](https://img.shields.io/static/v1?label=DE-EN&message=completed&color=green)
+3. Proposed modification: Constituent-to-word FE transfer ![completed](https://img.shields.io/static/v1?label=EN-DE&message=completed&color=green) ![completed](https://img.shields.io/static/v1?label=EN-PT&message=completed&color=green)
+4. Constituent-to-constituent FE transfer. ![completed](https://img.shields.io/static/v1?label=EN-DE&message=completed&color=green)
 5. Evaluation of annotation transfer of FEs
 
 ## Tasks for next week
 - Meeting with Mentors on July 20, 2020.
-- Discuss the annotation transfer result.
+- Discuss the annotation transfer findings and result.
 - Transition to the phase of using Neural Networks for annotation transfer.
 
 
@@ -92,6 +92,12 @@ Here are the constituency parsing models I've attempted so far, and I am finally
 2. EN to PT
 
     ![Result en2pt](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/c2w_en2pt.png)
+
+#### Constituent-to-Constituent Annotation Transfer of FE
+EN to DE
+    
+![Result en2de](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/c2c_en2de.png)
+    
 
 
 ## Discussion
