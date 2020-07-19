@@ -7,7 +7,8 @@
 ---
 - Create word alignments across parallel sentences in the Global FrameNet using the `fast_align` library (see Chris Dyer, Victor Chahuneau, and Noah A. Smith. (2013). A Simple, Fast, and Effective Reparameterization of IBM Model 2. In Proc. of NAACL.) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Transfer frame elements based on the word alignments from a source sentence to a target sentence. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-- Transfer frame elements based on the constituency-to-word alignment from English source sentences to target sentences. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Transfer frame elements based on the constituent-to-word alignment from English source sentences to target sentences. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Transfer frame elements based on the constituent-to-constituent alignment from English source sentences to German target sentences. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Evaluate the frame elements labeling using metrics such as the hamming loss and its break-down, exact match ratio, and the distribution of the Matching Number of FEs ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
@@ -19,8 +20,9 @@ Microaverage and macroaverage of F1 scores are not really feasible for this mult
 **Solution**: Calculate the hard, soft, total hamming loss, and the exact matching ratio. 
 
 #### 2. Constituents-to-constituents Alignment
-Here are the constituency parsing models I've attempted so far:
+Here are the constituency parsing models I've attempted so far, and I am finally able to parse German sentences (still not Portuguese sentences).
 - [Berkeley Neural Parser](https://github.com/nikitakit/self-attentive-parser):
+    - Successfully parses English sentences with a SoTA neural parser. ![completed](https://img.shields.io/static/v1?label=EN&message=completed&color=green)
     - Parsing a single German sentence requires more than 12GB Nvidia T4 GPU RAM. See issue: https://github.com/nikitakit/self-attentive-parser/issues/64
     - The language support does not include Portuguese.
 
@@ -39,10 +41,11 @@ Here are the constituency parsing models I've attempted so far:
     
 
 - [Stanza](https://stanfordnlp.github.io/stanza/corenlp_client.html) (Python library that allows access to the Java toolkit, Stanford CoreNLP)
-    - Intended for parsing German sentences
-    - I am able to create the constituency tree for English but not German sentences (even after downloaded the [German model](https://nlp.stanford.edu/software/lex-parser.html#Download) for the Stanford Statistical parser). See issue: https://github.com/stanfordnlp/stanza/issues/384
+    - See resolved issue for parsing German sentences for getting constituents: https://github.com/stanfordnlp/stanza/issues/384
+    - Intended for parsing German sentences. ![completed](https://img.shields.io/static/v1?label=DE&message=completed&color=green)
+    
 
-**Solution**: Constituent-to-word FE transfer.
+**Solution**: Evaluate constituent-to-word FE transfer 
 
 
 ## Tasks completed
@@ -51,10 +54,14 @@ Here are the constituency parsing models I've attempted so far:
     - Better documentation.
 2. Baseline: word-to-word FE transfer
 3. Proposed modification: Constituent-to-word FE transfer
-4. Evaluation of annotation transfer of FEs
+4. Constituent-to-constituent FE transfer.
+5. Evaluation of annotation transfer of FEs
 
-## Tasks postponed to next week
-Meeting with Mentors on July 20, 2020.
+## Tasks for next week
+- Meeting with Mentors on July 20, 2020.
+- Discuss the annotation transfer result.
+- Transition to the phase of using Neural Networks for annotation transfer.
+
 
 ## Results
 #### Word Alignment
