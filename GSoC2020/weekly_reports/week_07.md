@@ -88,7 +88,7 @@ Meeting with Mentors on July 20, 2020.
 
 
 ## Discussion
-1. Most of the sentences are cross-lingually aligned in the one-to-one form, as indicated by the high fraction of one-to-one sentence alignment.
+...
 
 ---
 Remember to use tags! You can add multiple tags to any task.
