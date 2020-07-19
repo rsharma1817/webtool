@@ -1,6 +1,6 @@
-## Week 07 - (Jul 13 - Jul 19)
+# Week 07 - (Jul 13 - Jul 19)
 
-### Tasks scheduled for this week
+## Tasks scheduled for this week
 - Updated `globalfn` library with more comprehensive documentation (such as the output example) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Updated the `Annotation` class in `globalfn` library with tokenized text, LUs, frames, FEs, which make word-to-word annotation transfer simpler ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Created the [error.log](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/globalfn/_extractions/error.log) file that shows the tokenized annotation errors due to annotation errors existing in the webtool database ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
@@ -11,7 +11,7 @@
 - Evaluate the frame elements labeling using metrics such as the hamming loss and its break-down, exact match ratio, and the distribution of the Matching Number of FEs ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
-### Challenges and solutions
+## Challenges and solutions
 #### 1. Choice of Evaluation Metrics
 
 Microaverage and macroaverage of F1 scores are not really feasible for this multilabel tasks of frame elements because the frame element labels are too granular: we have to compute the precision and recall for each frame element label under each frame (i.e., the frame-frame element pair). This leads to many classes having at most 1 data points.
@@ -45,8 +45,7 @@ Here are the constituency parsing models I've attempted so far:
 **Solution**: Constituent-to-word FE transfer.
 
 
-
-### Tasks completed
+## Tasks completed
 1. Restructure the `globalfn` library 
     - Include tokenized representation of sentence, LUs, frames, and FEs in the `Annotation` class for easier annotation transfer when we work with tokenized text.
     - Better documentation.
@@ -54,11 +53,42 @@ Here are the constituency parsing models I've attempted so far:
 3. Proposed modification: Constituent-to-word FE transfer
 4. Evaluation of annotation transfer of FEs
 
-### Tasks postponed to next week
+## Tasks postponed to next week
 Meeting with Mentors on July 20, 2020.
 
-### Results/Observations
+## Results
+#### Word Alignment
+![Word Alignment](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/word_alignment.png)
 
+#### Word-to-Word Annotation Transfer of FE
+1. EN to DE
+
+   ![Result en2de](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/w2w_en2de.png)
+    
+2. EN to PT
+    
+    ![Result en2pt](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/w2w_en2pt.png)
+
+3. DE to EN
+
+    ![Result de2en](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/w2w_de2en.png)
+
+4. PT to EN
+
+    ![Result pt2en](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/w2w_pt2en.png)
+
+#### Constituent-to-Word Annotation Transfer of FE
+1. EN to DE
+    
+    ![Result en2de](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/c2w_en2de.png)
+    
+2. EN to PT
+
+    ![Result en2pt](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/c2w_en2pt.png)
+
+
+## Discussion
+1. 
 
 ---
 Remember to use tags! You can add multiple tags to any task.
