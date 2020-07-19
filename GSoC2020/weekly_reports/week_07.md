@@ -45,7 +45,7 @@ Here are the constituency parsing models I've attempted so far, and I am finally
     - Intended for parsing German sentences. ![completed](https://img.shields.io/static/v1?label=DE&message=completed&color=green)
     
 
-**Solution**: Evaluate constituent-to-word FE transfer 
+**Solution**: Include constituent-to-word FE transfer.
 
 
 ## Tasks completed
