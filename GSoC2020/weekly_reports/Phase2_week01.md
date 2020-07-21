@@ -40,8 +40,6 @@ The model training is taking some time due to the complexity of the network and 
 
 ### Challenges and solutions
 
-The model training is taking some time due to the complexity of the network and dataset size, which I tried to perform on my local machine, and am now running on a Kaggle kernel. The results will be ready for testing within the next few days. 
-
 
 ### Tasks completed
 
@@ -49,8 +47,6 @@ The model training is taking some time due to the complexity of the network and 
 
 ### Tasks postponed to next week
 
-2. To annotate a sentence, the start and end timestamps of that sentence are chosen. 
-4. Objects in a frame will be detected automatically using a trained object detection model, which will also create bounding boxes around them. Changes to the code for obtaining the actual pixel coordinates of bounding boxes will also be made.
 ...
 
 ### Observations
