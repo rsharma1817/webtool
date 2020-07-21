@@ -53,7 +53,7 @@ The model training is taking some time due to the complexity of the network and 
 
 ...
 
-## Week 03 - (July 21 - July 25)
+## Week 03 - (July 21 - July 27)
 
 ### Tasks scheduled for this week
 
