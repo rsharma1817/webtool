@@ -36,7 +36,7 @@ The model training is taking some time due to the complexity of the network and 
 4. Objects in a frame will be detected automatically using a trained object detection model, which will also create bounding boxes around them. Changes to the code for obtaining the actual pixel coordinates of bounding boxes will also be made. ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 6. For the following 5 frames, the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm will track these objects by interpolating the current coordinates of the detected objects. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 7. The 5 frame constraint is kept for each detected object that is to be tracked, to ensure that it is present in the video for at least five seconds, otherwise tracking it is not useful and won't help in annotation. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-10. Using a windowing technique, the same object detection and tracking process from steps 4 to 9 will be followed for the duration of the video. Every new object that is tracked successfully will be added to the list storing the coordinates.
+10. Using a windowing technique, the same object detection and tracking process from steps 4 to 9 will be followed for the duration of the video. Every new object that is tracked successfully will be added to the list storing the coordinates. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ---
 Remember to use tags! You can add multiple tags to any task.
