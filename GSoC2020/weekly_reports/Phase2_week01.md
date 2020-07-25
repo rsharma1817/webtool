@@ -57,7 +57,7 @@ The model training is taking some time due to the complexity of the network and 
 
 ### Tasks scheduled for this week
 
-9. The generated images will be stored in the OBJECTS_STORE folder.
+9. The generated images will be stored in the OBJECTS_STORE folder. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied.
 12. Identified objects in the video will be stored in the ObjectMM table of the webtool database.
 
