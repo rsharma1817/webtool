@@ -6,7 +6,8 @@
 - [X] (Stretch Goal) Write a Blog Post about my progress and the results gotten so far ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - [ ] Parsing Portuguese sentences with SketchEngine (I've checked in with Prof. Tiago and asked for help) ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue)
 - [X] Annotation Transfer with neural networks model ![carryover](https://img.shields.io/static/v1?label=carryover&message=continue_next_week&color=yellow)
-  - [X] Research Idea 1 (from the meeting on Jul 20): Implement a better multilingual parser using transformers and then perform cross-lingual annotation transfer after parsing. ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=red)
+  - [X] Research Idea 1: Implement a better multilingual parser using transformers and then perform cross-lingual annotation transfer after parsing. ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=red)
+  - [X] Research Idea 2: Apply Google T5 model (state-of-the-art open-sourced model for text-to-text transfer learning) to frame semantics parsing.  ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=red)
 
 ## Results
 
