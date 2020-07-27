@@ -7,7 +7,7 @@
 - [X] Parsing Portuguese sentences with SketchEngine (I've checked in with Prof. Tiago and asked for help) ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue) ![carryover](https://img.shields.io/static/v1?label=carryover&message=continue_next_week&color=yellow)
 - [X] Explore other word-alignment models ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) ![carryover](https://img.shields.io/static/v1?label=carryover&message=continue_next_week&color=yellow)
 - [X] Annotation Transfer with neural networks model ![carryover](https://img.shields.io/static/v1?label=carryover&message=continue_next_week&color=yellow)
-  - [X] Research Idea 1: Implement a better multilingual parser using transformers and then perform cross-lingual annotation transfer after parsing. ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=red)
+  - [X] Research Idea 1: Implement a better multilingual parser using transformers and then correct the labels using annotated data. ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=red)
   - [X] Research Idea 2: Given a sentence (a sequence of word tokens), generate a sequence of labels. Inspiration: Google T5 model (released 2020) that can learn from a text-to-text transfer learning task.  ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=red)
 
 ## What I Learn from Mentors' Meetings
