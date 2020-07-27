@@ -11,7 +11,7 @@
   - [X] Research Idea 2: Given the source sentence, the sequence of labels, and the target sentence, generate a sequence of labels for the target sentence. Inspiration: Google T5 model (released 2020) that can learn from a text-to-text transfer learning task.  ![definition](https://img.shields.io/static/v1?label=result&message=disappointing&color=orange)
 
 ## What I Learn from Mentors' Meetings
-- I should try out other word-alignment models since I have only used `fast_align`, which only implements IBM GIZA++ Model 2.
+- I should try out other word-alignment models since I have only used `fast_align`, which is a model that reparameterizes IBM GIZA++ Model 2 for replacing IBM Model 4.
   1. I attempted to implement **IBM GIZA++ latest version (Model 5)** using the `nltk.align` package but it relies on classifying the words into 50 classes before parsing. The code for classification is [here](http://www.fjoch.com/mkcls.html) but I run into ImplementationError when I used the provided files. I will continue implementing GIZA++ Model 5 for the alignment task.
   2. I found a recently published [paper](https://arxiv.org/abs/2004.14675) (Zenkel et al., 2020) on an end-to-end neural model that outperforms GIZA++ but no code is provided.
 - Arthur has pre-trained a language model which is fine-tuned for FrameNet. I should look into representing words using Arthur's model instead of using pre-trained language models.
