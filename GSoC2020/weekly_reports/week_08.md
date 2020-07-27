@@ -12,10 +12,12 @@
 
 ## What I Learn from Mentors' Meetings
 - I should try out other word-alignment models since I have only used `fast_align`, which only implements IBM GIZA++ Model 2.
-  1. I attempted to implement IBM GIZA++ latest version (Model 5) using the `nltk.align` package but it relies on classifying the words into 50 classes before parsing. The code for classification is [here](http://www.fjoch.com/mkcls.html) but I run into CompilerError when I used the provided files. 
+  1. I attempted to implement **IBM GIZA++ latest version (Model 5)** using the `nltk.align` package but it relies on classifying the words into 50 classes before parsing. The code for classification is [here](http://www.fjoch.com/mkcls.html) but I run into ImplementationError when I used the provided files. I will continue implementing GIZA++ Model 5 for the alignment task.
   2. I found a recently published [paper](https://arxiv.org/abs/2004.14675) (Zenkel et al., 2020) on an end-to-end neural model that outperforms GIZA++ but no code is provided.
 - Arthur has pre-trained a language model which is fine-tuned for FrameNet. I should look into representing words using Arthur's model instead of using pre-trained language models.
 - I need to explain the result obtained thus far (such as the interpretation of the hamming-loss, etc.)
+- It makes sense that the constituent-to-word alignment performs better than the constituent-to-constituent alignment.
+- Annotation transfer through the alignment of dependency trees is not reliable for Portuguese sentences.
 - I can use Sketch-Engine to obtain the constituents of Portuguese sentences.
 - It's worth exploring methods that improve the annotation transfer to DE (since the [training dataset](https://github.com/andersjo/any-language-frames) includes DE data) and enable few-shot/zero-shot annotation transfer to PT (since the [training dataset](https://github.com/andersjo/any-language-frames) does not include PT data)
   1. **Research Idea 3**: I found a recently published paper "Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus"
@@ -23,10 +25,6 @@
   2. **Research Idea 4**: Create representations for frames and frame elements (fine-grained semantic role labels) through average pooling and use a neural network to identify two things for the target sentence: (1) does the target sentence evoke the frame and contain the frame elements projected from the source sentence? (2) if so, which words in the target sentence are the lexical units and frame elements?
 
 ## Research Experimental Results
-**Motivation**
-
-## Next Steps 
-#### Annotation Transfer
 
 
 ---
