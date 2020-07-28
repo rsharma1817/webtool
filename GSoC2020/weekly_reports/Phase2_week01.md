@@ -59,7 +59,10 @@ The model training is taking some time due to the complexity of the network and 
 
 9. The generated images will be stored in the OBJECTS_STORE folder. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-12. Identified objects in the video will be stored in the ObjectMM table of the webtool database ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+12. Identified objects in the video will be stored in the ObjectMM table of the webtool database ![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue)
+
+### Challenges and solutions
+When trying to insert into the ObjectMM table without the idFrameelement and idannotationsetmm values as discussed, a foreign key violation is displayed and hence is failing with an error. ObjectMM has foreign keys with tables AnnotationSetMM and FrameElement. AnnotationSetMM has a foreign key with AnnotationSet. AnnotationSet has foreign keys with Sentence, TypeInstance and SubCorpus. Sentence has foreign keys with Paragraph and Language. TypeInstance has foreign keys with Type, Color, Entity and Entry. SubCorpus has foreign keys with Entry and Entity. Removing any one of these foreign keys will affect other tables as well. 
 
 ---
 Remember to use tags! You can add multiple tags to any task.
