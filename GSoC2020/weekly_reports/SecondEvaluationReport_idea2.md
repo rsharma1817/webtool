@@ -78,8 +78,19 @@ To describe the functionality of the preprocessing tool, the following flowchart
 ![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/GSoCFlowchart2.jpg)
 
 ### Deep Learning Models 
+The YOLO (You Look only Once) object detection model, based on the DarkNet architecture was trained on multiple different datasets and can predict bounding boxes and captions for identified objects within an image. A single convolutional network simultaneously predicts multiple bounding boxes and class probabilities for those boxes.
+It is highly accurate, takes one pass for prediction and is less time-consuming. The architecture of the YOLO model can be observed below:
+
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/yoloarch.jpg)
+
+RetinaNet is a single, unified network composed of a backbone network and two task-specific subnetworks. It is based on the ResNet101 architecture using Convolutional Neural Networks. This model takes a lot of time to train but is also a one-pass prediction algorithm like YOLO. The architecture of RetinaNet can be observed below:
+
+![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/rnet.jpg)
 
 ### Datasets 
+For this project, I have used the COCO (Common Objects in Context) dataset along with the YOLO object detection model, which has 80 classes. COCO is a large-scale object detection, segmentation, and captioning dataset, which is commonly used for object detection purposes. This dataset identifies objects that can be maooed to lexical units within the FrameNet database. 
+
+I also tried using a custom dataset of 120 classes from the Open Images Dataset by Google, which contains a total of 600 classes in combination with the Retinanet object detection model. 
 
 ## Demonstration of Working Application
 
