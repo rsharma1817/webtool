@@ -81,10 +81,7 @@ To describe the functionality of the preprocessing tool, the following flowchart
 
 This video demonstrates how the application works based on the pipeline describe above:  
 
-![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download1.gif)
-![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download2.gif)
-![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download3.gif)
-![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/download4.gif)
+
 
 ## Implementation 
 
@@ -251,7 +248,8 @@ Remember to use tags! You can add multiple tags to any task.
 ![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) = **blocked** task that needs discussion with mentors<br>
 ![important](https://img.shields.io/static/v1?label=&message=important&color=red) = something that needs to be addressed immediately<br>
 
-Use [Shields.io](https://shields.io) to creat new tags if needed.
+Use [Shields.io](https://shields.io) to create new tags if needed.
 
 ## Self Assessment
 
+In this month, I worked on integrating an object tracking module with the video annotation tool that I created last month. Before starting with the training, I researched about object detection models that would be most suitable for this project, in terms of training time, accuracy and speed of detection. There are many object detection datasets available such as COCO, ImageNet, Open Images etc. but it was necessary to choose one that could detect objects that were related to the FrameNet lexical units in some way. Thereafter, I studied about the architecture of these models, the number of layers in them, functions of each layer and their training mechanisms. I finally narrowed down to two architectures: The YOLO model and RetinaNet. Due to limited computational resources, I had to train the models on the cloud. I initially tried to use Google Colab, and then moved on to Kaggle kernels due to their 12-hour restriction on training time. So it took some time to ensure that I was using the best possible approach with my available resources to perform this task with a good accuracy, and it did serve good results later on. This helped me realize that it is more important to plan well and follow a structured approach before starting with the actual work at any point of time. I was in contact with my mentors the entire time and they helped solve any doubts that I had during the course of the work. They also provided valuable suggestions whenever I was stuck and that really helped me to continue with the work. I was also able to figure out some errors in the code after they pointed them out. There were some improvements that I made to the previous month's work, so that it would be easier to integrate the current work with it. 
