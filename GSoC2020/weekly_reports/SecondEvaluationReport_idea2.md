@@ -77,6 +77,10 @@ To describe the functionality of the preprocessing tool, the following flowchart
 
 ![alt text](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_2/GSoC2020/weekly_reports/GSoCFlowchart2.jpg)
 
+### Deep Learning Models 
+
+### Datasets 
+
 ## Demonstration of Working Application
 
 This video demonstrates how the application works based on the pipeline describe above:  
