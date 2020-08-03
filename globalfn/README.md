@@ -1,7 +1,10 @@
 # Python Library `globalfn`
 
 ## Installation
-System: Python 3.8
+- Python 3.7+
+- lxml>=4.3.1
+- dill>=0.3.1.1
+- flair>=0.4.5
 ```
 pip3 install -r requirements.txt
 ```
