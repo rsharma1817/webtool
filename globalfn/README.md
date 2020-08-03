@@ -1,9 +1,15 @@
 # Python Library `globalfn`
 
+### Installation
+System: Python 3.8
+```
+pip3 install -r requirements.txt
+```
+
 ### Retrieves Transcript
 `globalfn.full_text.full_text(lang)`
 
-**Purpose**: retrieves all the IDs and the text of sentences given the language.
+**Purpose**: retrieves all the IDs and the text of sentences given the language. The languages supported are `de`, `el`, `en`, `fr`, `hi`, `jp`, `pt`, `se`, `ur`.
 
 **Output**: `[(1275, 'Guten Morgen.'), (1276, 'Wie geht es Ihnen?'), ...]`
 
