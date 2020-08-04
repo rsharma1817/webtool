@@ -2,10 +2,9 @@
 
 ### Tasks scheduled for this week
 
-1. Check for issues with the existing codebase and ensure proper working ![important](https://img.shields.io/static/v1?label=&message=important&color=red)
-2. Generate POS tags for words in the sentences from phase 1  
-3. Identify frame elements invoked by the words and phrases from the sentences and annotate  
-4. Create a user interface for identified frames and frame elements from the sentences, for their time spans giving the user an option to choose among the levels of analysis, time in seconds or minutes with the text modality for the sentence-level corpus.
+1. Check for issues with the existing codebase and ensure proper working 
+2. Identify frame elements invoked by the words and phrases from the sentences and annotate  
+3. Create a user interface for identified frames and frame elements from the sentences, for their time spans giving the user an option to choose among the levels of analysis, time in seconds or minutes with the text modality for the sentence-level corpus.
 
 ### Challenges and solutions
 
