@@ -3,7 +3,7 @@
 ### Tasks scheduled for this week
 
 1. Check for issues with the existing codebase and ensure proper working 
-2. Identify frame elements invoked by the words and phrases from the sentences and annotate  
+2. Identify frame elements invoked by the words and phrases from the sentences and annotate ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
 3. Create a user interface for identified frames and frame elements from the sentences, for their time spans giving the user an option to choose among the levels of analysis, time in seconds or minutes with the text modality for the sentence-level corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ### Challenges and solutions
@@ -24,6 +24,34 @@
 
 ...
 ---
+
+## Week 02 - (Aug 08 - Aug 15)
+
+### Tasks scheduled for this week
+
+2. Identify frame elements invoked by the words and phrases from the sentences and annotate ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
+4. Identify frame elements invoked by tracked objects in the sentences and annotate
+5. Update the MySQL tables with details of language, entry, entity, frame, frame element, type, instance for a set of annotated sentences
+
+### Challenges and solutions
+
+...
+
+
+### Tasks completed
+
+....
+
+### Tasks postponed to next week
+
+...
+...
+
+### Observations
+
+...
+---
+
 Remember to use tags! You can add multiple tags to any task.
 
 ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green) = done and ready for User Acceptance Testing (UAT)<br>
