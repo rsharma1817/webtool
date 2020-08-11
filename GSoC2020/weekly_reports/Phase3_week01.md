@@ -29,8 +29,8 @@
 
 ### Tasks scheduled for this week
 
-2. Identify frame elements invoked by the words and phrases from the sentences and annotate ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)
-4. Identify frame elements invoked by tracked objects in the sentences and annotate
+2. Identify frame elements invoked by the words and phrases from the sentences and annotate ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+4. Identify frame elements invoked by tracked objects in the sentences and annotate 
 5. Update the MySQL tables with details of language, entry, entity, frame, frame element, type, instance for a set of annotated sentences
 
 ### Challenges and solutions
