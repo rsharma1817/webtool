@@ -30,8 +30,9 @@
 ### Tasks scheduled for this week
 
 2. Identify frame elements invoked by the words and phrases from the sentences and annotate ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
-4. Identify frame elements invoked by tracked objects in the sentences and annotate 
-5. Update the MySQL tables with details of language, entry, entity, frame, frame element, type, instance for a set of annotated sentences
+4. Create a user interface for identified frames and frame elements from the objects, for their time spans giving the user an option to choose among the levels of analysis, time in seconds or minutes with the video modality for the sentence-level corpus.
+5. Identify frame elements invoked by tracked objects in the sentences and annotate 
+6. Update the MySQL tables with details of language, entry, entity, frame, frame element, type, instance for a set of annotated sentences
 
 ### Challenges and solutions
 
