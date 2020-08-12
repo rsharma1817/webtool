@@ -3,9 +3,9 @@
 ### Tasks scheduled for this week
 
 - Implement Portuguese constituency parser. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-- Identify the projected LU using the sklearn.metrics.pairwise module. 
+- Identify the projected LU using the `sklearn.metrics.pairwise` module. 
 - Train SDEC to cluster LUs in FrameNet 1.7 and create semantic frame embeddings. 
-- Identify the best-fitting frames for the projected LU using the sklearn.metrics.pairwise module on the embeddings of the project LU and the frame.
+- Identify the best-fitting frames for the projected LU using the `sklearn.metrics.pairwise` module on the embeddings of the project LU and the frame.
 - Create the attention mechanism using https://github.com/thomlake/pytorch-attention 
 - Train the attention mechanism to learn to disambiguate LUs using the annotated sentences in Global FrameNet and exemplar sentences from FN 1.7 and FrameNet Brasil.
 - Apply the attention mechanism to the n-gram embeddings of a sentence to disambiguate the LU given the projected semantic frame.
