@@ -53,16 +53,26 @@
 ...
 ---
 
-## Week 03 - (Aug 16 - Aug 24)
+## Week 03 - (Aug 18 - Aug 27)
 
 ### Tasks scheduled for this week
 
-6. Update the MySQL tables with details of language, entry, entity, frame, frame element, type, instance for a set of annotated sentences ![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow)   
-7. Obtain and implement the color code for displaying the identified frame elements (core) in both the annotation pages and the final generated report    
-8. Check and perform actions for annotation based on selected Type, Synchronicity and Mode by the user  
-9. Modify the generated report to reflect the results for selected options   
-10. Allow for a way to download the generated report to the user
-11. Complete implementation of pending functionalities and make improvements to the final user interface  
+1. Frames annotated in text and in the video per corpus
+2. Frames annotated in text and in the video per document
+3. Frames annotated in text and in the video per sentence
+4. Frames and Frame Elements annotated in text and in the video per corpus
+5. Frames and Frame Elements annotated in text and in the video per document
+6. Frames and Frame Elements annotated in text and in the video per sentence
+7. Frames annotated in text and in the video according to the (a)sychronicity in the corpus.
+8. Frames annotated in text and in the video according to the (a)sychronicity in the document.
+9. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
+10. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
+11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
+12. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the sentence.
+13. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus.
+14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document.
+15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence.
+16. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. 
 
 ### Challenges and solutions
 
