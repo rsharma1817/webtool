@@ -281,68 +281,31 @@ The tasks specified in the workflow will be completed as follows:
 
 ### Part 3: Data Compilation and Reporting Module
 
-With the textual and image data obtained from these two pipelines, and automated annotation procedure for the video will be performed as follows:
+With the textual and image data already existing in the FrameNet Brasil database (in the PPM corpus) build the following reports:
 
-1. Download the Flickr30k dataset, that contains images with their corresponding captions
-2. Get the images from the object store folder
-3. Train a CNN+LSTM model on the Flickr30k dataset for image caption generation
-4. Generate captions for the object images using the above trained model
-5. Convert the captions to Portuguese using the Google Translate API
-6. Add POS tags for the textual data (words and phrases) from the SentenceMM table, and the image data (captions) from step 4.
-7. Match the POS-tagged words, phrases and captions with lexical units from the Frame table in the database, either directly or using synonym checks possible with Altervista, or the Big Huge Thesaurus APIs.
-8. List the frames that are invoked by the lexical units.
-9. Train an ML model for semantic annotation of lexical units with their corresponding frame elements. This can be done using the already annotated Wikipedia corpus and others.
-10. Using the trained model, generate annotations for the captions, words and phrases
-11. Captions with same frame elements as certain words and phrases, will be cross-annotated.
+1. Frames annotated in text and in the video per corpus
+2. Frames annotated in text and in the video per document
+3. Frames annotated in text and in the video per sentence
+4. Frames and Frame Elements annotated in text and in the video per corpus
+5. Frames and Frame Elements annotated in text and in the video per document
+6. Frames and Frame Elements annotated in text and in the video per sentence
+7. Frames annotated in text and in the video according to the (a)sychronicity in the corpus.
+8. Frames annotated in text and in the video according to the (a)sychronicity in the document.
+9. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
+10. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
+11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
+12. Frames and Frame Elements in text and in the video according to the (a)sychronicity in the sentence.  
+13. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus.
+14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document.
+15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence.
 
-
-#### Generating Image Captions
-
-The images of the objects identified in part 2 will need to be captioned for creating their corresponding lexical units. Therefore, a caption-generating model, involving CNN and LSTM neural networks will be trained on the Flickr 30k image dataset. The architecture of the training model will be as described in the following link-
-https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/
-
-Flickr30k Dataset for image captioning:  http://shannon.cs.illinois.edu/DenotationGraph/data/index.html
-
-
-#### Preprocessing
-
-The captions generated in the previous step are in English. Therefore, to convert them to Portuguese, the Google Translate API will be called. To help in the identification of their related lexical units and frames they invoke, the image captions, as well as words and phrases in the JSON file obtained as textual data from part 1 will be POS-tagged. 
-
-
-#### Identifying Lexical Units and Frames
-
-All of the POS-tagged text from the preprocessing step will be treated as lexical units, and mapped with existing lexical units in the FrameNet database. If they have the same words and POS tags, a matching lexical unit is found. If not, a synonym of the word that is a lexical unit in the database is considered. The synonyms of a word are obtained with the help of the AlterVista or BigHugeLabs API. http://thesaurus.altervista.org/service
-http://words.bighugelabs.com/api.php
-
-Finally the frame to which the lexical unit belongs is found from the database. This will be used for generating the frame elements of the lexical unit for semantic annotation in the next step.
-
-#### Automated Annotation 
-
-An ML model will be trained on an already annotated FrameNet text (eg: the Wikipedia corpus), so that it can generate frame elements for unseen data, that is the text and image data in our project, obtained from parts 1 and 2. The model should be able to accurately identify the frame elements that each lexical unit invokes. Moreover, if an image caption and a subtitles text or phrase invoke the same frame element, they should be cross-annotated. This will then be used to generate the Gold Standard Corpus.
-
-Following are some papers that I referred to decide on an ML model that would be most suitable:
-http://www.cs.cmu.edu/~ark/SEMAFOR/  
-https://github.com/microth/mateplus  
-https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163  
-https://arxiv.org/pdf/1706.09528v1.pdf  
-https://www.aclweb.org/anthology/P15-2036.pdf  
-http://www.coli.uni-saarland.de/projects/salsa/shal/  
-http://nlp.cs.lth.se/software/semantic-parsing-framenet-frames/   
-
+Note that, for the reports in 7-12 you will need to retrieve:
+(a) the time stamps in the sentences (being the total amount od seconds divided by the number of characters in the sentence);
+(b) the time stamps for each bounding box in the video;
+and then compare the time stamps for pieces of text and bounding boxes sharing the same frame and/or frame element.
 
 #### Timeline
 
-The tasks specified in the workflow will be completed as follows:  
-*July 28th- Aug 3rd*: Tasks 1 to 4 for generating image captions using trained model  
-*Aug 4th- Aug 6th*: Tasks 5 to 6 for POS tagging textual and image data  
-*Aug 7th- Aug 15th*: Tasks 7 to 8 for identifying frames  
-*Aug 16th- Aug 27th*: Tasks 9 to 11 for automatically annotating the corpus  
-*Aug 28th- Aug 30th*: Final Evaluation  
+The tasks specified in this workflow should be completed by Aug 27th.  
 
 ---
-
-Some links for reference:
-
-[http://www.redhenlab.org/home/tutorials-and-educational-resources/-red-hen-rapid-annotator](http://www.redhenlab.org/home/tutorials-and-educational-resources/-red-hen-rapid-annotator)
-
-[https://sites.google.com/case.edu/techne-public-site/red-hen-rapid-annotator](https://sites.google.com/case.edu/techne-public-site/red-hen-rapid-annotator)
