@@ -294,10 +294,11 @@ With the textual and image data already existing in the FrameNet Brasil database
 9. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
 10. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
 11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
-12. Frames and Frame Elements in text and in the video according to the (a)sychronicity in the sentence.  
+12. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the sentence.  
 13. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus.
 14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document.
 15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence.
+16. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. 
 
 Note that, for the reports in 7-12 you will need to retrieve:
 (a) the time stamps in the sentences (being the total amount od seconds divided by the number of characters in the sentence);
