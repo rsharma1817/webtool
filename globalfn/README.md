@@ -32,6 +32,8 @@ There are four general types of alignments:
 3. one-to-many: {1065, \[1876, 1877\]}
 4. many-to-many: {(1066, 1067): \[1878, 1879\]}
 
+The alignments are created manually and can be found on the Google Sheet [TED Corpus Sentence Alignment GSoC](https://docs.google.com/spreadsheets/d/1Hva4w8WdMnU-09n4LxtjGVsC6_fZbuSMfYZwIOXRXaU/edit#gid=0).
+
 Codes:
 1. `globalfn.alignments.all_alignments(aligned_lang)`
 
@@ -83,7 +85,7 @@ class Annotation:
 Codes:
 1. `globalfn.annotations.all_annotations(lang)`
 
-    **Purpose**: Retrieves all the annotations associated with the TED Talk transcript of language `lang`
+    **Purpose**: Retrieves all the manual annotations associated with the TED Talk transcript of language `lang`
 
     **Output**: `defaultdict(<class 'list'>, {1275: [Annotation, Annotation],...})`
 
@@ -95,7 +97,7 @@ Codes:
 
 2. `globalfn.annotations.annotation(sent_ID)`
 
-    **Purpose**: Retrieves the annotation associated with the sentence ID.
+    **Purpose**: Retrieves the manual annotation(s) associated with the sentence ID.
 
     **Output**: `Annotation`
 
