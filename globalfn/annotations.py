@@ -22,7 +22,9 @@ def all_annotations(lang):
 def annotation(sent_id):
     lang = get_lang(sent_id)
     res = all_annotations(lang)
-    assert sent_id in res
+    if sent_id not in res:
+        print(f"{sent_id} (language {lang}) is not annotated.")
+        return None
     return res[sent_id]
 
 def annotation_annoID(annoID):
