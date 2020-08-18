@@ -10,7 +10,10 @@ pip3 install -r requirements.txt
 ```
 
 ## Use Cases
-### 1. Retrieves Transcript
+### Demo
+![Demo](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/demo_globalfn_final.gif)
+
+### 1. Retrieves Transcripts
 Codes:
 1. `globalfn.full_text.full_text(lang)`
 
