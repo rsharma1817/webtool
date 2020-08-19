@@ -57,22 +57,23 @@
 
 ### Tasks scheduled for this week
 
-1. Frames annotated in text and in the video per corpus
-2. Frames annotated in text and in the video per document
-3. Frames annotated in text and in the video per sentence
-4. Frames and Frame Elements annotated in text and in the video per corpus
-5. Frames and Frame Elements annotated in text and in the video per document
-6. Frames and Frame Elements annotated in text and in the video per sentence
-7. Frames annotated in text and in the video according to the (a)sychronicity in the corpus.
-8. Frames annotated in text and in the video according to the (a)sychronicity in the document.
-9. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
-10. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
-11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
-12. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the sentence.
-13. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus.
-14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document.
-15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence.
-16. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. 
+1. Add code to generate XML for VATIC object tracking ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+2. Frames annotated in text and in the video per corpus
+3. Frames annotated in text and in the video per document
+4. Frames annotated in text and in the video per sentence
+5. Frames and Frame Elements annotated in text and in the video per corpus
+6. Frames and Frame Elements annotated in text and in the video per document
+7. Frames and Frame Elements annotated in text and in the video per sentence
+8. Frames annotated in text and in the video according to the (a)sychronicity in the corpus.
+9. Frames annotated in text and in the video according to the (a)sychronicity in the document.
+10. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
+11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
+12. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
+13. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the sentence.
+14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus.
+15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document.
+16. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence.
+17. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. 
 
 ### Challenges and solutions
 
