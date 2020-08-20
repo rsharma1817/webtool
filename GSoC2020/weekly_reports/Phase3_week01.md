@@ -58,7 +58,7 @@
 ### Tasks scheduled for this week
 
 1. Add code to generate XML for VATIC object tracking ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
-2. Frames annotated in text and in the video per corpus 
+2. Frames annotated in text and in the video per corpus ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 3. Frames annotated in text and in the video per document ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 4. Frames annotated in text and in the video per sentence ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 5. Frames and Frame Elements annotated in text and in the video per corpus
