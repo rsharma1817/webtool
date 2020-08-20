@@ -1,4 +1,4 @@
-# Deliverables for Google Summer of Code 2020
+# Final Deliverables for Google Summer of Code 2020
 **Organization**: FrameNet Brasil
 
 **Project Category**: Multilingual Semantic Annotation Projection
