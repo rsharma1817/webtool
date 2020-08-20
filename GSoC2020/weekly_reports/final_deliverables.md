@@ -10,7 +10,7 @@
 
 The incompleteness of the Extended Open Multilingual Wordnet leads to many false negatives. For example, the Portuguese word "educacional" does not exist in  the multilingual WordNet; therefore, it cannot be translated into the English LU "educational.a". False negatives can also come from the heuristic of choosing the K most common parts-of-speech tags. For English and German, numerals and adjectives are filtered out, whereas for Portuguese, determiners and subordinating conjunctions are filtered out. The false positives are primarily stopwords that exist in Berkeley FrameNet 1.7 but are not annotated in the TED Talk Corpus. 
 
-The pre-trained multilingual-BERT language models performed comparably to the parser. It's known that the BERT embeddings do not fully respect cross-sentence coherence: the same word form with the same meaning are represented differently for occurrences in different sentences. In our case, the syntactic structural differences exacerbate the issue. For example, ... . 
+The pre-trained multilingual-BERT language models performed comparably to the parser. It's known that the BERT embeddings do not fully respect cross-sentence coherence: the same word form with the same meaning are represented differently for occurrences in different sentences in the same language. In our case, the linguistic differences across languages such as conflational divergences in the sentence exacerbate the issue. For example, for the pair of EN-PT sentences ("No **idea** how this may play out.", "Nenhuma **idéia** do que nos espera.") where the bold words are the frame-evoking words, the model fails to align "idéia.n" with "idea.n" using the word-level cosine similarity measure. 
 
 
 ---
