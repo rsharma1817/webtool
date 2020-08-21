@@ -70,9 +70,9 @@
 11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
 12. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
 13. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the sentence.
-14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus.
-15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document.
-16. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence.
+14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+16. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 17. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. 
 
 ### Challenges and solutions
