@@ -67,7 +67,7 @@
 8. Frames annotated in text and in the video according to the (a)sychronicity in the corpus.
 9. Frames annotated in text and in the video according to the (a)sychronicity in the document.
 10. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
-11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus.
+11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 12. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the document.
 13. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the sentence.
 14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
