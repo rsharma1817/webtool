@@ -6,6 +6,7 @@
 **Project Title**: Multilingual Projections of Semantic Frames and Frame Elements using Modified Existing Parsers and Neural Networks
 
 ---
+## Discussion
 ### Annotation Projection of Lexical Units
 
 The Any-language Frame-Semantics Parser leads to many false negatives due to the Extended Open Multilingual Wordnet’s incompleteness. For example, the Portuguese word “educacional” does not exist in the multilingual WordNet; therefore, it cannot be translated into the English LU “educational.a”. False negatives can also come from the heuristic of choosing the K most common parts-of-speech tags. For English and German, numerals and adjectives are filtered out, whereas for Portuguese, determiners and subordinating conjunctions are filtered out. The false positives are primarily stopwords that exist in Berkeley FrameNet 1.7 but are not annotated in the TED Talk Corpus.
@@ -29,15 +30,24 @@ To induce frames in an unannotated sentence, the neural-based frame classifier t
 
 
 ---
-### Python Package `globalfn` ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
+## Resources for Future Research
+### 1. Python Package `globalfn` ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
 #### Descriptions
 A Python package that retrieves the transcript text of TED Talk Corpus, their gold frame-semantics annotations, and the gold alignments of sentences across languages. The documentation can be found on the [README of the package](https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/globalfn). 
 
 #### Demo
 ![Demo](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/demo_globalfn_final.gif)
 
+### 2. Frame Divergence of Lexical Units ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
+#### Descriptions
+Each document contains the information of aligned pairs of frame-evoking words and their annotated semantic frames for a bilingual sentence pair. The lexical units are aligned with fast_align (Dyer, Chahuneau, & Smith, 2013). The purpose is to study the frame divergence of the aligned lexical units.
 
-### Automated Sentence Alignments ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
+#### Results
+Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/frame_divergences
+
+![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_frame_divergence.png)
+
+### 3. Automated Sentence Alignments ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
 #### Descriptions
 Currently, the sentence alignments of TED Talk transcripts for EN-JP, EN-FR, EN-UR, and EN-HI are missing, and the alignment for EN-DE is incomplete. I used the [`vecalign`](https://github.com/thompsonb/vecalign) model from the paper "Vecalign: Improved Sentence Alignment in Linear Time and Space" (Thompson & Koehn, 2019) to create the alignments. 
 
@@ -45,3 +55,11 @@ Currently, the sentence alignments of TED Talk transcripts for EN-JP, EN-FR, EN-
 Result can be found on the Google Sheet: [TED Corpus Sentence Alignment GSoC (vecalign)](https://docs.google.com/spreadsheets/d/1W7tPyE2kiAziFOw-woaYzlDlC5aCc1jco-5VkAtEtCs/edit#gid=898901472)
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_vecalign.png)
+
+
+
+---
+
+#### Codes
+- https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/week1-4_codes
+- LU_projection.ipynb notebook: https://deepnote.com/project/9180a10b-0c75-4478-b383-eedfccbf67fd
