@@ -5,8 +5,8 @@ Each document contain the information of aligned pairs of frame-evoking words an
 
 
 ### Result
-The first sentence is the aligned pair of sentences, separated by three pipes "|||".
-The second sentences is the pair of frame annotations for the aligned lexical units, separated by three dashes "---". The number denotes the word index, whereas the string represents the frame name. 
-For instance, in the first example in the image below, for the sentence "It 's been great , has n't it ?", the fourth word (word index 3) evokes the frame *Desirability*.
+The first line is the aligned pair of tokenized sentences, separated by three pipes "|||". The second line is the pair of frame annotations (separated by three dashes "---") for the aligned sentences. The number denotes the (0-based) word index of the frame-evoking word, whereas the string represents the frame name. 
+
+For instance, in the first example in the image below (retrieved from the "en-pt.txt" document), the first line contains the English tokenized sentence "It 's been great , has n't it ?" and the Portuguese sentence "Tem sido ótimo , não tem ?". The second line indicates that the fourth word (word index 3) in the English sentence evokes the frame *Desirability*, whereas the third word (word index 2) in the Portuguese sentence evokes the same frame *Desirability*.
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_frame_divergence.png)
