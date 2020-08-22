@@ -14,6 +14,12 @@ The pre-trained multilingual-BERT language models performed comparably to the pa
 
 However, we can reduce the disparity in the distributional semantics by minimizing the vector differences between aligned words in two different languages when training BERT language models (i.e., Arthur’s language model). As a result, we reduce false negatives and boost the F1-score of LU projection from Portuguese sentences to English sentences by 7%. The limitation is that the trained BERT model is bilingual as it is trained with a bilingual alignment objective. In other words, unlike the pretrained multilingual-BERT, Arthur’s language model, which is overfitted to two languages, cannot be readily generalized to annotation projection in a low-resource setting.
 
+### Annotation Projection of Semantic Frames
+
+Only 5.3% of the EN-PT aligned sentences and 4.2% of EN-DE have the exact same set of frames annotations. The predominant reason is that some words in a language are not annotated as frame-evoking lexical units. For example, the sentence "Don't you?" are not annotated with any semantic frame, but its Portuguese counterpart "Vocês não?" is annotated with the *Negation* frame for the word "não". Particularly, 86% of the EN-PT alignment pairs and 81% of the EN-DE alignment pairs differ in the number of annotated LUs and frames.
+
+We can study the translational divergence of semantic frames by aligning words in the sentence pairs. After aligning the words with the `fast_align` model, we align the annotated lexical units if such alignment is possible, and we find that a surprisingly low proportion of annotated semantic frames are identical: 30.7% for the EN-DE pairs and 31.2% for the EN-PT pairs. 
+
 
 ---
 ### Python Package `globalfn` ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
