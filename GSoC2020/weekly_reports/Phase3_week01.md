@@ -64,7 +64,7 @@
 5. Frames and Frame Elements annotated in text and in the video per corpus ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 6. Frames and Frame Elements annotated in text and in the video per document ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 7. Frames and Frame Elements annotated in text and in the video per sentence ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-8. Frames annotated in text and in the video according to the (a)sychronicity in the corpus.
+8. Frames annotated in text and in the video according to the (a)sychronicity in the corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 9. Frames annotated in text and in the video according to the (a)sychronicity in the document.
 10. Frames annotated in text and in the video according to the (a)sychronicity in the sentence.
 11. Frames and Frame Elements annotated in text and in the video according to the (a)sychronicity in the corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
