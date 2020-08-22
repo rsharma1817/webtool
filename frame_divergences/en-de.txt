@@ -1,0 +1,228 @@
+It 's been great , has n't it ? ||| Es war großartig , nicht wahr ?
+(3, 'Desirability') --- (2, 'Desirability')
+I 've been blown away by the whole thing . ||| Die ganze Sache hier hat mich umgehauen .
+(3, 'Motion') --- (2, 'Entity')
+I 've been blown away by the whole thing . ||| Die ganze Sache hier hat mich umgehauen .
+(8, 'Entity') --- (6, 'Emotion_directed')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+(3, 'Cardinal_numbers') --- (3, 'Topic')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+(5, 'Fluidic_motion') --- (6, 'Presence')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+(17, 'Discussion') --- (20, 'Text_creation')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+(11, 'Being_relevant') --- (13, 'Being_relevant')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+(8, 'Discussion') --- (9, 'Discussion')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen , die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite .
+(3, 'Desirability') --- (3, 'Desirability')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen , die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite .
+(12, 'Text') --- (14, 'Perception_active')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen , die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite .
+(4, 'Evidence') --- (5, 'People')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen , die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite .
+(23, 'Spatial_co-location') --- (26, 'Diversity')
+Just the variety of it and the range of it . ||| Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen , die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite .
+(2, 'Diversity') --- (6, 'Coming_up_with')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| Zweitens befinden wir uns an einem Punkt , an dem wir keine Ahnung haben , wie es in Zukunft weitergeht .
+(6, 'Placing') --- (4, 'Being_located')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| Zweitens befinden wir uns an einem Punkt , an dem wir keine Ahnung haben , wie es in Zukunft weitergeht .
+(15, 'Awareness') --- (11, 'Awareness')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| Zweitens befinden wir uns an einem Punkt , an dem wir keine Ahnung haben , wie es in Zukunft weitergeht .
+(1, 'Ordinal_numbers') --- (0, 'Ordinal_numbers')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| Zweitens befinden wir uns an einem Punkt , an dem wir keine Ahnung haben , wie es in Zukunft weitergeht .
+(16, 'Entity') --- (12, 'Awareness')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| Zweitens befinden wir uns an einem Punkt , an dem wir keine Ahnung haben , wie es in Zukunft weitergeht .
+(26, 'Temporal_collocation') --- (19, 'Process_continue')
+No idea how this may play out . ||| Keine Ahnung , wie das enden wird .
+(1, 'Awareness') --- (1, 'Awareness')
+No idea how this may play out . ||| Keine Ahnung , wie das enden wird .
+(5, 'Turning_out') --- (5, 'Process_end')
+I have an interest in education . ||| Ich interessiere mich für Bildung .
+(3, 'Emotion_directed') --- (2, 'Experiencer_focus')
+I have an interest in education . ||| Ich interessiere mich für Bildung .
+(5, 'Education_teaching') --- (4, 'Education_teaching')
+I have an interest in education . ||| Ich interessiere mich für Bildung .
+(1, 'Possession') --- (1, 'Experiencer_focus')
+Actually , what I find is everybody has an interest in education . ||| Im Grunde finde ich , dass sich eigentlich jeder für Bildung interessiert .
+(11, 'Education_teaching') --- (11, 'Experiencer_focus')
+I find this very interesting . ||| Das ist recht bemerkenswert .
+(4, 'Mental_stimulus_stimulus_focus') --- (3, 'Mental_stimulus_stimulus_focus')
+If you 're at a dinner party , and you say you work in education -- ||| Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+(3, 'Locative_relation') --- (7, 'Telling')
+If you 're at a dinner party , and you say you work in education -- ||| Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+(12, 'Being_employed') --- (25, 'Conditional_occurrence')
+If you 're at a dinner party , and you say you work in education -- ||| Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+(14, 'Education_teaching') --- (28, 'Education_teaching')
+If you 're at a dinner party , and you say you work in education -- ||| Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+(6, 'Social_event') --- (13, 'Being_employed')
+Actually , you 're not often at dinner parties , frankly . ||| Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+(6, 'Spatial_co-location') --- (18, 'Attending')
+Actually , you 're not often at dinner parties , frankly . ||| Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+(4, 'Negation') --- (13, 'Being_employed')
+If you work in education , you 're not asked . ||| Man wird erst gar nicht eingeladen .
+(9, 'Request') --- (5, 'Request')
+If you work in education , you 're not asked . ||| Man wird erst gar nicht eingeladen .
+(8, 'Negation') --- (5, 'Request')
+And you 're never asked back , curiously . ||| Auf jeden Fall nicht zweimal , seltsamerweise .
+(4, 'Request') --- (3, 'Negation')
+And you 're never asked back , curiously . ||| Auf jeden Fall nicht zweimal , seltsamerweise .
+(3, 'Frequency') --- (3, 'Negation')
+And you 're never asked back , curiously . ||| Auf jeden Fall nicht zweimal , seltsamerweise .
+(7, 'Typicality') --- (6, 'Typicality')
+And you 're never asked back , curiously . ||| Auf jeden Fall nicht zweimal , seltsamerweise .
+(5, 'Locative_relation') --- (4, 'Frequency')
+But if you are , and you say to somebody , you know , they say , ' What do you do ?' and you say you work in education , you can see the blood run from their face . ||| Sind Sie aber eingeladen und reden mit jemandem , also wenn jemand fragt : ' Was machen Sie so ?' und Sie : ' Ich arbeite im Bildungswesen ' , sieht man , wie den anderen das Blut aus dem Gesicht weicht .
+(1, 'Conditional_occurrence') --- (1, 'Conditional_occurrence')
+But if you are , and you say to somebody , you know , they say , ' What do you do ?' and you say you work in education , you can see the blood run from their face . ||| Sind Sie aber eingeladen und reden mit jemandem , also wenn jemand fragt : ' Was machen Sie so ?' und Sie : ' Ich arbeite im Bildungswesen ' , sieht man , wie den anderen das Blut aus dem Gesicht weicht .
+(39, 'Body_parts') --- (41, 'Departing')
+' My one night out all week . ' ||| Mein einziger freier Abend in der Woche . '
+(3, 'Calendric_unit') --- (3, 'Calendric_unit')
+' My one night out all week . ' ||| Mein einziger freier Abend in der Woche . '
+(6, 'Calendric_unit') --- (6, 'Calendric_unit')
+But if you ask about their education , they pin you to the wall . ||| Fragen Sie sie nach ihrer Schulbildung , nageln sie Sie an die Wand .
+(1, 'Conditional_occurrence') --- (1, 'Conditional_occurrence')
+But if you ask about their education , they pin you to the wall . ||| Fragen Sie sie nach ihrer Schulbildung , nageln sie Sie an die Wand .
+(13, 'Architectural_part') --- (12, 'Architectural_part')
+Because it 's one of those things that goes deep with people , am I right ? ||| Denn es ist eines dieser Themen , die Leute tief berühren , wie Religion , Geld und andere Sachen .
+(0, 'Causation') --- (0, 'Reason')
+Because it 's one of those things that goes deep with people , am I right ? ||| Denn es ist eines dieser Themen , die Leute tief berühren , wie Religion , Geld und andere Sachen .
+(8, 'Motion') --- (10, 'Stimulus_focus')
+Because it 's one of those things that goes deep with people , am I right ? ||| Denn es ist eines dieser Themen , die Leute tief berühren , wie Religion , Geld und andere Sachen .
+(4, 'Partitive') --- (5, 'Topic')
+Like religion , and money and other things . ||| Denn es ist eines dieser Themen , die Leute tief berühren , wie Religion , Geld und andere Sachen .
+(7, 'Entity') --- (17, 'Increment')
+Like religion , and money and other things . ||| Denn es ist eines dieser Themen , die Leute tief berühren , wie Religion , Geld und andere Sachen .
+(6, 'Increment') --- (15, 'Money')
+So I have a big interest in education , and I think we all do . ||| Ich habe ein großes Interesse an Bildung , und ich denke , das haben wir alle .
+(5, 'Emotion_directed') --- (5, 'Emotion_directed')
+So I have a big interest in education , and I think we all do . ||| Ich habe ein großes Interesse an Bildung , und ich denke , das haben wir alle .
+(4, 'Size') --- (4, 'Emotion_directed')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Wir haben ein großes , persönliches Interesse , teilweise Bildung dazu gedacht ist , uns in diese Zukunft zu bringen , die wir nicht fassen können .
+(27, 'Grasp') --- (25, 'Capability')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Wir haben ein großes , persönliches Interesse , teilweise Bildung dazu gedacht ist , uns in diese Zukunft zu bringen , die wir nicht fassen können .
+(25, 'Capability') --- (23, 'Negation')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Wir haben ein großes , persönliches Interesse , teilweise Bildung dazu gedacht ist , uns in diese Zukunft zu bringen , die wir nicht fassen können .
+(1, 'Possession') --- (1, 'Emotion_directed')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Denken Sie nur : Kinder , die dieses Jahr in die Schule kommen , werden im Jahr 2065 in Rente gehen .
+(6, 'People_by_age') --- (8, 'Calendric_unit')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Denken Sie nur : Kinder , die dieses Jahr in die Schule kommen , werden im Jahr 2065 in Rente gehen .
+(0, 'Conditional_occurrence') --- (0, 'Cogitation')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Keiner hat eine Ahnung , trotz jeglicher Expertise , die wir die letzten vier Tage erleben durften , wie die Welt in fünf Jahren aussehen wird .
+(27, 'Cardinal_numbers') --- (23, 'Calendric_unit')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Keiner hat eine Ahnung , trotz jeglicher Expertise , die wir die letzten vier Tage erleben durften , wie die Welt in fünf Jahren aussehen wird .
+(6, 'Quantified_mass') --- (5, 'Concessive')
+And yet we 're meant to be educating them for it . ||| Und trotzdem sollen wir sie dafür ausbilden .
+(4, 'Purpose') --- (2, 'Being_obligated')
+So the unpredictability , I think , is extraordinary . ||| Die Unvorhersagbarkeit ist , finde ich , atemberaubend .
+(5, 'Opinion') --- (4, 'Opinion')
+So the unpredictability , I think , is extraordinary . ||| Die Unvorhersagbarkeit ist , finde ich , atemberaubend .
+(8, 'Stimulus_focus') --- (7, 'Stimulus_focus')
+So the unpredictability , I think , is extraordinary . ||| Die Unvorhersagbarkeit ist , finde ich , atemberaubend .
+(0, 'Causation') --- (0, 'Expectation')
+And the third part of this is that we 've all agreed , nonetheless , on the really extraordinary capacities that children have -- their capacities for innovation . ||| Und das dritte Thema ist , dass wir uns trotzdem alle einig sind , dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten , neue Wege zu gehen .
+(3, 'Part_whole') --- (3, 'Topic')
+And the third part of this is that we 've all agreed , nonetheless , on the really extraordinary capacities that children have -- their capacities for innovation . ||| Und das dritte Thema ist , dass wir uns trotzdem alle einig sind , dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten , neue Wege zu gehen .
+(18, 'Stimulus_focus') --- (18, 'Capability')
+And the third part of this is that we 've all agreed , nonetheless , on the really extraordinary capacities that children have -- their capacities for innovation . ||| Und das dritte Thema ist , dass wir uns trotzdem alle einig sind , dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten , neue Wege zu gehen .
+(27, 'Achieving_first') --- (26, 'Self_motion')
+Just seeing what she could do . ||| Allein zu sehen , wozu sie in der Lage ist .
+(1, 'Perception_experience') --- (2, 'Perception_experience')
+Just seeing what she could do . ||| Allein zu sehen , wozu sie in der Lage ist .
+(4, 'Capability') --- (7, 'Capability')
+Just seeing what she could do . ||| Allein zu sehen , wozu sie in der Lage ist .
+(5, 'Intentionally_act') --- (9, 'Capability')
+And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood . ||| Sie ist außergewöhnlich , aber ich denke , sie ist nicht , sozusagen , außergewöhnlich in Bezug auf die Gesamtheit aller Kinder .
+(16, 'Typicality') --- (14, 'Typicality')
+And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood . ||| Sie ist außergewöhnlich , aber ich denke , sie ist nicht , sozusagen , außergewöhnlich in Bezug auf die Gesamtheit aller Kinder .
+(21, 'Age') --- (21, 'People_by_age')
+What you have there is a person of extraordinary dedication who found a talent . ||| Sie ist eine Person mit außerordentlicher Hingabe , die ihr Talent gefunden hat .
+(6, 'People') --- (6, 'Commitment')
+What you have there is a person of extraordinary dedication who found a talent . ||| Sie ist eine Person mit außerordentlicher Hingabe , die ihr Talent gefunden hat .
+(11, 'Locating') --- (10, 'Capability')
+And my contention is , all kids have tremendous talents . ||| Ich behaupte , dass alle Kinder gewaltige Talente haben und dass wir sie vergeuden , und zwar ziemlich rücksichtslos .
+(2, 'Statement') --- (5, 'People_by_age')
+And we squander them , pretty ruthlessly . ||| Ich behaupte , dass alle Kinder gewaltige Talente haben und dass wir sie vergeuden , und zwar ziemlich rücksichtslos .
+(2, 'Expend_resource') --- (7, 'Capability')
+So I want to talk about education and I want to talk about creativity . ||| Ich möchte also über Bildung und Kreativität sprechen .
+(11, 'Statement') --- (6, 'Coming_up_with')
+So I want to talk about education and I want to talk about creativity . ||| Ich möchte also über Bildung und Kreativität sprechen .
+(2, 'Desiring') --- (1, 'Desiring')
+So I want to talk about education and I want to talk about creativity . ||| Ich möchte also über Bildung und Kreativität sprechen .
+(13, 'Coming_up_with') --- (7, 'Speak_on_topic')
+So I want to talk about education and I want to talk about creativity . ||| Ich möchte also über Bildung und Kreativität sprechen .
+(12, 'Topic') --- (7, 'Speak_on_topic')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+(1, 'Statement') --- (1, 'Opinion')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+(8, 'Importance') --- (8, 'Importance')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+(21, 'Identicality') --- (22, 'Evaluative_comparison')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+(5, 'Temporal_collocation') --- (5, 'Coming_up_with')
+Thank you very much . ||| Vielen Dank .
+(2, 'Degree') --- (1, 'Judgment_direct_address')
+So , 15 minutes left . ||| So , noch 15 Minuten Zeit .
+(3, 'Measure_duration') --- (4, 'Measure_duration')
+I heard a great story recently -- I love telling it -- of a little girl who was in a drawing lesson . ||| Ich habe vor kurzem eine tolle Geschichte gehört -- ich erzähle sie zu gern -- über ein kleines Mädchen , die in Zeichnen saß .
+(1, 'Hearsay') --- (1, 'Perception_experience')
+I heard a great story recently -- I love telling it -- of a little girl who was in a drawing lesson . ||| Ich habe vor kurzem eine tolle Geschichte gehört -- ich erzähle sie zu gern -- über ein kleines Mädchen , die in Zeichnen saß .
+(9, 'Statement') --- (10, 'Telling')
+I heard a great story recently -- I love telling it -- of a little girl who was in a drawing lesson . ||| Ich habe vor kurzem eine tolle Geschichte gehört -- ich erzähle sie zu gern -- über ein kleines Mädchen , die in Zeichnen saß .
+(5, 'Temporal_collocation') --- (6, 'Text')
+I heard a great story recently -- I love telling it -- of a little girl who was in a drawing lesson . ||| Ich habe vor kurzem eine tolle Geschichte gehört -- ich erzähle sie zu gern -- über ein kleines Mädchen , die in Zeichnen saß .
+(21, 'Education_teaching') --- (23, 'Posture')
+She was six , and she was at the back , drawing , and the teacher said this girl hardly ever paid attention , and in this drawing lesson , she did . ||| Sie war 6 und malte hinten in der letzten Reihe und die Lehrerin sagte , dass dieses kleine Mädchen fast nie aufpasste , außer in der Zeichenstunde .
+(15, 'Education_teaching') --- (13, 'Statement')
+She went over to her , and she said , ' What are you drawing ? ' ||| Die Lehrerin war fasziniert , ging zu ihr herüber und fragte : ' Was malst du denn da ? '
+(1, 'Motion') --- (1, 'Education_teaching')
+She went over to her , and she said , ' What are you drawing ? ' ||| Die Lehrerin war fasziniert , ging zu ihr herüber und fragte : ' Was malst du denn da ? '
+(8, 'Statement') --- (10, 'Questioning')
+And the girl said , ' I 'm drawing a picture of God . ' ||| Und das Mädchen sagte : ' Ich zeichne ein Bild von Gott . '
+(3, 'Statement') --- (3, 'Statement')
+And the girl said , ' I 'm drawing a picture of God . ' ||| Und das Mädchen sagte : ' Ich zeichne ein Bild von Gott . '
+(8, 'Create_physical_artwork') --- (7, 'Create_representation')
+And the girl said , ' I 'm drawing a picture of God . ' ||| Und das Mädchen sagte : ' Ich zeichne ein Bild von Gott . '
+(10, 'Physical_artworks') --- (9, 'Physical_artworks')
+And the teacher said , ' But nobody knows what God looks like . ' ||| Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+(3, 'Statement') --- (3, 'Statement')
+And the teacher said , ' But nobody knows what God looks like . ' ||| Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+(2, 'Education_teaching') --- (2, 'Education_teaching')
+And the teacher said , ' But nobody knows what God looks like . ' ||| Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+(8, 'Awareness') --- (8, 'Awareness')
+And the teacher said , ' But nobody knows what God looks like . ' ||| Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+(11, 'Give_impression') --- (11, 'Religious_belief')
+And the girl said , ' They will , in a minute . ' ||| Und das Mädchen antwortete : ' Gleich wissen sie es . '
+(3, 'Statement') --- (2, 'People_by_age')
+He was in the Nativity play . ||| Er spielte im Krippenspiel mit .
+(1, 'Performers_and_roles') --- (1, 'Performers_and_roles')
+But James got the part of Joseph , which we were thrilled about . ||| ' Die Geburt II ' James spielte den Joseph , worüber wir begeistert waren , weil wir das als eine der Hauptrollen betrachten .
+(2, 'Getting') --- (5, 'People')
+But James got the part of Joseph , which we were thrilled about . ||| ' Die Geburt II ' James spielte den Joseph , worüber wir begeistert waren , weil wir das als eine der Hauptrollen betrachten .
+(4, 'Performers_and_roles') --- (8, 'People')
+We considered this to be one of the lead parts . ||| ' Die Geburt II ' James spielte den Joseph , worüber wir begeistert waren , weil wir das als eine der Hauptrollen betrachten .
+(9, 'Performers_and_roles') --- (21, 'Performers_and_roles')
+We considered this to be one of the lead parts . ||| ' Die Geburt II ' James spielte den Joseph , worüber wir begeistert waren , weil wir das als eine der Hauptrollen betrachten .
+(8, 'Performers_and_roles') --- (19, 'Being_in_category')
+We had the place crammed full of agents in T-shirts : ||| Der Ort war voll gestopft von uns allen in T-Shirts : ' James Robinson IST Joseph . '
+(1, 'Have_associated') --- (3, 'Fullness')
+We had the place crammed full of agents in T-shirts : ||| Der Ort war voll gestopft von uns allen in T-Shirts : ' James Robinson IST Joseph . '
+(7, 'People_by_vocation') --- (12, 'People')
+We had the place crammed full of agents in T-shirts : ||| Der Ort war voll gestopft von uns allen in T-Shirts : ' James Robinson IST Joseph . '
+(8, 'Wearing') --- (14, 'Statement')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Er musste nicht reden , aber wissen Sie noch , der Teil , wo die drei Könige kommen ?
+(16, 'Arriving') --- (16, 'People_by_jurisdiction')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Er musste nicht reden , aber wissen Sie noch , der Teil , wo die drei Könige kommen ?
+(3, 'Required_event') --- (3, 'Text_creation')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Er musste nicht reden , aber wissen Sie noch , der Teil , wo die drei Könige kommen ?
+(15, 'Leadership') --- (15, 'Cardinal_numbers')
+They come in bearing gifts , gold , frankincense and myrrh . ||| Sie bringen Geschenke , Gold , Weihrauch und Myrrhe .
+(1, 'Arriving') --- (1, 'Giving')
+This really happened . ||| Das ist wirklich passiert .
+(2, 'Event') --- (3, 'Event')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Wir saßen da und ich glaube , sie vertauschten die Reihenfolge , weil wir hinterher fragten : ' War das okay für dich ?' und er : ' Ja .
+(9, 'Motion') --- (8, 'Bungling')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Wir saßen da und ich glaube , sie vertauschten die Reihenfolge , weil wir hinterher fragten : ' War das okay für dich ?' und er : ' Ja .
+(16, 'Discussion') --- (14, 'Time_vector')
+They just switched . ||| Sie hatten die Rollen getauscht .
+(2, 'Exchange') --- (4, 'Exchange')

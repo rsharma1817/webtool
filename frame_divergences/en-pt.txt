@@ -1,0 +1,1200 @@
+It 's been great , has n't it ? ||| Tem sido ótimo , não tem ?
+(3, 'Desirability') --- (2, 'Desirability')
+I 've been blown away by the whole thing . ||| Fiquei maravilhado com a coisa toda .
+(8, 'Entity') --- (5, 'Ranked_expectation')
+I 've been blown away by the whole thing . ||| Fiquei maravilhado com a coisa toda .
+(7, 'Ranked_expectation') --- (5, 'Ranked_expectation')
+In fact , I 'm leaving . ||| Na verdade , estou indo embora .
+(5, 'Departing') --- (5, 'Departing')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Existem três tópicos abordados ao longo da conferência que são relevantes para o que eu vou falar .
+(3, 'Cardinal_numbers') --- (3, 'Topic')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Existem três tópicos abordados ao longo da conferência que são relevantes para o que eu vou falar .
+(4, 'Topic') --- (3, 'Topic')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Existem três tópicos abordados ao longo da conferência que são relevantes para o que eu vou falar .
+(5, 'Fluidic_motion') --- (4, 'Temporal_collocation')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Existem três tópicos abordados ao longo da conferência que são relevantes para o que eu vou falar .
+(11, 'Being_relevant') --- (10, 'Being_relevant')
+There have been three themes running through the conference which are relevant to what I want to talk about . ||| Existem três tópicos abordados ao longo da conferência que são relevantes para o que eu vou falar .
+(8, 'Discussion') --- (7, 'Discussion')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| O primeiro é a extraordinária evidência da criatividade humana em todas as apresentações que tivemos e em todas as pessoas presentes .
+(12, 'Text') --- (10, 'Ranked_expectation')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| O primeiro é a extraordinária evidência da criatividade humana em todas as apresentações que tivemos e em todas as pessoas presentes .
+(4, 'Evidence') --- (4, 'Desirability')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| O primeiro é a extraordinária evidência da criatividade humana em todas as apresentações que tivemos e em todas as pessoas presentes .
+(22, 'People') --- (19, 'People')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| O primeiro é a extraordinária evidência da criatividade humana em todas as apresentações que tivemos e em todas as pessoas presentes .
+(23, 'Spatial_co-location') --- (20, 'Presence')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| O primeiro é a extraordinária evidência da criatividade humana em todas as apresentações que tivemos e em todas as pessoas presentes .
+(9, 'Quantified_mass') --- (10, 'Ranked_expectation')
+One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here . ||| O primeiro é a extraordinária evidência da criatividade humana em todas as apresentações que tivemos e em todas as pessoas presentes .
+(19, 'Quantified_mass') --- (17, 'Ranked_expectation')
+Just the variety of it and the range of it . ||| Sua variedade e multiplicidade .
+(7, 'Diversity') --- (3, 'Aggregate')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(6, 'Placing') --- (4, 'Event')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(15, 'Awareness') --- (10, 'Awareness')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(16, 'Entity') --- (11, 'Awareness')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(11, 'Spatial_co-location') --- (7, 'Negation')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(23, 'Domain') --- (15, 'Event')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(26, 'Temporal_collocation') --- (17, 'Temporal_collocation')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(14, 'Negation') --- (9, 'Awareness')
+The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future . ||| O segundo é o fato de que não fazemos a menor idéia do que vai acontecer no futuro .
+(13, 'Possession') --- (8, 'Awareness')
+No idea how this may play out . ||| Nenhuma idéia do que nos espera .
+(1, 'Awareness') --- (1, 'Awareness')
+No idea how this may play out . ||| Nenhuma idéia do que nos espera .
+(0, 'Negation') --- (0, 'Quantified_mass')
+I have an interest in education . ||| Eu me interesso por educação .
+(3, 'Emotion_directed') --- (2, 'Mental_stimulus_exp_focus')
+I have an interest in education . ||| Eu me interesso por educação .
+(5, 'Education_teaching') --- (4, 'Education_teaching')
+I have an interest in education . ||| Eu me interesso por educação .
+(1, 'Possession') --- (1, 'Mental_stimulus_exp_focus')
+Actually , what I find is everybody has an interest in education . ||| Na verdade , eu descobri que todo mundo se interessa por educação .
+(4, 'Becoming_aware') --- (4, 'Becoming_aware')
+Actually , what I find is everybody has an interest in education . ||| Na verdade , eu descobri que todo mundo se interessa por educação .
+(9, 'Emotion_directed') --- (9, 'Mental_stimulus_exp_focus')
+Actually , what I find is everybody has an interest in education . ||| Na verdade , eu descobri que todo mundo se interessa por educação .
+(11, 'Education_teaching') --- (11, 'Education_teaching')
+I find this very interesting . ||| Eu acho isso muito interessante .
+(4, 'Mental_stimulus_stimulus_focus') --- (4, 'Mental_stimulus_stimulus_focus')
+I find this very interesting . ||| Eu acho isso muito interessante .
+(1, 'Regard') --- (1, 'Regard')
+I find this very interesting . ||| Eu acho isso muito interessante .
+(3, 'Degree') --- (3, 'Degree')
+If you 're at a dinner party , and you say you work in education -- ||| Se você estiver numa festa e disser que trabalha com educação ...
+(0, 'Conditional_occurrence') --- (0, 'Conditional_occurrence')
+If you 're at a dinner party , and you say you work in education -- ||| Se você estiver numa festa e disser que trabalha com educação ...
+(14, 'Education_teaching') --- (10, 'Education_teaching')
+If you 're at a dinner party , and you say you work in education -- ||| Se você estiver numa festa e disser que trabalha com educação ...
+(13, 'Fields') --- (10, 'Education_teaching')
+If you 're at a dinner party , and you say you work in education -- ||| Se você estiver numa festa e disser que trabalha com educação ...
+(5, 'Social_event') --- (3, 'Spatial_contact')
+If you 're at a dinner party , and you say you work in education -- ||| Se você estiver numa festa e disser que trabalha com educação ...
+(6, 'Social_event') --- (4, 'Social_event')
+Actually , you 're not often at dinner parties , frankly . ||| Na verdade , você não vai a muitas festas se trabalha com educação .
+(6, 'Spatial_co-location') --- (7, 'Quantified_mass')
+Actually , you 're not often at dinner parties , frankly . ||| Na verdade , você não vai a muitas festas se trabalha com educação .
+(4, 'Negation') --- (5, 'Attending')
+Actually , you 're not often at dinner parties , frankly . ||| Na verdade , você não vai a muitas festas se trabalha com educação .
+(7, 'Social_event') --- (8, 'Social_event')
+Actually , you 're not often at dinner parties , frankly . ||| Na verdade , você não vai a muitas festas se trabalha com educação .
+(8, 'Social_event') --- (10, 'Being_employed')
+If you work in education , you 're not asked . ||| Não é convidado .
+(8, 'Negation') --- (2, 'Have_visitor_over')
+If you work in education , you 're not asked . ||| Não é convidado .
+(0, 'Conditional_occurrence') --- (0, 'Negation')
+If you work in education , you 're not asked . ||| Não é convidado .
+(2, 'Being_employed') --- (0, 'Negation')
+And you 're never asked back , curiously . ||| E curiosamente ninguém te convida de novo .
+(7, 'Typicality') --- (6, 'Event_instance')
+And you 're never asked back , curiously . ||| E curiosamente ninguém te convida de novo .
+(5, 'Locative_relation') --- (4, 'Have_visitor_over')
+' My one night out all week . ' ||| Elas pensam : ' Ai meu Deus ! Por que eu ? Logo hoje que eu saí de casa . '
+(3, 'Calendric_unit') --- (8, 'Reason')
+' My one night out all week . ' ||| Elas pensam : ' Ai meu Deus ! Por que eu ? Logo hoje que eu saí de casa . '
+(6, 'Calendric_unit') --- (16, 'Departing')
+But if you ask about their education , they pin you to the wall . ||| Mas se você perguntar sobre a educação deles , eles te põem contra a parede .
+(3, 'Questioning') --- (3, 'Questioning')
+But if you ask about their education , they pin you to the wall . ||| Mas se você perguntar sobre a educação deles , eles te põem contra a parede .
+(1, 'Conditional_occurrence') --- (1, 'Conditional_occurrence')
+But if you ask about their education , they pin you to the wall . ||| Mas se você perguntar sobre a educação deles , eles te põem contra a parede .
+(13, 'Architectural_part') --- (14, 'Attempt_suasion')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(0, 'Causation') --- (0, 'Causation')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(8, 'Motion') --- (10, 'Correctness')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(11, 'People') --- (13, 'Religious_belief')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(15, 'Correctness') --- (18, 'Entity')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(4, 'Partitive') --- (5, 'Presence')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(6, 'Entity') --- (7, 'People')
+Because it 's one of those things that goes deep with people , am I right ? ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(3, 'Cardinal_numbers') --- (4, 'Entity')
+Like religion , and money and other things . ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(4, 'Money') --- (10, 'Correctness')
+Like religion , and money and other things . ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(7, 'Entity') --- (17, 'Increment')
+Like religion , and money and other things . ||| Porque é uma dessas coisas arraigadas nas pessoas , estou certo ? Como religião , dinheiro e outras coisas .
+(6, 'Increment') --- (15, 'Money')
+So I have a big interest in education , and I think we all do . ||| Eu tenho um grande interesse em educação , e acho que todos temos .
+(5, 'Emotion_directed') --- (4, 'Mental_stimulus_exp_focus')
+So I have a big interest in education , and I think we all do . ||| Eu tenho um grande interesse em educação , e acho que todos temos .
+(7, 'Education_teaching') --- (6, 'Education_teaching')
+So I have a big interest in education , and I think we all do . ||| Eu tenho um grande interesse em educação , e acho que todos temos .
+(11, 'Awareness') --- (9, 'Opinion')
+So I have a big interest in education , and I think we all do . ||| Eu tenho um grande interesse em educação , e acho que todos temos .
+(4, 'Size') --- (3, 'Notability')
+So I have a big interest in education , and I think we all do . ||| Eu tenho um grande interesse em educação , e acho que todos temos .
+(13, 'Quantified_mass') --- (11, 'People')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Nos interessamos tanto por ela em parte porque é da educação o papel de nos conduzir a esse futuro misterioso .
+(27, 'Grasp') --- (19, 'Certainty')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Nos interessamos tanto por ela em parte porque é da educação o papel de nos conduzir a esse futuro misterioso .
+(25, 'Capability') --- (18, 'Temporal_collocation')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Nos interessamos tanto por ela em parte porque é da educação o papel de nos conduzir a esse futuro misterioso .
+(10, 'Causation') --- (7, 'Causation')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Nos interessamos tanto por ela em parte porque é da educação o papel de nos conduzir a esse futuro misterioso .
+(3, 'Size') --- (2, 'Degree')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Nos interessamos tanto por ela em parte porque é da educação o papel de nos conduzir a esse futuro misterioso .
+(9, 'Degree') --- (6, 'Degree')
+We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp . ||| Nos interessamos tanto por ela em parte porque é da educação o papel de nos conduzir a esse futuro misterioso .
+(1, 'Possession') --- (0, 'Mental_stimulus_exp_focus')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(2, 'Cogitation') --- (2, 'Cogitation')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(6, 'People_by_age') --- (6, 'Activity_start')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(10, 'Calendric_unit') --- (10, 'Calendric_unit')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(13, 'Quitting') --- (13, 'Quitting')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(8, 'Locale_by_use') --- (8, 'Locale_by_use')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(0, 'Conditional_occurrence') --- (0, 'Conditional_occurrence')
+If you think of it , children starting school this year will be retiring in 2065 . ||| Se formos pensar , as crianças entrando na escola esse ano estarão se aposentando em 2065 .
+(14, 'Temporal_collocation') --- (14, 'Temporal_collocation')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(13, 'Mass_motion') --- (10, 'Temporal_collocation')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(3, 'Awareness') --- (2, 'Awareness')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(8, 'Expertise') --- (6, 'Quantified_mass')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(5, 'Concessive') --- (4, 'Concessive')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(16, 'Relative_time') --- (13, 'Calendric_unit')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(14, 'Duration_relation') --- (11, 'Relative_time')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(27, 'Cardinal_numbers') --- (22, 'Cardinal_numbers')
+Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time . ||| Ninguém tem noção , apesar de todo conhecimento que vimos nos últimos quatro dias , de como o mundo vai estar em cinco anos .
+(6, 'Quantified_mass') --- (5, 'Concessive')
+And yet we 're meant to be educating them for it . ||| E ainda assim devemos educá-los para esse mundo .
+(4, 'Purpose') --- (3, 'Required_event')
+So the unpredictability , I think , is extraordinary . ||| A imprevisibilidade , pra mim , é extraordinária .
+(8, 'Stimulus_focus') --- (7, 'Desirability')
+I mean , Sirena last night was a marvel , was n't she ? ||| Sirena ontem a noite foi uma maravilha , não foi ?
+(8, 'Stimulus_focus') --- (6, 'Desirability')
+Just seeing what she could do . ||| Ver do que ela é capaz .
+(5, 'Intentionally_act') --- (5, 'Capability')
+And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood . ||| Ela é excepcional , mas não acho , por assim dizer , que seja uma exceção entre todas as crianças .
+(21, 'Age') --- (19, 'People_by_age')
+What you have there is a person of extraordinary dedication who found a talent . ||| O que vemos ali é uma pessoa de extrema dedicação que achou seu talento .
+(8, 'Desirability') --- (8, 'Degree')
+What you have there is a person of extraordinary dedication who found a talent . ||| O que vemos ali é uma pessoa de extrema dedicação que achou seu talento .
+(6, 'People') --- (6, 'People')
+What you have there is a person of extraordinary dedication who found a talent . ||| O que vemos ali é uma pessoa de extrema dedicação que achou seu talento .
+(2, 'Have_associated') --- (2, 'Scrutiny')
+What you have there is a person of extraordinary dedication who found a talent . ||| O que vemos ali é uma pessoa de extrema dedicação que achou seu talento .
+(11, 'Locating') --- (11, 'Becoming_aware')
+What you have there is a person of extraordinary dedication who found a talent . ||| O que vemos ali é uma pessoa de extrema dedicação que achou seu talento .
+(13, 'Capability') --- (13, 'Capability')
+And my contention is , all kids have tremendous talents . ||| Minha convicção é que todas as crianças têm um talento tremendo .
+(6, 'People_by_age') --- (7, 'Possession')
+And my contention is , all kids have tremendous talents . ||| Minha convicção é que todas as crianças têm um talento tremendo .
+(8, 'Size') --- (9, 'Capability')
+And my contention is , all kids have tremendous talents . ||| Minha convicção é que todas as crianças têm um talento tremendo .
+(9, 'Capability') --- (10, 'Desirability')
+And my contention is , all kids have tremendous talents . ||| Minha convicção é que todas as crianças têm um talento tremendo .
+(5, 'Quantified_mass') --- (6, 'People_by_age')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(4, 'Statement') --- (4, 'Statement')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(11, 'Statement') --- (9, 'Statement')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(6, 'Education_teaching') --- (5, 'Topic')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(9, 'Desiring') --- (8, 'Desiring')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(0, 'Causation') --- (0, 'Reason')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(13, 'Coming_up_with') --- (11, 'Mental_property')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(5, 'Topic') --- (5, 'Topic')
+So I want to talk about education and I want to talk about creativity . ||| Por isso eu quero falar sobre educação e quero falar sobre criatividade .
+(12, 'Topic') --- (10, 'Topic')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Minha convicção é que a criatividade hoje é tão importante na educação como a alfabetização , e deve ser tratada com a mesma importância .
+(1, 'Statement') --- (1, 'Verdict')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Minha convicção é que a criatividade hoje é tão importante na educação como a alfabetização , e deve ser tratada com a mesma importância .
+(8, 'Importance') --- (8, 'Degree')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Minha convicção é que a criatividade hoje é tão importante na educação como a alfabetização , e deve ser tratada com a mesma importância .
+(10, 'Education_teaching') --- (10, 'Spatial_contact')
+My contention is that creativity now is as important in education as literacy , and we should treat it with the same status . ||| Minha convicção é que a criatividade hoje é tão importante na educação como a alfabetização , e deve ser tratada com a mesma importância .
+(21, 'Identicality') --- (22, 'Similarity')
+Thank you very much . ||| Muito obrigado .
+(2, 'Degree') --- (1, 'Judgment_direct_address')
+So , 15 minutes left . ||| Então ... Quinze minutos sobrando .
+(4, 'Remainder') --- (4, 'Left_to_do')
+So , 15 minutes left . ||| Então ... Quinze minutos sobrando .
+(3, 'Measure_duration') --- (3, 'Measure_duration')
+The teacher was fascinated . ||| A professora ficou fascinada , foi até ela e perguntou : ' O que você está desenhando ? '
+(1, 'Education_teaching') --- (8, 'Relation')
+She went over to her , and she said , ' What are you drawing ? ' ||| A professora ficou fascinada , foi até ela e perguntou : ' O que você está desenhando ? '
+(1, 'Motion') --- (1, 'Education_teaching')
+She went over to her , and she said , ' What are you drawing ? ' ||| A professora ficou fascinada , foi até ela e perguntou : ' O que você está desenhando ? '
+(8, 'Statement') --- (9, 'Questioning')
+She went over to her , and she said , ' What are you drawing ? ' ||| A professora ficou fascinada , foi até ela e perguntou : ' O que você está desenhando ? '
+(14, 'Create_representation') --- (16, 'Create_physical_artwork')
+And the girl said , ' I 'm drawing a picture of God . ' ||| E a menina respondeu : ' Estou desenhando Deus . '
+(3, 'Statement') --- (2, 'People_by_age')
+And the girl said , ' I 'm drawing a picture of God . ' ||| E a menina respondeu : ' Estou desenhando Deus . '
+(10, 'Physical_artworks') --- (7, 'Create_physical_artwork')
+And the teacher said , ' But nobody knows what God looks like . ' ||| E a professora disse : ' Mas ninguém conhece a aparência de Deus . '
+(3, 'Statement') --- (3, 'Statement')
+And the teacher said , ' But nobody knows what God looks like . ' ||| E a professora disse : ' Mas ninguém conhece a aparência de Deus . '
+(2, 'Education_teaching') --- (2, 'Education_teaching')
+And the teacher said , ' But nobody knows what God looks like . ' ||| E a professora disse : ' Mas ninguém conhece a aparência de Deus . '
+(8, 'Awareness') --- (8, 'Familiarity')
+And the teacher said , ' But nobody knows what God looks like . ' ||| E a professora disse : ' Mas ninguém conhece a aparência de Deus . '
+(12, 'Similarity') --- (12, 'Entity')
+And the girl said , ' They will , in a minute . ' ||| E a menina disse : ' Vão conhecer num minuto . '
+(3, 'Statement') --- (2, 'People_by_age')
+And the girl said , ' They will , in a minute . ' ||| E a menina disse : ' Vão conhecer num minuto . '
+(9, 'Temporal_collocation') --- (8, 'Temporal_collocation')
+And the girl said , ' They will , in a minute . ' ||| E a menina disse : ' Vão conhecer num minuto . '
+(11, 'Measure_duration') --- (9, 'Measure_duration')
+When my son was four in England -- ||| Quando meu filho tinha quatro anos na Inglaterra ...
+(2, 'Kinship') --- (2, 'Kinship')
+When my son was four in England -- ||| Quando meu filho tinha quatro anos na Inglaterra ...
+(0, 'Temporal_collocation') --- (0, 'Temporal_collocation')
+When my son was four in England -- ||| Quando meu filho tinha quatro anos na Inglaterra ...
+(4, 'Cardinal_numbers') --- (5, 'Measure_duration')
+When my son was four in England -- ||| Quando meu filho tinha quatro anos na Inglaterra ...
+(5, 'Interior_profile_relation') --- (6, 'Spatial_contact')
+Actually , he was four everywhere , to be honest . ||| Na verdade ela tinha quatro anos em qualquer lugar , pra ser sincero .
+(4, 'Cardinal_numbers') --- (5, 'Measure_duration')
+If we 're being strict about it , wherever he went , he was four that year . ||| Para sermos exatos , onde quer que ele fosse , ele tinha quatro anos na ocasião .
+(0, 'Conditional_occurrence') --- (0, 'Purpose')
+If we 're being strict about it , wherever he went , he was four that year . ||| Para sermos exatos , onde quer que ele fosse , ele tinha quatro anos na ocasião .
+(16, 'Calendric_unit') --- (15, 'Event_instance')
+If we 're being strict about it , wherever he went , he was four that year . ||| Para sermos exatos , onde quer que ele fosse , ele tinha quatro anos na ocasião .
+(14, 'Cardinal_numbers') --- (13, 'Measure_duration')
+He was in the Nativity play . ||| Ele estava numa peça de Natal .
+(5, 'Performing_arts') --- (5, 'Commemorative')
+Do you remember the story ? ||| Se lembram da história ?
+(2, 'Memory') --- (1, 'Memory')
+But James got the part of Joseph , which we were thrilled about . ||| Mas o James ganhou o papel de José , o que nos deixou empolgados .
+(11, 'Emotion_directed') --- (12, 'Cause_emotion')
+But James got the part of Joseph , which we were thrilled about . ||| Mas o James ganhou o papel de José , o que nos deixou empolgados .
+(0, 'Concessive') --- (0, 'Concessive')
+We considered this to be one of the lead parts . ||| A gente considerava ser um dos protagonistas .
+(5, 'Cardinal_numbers') --- (3, 'Performers_and_roles')
+We considered this to be one of the lead parts . ||| A gente considerava ser um dos protagonistas .
+(9, 'Performers_and_roles') --- (6, 'People_by_vocation')
+We considered this to be one of the lead parts . ||| A gente considerava ser um dos protagonistas .
+(8, 'Performers_and_roles') --- (6, 'People_by_vocation')
+We had the place crammed full of agents in T-shirts : ||| Lotamos o teatro com representantes usando camisetas : ' James Robinson É José ! '
+(1, 'Have_associated') --- (2, 'Buildings')
+We had the place crammed full of agents in T-shirts : ||| Lotamos o teatro com representantes usando camisetas : ' James Robinson É José ! '
+(4, 'Filling') --- (6, 'Clothing')
+We had the place crammed full of agents in T-shirts : ||| Lotamos o teatro com representantes usando camisetas : ' James Robinson É José ! '
+(8, 'Wearing') --- (11, 'Performers_and_roles')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Ele não tinha nenhuma fala , mas vocês conhecem a parte onde chegam os Reis Magos .
+(16, 'Arriving') --- (14, 'People_by_vocation')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Ele não tinha nenhuma fala , mas vocês conhecem a parte onde chegam os Reis Magos .
+(5, 'Statement') --- (4, 'Statement')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Ele não tinha nenhuma fala , mas vocês conhecem a parte onde chegam os Reis Magos .
+(3, 'Required_event') --- (3, 'Quantified_mass')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Ele não tinha nenhuma fala , mas vocês conhecem a parte onde chegam os Reis Magos .
+(4, 'Required_event') --- (3, 'Quantified_mass')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Ele não tinha nenhuma fala , mas vocês conhecem a parte onde chegam os Reis Magos .
+(9, 'Familiarity') --- (8, 'Awareness')
+He did n't have to speak , but you know the bit where the three kings come in ? ||| Ele não tinha nenhuma fala , mas vocês conhecem a parte onde chegam os Reis Magos .
+(14, 'Cardinal_numbers') --- (12, 'Arriving')
+They come in bearing gifts , gold , frankincense and myrrh . ||| Eles carregam presentes , e trazem ouro , incenso e mirra .
+(1, 'Arriving') --- (1, 'Bringing')
+They come in bearing gifts , gold , frankincense and myrrh . ||| Eles carregam presentes , e trazem ouro , incenso e mirra .
+(4, 'Giving') --- (4, 'Relation')
+This really happened . ||| Isso aconteceu de verdade .
+(2, 'Event') --- (3, 'Manner')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Estávamos lá sentados e eu acho que eles não seguiram a ordem porque nós conversamos com o garotinho depois e perguntamos : ' Tudo certo ? '
+(2, 'Posture') --- (1, 'Spatial_co-location')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Estávamos lá sentados e eu acho que eles não seguiram a ordem porque nós conversamos com o garotinho depois e perguntamos : ' Tudo certo ? '
+(24, 'Statement') --- (20, 'Questioning')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Estávamos lá sentados e eu acho que eles não seguiram a ordem porque nós conversamos com o garotinho depois e perguntamos : ' Tudo certo ? '
+(6, 'Opinion') --- (5, 'Opinion')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Estávamos lá sentados e eu acho que eles não seguiram a ordem porque nós conversamos com o garotinho depois e perguntamos : ' Tudo certo ? '
+(14, 'Causation') --- (11, 'Request')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Estávamos lá sentados e eu acho que eles não seguiram a ordem porque nós conversamos com o garotinho depois e perguntamos : ' Tudo certo ? '
+(19, 'Size') --- (15, 'Accompaniment')
+We were sitting there and I think they just went out of sequence , because we talked to the little boy afterward and we said , ' You OK with that ? ' ||| Estávamos lá sentados e eu acho que eles não seguiram a ordem porque nós conversamos com o garotinho depois e perguntamos : ' Tudo certo ? '
+(21, 'Time_vector') --- (17, 'People_by_age')
+And he said , ' Yeah , why ? Was that wrong ? ' ||| E ele disse : ' Claro ! Por quê ? Estava errado ? '
+(2, 'Statement') --- (2, 'Statement')
+And he said , ' Yeah , why ? Was that wrong ? ' ||| E ele disse : ' Claro ! Por quê ? Estava errado ? '
+(11, 'Correctness') --- (11, 'Morality_evaluation')
+They just switched . ||| Eles trocaram a ordem , só isso .
+(2, 'Exchange') --- (5, 'Sole_instance')
+And the second boy said , ' I bring you myrrh . ' ||| O segundo garoto disse : ' Eu trago mirra . '
+(4, 'Statement') --- (3, 'Statement')
+And the second boy said , ' I bring you myrrh . ' ||| O segundo garoto disse : ' Eu trago mirra . '
+(2, 'Ordinal_numbers') --- (2, 'People_by_age')
+And the second boy said , ' I bring you myrrh . ' ||| O segundo garoto disse : ' Eu trago mirra . '
+(3, 'People_by_age') --- (2, 'People_by_age')
+And the second boy said , ' I bring you myrrh . ' ||| O segundo garoto disse : ' Eu trago mirra . '
+(8, 'Bringing') --- (7, 'Bringing')
+And the third boy said , ' Frank sent this . ' ||| E o terceiro garoto disse : ' O Frank mandou isso . '
+(4, 'Statement') --- (4, 'Statement')
+And the third boy said , ' Frank sent this . ' ||| E o terceiro garoto disse : ' O Frank mandou isso . '
+(2, 'Ordinal_numbers') --- (2, 'Ordinal_numbers')
+And the third boy said , ' Frank sent this . ' ||| E o terceiro garoto disse : ' O Frank mandou isso . '
+(8, 'Sending') --- (9, 'Sending')
+And the third boy said , ' Frank sent this . ' ||| E o terceiro garoto disse : ' O Frank mandou isso . '
+(3, 'People_by_age') --- (3, 'People_by_age')
+What these things have in common is that kids will take a chance . ||| O que essas histórias tem em comum é que as crianças correm riscos .
+(4, 'Commonality') --- (4, 'Possession')
+What these things have in common is that kids will take a chance . ||| O que essas histórias tem em comum é que as crianças correm riscos .
+(12, 'Daring') --- (12, 'Run_risk')
+If they do n't know , they 'll have a go . ||| Se elas não sabem , elas chutam .
+(0, 'Conditional_occurrence') --- (0, 'Conditional_occurrence')
+If they do n't know , they 'll have a go . ||| Se elas não sabem , elas chutam .
+(4, 'Awareness') --- (2, 'Negation')
+If they do n't know , they 'll have a go . ||| Se elas não sabem , elas chutam .
+(10, 'Attempt') --- (6, 'Coming_to_believe')
+Am I right ? ||| Estou certo ?
+(2, 'Correctness') --- (1, 'Correctness')
+They 're not frightened of being wrong . ||| Elas não tem medo de errar .
+(2, 'Negation') --- (2, 'Possession')
+They 're not frightened of being wrong . ||| Elas não tem medo de errar .
+(6, 'Correctness') --- (5, 'Judgment')
+They 're not frightened of being wrong . ||| Elas não tem medo de errar .
+(3, 'Fear') --- (2, 'Possession')
+I do n't mean to say that being wrong is the same thing as being creative . ||| Não estou dizendo que estar errado é o mesmo que ser criativo .
+(3, 'Purpose') --- (2, 'Statement')
+I do n't mean to say that being wrong is the same thing as being creative . ||| Não estou dizendo que estar errado é o mesmo que ser criativo .
+(11, 'Identicality') --- (8, 'Similarity')
+And by the time they get to be adults , most kids have lost that capacity . ||| E quando chegam a fase adulta , a maioria das crianças perdeu essa capacidade .
+(11, 'People_by_age') --- (10, 'People_by_age')
+And by the time they get to be adults , most kids have lost that capacity . ||| E quando chegam a fase adulta , a maioria das crianças perdeu essa capacidade .
+(15, 'Capability') --- (13, 'Capability')
+And by the time they get to be adults , most kids have lost that capacity . ||| E quando chegam a fase adulta , a maioria das crianças perdeu essa capacidade .
+(3, 'Event_instance') --- (3, 'Goal')
+And by the time they get to be adults , most kids have lost that capacity . ||| E quando chegam a fase adulta , a maioria das crianças perdeu essa capacidade .
+(13, 'Losing') --- (11, 'Losing')
+And by the time they get to be adults , most kids have lost that capacity . ||| E quando chegam a fase adulta , a maioria das crianças perdeu essa capacidade .
+(10, 'Proportional_quantity') --- (9, 'Partitive')
+They have become frightened of being wrong . ||| Elas têm pavor de estarem erradas .
+(2, 'Becoming') --- (2, 'Fear')
+They have become frightened of being wrong . ||| Elas têm pavor de estarem erradas .
+(6, 'Correctness') --- (5, 'Morality_evaluation')
+And we run our companies like this . ||| E as empresas são administradas assim , por sinal .
+(4, 'Businesses') --- (5, 'Causation')
+And we 're now running national education systems where mistakes are the worst thing you can make . ||| E hoje administramos os sistemas educacionais de um jeito em que errar é a pior coisa que pode acontecer .
+(6, 'Education_teaching') --- (7, 'Manner')
+And we 're now running national education systems where mistakes are the worst thing you can make . ||| E hoje administramos os sistemas educacionais de um jeito em que errar é a pior coisa que pode acontecer .
+(15, 'Capability') --- (17, 'Possibility')
+And we 're now running national education systems where mistakes are the worst thing you can make . ||| E hoje administramos os sistemas educacionais de um jeito em que errar é a pior coisa que pode acontecer .
+(5, 'Political_locales') --- (6, 'Manner')
+And we 're now running national education systems where mistakes are the worst thing you can make . ||| E hoje administramos os sistemas educacionais de um jeito em que errar é a pior coisa que pode acontecer .
+(3, 'Temporal_collocation') --- (4, 'System')
+And we 're now running national education systems where mistakes are the worst thing you can make . ||| E hoje administramos os sistemas educacionais de um jeito em que errar é a pior coisa que pode acontecer .
+(4, 'Operating_a_system') --- (5, 'Education_teaching')
+And we 're now running national education systems where mistakes are the worst thing you can make . ||| E hoje administramos os sistemas educacionais de um jeito em que errar é a pior coisa que pode acontecer .
+(7, 'System') --- (8, 'Manner')
+And the result is that we are educating people out of their creative capacities . ||| O resultado disso é que estamos educando as pessoas para serem menos criativas .
+(7, 'Education_teaching') --- (6, 'Education_teaching')
+And the result is that we are educating people out of their creative capacities . ||| O resultado disso é que estamos educando as pessoas para serem menos criativas .
+(13, 'Capability') --- (12, 'Mental_property')
+And the result is that we are educating people out of their creative capacities . ||| O resultado disso é que estamos educando as pessoas para serem menos criativas .
+(9, 'Locative_relation') --- (8, 'People')
+Picasso once said this , he said that all children are born artists . ||| Picasso disse uma vez que todas as crianças nascem artistas .
+(2, 'Statement') --- (1, 'Statement')
+Picasso once said this , he said that all children are born artists . ||| Picasso disse uma vez que todas as crianças nascem artistas .
+(11, 'Being_born') --- (8, 'Being_born')
+Picasso once said this , he said that all children are born artists . ||| Picasso disse uma vez que todas as crianças nascem artistas .
+(9, 'People_by_age') --- (7, 'People_by_age')
+Picasso once said this , he said that all children are born artists . ||| Picasso disse uma vez que todas as crianças nascem artistas .
+(1, 'Event_instance') --- (1, 'Statement')
+Picasso once said this , he said that all children are born artists . ||| Picasso disse uma vez que todas as crianças nascem artistas .
+(12, 'People_by_vocation') --- (9, 'Mental_property')
+The problem is to remain an artist as we grow up . ||| O problema é permanecer artista enquanto crescemos .
+(7, 'Temporal_collocation') --- (4, 'Mental_property')
+The problem is to remain an artist as we grow up . ||| O problema é permanecer artista enquanto crescemos .
+(6, 'People_by_vocation') --- (4, 'Mental_property')
+The problem is to remain an artist as we grow up . ||| O problema é permanecer artista enquanto crescemos .
+(9, 'Aging') --- (6, 'Transition_to_state')
+The problem is to remain an artist as we grow up . ||| O problema é permanecer artista enquanto crescemos .
+(10, 'Aging') --- (6, 'Transition_to_state')
+I believe this passionately , that we do n't grow into creativity , we grow out of it . ||| Eu acredito apaixonadamente que não aumentamos nossa criatividade , a diminuímos .
+(11, 'Coming_up_with') --- (7, 'Mental_property')
+I lived in Stratford-on-Avon until about five years ago . ||| Eu morei em Stratford-on-Avon até cinco anos atrás .
+(1, 'Residence') --- (1, 'Residence')
+I lived in Stratford-on-Avon until about five years ago . ||| Eu morei em Stratford-on-Avon até cinco anos atrás .
+(8, 'Time_vector') --- (7, 'Time_vector')
+I lived in Stratford-on-Avon until about five years ago . ||| Eu morei em Stratford-on-Avon até cinco anos atrás .
+(2, 'Interior_profile_relation') --- (2, 'Spatial_contact')
+I lived in Stratford-on-Avon until about five years ago . ||| Eu morei em Stratford-on-Avon até cinco anos atrás .
+(6, 'Cardinal_numbers') --- (5, 'Cardinal_numbers')
+I lived in Stratford-on-Avon until about five years ago . ||| Eu morei em Stratford-on-Avon até cinco anos atrás .
+(5, 'Proportional_quantity') --- (4, 'Time_vector')
+I lived in Stratford-on-Avon until about five years ago . ||| Eu morei em Stratford-on-Avon até cinco anos atrás .
+(7, 'Measure_duration') --- (6, 'Calendric_unit')
+In fact , we moved from Stratford to Los Angeles . ||| Na realidade , mudamos de Stratford para Los Angeles .
+(4, 'Motion') --- (4, 'Origin')
+So you can imagine what a seamless transition that was . ||| Vocês podem imaginar a mudança suave que foi .
+(2, 'Capability') --- (1, 'Capability')
+So you can imagine what a seamless transition that was . ||| Vocês podem imaginar a mudança suave que foi .
+(3, 'Awareness') --- (2, 'Awareness')
+Actually , we lived in a place called Snitterfield , just outside Stratford , which is where Shakespeare 's father was born . ||| Na verdade , nós moramos numa cidade chamada Snitterfield , na periferia de Stratford , que foi onde o pai do Shakespeare nasceu .
+(6, 'Locale') --- (6, 'Political_locales')
+Actually , we lived in a place called Snitterfield , just outside Stratford , which is where Shakespeare 's father was born . ||| Na verdade , nós moramos numa cidade chamada Snitterfield , na periferia de Stratford , que foi onde o pai do Shakespeare nasceu .
+(21, 'Being_born') --- (22, 'Being_born')
+Are you struck by a new thought ? ||| Vocês tiveram um estalo ?
+(2, 'Cognitive_impact') --- (1, 'Possession')
+Are you struck by a new thought ? ||| Vocês tiveram um estalo ?
+(5, 'Familiarity') --- (3, 'Sounds')
+Are you struck by a new thought ? ||| Vocês tiveram um estalo ?
+(6, 'Cogitation') --- (3, 'Sounds')
+You do n't think of Shakespeare having a father , do you ? ||| Você nunca pensou que Shakespeare teve um pai , pensou ?
+(8, 'Kinship') --- (7, 'Kinship')
+You do n't think of Shakespeare having a father , do you ? ||| Você nunca pensou que Shakespeare teve um pai , pensou ?
+(6, 'Have_associated') --- (5, 'Possession')
+Because you do n't think of Shakespeare being a child , do you ? ||| Porque você nunca pensou no Shakespeare criança , pensou ?
+(0, 'Causation') --- (0, 'Causation')
+Because you do n't think of Shakespeare being a child , do you ? ||| Porque você nunca pensou no Shakespeare criança , pensou ?
+(4, 'Awareness') --- (2, 'Negation')
+Because you do n't think of Shakespeare being a child , do you ? ||| Porque você nunca pensou no Shakespeare criança , pensou ?
+(9, 'People_by_age') --- (6, 'People_by_age')
+Shakespeare being seven ? ||| Shakespeare com sete anos ?
+(2, 'Cardinal_numbers') --- (3, 'Measure_duration')
+I never thought of it . ||| Eu nunca tinha pensado .
+(2, 'Awareness') --- (1, 'Negation')
+I never thought of it . ||| Eu nunca tinha pensado .
+(1, 'Negation') --- (1, 'Negation')
+I mean , he was seven at some point . ||| Quero dizer , ele algum dia teve sete anos .
+(6, 'Temporal_collocation') --- (6, 'Possession')
+I mean , he was seven at some point . ||| Quero dizer , ele algum dia teve sete anos .
+(5, 'Cardinal_numbers') --- (5, 'Measure_duration')
+I mean , he was seven at some point . ||| Quero dizer , ele algum dia teve sete anos .
+(8, 'Locale') --- (8, 'Measure_duration')
+He was in somebody 's English class , was n't he ? ||| E aprendeu inglês na aula de alguém , não aprendeu ?
+(2, 'Interior_profile_relation') --- (2, 'Fields')
+He was in somebody 's English class , was n't he ? ||| E aprendeu inglês na aula de alguém , não aprendeu ?
+(3, 'People') --- (3, 'Spatial_contact')
+' Must try harder . ' ||| ' Se esforce mais . '
+(2, 'Attempt') --- (2, 'Attempt')
+Being sent to bed by his dad , you know , to Shakespeare , ' Go to bed , now ! ||| Ser mandado para cama com o pai dizendo ' Para cama , agora !' , para William Shakespeare .
+(1, 'Sending') --- (1, 'Sending')
+' And stop speaking like that . ' ||| ' Larga esse lápis.E para de falar desse jeito.Ninguém entende nada . '
+(3, 'Statement') --- (6, 'Statement')
+' And stop speaking like that . ' ||| ' Larga esse lápis.E para de falar desse jeito.Ninguém entende nada . '
+(2, 'Activity_stop') --- (4, 'Activity_stop')
+Anyway , we moved from Stratford to Los Angeles , and I just want to say a word about the transition . ||| Enfim , nos mudamos de Stratford para Los Angeles , e eu só quero dizer uma coisa sobre essa transição .
+(3, 'Motion') --- (3, 'Motion')
+Anyway , we moved from Stratford to Los Angeles , and I just want to say a word about the transition . ||| Enfim , nos mudamos de Stratford para Los Angeles , e eu só quero dizer uma coisa sobre essa transição .
+(15, 'Statement') --- (14, 'Statement')
+Anyway , we moved from Stratford to Los Angeles , and I just want to say a word about the transition . ||| Enfim , nos mudamos de Stratford para Los Angeles , e eu só quero dizer uma coisa sobre essa transição .
+(13, 'Desiring') --- (12, 'Sole_instance')
+Anyway , we moved from Stratford to Los Angeles , and I just want to say a word about the transition . ||| Enfim , nos mudamos de Stratford para Los Angeles , e eu só quero dizer uma coisa sobre essa transição .
+(18, 'Topic') --- (17, 'Topic')
+Anyway , we moved from Stratford to Los Angeles , and I just want to say a word about the transition . ||| Enfim , nos mudamos de Stratford para Los Angeles , e eu só quero dizer uma coisa sobre essa transição .
+(20, 'Undergo_change') --- (19, 'Undergo_change')
+My son did n't want to come . ||| Meu filho não queria vir .
+(6, 'Motion') --- (4, 'Arriving')
+My son did n't want to come . ||| Meu filho não queria vir .
+(4, 'Desiring') --- (3, 'Desiring')
+He did n't want to come to Los Angeles . ||| Ele não queria vir para Los Angeles .
+(5, 'Arriving') --- (4, 'Goal')
+He did n't want to come to Los Angeles . ||| Ele não queria vir para Los Angeles .
+(3, 'Desiring') --- (2, 'Desiring')
+He loved it , but he had a girlfriend in England . ||| Ele adorava , mas tinha uma namorada na Inglaterra .
+(1, 'Experiencer_focus') --- (1, 'Experiencer_focus')
+He loved it , but he had a girlfriend in England . ||| Ele adorava , mas tinha uma namorada na Inglaterra .
+(4, 'Concessive') --- (3, 'Concessive')
+He loved it , but he had a girlfriend in England . ||| Ele adorava , mas tinha uma namorada na Inglaterra .
+(9, 'Interior_profile_relation') --- (7, 'Spatial_contact')
+He loved it , but he had a girlfriend in England . ||| Ele adorava , mas tinha uma namorada na Inglaterra .
+(8, 'Personal_relationship') --- (7, 'Spatial_contact')
+This was the love of his life , Sarah . ||| Era o amor de sua vida , Sarah .
+(6, 'Timespan') --- (5, 'Manner_of_life')
+This was the love of his life , Sarah . ||| Era o amor de sua vida , Sarah .
+(3, 'Stimulus_focus') --- (3, 'Partitive')
+He 'd known her for a month . ||| Eles se conheciam por um mês .
+(2, 'Familiarity') --- (2, 'Awareness')
+He 'd known her for a month . ||| Eles se conheciam por um mês .
+(6, 'Measure_duration') --- (5, 'Measure_duration')
+Mind you , they 'd had their fourth anniversary , because it 's a long time when you 're 16 . ||| Vejam bem , eles já tinham celebrado seu quarto aniversário , porque isso é muito tempo aos 16 .
+(10, 'Causation') --- (9, 'Commemorative')
+Mind you , they 'd had their fourth anniversary , because it 's a long time when you 're 16 . ||| Vejam bem , eles já tinham celebrado seu quarto aniversário , porque isso é muito tempo aos 16 .
+(16, 'Temporal_collocation') --- (14, 'Proportional_quantity')
+Mind you , they 'd had their fourth anniversary , because it 's a long time when you 're 16 . ||| Vejam bem , eles já tinham celebrado seu quarto aniversário , porque isso é muito tempo aos 16 .
+(7, 'Ordinal_numbers') --- (6, 'Participation')
+He was really upset on the plane , he said , ' I 'll never find another girl like Sarah . ' ||| Em todo caso , ele estava chateado no avião e disse : ' Eu nunca mais vou encontrar uma garota como a Sarah . '
+(9, 'Statement') --- (10, 'Statement')
+He was really upset on the plane , he said , ' I 'll never find another girl like Sarah . ' ||| Em todo caso , ele estava chateado no avião e disse : ' Eu nunca mais vou encontrar uma garota como a Sarah . '
+(15, 'Becoming_aware') --- (17, 'Assemble')
+He was really upset on the plane , he said , ' I 'll never find another girl like Sarah . ' ||| Em todo caso , ele estava chateado no avião e disse : ' Eu nunca mais vou encontrar uma garota como a Sarah . '
+(17, 'People') --- (20, 'Means')
+He was really upset on the plane , he said , ' I 'll never find another girl like Sarah . ' ||| Em todo caso , ele estava chateado no avião e disse : ' Eu nunca mais vou encontrar uma garota como a Sarah . '
+(6, 'Vehicle') --- (7, 'Spatial_contact')
+And we were rather pleased about that , frankly -- ||| E nós ficamos bastante contentes com isso , francamente .
+(4, 'Emotion_directed') --- (4, 'Emotion_directed')
+And we were rather pleased about that , frankly -- ||| E nós ficamos bastante contentes com isso , francamente .
+(5, 'Topic') --- (5, 'Have_associated')
+And we were rather pleased about that , frankly -- ||| E nós ficamos bastante contentes com isso , francamente .
+(3, 'Degree') --- (3, 'Sufficiency')
+Because she was the main reason we were leaving the country . ||| Porque ela era a principal razão de estarmos deixando o país .
+(8, 'Departing') --- (8, 'Departing')
+Because she was the main reason we were leaving the country . ||| Porque ela era a principal razão de estarmos deixando o país .
+(0, 'Causation') --- (0, 'Causation')
+Because she was the main reason we were leaving the country . ||| Porque ela era a principal razão de estarmos deixando o país .
+(5, 'Causation') --- (5, 'Reason')
+Because she was the main reason we were leaving the country . ||| Porque ela era a principal razão de estarmos deixando o país .
+(4, 'First_rank') --- (4, 'Importance')
+Because she was the main reason we were leaving the country . ||| Porque ela era a principal razão de estarmos deixando o país .
+(10, 'Political_locales') --- (10, 'Political_locales')
+But something strikes you when you move to America and travel around the world : ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(10, 'Travel') --- (21, 'Locale')
+But something strikes you when you move to America and travel around the world : ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(2, 'Cognitive_impact') --- (5, 'Conditional_occurrence')
+But something strikes you when you move to America and travel around the world : ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(4, 'Temporal_collocation') --- (11, 'Temporal_collocation')
+But something strikes you when you move to America and travel around the world : ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(13, 'Political_locales') --- (26, 'Partitive')
+Every education system on Earth has the same hierarchy of subjects . ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(1, 'Education_teaching') --- (4, 'Temporal_collocation')
+Every education system on Earth has the same hierarchy of subjects . ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(5, 'Have_associated') --- (14, 'Surrounding')
+Every education system on Earth has the same hierarchy of subjects . ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(2, 'System') --- (7, 'Goal')
+Every education system on Earth has the same hierarchy of subjects . ||| Uma coisa chama atenção quando se vem para os EUA e quando se viaja pelo mundo : todo sistema educacional do planeta tem a mesma hierarquia de disciplinas .
+(7, 'Identicality') --- (19, 'Education_teaching')
+Does n't matter where you go . ||| Não importa aonde vamos .
+(5, 'Motion') --- (3, 'Motion')
+Does n't matter where you go . ||| Não importa aonde vamos .
+(3, 'Spatial_co-location') --- (2, 'Locative_relation')
+You 'd think it would be otherwise , but it is n't . ||| Você pensa que seria diferente , mas não é .
+(2, 'Opinion') --- (1, 'Cogitation')
+You 'd think it would be otherwise , but it is n't . ||| Você pensa que seria diferente , mas não é .
+(8, 'Concessive') --- (6, 'Concessive')
+At the top are mathematics and languages , then the humanities , and at the bottom are the arts . ||| No topo estão a matemática e as línguas , depois as humanas e por último as artes .
+(0, 'Locative_relation') --- (0, 'Spatial_contact')
+At the top are mathematics and languages , then the humanities , and at the bottom are the arts . ||| No topo estão a matemática e as línguas , depois as humanas e por último as artes .
+(15, 'Part_orientational') --- (13, 'Time_vector')
+Everywhere on Earth . ||| Qualquer lugar do planeta .
+(1, 'Spatial_contact') --- (2, 'Partitive')
+Art and music are normally given a higher status in schools than drama and dance . ||| Arte e música normalmente tem uma importância maior nas escolas do que drama e dança .
+(2, 'Performing_arts') --- (2, 'Fields')
+Art and music are normally given a higher status in schools than drama and dance . ||| Arte e música normalmente tem uma importância maior nas escolas do que drama e dança .
+(4, 'Frequency') --- (4, 'Possession')
+Art and music are normally given a higher status in schools than drama and dance . ||| Arte e música normalmente tem uma importância maior nas escolas do que drama e dança .
+(0, 'Fields') --- (0, 'Fields')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(1, 'Existence') --- (1, 'Existence')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(5, 'System') --- (4, 'Education_teaching')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(6, 'Spatial_contact') --- (5, 'Spatial_contact')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(10, 'Education_teaching') --- (9, 'Self_motion')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(12, 'Frequency') --- (10, 'Frequency')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(13, 'Measure_duration') --- (11, 'Interior_profile_relation')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(15, 'People_by_age') --- (13, 'Similarity')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(17, 'Manner') --- (15, 'Similarity')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(21, 'Fields') --- (18, 'Fields')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(4, 'Education_teaching') --- (3, 'System')
+There is n't an education system on the planet that teaches dance every day to children the way we teach them mathematics . ||| Não existe um sistema educacional no planeta que ensina dança diariamente às crianças da mesma forma que ensina matemática .
+(11, 'Fields') --- (9, 'Self_motion')
+I think this is rather important . ||| Eu acho bastante importante .
+(5, 'Importance') --- (3, 'Importance')
+I think this is rather important . ||| Eu acho bastante importante .
+(4, 'Degree') --- (3, 'Importance')
+I think math is very important , but so is dance . ||| Eu acho que matemática é importante , mas dança também .
+(1, 'Opinion') --- (1, 'Opinion')
+We all have bodies , do n't we ? ||| Nós todos temos corpos , não temos ?
+(1, 'Quantified_mass') --- (1, 'Ranked_expectation')
+We all have bodies , do n't we ? ||| Nós todos temos corpos , não temos ?
+(2, 'Possession') --- (2, 'Possession')
+We all have bodies , do n't we ? ||| Nós todos temos corpos , não temos ?
+(3, 'Body_parts') --- (3, 'Body_parts')
+Did I miss a meeting ? ||| Eu faltei uma reunião ?
+(4, 'Discussion') --- (3, 'Discussion')
+Did I miss a meeting ? ||| Eu faltei uma reunião ?
+(2, 'Success_or_failure') --- (1, 'Presence')
+Truthfully , what happens is , as children grow up , we start to educate them progressively from the waist up . ||| Sério , o que acontece é que à medida que as crianças crescem , nós começamos a educá-las progressivamente da cintura para cima .
+(6, 'Temporal_collocation') --- (9, 'Temporal_collocation')
+Truthfully , what happens is , as children grow up , we start to educate them progressively from the waist up . ||| Sério , o que acontece é que à medida que as crianças crescem , nós começamos a educá-las progressivamente da cintura para cima .
+(7, 'People_by_age') --- (9, 'Temporal_collocation')
+Truthfully , what happens is , as children grow up , we start to educate them progressively from the waist up . ||| Sério , o que acontece é que à medida que as crianças crescem , nós começamos a educá-las progressivamente da cintura para cima .
+(14, 'Education_teaching') --- (15, 'Activity_start')
+Truthfully , what happens is , as children grow up , we start to educate them progressively from the waist up . ||| Sério , o que acontece é que à medida que as crianças crescem , nós começamos a educá-las progressivamente da cintura para cima .
+(8, 'Aging') --- (9, 'Temporal_collocation')
+And then we focus on their heads . ||| E depois nos focamos na cabeça .
+(6, 'Body_parts') --- (5, 'Body_parts')
+And slightly to one side . ||| E levemente para um lado .
+(4, 'Part_orientational') --- (4, 'Part_orientational')
+And slightly to one side . ||| E levemente para um lado .
+(2, 'Goal') --- (2, 'Goal')
+If you were to visit education , as an alien , and say ' What 's it for , public education ? ' ||| Se você visitasse nossas escolas , como um ET , e se perguntasse : ' Para que serve a educação pública ? '
+(12, 'Statement') --- (12, 'Questioning')
+If you were to visit education , as an alien , and say ' What 's it for , public education ? ' ||| Se você visitasse nossas escolas , como um ET , e se perguntasse : ' Para que serve a educação pública ? '
+(0, 'Concessive') --- (0, 'Conditional_occurrence')
+If you were to visit education , as an alien , and say ' What 's it for , public education ? ' ||| Se você visitasse nossas escolas , como um ET , e se perguntasse : ' Para que serve a educação pública ? '
+(4, 'Visiting') --- (4, 'Locale_by_use')
+If you were to visit education , as an alien , and say ' What 's it for , public education ? ' ||| Se você visitasse nossas escolas , como um ET , e se perguntasse : ' Para que serve a educação pública ? '
+(19, 'Secrecy_status') --- (19, 'Education_teaching')
+If you were to visit education , as an alien , and say ' What 's it for , public education ? ' ||| Se você visitasse nossas escolas , como um ET , e se perguntasse : ' Para que serve a educação pública ? '
+(20, 'Education_teaching') --- (20, 'Public_services')
+I think you 'd have to conclude the whole purpose of public education throughout the world is to produce university professors . ||| Eu acho que a conclusão obrigatória seria , olhando para o resultado , que quem é bem sucedido , quem faz tudo o que deve , quem ganha as estrelinhas , quem são os vencedores , eu acho que a conclusão seria de que o objetivo da educação pública ao redor do mundo é produzir professores universitários .
+(1, 'Opinion') --- (4, 'Coming_to_believe')
+I think you 'd have to conclude the whole purpose of public education throughout the world is to produce university professors . ||| Eu acho que a conclusão obrigatória seria , olhando para o resultado , que quem é bem sucedido , quem faz tudo o que deve , quem ganha as estrelinhas , quem são os vencedores , eu acho que a conclusão seria de que o objetivo da educação pública ao redor do mundo é produzir professores universitários .
+(6, 'Coming_to_believe') --- (17, 'Personal_success')
+I think you 'd have to conclude the whole purpose of public education throughout the world is to produce university professors . ||| Eu acho que a conclusão obrigatória seria , olhando para o resultado , que quem é bem sucedido , quem faz tudo o que deve , quem ganha as estrelinhas , quem são os vencedores , eu acho que a conclusão seria de que o objetivo da educação pública ao redor do mundo é produzir professores universitários .
+(9, 'Purpose') --- (31, 'People')
+I think you 'd have to conclude the whole purpose of public education throughout the world is to produce university professors . ||| Eu acho que a conclusão obrigatória seria , olhando para o resultado , que quem é bem sucedido , quem faz tudo o que deve , quem ganha as estrelinhas , quem são os vencedores , eu acho que a conclusão seria de que o objetivo da educação pública ao redor do mundo é produzir professores universitários .
+(19, 'Locale_by_use') --- (51, 'Surrounding')
+I think you 'd have to conclude the whole purpose of public education throughout the world is to produce university professors . ||| Eu acho que a conclusão obrigatória seria , olhando para o resultado , que quem é bem sucedido , quem faz tudo o que deve , quem ganha as estrelinhas , quem são os vencedores , eu acho que a conclusão seria de que o objetivo da educação pública ao redor do mundo é produzir professores universitários .
+(20, 'People_by_vocation') --- (55, 'Education_teaching')
+I think you 'd have to conclude the whole purpose of public education throughout the world is to produce university professors . ||| Eu acho que a conclusão obrigatória seria , olhando para o resultado , que quem é bem sucedido , quem faz tudo o que deve , quem ganha as estrelinhas , quem são os vencedores , eu acho que a conclusão seria de que o objetivo da educação pública ao redor do mundo é produzir professores universitários .
+(18, 'Intentionally_create') --- (48, 'Public_services')
+They 're the people who come out the top . ||| Eles que saem por cima .
+(5, 'Transition_to_state') --- (3, 'Personal_success')
+They 're the people who come out the top . ||| Eles que saem por cima .
+(6, 'Transition_to_state') --- (3, 'Personal_success')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(2, 'Experiencer_focus') --- (1, 'Experiencer_focus')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(6, 'Concessive') --- (4, 'Education_teaching')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(18, 'Extreme_point') --- (12, 'Part_orientational')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(21, 'Quantified_mass') --- (14, 'Accomplishment')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(22, 'People') --- (15, 'Biological_entity')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(23, 'Accomplishment') --- (15, 'Biological_entity')
+And I like university professors , but you know , we should n't hold them up as the high-water mark of all human achievement . ||| Eu gosto de professores universitários , mas nós não devemos colocá-los no topo das realizações humanas .
+(13, 'Categorization') --- (9, 'Desirable_event')
+They 're just a form of life , another form of life . ||| É só uma forma de vida , outra forma de vida .
+(4, 'Type') --- (3, 'Means')
+They 're just a form of life , another form of life . ||| É só uma forma de vida , outra forma de vida .
+(8, 'Increment') --- (7, 'Increment')
+They 're just a form of life , another form of life . ||| É só uma forma de vida , outra forma de vida .
+(9, 'Type') --- (8, 'Means')
+They 're just a form of life , another form of life . ||| É só uma forma de vida , outra forma de vida .
+(6, 'Biological_entity') --- (5, 'Manner_of_life')
+They 're just a form of life , another form of life . ||| É só uma forma de vida , outra forma de vida .
+(11, 'Biological_entity') --- (10, 'Manner_of_life')
+But they 're rather curious , and I say this out of affection for them . ||| Mas eles são peculiares , e eu digo isso com todo carinho .
+(4, 'Typicality') --- (3, 'Idiosyncrasy')
+They live up there , and slightly to one side . ||| Eles vivem lá em cima e levemente para um lado .
+(1, 'Residence') --- (1, 'Manner_of_life')
+They live up there , and slightly to one side . ||| Eles vivem lá em cima e levemente para um lado .
+(2, 'Locative_relation') --- (2, 'Spatial_co-location')
+They live up there , and slightly to one side . ||| Eles vivem lá em cima e levemente para um lado .
+(7, 'Locative_relation') --- (7, 'Goal')
+They live up there , and slightly to one side . ||| Eles vivem lá em cima e levemente para um lado .
+(9, 'Part_orientational') --- (9, 'Part_orientational')
+They 're disembodied , you know , in a kind of literal way . ||| Eles saíram do corpo , quase literalmente .
+(12, 'Manner') --- (6, 'Manner')
+They 're disembodied , you know , in a kind of literal way . ||| Eles saíram do corpo , quase literalmente .
+(9, 'Degree') --- (5, 'Proportional_quantity')
+They 're disembodied , you know , in a kind of literal way . ||| Eles saíram do corpo , quase literalmente .
+(10, 'Degree') --- (5, 'Proportional_quantity')
+They look upon their body as a form of transport for their heads . ||| Eles vêem o próprio corpo como uma forma de transporte para a cabeça .
+(9, 'Bringing') --- (9, 'Bringing')
+They look upon their body as a form of transport for their heads . ||| Eles vêem o próprio corpo como uma forma de transporte para a cabeça .
+(4, 'Body_parts') --- (4, 'Body_parts')
+They look upon their body as a form of transport for their heads . ||| Eles vêem o próprio corpo como uma forma de transporte para a cabeça .
+(12, 'Body_parts') --- (12, 'Body_parts')
+They look upon their body as a form of transport for their heads . ||| Eles vêem o próprio corpo como uma forma de transporte para a cabeça .
+(7, 'Type') --- (7, 'Means')
+They look upon their body as a form of transport for their heads . ||| Eles vêem o próprio corpo como uma forma de transporte para a cabeça .
+(1, 'Categorization') --- (1, 'Scrutiny')
+It 's a way of getting their head to meetings . ||| É um jeito de levarem suas cabeças às conferências .
+(5, 'Bringing') --- (4, 'Taking')
+It 's a way of getting their head to meetings . ||| É um jeito de levarem suas cabeças às conferências .
+(7, 'Body_parts') --- (6, 'Body_parts')
+It 's a way of getting their head to meetings . ||| É um jeito de levarem suas cabeças às conferências .
+(9, 'Discussion') --- (8, 'Discussion')
+It 's a way of getting their head to meetings . ||| É um jeito de levarem suas cabeças às conferências .
+(8, 'Goal') --- (7, 'Motion')
+If you want real evidence of out-of-body experiences , get yourself along to a residential conference of senior academics , and pop into the discotheque on the final night . ||| Se você quiser evidências concretas de experiências extra-corpóreas , por sinal , é só participar de uma conferência de acadêmicos sênior , e aparecer na discoteca na noite final .
+(0, 'Conditional_occurrence') --- (0, 'Conditional_occurrence')
+If you want real evidence of out-of-body experiences , get yourself along to a residential conference of senior academics , and pop into the discotheque on the final night . ||| Se você quiser evidências concretas de experiências extra-corpóreas , por sinal , é só participar de uma conferência de acadêmicos sênior , e aparecer na discoteca na noite final .
+(2, 'Desiring') --- (2, 'Desiring')
+If you want real evidence of out-of-body experiences , get yourself along to a residential conference of senior academics , and pop into the discotheque on the final night . ||| Se você quiser evidências concretas de experiências extra-corpóreas , por sinal , é só participar de uma conferência de acadêmicos sênior , e aparecer na discoteca na noite final .
+(3, 'Existence') --- (3, 'Evidence')
+If you want real evidence of out-of-body experiences , get yourself along to a residential conference of senior academics , and pop into the discotheque on the final night . ||| Se você quiser evidências concretas de experiências extra-corpóreas , por sinal , é só participar de uma conferência de acadêmicos sênior , e aparecer na discoteca na noite final .
+(4, 'Evidence') --- (4, 'Existence')
+If you want real evidence of out-of-body experiences , get yourself along to a residential conference of senior academics , and pop into the discotheque on the final night . ||| Se você quiser evidências concretas de experiências extra-corpóreas , por sinal , é só participar de uma conferência de acadêmicos sênior , e aparecer na discoteca na noite final .
+(17, 'Subordinates_and_superiors') --- (18, 'Type')
+And there , you will see it . ||| E lá você vai ver , homens e mulheres maduros , se contorcendo incontrolavelmente , fora do ritmo .
+(5, 'Perception_experience') --- (13, 'Manner')
+Grown men and women writhing uncontrollably , off the beat . ||| E lá você vai ver , homens e mulheres maduros , se contorcendo incontrolavelmente , fora do ritmo .
+(4, 'Body_movement') --- (8, 'People')
+Grown men and women writhing uncontrollably , off the beat . ||| E lá você vai ver , homens e mulheres maduros , se contorcendo incontrolavelmente , fora do ritmo .
+(3, 'People') --- (6, 'People')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(7, 'Motion') --- (6, 'Relation')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(6, 'Capability') --- (6, 'Relation')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(1, 'Time_vector') --- (1, 'Expectation')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(4, 'Causation') --- (4, 'Event')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(10, 'Text_creation') --- (9, 'Text_creation')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(13, 'Topic') --- (12, 'Topic')
+Waiting until it ends so they can go home and write a paper about it . ||| Só esperando que o evento acabe e eles possam escrever um artigo a respeito .
+(12, 'Text') --- (11, 'Text')
+Our education system is predicated on the idea of academic ability . ||| Nosso sistema educacional atual se baseia na idéia da habilidade acadêmica .
+(1, 'Education_teaching') --- (1, 'System')
+Our education system is predicated on the idea of academic ability . ||| Nosso sistema educacional atual se baseia na idéia da habilidade acadêmica .
+(2, 'System') --- (2, 'Education_teaching')
+Our education system is predicated on the idea of academic ability . ||| Nosso sistema educacional atual se baseia na idéia da habilidade acadêmica .
+(7, 'Awareness') --- (7, 'Awareness')
+Our education system is predicated on the idea of academic ability . ||| Nosso sistema educacional atual se baseia na idéia da habilidade acadêmica .
+(10, 'Capability') --- (10, 'Education_teaching')
+And there 's a reason . ||| E existe uma razão para isso .
+(1, 'Existence') --- (1, 'Existence')
+And there 's a reason . ||| E existe uma razão para isso .
+(2, 'Existence') --- (3, 'Reason')
+Around the world , there were no public systems of education , really , before the 19th century . ||| O sistema foi concebido , e no mundo todo , não existiam sistemas públicos de educação antes do Séc.XIX .
+(5, 'Existence') --- (5, 'Relation')
+Around the world , there were no public systems of education , really , before the 19th century . ||| O sistema foi concebido , e no mundo todo , não existiam sistemas públicos de educação antes do Séc.XIX .
+(6, 'Quantified_mass') --- (6, 'Interior_profile_relation')
+Around the world , there were no public systems of education , really , before the 19th century . ||| O sistema foi concebido , e no mundo todo , não existiam sistemas públicos de educação antes do Séc.XIX .
+(14, 'Time_vector') --- (15, 'Education_teaching')
+They all came into being to meet the needs of industrialism . ||| Todos eles foram criados para atender a demanda da industrialização .
+(3, 'Coming_to_be') --- (3, 'Creating')
+They all came into being to meet the needs of industrialism . ||| Todos eles foram criados para atender a demanda da industrialização .
+(4, 'Coming_to_be') --- (4, 'Purpose')
+They all came into being to meet the needs of industrialism . ||| Todos eles foram criados para atender a demanda da industrialização .
+(6, 'Response') --- (5, 'Attention')
+They all came into being to meet the needs of industrialism . ||| Todos eles foram criados para atender a demanda da industrialização .
+(8, 'Needing') --- (7, 'Request')
+So the hierarchy is rooted on two ideas . ||| Então a hierarquia está apoiada em duas idéias .
+(6, 'Cardinal_numbers') --- (6, 'Cardinal_numbers')
+So the hierarchy is rooted on two ideas . ||| Então a hierarquia está apoiada em duas idéias .
+(0, 'Causation') --- (0, 'Causation')
+Number one , that the most useful subjects for work are at the top . ||| A primeira é que as disciplinas mais úteis para o trabalho estão no topo .
+(6, 'Usefulness') --- (6, 'Evaluative_comparison')
+Number one , that the most useful subjects for work are at the top . ||| A primeira é que as disciplinas mais úteis para o trabalho estão no topo .
+(13, 'Part_orientational') --- (13, 'Locative_relation')
+Number one , that the most useful subjects for work are at the top . ||| A primeira é que as disciplinas mais úteis para o trabalho estão no topo .
+(5, 'Degree') --- (5, 'Fields')
+So you were probably steered benignly away from things at school when you were a kid , things you liked , on the grounds that you would never get a job doing that . ||| Então você era bondosamente afastado na escola quando era criança de certas coisas , coisas que gostava , com a premissa que você nunca iria conseguir um emprego fazendo aquilo .
+(11, 'Temporal_collocation') --- (12, 'Entity')
+So you were probably steered benignly away from things at school when you were a kid , things you liked , on the grounds that you would never get a job doing that . ||| Então você era bondosamente afastado na escola quando era criança de certas coisas , coisas que gostava , com a premissa que você nunca iria conseguir um emprego fazendo aquilo .
+(15, 'People_by_age') --- (14, 'Entity')
+So you were probably steered benignly away from things at school when you were a kid , things you liked , on the grounds that you would never get a job doing that . ||| Então você era bondosamente afastado na escola quando era criança de certas coisas , coisas que gostava , com a premissa que você nunca iria conseguir um emprego fazendo aquilo .
+(27, 'Frequency') --- (25, 'Getting')
+So you were probably steered benignly away from things at school when you were a kid , things you liked , on the grounds that you would never get a job doing that . ||| Então você era bondosamente afastado na escola quando era criança de certas coisas , coisas que gostava , com a premissa que você nunca iria conseguir um emprego fazendo aquilo .
+(30, 'Being_employed') --- (27, 'Work')
+The whole world is engulfed in a revolution . ||| O mundo inteiro está envolto numa revolução .
+(1, 'Ranked_expectation') --- (1, 'Political_locales')
+The whole world is engulfed in a revolution . ||| O mundo inteiro está envolto numa revolução .
+(2, 'Political_locales') --- (2, 'Ranked_expectation')
+And the second is academic ability , which has really come to dominate our view of intelligence , because the universities designed the system in their image . ||| A segunda é a aptidão acadêmica , que veio a dominar nossa visão de inteligência , porque as universidades planejaram o sistema à sua própria imagem .
+(5, 'Capability') --- (5, 'Education_teaching')
+And the second is academic ability , which has really come to dominate our view of intelligence , because the universities designed the system in their image . ||| A segunda é a aptidão acadêmica , que veio a dominar nossa visão de inteligência , porque as universidades planejaram o sistema à sua própria imagem .
+(20, 'Locale_by_use') --- (19, 'Project')
+And the second is academic ability , which has really come to dominate our view of intelligence , because the universities designed the system in their image . ||| A segunda é a aptidão acadêmica , que veio a dominar nossa visão de inteligência , porque as universidades planejaram o sistema à sua própria imagem .
+(12, 'Dominate_situation') --- (12, 'Opinion')
+And the second is academic ability , which has really come to dominate our view of intelligence , because the universities designed the system in their image . ||| A segunda é a aptidão acadêmica , que veio a dominar nossa visão de inteligência , porque as universidades planejaram o sistema à sua própria imagem .
+(26, 'Similarity') --- (25, 'Impression')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(0, 'Conditional_occurrence') --- (0, 'Conditional_occurrence')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(7, 'Ranked_expectation') --- (8, 'Type')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(8, 'System') --- (9, 'Education_teaching')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(11, 'Education_teaching') --- (12, 'Surrounding')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(12, 'Distributed_position') --- (13, 'Surrounding')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(18, 'Process') --- (20, 'Type')
+If you think of it , the whole system of public education around the world is a protracted process of university entrance . ||| Se você for pensar , todo o sistema de educação pública ao redor do mundo é um extensão do processo de ingresso à universidade .
+(21, 'Arriving') --- (23, 'Locale_by_use')
+And the consequence is that many highly-talented , brilliant , creative people think they 're not , because the thing they were good at at school was n't valued , or was actually stigmatized . ||| A consequência disso é que muitas pessoas altamente talentosas brilhantes e criativas , pensam que não são , porque aquilo que elas eram boas na escola não era valorizado , ou era até estigmatizado .
+(25, 'Locale_by_use') --- (26, 'Negation')
+And the consequence is that many highly-talented , brilliant , creative people think they 're not , because the thing they were good at at school was n't valued , or was actually stigmatized . ||| A consequência disso é que muitas pessoas altamente talentosas brilhantes e criativas , pensam que não são , porque aquilo que elas eram boas na escola não era valorizado , ou era até estigmatizado .
+(24, 'Locative_relation') --- (25, 'Locale_by_use')
+And I think we ca n't afford to go on that way . ||| Eu acho que não podemos nos dar ao luxo de ir por esse caminho .
+(2, 'Opinion') --- (3, 'Negation')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(0, 'Temporal_collocation') --- (1, 'Relative_time')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(4, 'Measure_duration') --- (5, 'Attributed_information')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(11, 'People') --- (14, 'Surrounding')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(15, 'Activity_finish') --- (19, 'Activity_finish')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(2, 'Relative_time') --- (3, 'Calendric_unit')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(10, 'Increment') --- (13, 'Surrounding')
+In the next 30 years , according to UNESCO , more people worldwide will be graduating through education than since the beginning of history . ||| Nos próximos 30 anos , de acordo com a UNESCO , mais gente ao redor do mundo irá se formar através da educação do que desde o princípio da história .
+(23, 'History') --- (29, 'History')
+Suddenly , degrees are n't worth anything . ||| De repente , diplomas não valem mais nada .
+(5, 'Deserving') --- (6, 'Quantity')
+Is n't that true ? ||| Não é verdade ?
+(3, 'Actually_occurring_entity') --- (2, 'Candidness')
+When I was a student , if you had a degree , you had a job . ||| Quando eu estudava , quem tinha um diploma , tinha um emprego .
+(0, 'Temporal_collocation') --- (0, 'Temporal_collocation')
+When I was a student , if you had a degree , you had a job . ||| Quando eu estudava , quem tinha um diploma , tinha um emprego .
+(10, 'Rank') --- (7, 'Documents')
+When I was a student , if you had a degree , you had a job . ||| Quando eu estudava , quem tinha um diploma , tinha um emprego .
+(15, 'Being_employed') --- (11, 'Work')
+If you did n't have a job , it 's because you did n't want one . ||| Quem não tinha um emprego , era porque não queria .
+(4, 'Possession') --- (2, 'Possession')
+If you did n't have a job , it 's because you did n't want one . ||| Quem não tinha um emprego , era porque não queria .
+(6, 'Being_employed') --- (4, 'Work')
+If you did n't have a job , it 's because you did n't want one . ||| Quem não tinha um emprego , era porque não queria .
+(14, 'Desiring') --- (9, 'Desiring')
+If you did n't have a job , it 's because you did n't want one . ||| Quem não tinha um emprego , era porque não queria .
+(15, 'Cardinal_numbers') --- (9, 'Desiring')
+And I did n't want one , frankly . ||| E eu não queria , francamente .
+(4, 'Desiring') --- (3, 'Desiring')
+But now kids with degrees are often heading home to carry on playing video games , because you need an MA where the previous job required a BA , and now you need a PhD for the other . ||| Mas agora garotos com diplomas estão voltando para casa para jogar video game porque pedem mestrado para o trabalho que necessitava bacharelado , e doutorado para o trabalho que necessitava mestrado .
+(2, 'People_by_age') --- (1, 'Temporal_collocation')
+But now kids with degrees are often heading home to carry on playing video games , because you need an MA where the previous job required a BA , and now you need a PhD for the other . ||| Mas agora garotos com diplomas estão voltando para casa para jogar video game porque pedem mestrado para o trabalho que necessitava bacharelado , e doutorado para o trabalho que necessitava mestrado .
+(4, 'Rank') --- (3, 'Have_associated')
+But now kids with degrees are often heading home to carry on playing video games , because you need an MA where the previous job required a BA , and now you need a PhD for the other . ||| Mas agora garotos com diplomas estão voltando para casa para jogar video game porque pedem mestrado para o trabalho que necessitava bacharelado , e doutorado para o trabalho que necessitava mestrado .
+(0, 'Concessive') --- (0, 'Concessive')
+But now kids with degrees are often heading home to carry on playing video games , because you need an MA where the previous job required a BA , and now you need a PhD for the other . ||| Mas agora garotos com diplomas estão voltando para casa para jogar video game porque pedem mestrado para o trabalho que necessitava bacharelado , e doutorado para o trabalho que necessitava mestrado .
+(3, 'Have_associated') --- (2, 'People_by_age')
+But now kids with degrees are often heading home to carry on playing video games , because you need an MA where the previous job required a BA , and now you need a PhD for the other . ||| Mas agora garotos com diplomas estão voltando para casa para jogar video game porque pedem mestrado para o trabalho que necessitava bacharelado , e doutorado para o trabalho que necessitava mestrado .
+(37, 'Increment') --- (30, 'Education_teaching')
+It 's a process of academic inflation . ||| É um processo de inflação acadêmica .
+(3, 'Process') --- (2, 'Process')
+And it indicates the whole structure of education is shifting beneath our feet . ||| E é um indicativo de que toda a estrutura educacional está mudando na frente do nosso nariz .
+(7, 'Education_teaching') --- (9, 'Education_teaching')
+And it indicates the whole structure of education is shifting beneath our feet . ||| E é um indicativo de que toda a estrutura educacional está mudando na frente do nosso nariz .
+(9, 'Undergo_change') --- (12, 'Directional_locative_relation')
+And it indicates the whole structure of education is shifting beneath our feet . ||| E é um indicativo de que toda a estrutura educacional está mudando na frente do nosso nariz .
+(10, 'Non-gradable_proximity') --- (13, 'Directional_locative_relation')
+And it indicates the whole structure of education is shifting beneath our feet . ||| E é um indicativo de que toda a estrutura educacional está mudando na frente do nosso nariz .
+(12, 'Body_parts') --- (16, 'Body_parts')
+We need to radically rethink our view of intelligence . ||| Precisamos repensar radicalmente nossa visão de inteligência .
+(1, 'Needing') --- (1, 'Awareness')
+We know three things about intelligence . ||| Sabemos três coisas sobre inteligência .
+(1, 'Awareness') --- (1, 'Cardinal_numbers')
+We know three things about intelligence . ||| Sabemos três coisas sobre inteligência .
+(2, 'Cardinal_numbers') --- (2, 'Entity')
+We know three things about intelligence . ||| Sabemos três coisas sobre inteligência .
+(3, 'Entity') --- (2, 'Entity')
+We know three things about intelligence . ||| Sabemos três coisas sobre inteligência .
+(4, 'Topic') --- (3, 'Topic')
+One , it 's diverse . ||| Um , é variada .
+(4, 'Diversity') --- (3, 'Diversity')
+We think about the world in all the ways that we experience it . ||| Pensamos a respeito do mundo de todas as formas que o vivenciamos .
+(1, 'Awareness') --- (1, 'Topic')
+We think about the world in all the ways that we experience it . ||| Pensamos a respeito do mundo de todas as formas que o vivenciamos .
+(4, 'Political_locales') --- (4, 'Political_locales')
+We think visually , we think in sound , we think kinesthetically . ||| Pensamos visualmente , pensamos auditivamente , pensamos cinestesicamente .
+(5, 'Awareness') --- (3, 'Awareness')
+We think visually , we think in sound , we think kinesthetically . ||| Pensamos visualmente , pensamos auditivamente , pensamos cinestesicamente .
+(10, 'Awareness') --- (6, 'Awareness')
+We think in abstract terms , we think in movement . ||| Pensamos em termo abstratos , pensamos em movimento .
+(1, 'Awareness') --- (1, 'Domain')
+We think in abstract terms , we think in movement . ||| Pensamos em termo abstratos , pensamos em movimento .
+(2, 'Domain') --- (1, 'Domain')
+We think in abstract terms , we think in movement . ||| Pensamos em termo abstratos , pensamos em movimento .
+(4, 'Domain') --- (3, 'Mental_property')
+Secondly , intelligence is dynamic . ||| Dois , inteligência é dinâmica .
+(4, 'Dynamism') --- (4, 'Dynamism')
+If you look at the interactions of a human brain , as we heard yesterday from a number of presentations , intelligence is wonderfully interactive . ||| Se formos olhar as interações do cérebro humano , conforme ouvimos ontem em várias apresentações , a inteligência é maravilhosamente interativa .
+(13, 'Hearsay') --- (11, 'Calendric_unit')
+If you look at the interactions of a human brain , as we heard yesterday from a number of presentations , intelligence is wonderfully interactive . ||| Se formos olhar as interações do cérebro humano , conforme ouvimos ontem em várias apresentações , a inteligência é maravilhosamente interativa .
+(17, 'Quantified_mass') --- (14, 'Text')
+If you look at the interactions of a human brain , as we heard yesterday from a number of presentations , intelligence is wonderfully interactive . ||| Se formos olhar as interações do cérebro humano , conforme ouvimos ontem em várias apresentações , a inteligência é maravilhosamente interativa .
+(2, 'Perception_active') --- (2, 'Becoming_aware')
+If you look at the interactions of a human brain , as we heard yesterday from a number of presentations , intelligence is wonderfully interactive . ||| Se formos olhar as interações do cérebro humano , conforme ouvimos ontem em várias apresentações , a inteligência é maravilhosamente interativa .
+(0, 'Concessive') --- (0, 'Conditional_occurrence')
+The brain is n't divided into compartments . ||| O cérebro não se divide em compartimentos .
+(4, 'Separating') --- (4, 'Becoming_separated')
+In fact , creativity -- which I define as the process of having original ideas that have value -- more often than not comes about through the interaction of different disciplinary ways of seeing things . ||| De fato , criatividade , que eu defino como o processo de ter idéias originais que possuem valor , com bastante frequência se manifesta através da interação de como as diferentes disciplinas vêem as coisas .
+(10, 'Process') --- (10, 'Process')
+By the way , there 's a shaft of nerves that joins the two halves of the brain called the corpus callosum . ||| O cérebro é intencionalmente ... Por sinal , existe um feixe de filamentos nervosos que conecta os dois lados do cérebro chamado corpo caloso.É mais espesso nas mulheres .
+(13, 'Cardinal_numbers') --- (17, 'Cardinal_numbers')
+By the way , there 's a shaft of nerves that joins the two halves of the brain called the corpus callosum . ||| O cérebro é intencionalmente ... Por sinal , existe um feixe de filamentos nervosos que conecta os dois lados do cérebro chamado corpo caloso.É mais espesso nas mulheres .
+(14, 'Part_whole') --- (18, 'Part_orientational')
+It 's thicker in women . ||| O cérebro é intencionalmente ... Por sinal , existe um feixe de filamentos nervosos que conecta os dois lados do cérebro chamado corpo caloso.É mais espesso nas mulheres .
+(2, 'Measurable_attributes') --- (15, 'Cognitive_connection')
+It 's thicker in women . ||| O cérebro é intencionalmente ... Por sinal , existe um feixe de filamentos nervosos que conecta os dois lados do cérebro chamado corpo caloso.É mais espesso nas mulheres .
+(4, 'People') --- (25, 'Measurable_attributes')
+Because you are , are n't you ? ||| Porque vocês são , não são ?
+(0, 'Causation') --- (0, 'Causation')
+There 's a raft of research , but I know it from my personal life . ||| As pesquisas são abundantes , mas eu sei por experiência própria .
+(7, 'Concessive') --- (5, 'Concessive')
+There 's a raft of research , but I know it from my personal life . ||| As pesquisas são abundantes , mas eu sei por experiência própria .
+(9, 'Awareness') --- (7, 'Awareness')
+There 's a raft of research , but I know it from my personal life . ||| As pesquisas são abundantes , mas eu sei por experiência própria .
+(14, 'Manner_of_life') --- (10, 'Possession')
+If my wife is cooking a meal at home -- which is not often , thankfully . ||| Quando minha esposa está cozinhando , o que acontece pouco , ainda bem .
+(2, 'Personal_relationship') --- (2, 'Personal_relationship')
+If my wife is cooking a meal at home -- which is not often , thankfully . ||| Quando minha esposa está cozinhando , o que acontece pouco , ainda bem .
+(0, 'Concessive') --- (0, 'Temporal_collocation')
+If I 'm cooking , the door is shut , the kids are out , the phone 's on the hook , ||| Quando eu cozinho , a porta está fechada , as crianças saíram , o telefone está fora do gancho , se ela aparece eu me irrito .
+(0, 'Conditional_occurrence') --- (0, 'Temporal_collocation')
+If I 'm cooking , the door is shut , the kids are out , the phone 's on the hook , ||| Quando eu cozinho , a porta está fechada , as crianças saíram , o telefone está fora do gancho , se ela aparece eu me irrito .
+(16, 'Artifact') --- (20, 'Conditional_occurrence')
+if she comes in I get annoyed . ||| Quando eu cozinho , a porta está fechada , as crianças saíram , o telefone está fora do gancho , se ela aparece eu me irrito .
+(2, 'Motion') --- (10, 'People_by_age')
+I say , ' Terry , please , I 'm trying to fry an egg in here . ' ||| Eu digo : ' Terry , por favor , estou tentando fritar um ovo aqui.Me deixa em paz . '
+(1, 'Statement') --- (1, 'Statement')
+I say , ' Terry , please , I 'm trying to fry an egg in here . ' ||| Eu digo : ' Terry , por favor , estou tentando fritar um ovo aqui.Me deixa em paz . '
+(10, 'Attempt') --- (11, 'Cooking_creation')
+I say , ' Terry , please , I 'm trying to fry an egg in here . ' ||| Eu digo : ' Terry , por favor , estou tentando fritar um ovo aqui.Me deixa em paz . '
+(12, 'Cooking_creation') --- (13, 'Food')
+I say , ' Terry , please , I 'm trying to fry an egg in here . ' ||| Eu digo : ' Terry , por favor , estou tentando fritar um ovo aqui.Me deixa em paz . '
+(14, 'Food') --- (15, 'Releasing')
+I say , ' Terry , please , I 'm trying to fry an egg in here . ' ||| Eu digo : ' Terry , por favor , estou tentando fritar um ovo aqui.Me deixa em paz . '
+(15, 'Interior_profile_relation') --- (16, 'Releasing')
+Remember that old chestnut ? ||| Lembram dessa piada velha ?
+(0, 'Memory') --- (0, 'Memory')
+Remember that old chestnut ? ||| Lembram dessa piada velha ?
+(2, 'Age') --- (2, 'Chatting')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(8, 'Communication') --- (7, 'Statement')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(3, 'Desirability') --- (3, 'Desirability')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(5, 'Temporal_collocation') --- (5, 'Calendric_unit')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(11, 'Conditional_occurrence') --- (10, 'Conditional_occurrence')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(13, 'People') --- (12, 'People')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(29, 'Continued_state_of_affairs') --- (26, 'Activity_ongoing')
+I saw a great t-shirt recently , which said , ' If a man speaks his mind in a forest , and no woman hears him , is he still wrong ? ' ||| Vi uma camiseta excelente esses dias que dizia : ' Se um homem fala o que pensa numa floresta , e nenhuma mulher escuta , ele continua errado ? '
+(30, 'Correctness') --- (27, 'Morality_evaluation')
+And the third thing about intelligence is , it 's distinct . ||| O terceiro ponto sobre a inteligência é que é distinta .
+(2, 'Ordinal_numbers') --- (2, 'Topic')
+And the third thing about intelligence is , it 's distinct . ||| O terceiro ponto sobre a inteligência é que é distinta .
+(3, 'Entity') --- (3, 'Topic')
+And the third thing about intelligence is , it 's distinct . ||| O terceiro ponto sobre a inteligência é que é distinta .
+(10, 'Distinctiveness') --- (9, 'Similarity')
+I 'm doing a new book at the moment called ' Epiphany ,' which is based on a series of interviews with people about how they discovered their talent . ||| Estou escrevendo um livro atualmente chamado ' Epifania ' , que é baseado numa série de entrevistas que eu fiz sobre como as pessoas descobriram seus talentos .
+(4, 'Age') --- (4, 'Temporal_collocation')
+I 'm doing a new book at the moment called ' Epiphany ,' which is based on a series of interviews with people about how they discovered their talent . ||| Estou escrevendo um livro atualmente chamado ' Epifania ' , que é baseado numa série de entrevistas que eu fiz sobre como as pessoas descobriram seus talentos .
+(5, 'Text') --- (5, 'Being_named')
+I 'm doing a new book at the moment called ' Epiphany ,' which is based on a series of interviews with people about how they discovered their talent . ||| Estou escrevendo um livro atualmente chamado ' Epifania ' , que é baseado numa série de entrevistas que eu fiz sobre como as pessoas descobriram seus talentos .
+(22, 'People') --- (20, 'Topic')
+I 'm doing a new book at the moment called ' Epiphany ,' which is based on a series of interviews with people about how they discovered their talent . ||| Estou escrevendo um livro atualmente chamado ' Epifania ' , que é baseado numa série de entrevistas que eu fiz sobre como as pessoas descobriram seus talentos .
+(26, 'Becoming_aware') --- (24, 'Becoming_aware')
+I 'm doing a new book at the moment called ' Epiphany ,' which is based on a series of interviews with people about how they discovered their talent . ||| Estou escrevendo um livro atualmente chamado ' Epifania ' , que é baseado numa série de entrevistas que eu fiz sobre como as pessoas descobriram seus talentos .
+(28, 'Capability') --- (26, 'Capability')
+I 'm fascinated by how people got to be there . ||| Sou fascinado por como elas chegaram onde estão .
+(2, 'Emotion_directed') --- (1, 'Mental_stimulus_exp_focus')
+I 'm fascinated by how people got to be there . ||| Sou fascinado por como elas chegaram onde estão .
+(4, 'Means') --- (3, 'Means')
+I 'm fascinated by how people got to be there . ||| Sou fascinado por como elas chegaram onde estão .
+(6, 'Transition_to_state') --- (5, 'Arriving')
+She 's a choreographer , and everybody knows her work . ||| Ela é uma coreógrafa e todo mundo conhece seu trabalho .
+(7, 'Familiarity') --- (7, 'Awareness')
+She 's a choreographer , and everybody knows her work . ||| Ela é uma coreógrafa e todo mundo conhece seu trabalho .
+(9, 'Labor_product') --- (9, 'Work')
+She 's wonderful . ||| Ela é maravilhosa .
+(2, 'Desirability') --- (2, 'Desirability')
+I used to be on the board of The Royal Ballet , as you can see . ||| Eu estava no conselho do Royal Ballet , na Inglaterra , como podem ver .
+(4, 'Non-gradable_proximity') --- (3, 'Social_event')
+I used to be on the board of The Royal Ballet , as you can see . ||| Eu estava no conselho do Royal Ballet , na Inglaterra , como podem ver .
+(15, 'Grasp') --- (13, 'Scrutiny')
+Anyway , Gillian and I had lunch one day and I said , ' How did you get to be a dancer ? ' ||| Gillian e eu almoçamos um dia e eu perguntei : ' Gillian , como você se tornou dançarina ? '
+(21, 'People_by_vocation') --- (17, 'People_by_vocation')
+Anyway , Gillian and I had lunch one day and I said , ' How did you get to be a dancer ? ' ||| Gillian e eu almoçamos um dia e eu perguntei : ' Gillian , como você se tornou dançarina ? '
+(7, 'Calendric_unit') --- (6, 'Relation')
+When she was at school , she was really hopeless . ||| E ela respondeu que foi interessante , quando ela estava na escola , ela estava desanimada .
+(4, 'Locale_by_use') --- (7, 'Temporal_collocation')
+When she was at school , she was really hopeless . ||| E ela respondeu que foi interessante , quando ela estava na escola , ela estava desanimada .
+(3, 'Locative_relation') --- (5, 'Mental_stimulus_stimulus_focus')
+When she was at school , she was really hopeless . ||| E ela respondeu que foi interessante , quando ela estava na escola , ela estava desanimada .
+(9, 'Desirability') --- (15, 'Emotions_by_stimulus')
+And the school , in the ' 30s , wrote to her parents and said , ' We think Gillian has a learning disorder . ' ||| E a escola , nos anos 30 , escreveu para os pais dizendo : ' Achamos que a Gillian tem dificuldade de aprendizado . '
+(23, 'Medical_conditions') --- (22, 'Education_teaching')
+And the school , in the ' 30s , wrote to her parents and said , ' We think Gillian has a learning disorder . ' ||| E a escola , nos anos 30 , escreveu para os pais dizendo : ' Achamos que a Gillian tem dificuldade de aprendizado . '
+(12, 'Kinship') --- (12, 'Statement')
+She could n't concentrate ; she was fidgeting . ||| Ela não conseguia se concentrar , era inquieta .
+(7, 'Body_movement') --- (7, 'Emotion_directed')
+I think now they 'd say she had ADHD . ||| Eu acho que hoje diriam que ela tinha TDAH .
+(1, 'Opinion') --- (1, 'Opinion')
+But this was the 1930s , and ADHD had n't been invented at this point . ||| Mas eram os anos 30 , e TDAH não tinha sido inventado ainda .
+(14, 'Locale') --- (12, 'Time_vector')
+It was n't an available condition . ||| Não era uma doença disponível .
+(5, 'Medical_conditions') --- (4, 'Obviousness')
+People were n't aware they could have that . ||| As pessoas não sabiam que podiam ter aquilo .
+(3, 'Awareness') --- (3, 'Awareness')
+People were n't aware they could have that . ||| As pessoas não sabiam que podiam ter aquilo .
+(5, 'Possibility') --- (5, 'Capability')
+Anyway , she went to see this specialist . ||| Então a mandaram para um especialista .
+(3, 'Motion') --- (2, 'Sending')
+Anyway , she went to see this specialist . ||| Então a mandaram para um especialista .
+(7, 'Expertise') --- (5, 'People_by_vocation')
+In the end , the doctor went and sat next to Gillian , and said , ' I 've listened to all these things your mother 's told me , I need to speak to her privately . ||| No final o médico sentou ao lado da Gillian e disse : ' Gillian , eu ouvi todas as coisas que sua mãe me disse , e eu preciso conversar a sós com ela . '
+(33, 'Chatting') --- (31, 'Accompaniment')
+In the end , the doctor went and sat next to Gillian , and said , ' I 've listened to all these things your mother 's told me , I need to speak to her privately . ||| No final o médico sentou ao lado da Gillian e disse : ' Gillian , eu ouvi todas as coisas que sua mãe me disse , e eu preciso conversar a sós com ela . '
+(31, 'Needing') --- (29, 'Statement')
+In the end , the doctor went and sat next to Gillian , and said , ' I 've listened to all these things your mother 's told me , I need to speak to her privately . ||| No final o médico sentou ao lado da Gillian e disse : ' Gillian , eu ouvi todas as coisas que sua mãe me disse , e eu preciso conversar a sós com ela . '
+(10, 'Adjacency') --- (9, 'Relation')
+But as they went out of the room , he turned on the radio that was sitting on his desk . ||| Mas enquanto eles saiam da sala , ele ligou o rádio que estava sobre a mesa .
+(10, 'Change_operational_state') --- (8, 'Change_operational_state')
+But as they went out of the room , he turned on the radio that was sitting on his desk . ||| Mas enquanto eles saiam da sala , ele ligou o rádio que estava sobre a mesa .
+(16, 'Being_located') --- (13, 'Spatial_contact')
+And when they got out , he said to her mother , ' Just stand and watch her . ' ||| E quando eles saíram da sala , ele disse para a mãe : ' Só a escute e a observe . '
+(7, 'Statement') --- (8, 'Statement')
+And when they got out , he said to her mother , ' Just stand and watch her . ' ||| E quando eles saíram da sala , ele disse para a mãe : ' Só a escute e a observe . '
+(3, 'Arriving') --- (3, 'Departing')
+And when they got out , he said to her mother , ' Just stand and watch her . ' ||| E quando eles saíram da sala , ele disse para a mãe : ' Só a escute e a observe . '
+(14, 'Posture') --- (16, 'Perception_active')
+And when they got out , he said to her mother , ' Just stand and watch her . ' ||| E quando eles saíram da sala , ele disse para a mãe : ' Só a escute e a observe . '
+(10, 'Kinship') --- (11, 'Kinship')
+And when they got out , he said to her mother , ' Just stand and watch her . ' ||| E quando eles saíram da sala , ele disse para a mãe : ' Só a escute e a observe . '
+(1, 'Temporal_collocation') --- (1, 'Temporal_collocation')
+And the minute they left the room , she was on her feet , moving to the music . ||| E assim que eles deixaram a sala , ela disse , ela estava de pé , se movendo com a música .
+(12, 'Body_parts') --- (14, 'Posture')
+And the minute they left the room , she was on her feet , moving to the music . ||| E assim que eles deixaram a sala , ela disse , ela estava de pé , se movendo com a música .
+(17, 'Performing_arts') --- (20, 'Fields')
+Take her to a dance school . ' ||| Eles observaram por alguns minutos e ele se virou para a mãe e disse : ' Sra.Lynne , a Gillian não está doente , ela é uma dançarina.Leve-a para uma escola de dança . '
+(0, 'Bringing') --- (4, 'Measure_duration')
+I said , ' What happened ? ' ||| Eu perguntei : ' O que aconteceu ? '
+(1, 'Statement') --- (1, 'Questioning')
+I said , ' What happened ? ' ||| Eu perguntei : ' O que aconteceu ? '
+(5, 'Event') --- (6, 'Event')
+She said , ' She did . ||| Ela respondeu : Ela levou .
+(1, 'Statement') --- (1, 'Communication_response')
+I ca n't tell you how wonderful it was . ||| Não consigo descrever como foi maravilhoso .
+(3, 'Telling') --- (2, 'Statement')
+I ca n't tell you how wonderful it was . ||| Não consigo descrever como foi maravilhoso .
+(1, 'Capability') --- (0, 'Negation')
+We walked in this room and it was full of people like me . ||| Entramos numa sala cheia de pessoas como eu .
+(1, 'Self_motion') --- (0, 'Arriving')
+We walked in this room and it was full of people like me . ||| Entramos numa sala cheia de pessoas como eu .
+(8, 'Abounding_with') --- (5, 'People')
+We walked in this room and it was full of people like me . ||| Entramos numa sala cheia de pessoas como eu .
+(4, 'Building_subparts') --- (2, 'Building_subparts')
+We walked in this room and it was full of people like me . ||| Entramos numa sala cheia de pessoas como eu .
+(10, 'People') --- (6, 'Similarity')
+People who could n't sit still . ||| Pessoas que não conseguiam ficar paradas .
+(0, 'People') --- (0, 'People')
+People who had to move to think . ' ||| Pessoas que precisavam se mexer para pensar .
+(2, 'Required_event') --- (2, 'Needing')
+People who had to move to think . ' ||| Pessoas que precisavam se mexer para pensar .
+(6, 'Cogitation') --- (5, 'Purpose')
+People who had to move to think . ' ||| Pessoas que precisavam se mexer para pensar .
+(0, 'People') --- (0, 'People')
+Who had to move to think . ||| Precisavam se mexer para pensar .
+(3, 'Motion') --- (2, 'Body_movement')
+They did ballet , they did tap , jazz ; they did modern ; they did contemporary . ||| Eles ensinavam ballet , sapateado , jazz , dança moderna , contemporânea .
+(11, 'Intentionally_act') --- (8, 'Fields')
+She was eventually auditioned for the Royal Ballet School ; she became a soloist ; she had a wonderful career at the Royal Ballet . ||| Ela eventualmente fez um teste para a Royal Ballet School , se tornou uma solista e teve uma carreira fantástica na Royal Ballet .
+(2, 'Time_vector') --- (2, 'Intentionally_act')
+She eventually graduated from the Royal Ballet School , founded the Gillian Lynne Dance Company , met Andrew Lloyd Webber . ||| Ela eventualmente se formou na Royal Ballet School , fundou sua própria empresa , a Companhia de Dança Gillian Lynne , e conheceu Andrew Lloyd Weber .
+(2, 'Activity_finish') --- (3, 'Activity_finish')
+She eventually graduated from the Royal Ballet School , founded the Gillian Lynne Dance Company , met Andrew Lloyd Webber . ||| Ela eventualmente se formou na Royal Ballet School , fundou sua própria empresa , a Companhia de Dança Gillian Lynne , e conheceu Andrew Lloyd Weber .
+(16, 'Make_acquaintance') --- (21, 'Relation')
+She 's been responsible for some of the most successful musical theater productions in history , she 's given pleasure to millions , and she 's a multi-millionaire . ||| Ela foi responsável por alguns dos musicais mais bem sucedidos na história , deu alegria para milhões , e é multimilionária .
+(3, 'Causation') --- (2, 'Responsibility')
+She 's been responsible for some of the most successful musical theater productions in history , she 's given pleasure to millions , and she 's a multi-millionaire . ||| Ela foi responsável por alguns dos musicais mais bem sucedidos na história , deu alegria para milhões , e é multimilionária .
+(11, 'Locale_by_use') --- (8, 'Success_or_failure')
+She 's been responsible for some of the most successful musical theater productions in history , she 's given pleasure to millions , and she 's a multi-millionaire . ||| Ela foi responsável por alguns dos musicais mais bem sucedidos na história , deu alegria para milhões , e é multimilionária .
+(9, 'Successful_action') --- (7, 'Evaluative_comparison')
+Somebody else might have put her on medication and told her to calm down . ||| Outra pessoa poderia ter receitado um remédio e dito para ela se acalmar .
+(4, 'Placing') --- (4, 'Medical_intervention')
+Somebody else might have put her on medication and told her to calm down . ||| Outra pessoa poderia ter receitado um remédio e dito para ela se acalmar .
+(9, 'Request') --- (8, 'Statement')
+I believe our only hope for the future is to adopt a new conception of human ecology , one in which we start to reconstitute our conception of the richness of human capacity . ||| Eu acredito que nossa única esperança para o futuro é a adoção de uma nova concepção de ecologia humana , uma em que começamos a reconstituir nossa concepção da riqueza da capacidade humana .
+(1, 'Certainty') --- (1, 'Opinion')
+I believe our only hope for the future is to adopt a new conception of human ecology , one in which we start to reconstitute our conception of the richness of human capacity . ||| Eu acredito que nossa única esperança para o futuro é a adoção de uma nova concepção de ecologia humana , uma em que começamos a reconstituir nossa concepção da riqueza da capacidade humana .
+(4, 'Desiring') --- (4, 'Sole_instance')
+I believe our only hope for the future is to adopt a new conception of human ecology , one in which we start to reconstitute our conception of the richness of human capacity . ||| Eu acredito que nossa única esperança para o futuro é a adoção de uma nova concepção de ecologia humana , uma em que começamos a reconstituir nossa concepção da riqueza da capacidade humana .
+(13, 'Awareness') --- (16, 'Type')
+I believe our only hope for the future is to adopt a new conception of human ecology , one in which we start to reconstitute our conception of the richness of human capacity . ||| Eu acredito que nossa única esperança para o futuro é a adoção de uma nova concepção de ecologia humana , uma em que começamos a reconstituir nossa concepção da riqueza da capacidade humana .
+(15, 'Biological_entity') --- (18, 'Biological_entity')
+I believe our only hope for the future is to adopt a new conception of human ecology , one in which we start to reconstitute our conception of the richness of human capacity . ||| Eu acredito que nossa única esperança para o futuro é a adoção de uma nova concepção de ecologia humana , uma em que começamos a reconstituir nossa concepção da riqueza da capacidade humana .
+(26, 'Awareness') --- (27, 'Awareness')
+I believe our only hope for the future is to adopt a new conception of human ecology , one in which we start to reconstitute our conception of the richness of human capacity . ||| Eu acredito que nossa única esperança para o futuro é a adoção de uma nova concepção de ecologia humana , uma em que começamos a reconstituir nossa concepção da riqueza da capacidade humana .
+(31, 'People') --- (32, 'Biological_entity')
+Our education system has mined our minds in the way that we strip-mine the earth : for a particular commodity . ||| Nosso sistema educacional explorou nossas mentes como exploramos a terra : em busca de um recurso específico .
+(2, 'System') --- (2, 'Education_teaching')
+Our education system has mined our minds in the way that we strip-mine the earth : for a particular commodity . ||| Nosso sistema educacional explorou nossas mentes como exploramos a terra : em busca de um recurso específico .
+(4, 'Mining') --- (3, 'Scrutiny')
+Our education system has mined our minds in the way that we strip-mine the earth : for a particular commodity . ||| Nosso sistema educacional explorou nossas mentes como exploramos a terra : em busca de um recurso específico .
+(14, 'Locale') --- (12, 'Seeking')
+Our education system has mined our minds in the way that we strip-mine the earth : for a particular commodity . ||| Nosso sistema educacional explorou nossas mentes como exploramos a terra : em busca de um recurso específico .
+(18, 'Specific_individual') --- (15, 'Usefulness')
+Our education system has mined our minds in the way that we strip-mine the earth : for a particular commodity . ||| Nosso sistema educacional explorou nossas mentes como exploramos a terra : em busca de um recurso específico .
+(1, 'Education_teaching') --- (1, 'System')
+And for the future , it wo n't serve us . ||| E para o futuro , isso não serve .
+(8, 'Assistance') --- (6, 'Negation')
+We have to rethink the fundamental principles on which we 're educating our children . ||| Temos que repensar os princípios fundamentais que baseamos a educação de nossas crianças .
+(1, 'Required_event') --- (1, 'Needing')
+We have to rethink the fundamental principles on which we 're educating our children . ||| Temos que repensar os princípios fundamentais que baseamos a educação de nossas crianças .
+(2, 'Required_event') --- (2, 'Awareness')
+We have to rethink the fundamental principles on which we 're educating our children . ||| Temos que repensar os princípios fundamentais que baseamos a educação de nossas crianças .
+(5, 'Importance') --- (5, 'Importance')
+We have to rethink the fundamental principles on which we 're educating our children . ||| Temos que repensar os princípios fundamentais que baseamos a educação de nossas crianças .
+(11, 'Education_teaching') --- (10, 'Possession')
+We have to rethink the fundamental principles on which we 're educating our children . ||| Temos que repensar os princípios fundamentais que baseamos a educação de nossas crianças .
+(13, 'Kinship') --- (12, 'People_by_age')
+There was a wonderful quote by Jonas Salk , who said , ' If all the insects were to disappear from the Earth , within 50 years all life on Earth would end . ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(1, 'Existence') --- (2, 'Encoding')
+There was a wonderful quote by Jonas Salk , who said , ' If all the insects were to disappear from the Earth , within 50 years all life on Earth would end . ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(14, 'Quantified_mass') --- (20, 'Temporal_collocation')
+There was a wonderful quote by Jonas Salk , who said , ' If all the insects were to disappear from the Earth , within 50 years all life on Earth would end . ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(22, 'Locale') --- (26, 'Manner_of_life')
+There was a wonderful quote by Jonas Salk , who said , ' If all the insects were to disappear from the Earth , within 50 years all life on Earth would end . ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(27, 'Quantified_mass') --- (37, 'Temporal_collocation')
+There was a wonderful quote by Jonas Salk , who said , ' If all the insects were to disappear from the Earth , within 50 years all life on Earth would end . ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(32, 'Process_end') --- (46, 'Coming_to_be')
+If all human beings disappeared from the Earth , within 50 years all forms of life would flourish . ' ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(0, 'Conditional_occurrence') --- (3, 'Desirability')
+If all human beings disappeared from the Earth , within 50 years all forms of life would flourish . ' ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(7, 'Locale') --- (18, 'Locale')
+If all human beings disappeared from the Earth , within 50 years all forms of life would flourish . ' ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(13, 'Type') --- (32, 'People')
+If all human beings disappeared from the Earth , within 50 years all forms of life would flourish . ' ||| Existe uma frase maravilhosa de Jonas Salk , que diz : ' Se todos os insetos desaparecessem da terra , dentro de 50 anos , toda vida na Terra desapareceria.Se todos os humanos desaparecessem da Terra , dentro de 50 anos todas as formas de vida floresceriam . '
+(17, 'Thriving') --- (44, 'Type')
+And he 's right . ||| Ele está certo .
+(3, 'Correctness') --- (2, 'Correctness')
+What TED celebrates is the gift of the human imagination . ||| O que a TED celebra é a dádiva da imaginação humana .
+(8, 'People') --- (9, 'Awareness')
+We have to be careful now that we use this gift wisely and that we avert some of the scenarios that we 've talked about . ||| Temos que ser cuidadosos e usar essa dádiva com sabedoria , de modo a evitar alguns dos cenários que falamos a respeito .
+(8, 'Using') --- (7, 'Giving')
+We have to be careful now that we use this gift wisely and that we avert some of the scenarios that we 've talked about . ||| Temos que ser cuidadosos e usar essa dádiva com sabedoria , de modo a evitar alguns dos cenários que falamos a respeito .
+(15, 'Preventing_or_letting') --- (13, 'Purpose')
+We have to be careful now that we use this gift wisely and that we avert some of the scenarios that we 've talked about . ||| Temos que ser cuidadosos e usar essa dádiva com sabedoria , de modo a evitar alguns dos cenários que falamos a respeito .
+(23, 'Chatting') --- (20, 'Topic')
+We have to be careful now that we use this gift wisely and that we avert some of the scenarios that we 've talked about . ||| Temos que ser cuidadosos e usar essa dádiva com sabedoria , de modo a evitar alguns dos cenários que falamos a respeito .
+(1, 'Required_event') --- (1, 'Needing')
+And the only way we 'll do it is by seeing our creative capacities for the richness they are and seeing our children for the hope that they are . ||| E a única maneira de fazer isso é encarando nossa capacidade criativa pela riqueza que ela representa e nossas crianças pela esperança que elas representam .
+(6, 'Intentionally_affect') --- (5, 'Intentionally_act')
+And the only way we 'll do it is by seeing our creative capacities for the richness they are and seeing our children for the hope that they are . ||| E a única maneira de fazer isso é encarando nossa capacidade criativa pela riqueza que ela representa e nossas crianças pela esperança que elas representam .
+(3, 'Means') --- (2, 'Sole_instance')
+And the only way we 'll do it is by seeing our creative capacities for the richness they are and seeing our children for the hope that they are . ||| E a única maneira de fazer isso é encarando nossa capacidade criativa pela riqueza que ela representa e nossas crianças pela esperança que elas representam .
+(20, 'Categorization') --- (17, 'Relation')
+And the only way we 'll do it is by seeing our creative capacities for the richness they are and seeing our children for the hope that they are . ||| E a única maneira de fazer isso é encarando nossa capacidade criativa pela riqueza que ela representa e nossas crianças pela esperança que elas representam .
+(13, 'Capability') --- (11, 'Mental_property')
+And the only way we 'll do it is by seeing our creative capacities for the richness they are and seeing our children for the hope that they are . ||| E a única maneira de fazer isso é encarando nossa capacidade criativa pela riqueza que ela representa e nossas crianças pela esperança que elas representam .
+(2, 'Sole_instance') --- (2, 'Sole_instance')
+And the only way we 'll do it is by seeing our creative capacities for the richness they are and seeing our children for the hope that they are . ||| E a única maneira de fazer isso é encarando nossa capacidade criativa pela riqueza que ela representa e nossas crianças pela esperança que elas representam .
+(22, 'Kinship') --- (19, 'People_by_age')
+And our task is to educate their whole being , so they can face this future . ||| Nossa tarefa é educá-las em sua totalidade , preparando-as para esse futuro .
+(2, 'Being_obligated') --- (1, 'Being_obligated')
+And our task is to educate their whole being , so they can face this future . ||| Nossa tarefa é educá-las em sua totalidade , preparando-as para esse futuro .
+(15, 'Alternatives') --- (11, 'Temporal_collocation')
+By the way -- we may not see this future , but they will . ||| A propósito , talvez não vejamos esse futuro , mas elas verão .
+(6, 'Negation') --- (5, 'Scrutiny')
+And our job is to help them make something of it . ||| E o nosso trabalho é ajudá-las a tirar proveito dele .
+(7, 'Intentionally_create') --- (6, 'Goal')
+Thank you very much . ||| Muito obrigado .
+(2, 'Degree') --- (1, 'Judgment_direct_address')

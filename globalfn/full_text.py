@@ -2,6 +2,7 @@ import pickle
 from pathlib import Path
 import os
 from flair.data import Sentence
+from globalfn.tools import get_lang
 
 package_directory = os.path.dirname(os.path.abspath(__file__))
 
@@ -34,3 +35,9 @@ def full_text(lang, tokenized=False, unzip=False):
         return list(zip(ids, sents))
     else:
         return list(ids), list(sents)
+
+def get_text(ID):
+    lang = get_lang(ID)
+    ids, sents = full_text(lang, unzip=True)
+    ids_to_sents = {ids[i]: sents[i] for i in range(len(ids))}
+    return ids_to_sents[ID]
