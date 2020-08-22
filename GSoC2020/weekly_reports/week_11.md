@@ -9,8 +9,8 @@
 - Create the attention mechanism using https://github.com/thomlake/pytorch-attention ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Train the attention mechanism to learn to disambiguate LUs using the annotated sentences in Global FrameNet and exemplar sentences from FN 1.7 and FrameNet Brasil. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Apply the attention mechanism to the n-gram embeddings of a sentence to disambiguate the LU given the projected semantic frame. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-- Obtain the SegRNN model from https://github.com/swabhs/open-sesame. 
-- Create the attention mechanism using https://github.com/thomlake/pytorch-attention and train it on the annotated sentences. Augment the SegRNN model with the trained attention mechanism.
+- Obtain the SegRNN model from https://github.com/swabhs/open-sesame. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Create the attention mechanism using https://github.com/thomlake/pytorch-attention and train it on the annotated sentences. Augment the SegRNN model with the trained attention mechanism. 
 - Apply the augmented SegRNN on the unannotated sentences to label the semantic roles.
 
 
