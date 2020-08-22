@@ -18,7 +18,7 @@ However, we can reduce the disparity in the distributional semantics by minimizi
 
 Only 5.3% of the EN-PT aligned sentences and 4.2% of EN-DE have the exact same set of frames annotations. The predominant reason is that some words in a language are not annotated as frame-evoking lexical units. For example, the sentence "Don't you?" are not annotated with any semantic frame, but its Portuguese counterpart "Vocês não?" is annotated with the *Negation* frame for the word "não". Particularly, 86% of the EN-PT alignment pairs and 81% of the EN-DE alignment pairs differ in the number of annotated LUs and frames.
 
-We can study the translational divergence of semantic frames by aligning words in the sentence pairs. After aligning the words with the `fast_align` model, we align the annotated lexical units if such alignment is possible, and we find that a surprisingly low proportion of annotated semantic frames are identical: 30.7% for the EN-DE pairs and 31.2% for the EN-PT pairs. 
+We can study the translational divergence of semantic frames by aligning words in the sentence pairs. After aligning the words with the `fast_align` model, we align the annotated lexical units if such alignment is possible, and we find that a surprisingly low proportion of annotated semantic frames are identical: 30.7% for the EN-DE pairs and 31.2% for the EN-PT pairs. However, since word alignment model is not 100% accurate, the result may be misleading. For example, the word alignment model mistakenly aligns the English phrase "three themes" with the Portuguese word "tópicos".
 
 
 ---
