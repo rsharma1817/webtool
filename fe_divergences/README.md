@@ -27,3 +27,5 @@ The filename of the `tsv` file comprises the information of the language pair, t
 ```
 Word | Universal_POS | Fine_graind_POS | Lexical_unit | Semantic_frame | Frame_element | Is_core_FE
 ```
+
+![Example](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/FE_divergence_demo.png)
