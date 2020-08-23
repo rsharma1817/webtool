@@ -1,6 +1,6 @@
 # FE Divergences Under Same Semantic Frame
 
-This folder contains files in the pseudo-CoNLL format for further research on FE Divergences where an aligned sentence pair shares an annotated semantic frame.
+The folder contains files in the pseudo-CoNLL format for further research on FE Divergences, where an aligned sentence pair shares the same semantic frame but labeled with different frame elements.
 
 ### Folder Directory
 ```
