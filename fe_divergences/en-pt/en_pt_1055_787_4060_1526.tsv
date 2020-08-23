@@ -1,0 +1,25 @@
+The	DET	DT	-	-	Experiencer	True
+teacher	NOUN	NN	-	-	Experiencer	True
+was	VERB	VBD	-	-	-	False
+fascinated	ADJ	JJ	fascinated.a	Mental_stimulus_exp_focus	-	False
+.	PUNCT	.	-	-	-	False
+
+A	DET	DT	-	-	Experiencer	True
+professora	X	FW	-	-	Experiencer	True
+ficou	X	FW	-	-	-	False
+fascinada	X	FW	fascinado.a	Mental_stimulus_exp_focus	-	False
+,	PUNCT	,	-	-	-	False
+foi	X	FW	-	-	-	False
+até	X	FW	-	-	-	False
+ela	X	FW	-	-	-	False
+e	X	FW	-	-	-	False
+perguntou	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+O	INTJ	UH	-	-	-	False
+que	X	FW	-	-	-	False
+você	X	FW	-	-	-	False
+está	X	FW	-	-	-	False
+desenhando	X	FW	-	-	-	False
+?	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

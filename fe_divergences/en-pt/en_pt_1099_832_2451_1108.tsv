@@ -1,0 +1,22 @@
+In	ADP	IN	-	-	-	False
+fact	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+we	PRON	PRP	-	-	Theme	True
+moved	VERB	VBD	move.v	Motion	-	False
+from	ADP	IN	-	-	Source	True
+Stratford	PROPN	NNP	-	-	Source	True
+to	ADP	IN	-	-	Goal	True
+Los	PROPN	NNP	-	-	Goal	True
+Angeles	PROPN	NNP	-	-	Goal	True
+.	PUNCT	.	-	-	-	False
+
+Na	X	UH	-	-	-	False
+realidade	X	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+mudamos	X	FW	mudar.v	Motion	-	False
+de	X	FW	-	-	Source	True
+Stratford	X	NNP	-	-	Source	True
+para	X	FW	-	-	Goal	True
+Los	PROPN	NNP	-	-	Goal	True
+Angeles	PROPN	NNP	-	-	Goal	True
+.	PUNCT	.	-	-	-	False

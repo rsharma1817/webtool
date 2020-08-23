@@ -1,0 +1,15 @@
+Just	ADV	RB	-	-	-	False
+seeing	VERB	VBG	-	-	-	False
+what	PRON	WP	-	-	Event	False
+she	PRON	PRP	-	-	Entity	True
+could	AUX	MD	can.v	Capability	-	False
+do	VERB	VB	-	-	Event	False
+.	PUNCT	.	-	-	-	False
+
+Ver	PROPN	UH	-	-	-	False
+do	VERB	VB	-	-	Event	False
+que	X	FW	-	-	Event	False
+ela	X	FW	-	-	Entity	True
+é	X	FW	-	-	-	False
+capaz	X	FW	capaz.a	Capability	-	False
+.	PUNCT	.	-	-	-	False

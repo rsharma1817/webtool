@@ -1,0 +1,25 @@
+So	ADV	RB	-	-	-	False
+I	PRON	PRP	-	-	Experiencer	True
+want	VERB	VBP	want.v	Desiring	-	False
+to	PART	TO	-	-	Event	True
+talk	VERB	VB	-	-	Event	True
+about	ADP	IN	-	-	Event	True
+education	NOUN	NN	-	-	Event	True
+and	CCONJ	CC	-	-	-	False
+I	PRON	PRP	-	-	-	False
+want	VERB	VBP	-	-	-	False
+to	PART	TO	-	-	-	False
+talk	VERB	VB	-	-	-	False
+about	ADP	IN	-	-	-	False
+creativity	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Ich	PROPN	NNP	-	-	Experiencer	True
+möchte	PROPN	NNP	mögen.v	Desiring	-	False
+also	ADV	RB	-	-	-	False
+über	ADJ	NN	-	-	Event	True
+Bildung	PROPN	NNP	-	-	Event	True
+und	CCONJ	NNP	-	-	Event	True
+Kreativität	PROPN	NNP	-	-	Event	True
+sprechen	NOUN	NN	-	-	Event	True
+.	PUNCT	.	-	-	-	False

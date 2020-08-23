@@ -1,0 +1,19 @@
+Just	ADV	RB	-	-	-	False
+seeing	VERB	VBG	see.v	Perception_experience	-	False
+what	PRON	WP	-	-	Phenomenon	True
+she	PRON	PRP	-	-	Phenomenon	True
+could	AUX	MD	-	-	Phenomenon	True
+do	VERB	VB	-	-	Phenomenon	True
+.	PUNCT	.	-	-	-	False
+
+Allein	PROPN	NNP	-	-	-	False
+zu	PROPN	NNP	-	-	-	False
+sehen	PROPN	NNP	sehen.v	Perception_experience	-	False
+,	PUNCT	,	-	-	-	False
+wozu	NOUN	NNP	-	-	Phenomenon	True
+sie	NUM	NNP	-	-	Phenomenon	True
+in	ADP	IN	-	-	Phenomenon	True
+der	X	NNP	-	-	Phenomenon	True
+Lage	X	NNP	-	-	Phenomenon	True
+ist	X	NN	-	-	Phenomenon	True
+.	PUNCT	.	-	-	-	False

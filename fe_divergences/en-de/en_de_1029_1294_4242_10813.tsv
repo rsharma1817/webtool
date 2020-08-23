@@ -1,0 +1,19 @@
+'	PUNCT	''	-	-	-	False
+My	PRON	PRP$	-	-	Salient_event	False
+one	NUM	CD	-	-	Salient_event	False
+night	NOUN	NN	-	-	Salient_event	False
+out	ADV	RP	-	-	Salient_event	False
+all	DET	DT	-	-	-	False
+week	NOUN	NN	week.n	Calendric_unit	Unit	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+Mein	PROPN	NNP	-	-	-	False
+einziger	PROPN	NN	-	-	-	False
+freier	PROPN	NN	-	-	-	False
+Abend	PROPN	NNP	-	-	-	False
+in	ADP	IN	-	-	-	False
+der	X	NNP	-	-	-	False
+Woche	PROPN	NNP	woche.n	Calendric_unit	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

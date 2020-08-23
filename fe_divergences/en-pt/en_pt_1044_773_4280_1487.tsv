@@ -1,0 +1,24 @@
+And	CCONJ	CC	-	-	-	False
+my	PRON	PRP$	-	-	-	False
+contention	NOUN	NN	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+,	PUNCT	,	-	-	-	False
+all	DET	DT	-	-	Entity	True
+kids	NOUN	NNS	-	-	Entity	True
+have	VERB	VBP	-	-	-	False
+tremendous	ADJ	JJ	-	-	Degree	False
+talents	NOUN	NNS	talent.n	Capability	-	False
+.	PUNCT	.	-	-	-	False
+
+Minha	PROPN	NNP	-	-	-	False
+convicção	X	FW	-	-	-	False
+é	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+todas	X	FW	-	-	Entity	True
+as	ADP	IN	-	-	Entity	True
+crianças	X	FW	-	-	Entity	True
+têm	X	FW	-	-	-	False
+um	INTJ	UH	-	-	-	False
+talento	NOUN	NN	talento.n	Capability	-	False
+tremendo	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False

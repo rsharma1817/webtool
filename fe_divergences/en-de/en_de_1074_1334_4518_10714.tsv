@@ -1,0 +1,10 @@
+This	DET	DT	-	-	Event	False
+really	ADV	RB	-	-	Manner	False
+happened	VERB	VBD	happen.v	Event	-	False
+.	PUNCT	.	-	-	-	False
+
+Das	X	NNP	-	-	Event	False
+ist	X	VBD	-	-	-	False
+wirklich	X	NN	-	-	Manner	False
+passiert	X	NN	passieren.v	Event	-	False
+.	PUNCT	.	-	-	-	False

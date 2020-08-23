@@ -1,0 +1,19 @@
+We	PRON	PRP	-	-	Cognizer	True
+need	VERB	VBP	need.v	Needing	-	False
+to	PART	TO	-	-	Requirement	True
+radically	ADV	RB	-	-	Requirement	True
+rethink	VERB	VB	-	-	Requirement	True
+our	PRON	PRP$	-	-	Requirement	True
+view	NOUN	NN	-	-	Requirement	True
+of	ADP	IN	-	-	Requirement	True
+intelligence	NOUN	NN	-	-	Requirement	True
+.	PUNCT	.	-	-	-	False
+
+Precisamos	X	FW	precisar.v	Needing	-	False
+repensar	X	FW	-	-	Requirement	True
+radicalmente	X	FW	-	-	Requirement	True
+nossa	X	FW	-	-	Requirement	True
+visão	X	FW	-	-	Requirement	True
+de	X	FW	-	-	Requirement	True
+inteligência	X	FW	-	-	Requirement	True
+.	PUNCT	.	-	-	-	False

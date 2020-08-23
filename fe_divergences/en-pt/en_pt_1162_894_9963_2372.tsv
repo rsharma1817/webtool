@@ -1,0 +1,22 @@
+It	PRON	PRP	-	-	-	False
+'s	VERB	VBZ	-	-	-	False
+a	DET	DT	-	-	-	False
+way	NOUN	NN	-	-	-	False
+of	ADP	IN	-	-	-	False
+getting	VERB	VBG	-	-	-	False
+their	PRON	PRP$	-	-	-	False
+head	NOUN	NN	-	-	-	False
+to	ADP	IN	-	-	-	False
+meetings	NOUN	NNS	meeting.n	Discussion	-	False
+.	PUNCT	.	-	-	-	False
+
+É	NOUN	NN	-	-	-	False
+um	INTJ	UH	-	-	-	False
+jeito	X	FW	-	-	-	False
+de	X	FW	-	-	-	False
+levarem	X	FW	-	-	-	False
+suas	X	FW	-	-	Interlocutor_2	True
+cabeças	X	FW	-	-	Interlocutor_2	True
+às	ADP	IN	-	-	-	False
+conferências	NOUN	NNS	conferência.n	Discussion	-	False
+.	PUNCT	.	-	-	-	False

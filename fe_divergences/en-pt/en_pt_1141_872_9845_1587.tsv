@@ -1,0 +1,24 @@
+I	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+math	NOUN	NN	math.n	Fields	Activity	True
+is	VERB	VBZ	-	-	-	False
+very	ADV	RB	-	-	-	False
+important	ADJ	JJ	-	-	-	False
+,	PUNCT	,	-	-	-	False
+but	CCONJ	CC	-	-	-	False
+so	ADV	RB	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+dance	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Eu	X	NNP	-	-	-	False
+acho	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+matemática	X	FW	matemática.n	Fields	-	False
+é	X	FW	-	-	-	False
+importante	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+mas	X	FW	-	-	-	False
+dança	X	FW	-	-	-	False
+também	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

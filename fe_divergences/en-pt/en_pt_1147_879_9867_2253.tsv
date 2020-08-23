@@ -1,0 +1,13 @@
+And	CCONJ	CC	-	-	-	False
+slightly	ADV	RB	-	-	-	False
+to	ADP	IN	to.prep	Goal	-	False
+one	NUM	CD	-	-	Landmark	True
+side	NOUN	NN	-	-	Landmark	True
+.	PUNCT	.	-	-	-	False
+
+E	X	NN	-	-	-	False
+levemente	X	NN	-	-	-	False
+para	X	NN	para.prep	Goal	-	False
+um	INTJ	UH	-	-	Landmark	True
+lado	NOUN	FW	-	-	Landmark	True
+.	PUNCT	.	-	-	-	False

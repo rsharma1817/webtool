@@ -1,0 +1,16 @@
+He	PRON	PRP	-	-	-	False
+'d	VERB	VBD	-	-	-	False
+known	VERB	VBN	-	-	-	False
+her	PRON	PRP	-	-	-	False
+for	ADP	IN	-	-	-	False
+a	DET	DT	-	-	Count	True
+month	NOUN	NN	month.n	Measure_duration	Unit	True
+.	PUNCT	.	-	-	-	False
+
+Eles	X	FW	-	-	Process	True
+se	X	FW	-	-	Process	True
+conheciam	X	FW	-	-	Process	True
+por	X	FW	-	-	-	False
+um	INTJ	UH	-	-	Count	True
+mês	INTJ	UH	mês.n	Measure_duration	-	False
+.	PUNCT	.	-	-	-	False

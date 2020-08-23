@@ -1,0 +1,8 @@
+Am	VERB	VBP	-	-	-	False
+I	PRON	PRP	-	-	Source	True
+right	ADJ	JJ	right.a	Correctness	-	False
+?	PUNCT	.	-	-	-	False
+
+Estou	PROPN	NNP	-	-	-	False
+certo	X	NNP	certo.a	Correctness	-	False
+?	PUNCT	.	-	-	-	False

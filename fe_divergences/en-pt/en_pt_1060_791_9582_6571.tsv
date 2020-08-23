@@ -1,0 +1,18 @@
+When	ADV	WRB	-	-	-	False
+my	PRON	PRP$	-	-	-	False
+son	NOUN	NN	-	-	-	False
+was	VERB	VBD	-	-	-	False
+four	NUM	CD	four.num	Cardinal_numbers	Number	True
+in	ADP	IN	-	-	-	False
+England	PROPN	NNP	-	-	-	False
+--	PUNCT	:	-	-	-	False
+
+Quando	X	NNP	-	-	-	False
+meu	X	FW	-	-	-	False
+filho	X	FW	-	-	-	False
+tinha	X	FW	-	-	-	False
+quatro	X	FW	quatro.num	Cardinal_numbers	-	False
+anos	X	FW	-	-	Entity	True
+na	X	FW	-	-	-	False
+Inglaterra	X	NNP	-	-	-	False
+...	PUNCT	.	-	-	-	False

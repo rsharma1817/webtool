@@ -1,0 +1,16 @@
+They	PRON	PRP	-	-	Negated_proposition	True
+'re	VERB	VBP	-	-	Negated_proposition	True
+not	ADV	RB	not.adv	Negation	-	False
+frightened	ADJ	JJ	-	-	Negated_proposition	True
+of	ADP	IN	-	-	Negated_proposition	True
+being	VERB	VBG	-	-	Negated_proposition	True
+wrong	ADJ	JJ	-	-	Negated_proposition	True
+.	PUNCT	.	-	-	-	False
+
+Elas	X	FW	-	-	-	False
+não	X	FW	não.adv	Negation	-	False
+tem	X	FW	-	-	Negated_proposition	True
+medo	X	FW	-	-	Negated_proposition	True
+de	X	FW	-	-	Negated_proposition	True
+errar	X	FW	-	-	Negated_proposition	True
+.	PUNCT	.	-	-	-	False

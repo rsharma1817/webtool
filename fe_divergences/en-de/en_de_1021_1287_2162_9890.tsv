@@ -1,0 +1,12 @@
+I	PRON	PRP	-	-	-	False
+find	VERB	VBP	-	-	-	False
+this	DET	DT	-	-	Stimulus	True
+very	ADV	RB	-	-	Degree	False
+interesting	ADJ	JJ	interesting.a	Mental_stimulus_stimulus_focus	-	False
+.	PUNCT	.	-	-	-	False
+
+Das	X	NNP	-	-	Stimulus	True
+ist	X	VBD	-	-	-	False
+recht	X	NN	-	-	Degree	False
+bemerkenswert	X	NN	bemerkenswert.adv	Mental_stimulus_stimulus_focus	-	False
+.	PUNCT	.	-	-	-	False

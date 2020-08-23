@@ -1,0 +1,31 @@
+Number	NOUN	NN	-	-	-	False
+one	NUM	CD	-	-	-	False
+,	PUNCT	,	-	-	-	False
+that	ADP	IN	-	-	-	False
+the	DET	DT	-	-	Figure	True
+most	ADV	RBS	-	-	Figure	True
+useful	ADJ	JJ	-	-	Figure	True
+subjects	NOUN	NNS	-	-	Figure	True
+for	ADP	IN	-	-	Figure	True
+work	NOUN	NN	-	-	Figure	True
+are	VERB	VBP	-	-	-	False
+at	ADP	IN	at.prep	Locative_relation	-	False
+the	DET	DT	-	-	Ground	True
+top	NOUN	NN	-	-	Ground	True
+.	PUNCT	.	-	-	-	False
+
+A	DET	DT	-	-	-	False
+primeira	NOUN	FW	-	-	-	False
+é	NOUN	FW	-	-	-	False
+que	VERB	FW	-	-	-	False
+as	ADP	IN	-	-	Figure	True
+disciplinas	X	FW	-	-	Figure	True
+mais	X	FW	-	-	-	False
+úteis	X	FW	-	-	-	False
+para	X	FW	-	-	-	False
+o	X	FW	-	-	-	False
+trabalho	X	FW	-	-	-	False
+estão	X	FW	-	-	-	False
+no	DET	DT	no topo.adv	Locative_relation	-	False
+topo	NOUN	NN	no topo.adv	Locative_relation	-	False
+.	PUNCT	.	-	-	-	False

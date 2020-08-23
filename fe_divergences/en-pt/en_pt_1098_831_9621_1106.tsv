@@ -1,0 +1,20 @@
+I	PRON	PRP	-	-	-	False
+lived	VERB	VBD	-	-	-	False
+in	ADP	IN	-	-	-	False
+Stratford-on-Avon	PROPN	NNP	-	-	-	False
+until	ADP	IN	-	-	-	False
+about	ADV	RB	-	-	-	False
+five	NUM	CD	five.num	Cardinal_numbers	Number	True
+years	NOUN	NNS	-	-	Entity	True
+ago	ADV	RB	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Eu	X	NNP	-	-	-	False
+morei	X	FW	-	-	-	False
+em	INTJ	FW	-	-	-	False
+Stratford-on-Avon	PROPN	NNP	-	-	-	False
+até	VERB	FW	-	-	-	False
+cinco	X	FW	cinco.num	Cardinal_numbers	-	False
+anos	X	FW	-	-	Unit	True
+atrás	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

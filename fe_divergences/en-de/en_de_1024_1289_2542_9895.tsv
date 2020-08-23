@@ -1,0 +1,19 @@
+If	ADP	IN	-	-	-	False
+you	PRON	PRP	-	-	-	False
+work	VERB	VBP	-	-	-	False
+in	ADP	IN	-	-	-	False
+education	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+you	PRON	PRP	-	-	Addressee	True
+'re	VERB	VBP	-	-	-	False
+not	ADV	RB	-	-	-	False
+asked	VERB	VBN	ask.v	Request	-	False
+.	PUNCT	.	-	-	-	False
+
+Man	INTJ	UH	-	-	Addressee	True
+wird	NOUN	NN	-	-	-	False
+erst	X	NN	-	-	-	False
+gar	X	NN	-	-	-	False
+nicht	X	NN	-	-	-	False
+eingeladen	X	NN	einladen.v	Request	-	False
+.	PUNCT	.	-	-	-	False

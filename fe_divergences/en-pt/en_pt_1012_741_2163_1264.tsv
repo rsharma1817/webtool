@@ -1,0 +1,15 @@
+In	ADP	IN	-	-	-	False
+fact	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+I	PRON	PRP	-	-	Theme	True
+'m	VERB	VBP	-	-	-	False
+leaving	VERB	VBG	leave.v	Departing	-	False
+.	PUNCT	.	-	-	-	False
+
+Na	X	FW	-	-	Event_description	False
+verdade	X	FW	-	-	Event_description	False
+,	PUNCT	,	-	-	-	False
+estou	X	FW	-	-	-	False
+indo	X	FW	ir embora.v	Departing	-	False
+embora	X	FW	ir embora.v	Departing	-	False
+.	PUNCT	.	-	-	-	False

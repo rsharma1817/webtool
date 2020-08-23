@@ -1,0 +1,22 @@
+'	PUNCT	''	-	-	-	False
+And	CCONJ	CC	-	-	-	False
+stop	VERB	VB	stop.v	Activity_stop	-	False
+speaking	VERB	VBG	-	-	Activity	False
+like	ADP	IN	-	-	Activity	False
+that	DET	DT	-	-	Activity	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+'	PUNCT	``	-	-	-	False
+Larga	X	NNP	-	-	-	False
+esse	X	FW	-	-	-	False
+lápis.E	X	FW	-	-	-	False
+para	X	FW	parar.v	Activity_stop	-	False
+de	X	FW	-	-	Activity	False
+falar	X	FW	-	-	Activity	False
+desse	X	FW	-	-	Activity	False
+jeito.Ninguém	X	FW	-	-	-	False
+entende	X	FW	-	-	-	False
+nada	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

@@ -1,0 +1,19 @@
+People	NOUN	NNS	-	-	Cognizer	True
+were	VERB	VBD	-	-	-	False
+n't	ADV	RB	-	-	-	False
+aware	ADJ	JJ	aware.a	Awareness	-	False
+they	PRON	PRP	-	-	Content	True
+could	AUX	MD	-	-	Content	True
+have	VERB	VB	-	-	Content	True
+that	DET	DT	-	-	Content	True
+.	PUNCT	.	-	-	-	False
+
+As	ADP	IN	-	-	Cognizer	True
+pessoas	NOUN	FW	-	-	Cognizer	True
+não	X	FW	-	-	-	False
+sabiam	X	FW	saber.v	Awareness	-	False
+que	X	FW	-	-	Content	True
+podiam	X	FW	-	-	Content	True
+ter	X	FW	-	-	Content	True
+aquilo	X	FW	-	-	Content	True
+.	PUNCT	.	-	-	-	False

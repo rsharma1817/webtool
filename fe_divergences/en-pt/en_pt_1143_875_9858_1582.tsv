@@ -1,0 +1,18 @@
+We	PRON	PRP	-	-	Possessor	True
+all	DET	DT	-	-	Possessor	True
+have	VERB	VBP	-	-	-	False
+bodies	NOUN	NNS	body.n	Body_parts	Body_part	True
+,	PUNCT	,	-	-	-	False
+do	VERB	VBP	-	-	-	False
+n't	ADV	RB	-	-	-	False
+we	PRON	PRP	-	-	-	False
+?	PUNCT	.	-	-	-	False
+
+Nós	X	FW	-	-	Possessor	True
+todos	X	FW	-	-	-	False
+temos	X	FW	-	-	-	False
+corpos	X	FW	corpo.n	Body_parts	-	False
+,	PUNCT	,	-	-	-	False
+não	X	FW	-	-	-	False
+temos	X	NNS	-	-	-	False
+?	PUNCT	.	-	-	-	False

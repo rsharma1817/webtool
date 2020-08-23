@@ -1,0 +1,21 @@
+We	PRON	PRP	-	-	Cognizer	True
+think	VERB	VBP	think.v	Awareness	-	False
+in	ADP	IN	-	-	Manner	False
+abstract	ADJ	JJ	-	-	Manner	False
+terms	NOUN	NNS	-	-	Manner	False
+,	PUNCT	,	-	-	-	False
+we	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+in	ADP	IN	-	-	-	False
+movement	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Pensamos	X	NNP	-	-	-	False
+em	X	FW	-	-	-	False
+termo	X	FW	-	-	-	False
+abstratos	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+pensamos	X	FW	pensar.v	Awareness	-	False
+em	X	FW	-	-	Manner	False
+movimento	X	FW	-	-	Manner	False
+.	PUNCT	.	-	-	-	False

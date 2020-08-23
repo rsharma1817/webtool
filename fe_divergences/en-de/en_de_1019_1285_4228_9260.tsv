@@ -1,0 +1,27 @@
+Actually	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+what	PRON	WP	-	-	-	False
+I	PRON	PRP	-	-	-	False
+find	VERB	VBP	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+everybody	NOUN	NN	-	-	-	False
+has	VERB	VBZ	-	-	-	False
+an	DET	DT	-	-	-	False
+interest	NOUN	NN	-	-	-	False
+in	ADP	IN	-	-	-	False
+education	NOUN	NN	education.n	Education_teaching	-	False
+.	PUNCT	.	-	-	-	False
+
+Im	VERB	UH	-	-	-	False
+Grunde	PROPN	NNP	-	-	-	False
+finde	VERB	VBP	-	-	-	False
+ich	NOUN	JJ	-	-	-	False
+,	PUNCT	,	-	-	-	False
+dass	X	FW	-	-	-	False
+sich	X	FW	-	-	-	False
+eigentlich	X	FW	-	-	-	False
+jeder	X	FW	-	-	-	False
+für	X	FW	-	-	-	False
+Bildung	X	NNP	bildung.n	Education_teaching	-	False
+interessiert	X	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False

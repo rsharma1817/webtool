@@ -1,0 +1,25 @@
+Because	ADP	IN	-	-	-	False
+she	PRON	PRP	-	-	Cause	False
+was	VERB	VBD	-	-	-	False
+the	DET	DT	-	-	-	False
+main	ADJ	JJ	-	-	-	False
+reason	NOUN	NN	reason.n	Causation	-	False
+we	PRON	PRP	-	-	Effect	False
+were	VERB	VBD	-	-	Effect	False
+leaving	VERB	VBG	-	-	Effect	False
+the	DET	DT	-	-	Effect	False
+country	NOUN	NN	-	-	Effect	False
+.	PUNCT	.	-	-	-	False
+
+Porque	X	NNP	porque.c	Causation	-	False
+ela	X	NNP	-	-	Actor	True
+era	X	NN	-	-	Cause	False
+a	DET	DT	-	-	Cause	False
+principal	NOUN	NN	-	-	Cause	False
+razão	X	FW	-	-	Cause	False
+de	X	FW	-	-	Cause	False
+estarmos	X	FW	-	-	Cause	False
+deixando	X	FW	-	-	Cause	False
+o	X	FW	-	-	Cause	False
+país	X	FW	-	-	Cause	False
+.	PUNCT	.	-	-	-	False

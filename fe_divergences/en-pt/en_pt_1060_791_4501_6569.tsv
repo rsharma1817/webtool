@@ -1,0 +1,18 @@
+When	ADV	WRB	-	-	-	False
+my	PRON	PRP$	-	-	Ego	True
+son	NOUN	NN	son.n	Kinship	Alter	True
+was	VERB	VBD	-	-	-	False
+four	NUM	CD	-	-	-	False
+in	ADP	IN	-	-	-	False
+England	PROPN	NNP	-	-	-	False
+--	PUNCT	:	-	-	-	False
+
+Quando	X	NNP	-	-	-	False
+meu	X	FW	-	-	Alter	True
+filho	X	FW	filho.n	Kinship	-	False
+tinha	X	FW	-	-	-	False
+quatro	X	FW	-	-	-	False
+anos	X	FW	-	-	-	False
+na	X	FW	-	-	-	False
+Inglaterra	X	NNP	-	-	-	False
+...	PUNCT	.	-	-	-	False

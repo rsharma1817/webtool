@@ -1,0 +1,25 @@
+Because	ADP	IN	-	-	-	False
+you	PRON	PRP	-	-	-	False
+do	VERB	VBP	-	-	-	False
+n't	ADV	RB	-	-	-	False
+think	VERB	VB	-	-	-	False
+of	ADP	IN	-	-	-	False
+Shakespeare	PROPN	NNP	-	-	Person	True
+being	VERB	VBG	-	-	-	False
+a	DET	DT	-	-	-	False
+child	NOUN	NN	child.n	People_by_age	-	False
+,	PUNCT	,	-	-	-	False
+do	VERB	VBP	-	-	-	False
+you	PRON	PRP	-	-	-	False
+?	PUNCT	.	-	-	-	False
+
+Porque	X	NNP	-	-	-	False
+você	X	FW	-	-	-	False
+nunca	X	FW	-	-	-	False
+pensou	X	FW	-	-	-	False
+no	DET	DT	-	-	-	False
+Shakespeare	PROPN	NNP	-	-	Person	True
+criança	PROPN	NNP	criança.n	People_by_age	-	False
+,	PUNCT	,	-	-	-	False
+pensou	NOUN	NN	-	-	-	False
+?	PUNCT	.	-	-	-	False

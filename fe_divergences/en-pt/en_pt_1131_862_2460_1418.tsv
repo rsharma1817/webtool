@@ -1,0 +1,13 @@
+Does	VERB	VBZ	-	-	-	False
+n't	ADV	RB	-	-	-	False
+matter	VERB	VB	-	-	-	False
+where	ADV	WRB	-	-	Goal	True
+you	PRON	PRP	-	-	Theme	True
+go	VERB	VBP	go.v	Motion	-	False
+.	PUNCT	.	-	-	-	False
+
+Não	X	NNP	-	-	-	False
+importa	X	FW	-	-	-	False
+aonde	X	FW	-	-	-	False
+vamos	X	FW	ir.v	Motion	-	False
+.	PUNCT	.	-	-	-	False

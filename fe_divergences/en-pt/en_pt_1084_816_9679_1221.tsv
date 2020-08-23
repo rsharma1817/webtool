@@ -1,0 +1,16 @@
+They	PRON	PRP	-	-	Experiencer	True
+'re	VERB	VBP	-	-	-	False
+not	ADV	RB	-	-	-	False
+frightened	ADJ	JJ	frightened.a	Fear	-	False
+of	ADP	IN	-	-	Stimulus	True
+being	VERB	VBG	-	-	Stimulus	True
+wrong	ADJ	JJ	-	-	Stimulus	True
+.	PUNCT	.	-	-	-	False
+
+Elas	X	FW	-	-	-	False
+não	X	FW	-	-	-	False
+tem	X	FW	-	-	-	False
+medo	X	FW	medo.n	Fear	-	False
+de	X	FW	-	-	Stimulus	True
+errar	X	FW	-	-	Stimulus	True
+.	PUNCT	.	-	-	-	False

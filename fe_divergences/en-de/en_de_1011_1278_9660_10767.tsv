@@ -1,0 +1,19 @@
+I	PRON	PRP	-	-	-	False
+'ve	VERB	VBP	-	-	-	False
+been	VERB	VBN	-	-	-	False
+blown	VERB	VBN	-	-	-	False
+away	ADV	RP	-	-	-	False
+by	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+whole	ADJ	JJ	whole.a	Ranked_expectation	-	False
+thing	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Die	VERB	VB	-	-	-	False
+ganze	PROPN	NNP	ganz.a	Ranked_expectation	-	False
+Sache	PROPN	NNP	-	-	Entity	True
+hier	X	NN	-	-	-	False
+hat	X	NN	-	-	-	False
+mich	X	FW	-	-	-	False
+umgehauen	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

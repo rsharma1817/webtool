@@ -1,0 +1,27 @@
+Actually	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+you	PRON	PRP	-	-	-	False
+'re	VERB	VBP	-	-	-	False
+not	ADV	RB	-	-	-	False
+often	ADV	RB	-	-	-	False
+at	ADP	IN	-	-	-	False
+dinner	NOUN	NN	dinner-party.n	Social_event	Social_event	False
+parties	NOUN	NNS	dinner-party.n	Social_event	Social_event	False
+,	PUNCT	,	-	-	-	False
+frankly	ADV	RB	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Na	PROPN	FW	-	-	-	False
+verdade	PROPN	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+você	X	FW	-	-	-	False
+não	X	FW	-	-	-	False
+vai	X	FW	-	-	-	False
+a	X	FW	-	-	-	False
+muitas	X	FW	-	-	-	False
+festas	X	FW	festa.n	Social_event	-	False
+se	X	FW	-	-	-	False
+trabalha	X	FW	-	-	-	False
+com	X	FW	-	-	-	False
+educação	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

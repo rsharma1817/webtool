@@ -1,0 +1,19 @@
+And	CCONJ	CC	-	-	-	False
+we	PRON	PRP	-	-	-	False
+run	VERB	VBP	-	-	-	False
+our	PRON	PRP$	-	-	Proprietor	False
+companies	NOUN	NNS	company.n	Businesses	Business	True
+like	ADP	IN	-	-	-	False
+this	DET	DT	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+as	ADP	IN	-	-	-	False
+empresas	X	FW	empresa.n	Businesses	-	False
+são	X	FW	-	-	-	False
+administradas	X	FW	-	-	-	False
+assim	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+por	X	FW	-	-	-	False
+sinal	X	JJ	-	-	-	False
+.	PUNCT	.	-	-	-	False

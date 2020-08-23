@@ -1,0 +1,25 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	-	False
+second	ADJ	JJ	-	-	-	False
+boy	NOUN	NN	-	-	-	False
+said	VERB	VBD	-	-	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+I	PRON	PRP	-	-	Agent	True
+bring	VERB	VBP	bring.v	Bringing	-	False
+you	PRON	PRP	-	-	Goal	True
+myrrh	NOUN	NN	-	-	Theme	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+O	INTJ	UH	-	-	-	False
+segundo	X	FW	-	-	-	False
+garoto	X	FW	-	-	-	False
+disse	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	``	-	-	-	False
+Eu	X	NNP	-	-	Agent	True
+trago	X	FW	trazer.v	Bringing	-	False
+mirra	X	FW	-	-	Theme	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

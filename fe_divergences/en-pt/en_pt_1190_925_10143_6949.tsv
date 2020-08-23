@@ -1,0 +1,16 @@
+It	PRON	PRP	-	-	-	False
+'s	VERB	VBZ	-	-	-	False
+a	DET	DT	-	-	-	False
+process	NOUN	NN	process.n	Process	-	False
+of	ADP	IN	-	-	Process	False
+academic	ADJ	JJ	-	-	Process	False
+inflation	NOUN	NN	-	-	Process	False
+.	PUNCT	.	-	-	-	False
+
+É	NOUN	NN	-	-	-	False
+um	INTJ	UH	-	-	-	False
+processo	X	FW	processo.n	Process	-	False
+de	X	FW	-	-	Result	False
+inflação	X	FW	-	-	Result	False
+acadêmica	X	FW	-	-	Result	False
+.	PUNCT	.	-	-	Result	False

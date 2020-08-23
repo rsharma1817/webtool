@@ -1,0 +1,19 @@
+He	PRON	PRP	-	-	Experiencer	True
+did	VERB	VBD	-	-	-	False
+n't	ADV	RB	-	-	-	False
+want	VERB	VB	want.v	Desiring	-	False
+to	PART	TO	-	-	Event	True
+come	VERB	VB	-	-	Event	True
+to	ADP	IN	-	-	Event	True
+Los	PROPN	NNP	-	-	Event	True
+Angeles	PROPN	NNP	-	-	Event	True
+.	PUNCT	.	-	-	-	False
+
+Ele	X	FW	-	-	Experiencer	True
+não	X	FW	-	-	-	False
+queria	X	FW	querer.v	Desiring	-	False
+vir	X	FW	-	-	Event	True
+para	X	FW	-	-	Location_of_event	True
+Los	PROPN	NNP	-	-	Location_of_event	True
+Angeles	PROPN	NNP	-	-	Location_of_event	True
+.	PUNCT	.	-	-	-	False

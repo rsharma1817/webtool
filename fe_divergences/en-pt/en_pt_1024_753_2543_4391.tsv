@@ -1,0 +1,16 @@
+If	ADP	IN	-	-	-	False
+you	PRON	PRP	-	-	-	False
+work	VERB	VBP	-	-	-	False
+in	ADP	IN	-	-	-	False
+education	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+you	PRON	PRP	-	-	Negated_proposition	True
+'re	VERB	VBP	-	-	Negated_proposition	True
+not	ADV	RB	not.adv	Negation	-	False
+asked	VERB	VBN	-	-	Negated_proposition	True
+.	PUNCT	.	-	-	-	False
+
+Não	PROPN	NNP	não.adv	Negation	-	False
+é	PROPN	FW	-	-	Negated_proposition	True
+convidado	PROPN	FW	-	-	Negated_proposition	True
+.	PUNCT	.	-	-	-	False

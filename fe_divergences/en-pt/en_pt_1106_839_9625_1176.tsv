@@ -1,0 +1,25 @@
+Because	ADP	IN	because.c	Causation	-	False
+you	PRON	PRP	-	-	Cause	False
+do	VERB	VBP	-	-	Cause	False
+n't	ADV	RB	-	-	Cause	False
+think	VERB	VB	-	-	Cause	False
+of	ADP	IN	-	-	Cause	False
+Shakespeare	PROPN	NNP	-	-	Cause	False
+being	VERB	VBG	-	-	Cause	False
+a	DET	DT	-	-	Cause	False
+child	NOUN	NN	-	-	Cause	False
+,	PUNCT	,	-	-	-	False
+do	VERB	VBP	-	-	-	False
+you	PRON	PRP	-	-	-	False
+?	PUNCT	.	-	-	-	False
+
+Porque	X	NNP	porque.c	Causation	-	False
+você	X	FW	-	-	Cause	False
+nunca	X	FW	-	-	Cause	False
+pensou	X	FW	-	-	Cause	False
+no	DET	DT	-	-	Cause	False
+Shakespeare	PROPN	NNP	-	-	Cause	False
+criança	PROPN	NNP	-	-	Cause	False
+,	PUNCT	,	-	-	-	False
+pensou	NOUN	NN	-	-	-	False
+?	PUNCT	.	-	-	-	False

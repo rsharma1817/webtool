@@ -1,0 +1,25 @@
+They	PRON	PRP	-	-	Agent	True
+come	VERB	VBP	-	-	-	False
+in	ADP	RP	-	-	-	False
+bearing	VERB	VBG	bear.v	Bringing	-	False
+gifts	NOUN	NNS	-	-	Theme	True
+,	PUNCT	,	-	-	Theme	True
+gold	NOUN	NN	-	-	Theme	True
+,	PUNCT	,	-	-	Theme	True
+frankincense	NOUN	NN	-	-	Theme	True
+and	CCONJ	CC	-	-	Theme	True
+myrrh	NOUN	NN	-	-	Theme	True
+.	PUNCT	.	-	-	-	False
+
+Eles	PROPN	NNP	-	-	Agent	True
+carregam	PROPN	NNP	-	-	-	False
+presentes	NOUN	VBZ	-	-	-	False
+,	PUNCT	,	-	-	-	False
+e	X	FW	-	-	-	False
+trazem	X	FW	trazer.v	Bringing	-	False
+ouro	X	FW	-	-	Theme	True
+,	PUNCT	,	-	-	Theme	True
+incenso	X	FW	-	-	Theme	True
+e	X	FW	-	-	Theme	True
+mirra	X	FW	-	-	Theme	True
+.	PUNCT	.	-	-	-	False

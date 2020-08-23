@@ -1,0 +1,22 @@
+'	PUNCT	''	-	-	-	False
+And	CCONJ	CC	-	-	-	False
+stop	VERB	VB	-	-	-	False
+speaking	VERB	VBG	speak.v	Statement	-	False
+like	ADP	IN	-	-	Manner	False
+that	DET	DT	-	-	Manner	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+'	PUNCT	``	-	-	-	False
+Larga	X	NNP	-	-	-	False
+esse	X	FW	-	-	-	False
+lápis.E	X	FW	-	-	-	False
+para	X	FW	-	-	-	False
+de	X	FW	-	-	-	False
+falar	X	FW	falar.v	Statement	-	False
+desse	X	FW	-	-	Manner	False
+jeito.Ninguém	X	FW	-	-	-	False
+entende	X	FW	-	-	-	False
+nada	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

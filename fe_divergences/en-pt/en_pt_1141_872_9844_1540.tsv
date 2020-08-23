@@ -1,0 +1,24 @@
+I	PRON	PRP	-	-	-	False
+think	VERB	VBP	think.v	Opinion	-	False
+math	NOUN	NN	-	-	Opinion	True
+is	VERB	VBZ	-	-	Opinion	True
+very	ADV	RB	-	-	Opinion	True
+important	ADJ	JJ	-	-	Opinion	True
+,	PUNCT	,	-	-	Opinion	True
+but	CCONJ	CC	-	-	Opinion	True
+so	ADV	RB	-	-	Opinion	True
+is	VERB	VBZ	-	-	Opinion	True
+dance	NOUN	NN	-	-	Opinion	True
+.	PUNCT	.	-	-	-	False
+
+Eu	X	NNP	-	-	Cognizer	True
+acho	X	FW	achar.v	Opinion	-	False
+que	X	FW	-	-	Opinion	True
+matemática	X	FW	-	-	Opinion	True
+é	X	FW	-	-	Opinion	True
+importante	X	FW	-	-	Opinion	True
+,	PUNCT	,	-	-	Opinion	True
+mas	X	FW	-	-	Opinion	True
+dança	X	FW	-	-	Opinion	True
+também	X	FW	-	-	Opinion	True
+.	PUNCT	.	-	-	-	False

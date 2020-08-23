@@ -1,0 +1,20 @@
+I	PRON	PRP	-	-	-	False
+lived	VERB	VBD	-	-	-	False
+in	ADP	IN	-	-	-	False
+Stratford-on-Avon	PROPN	NNP	-	-	-	False
+until	ADP	IN	-	-	-	False
+about	ADV	RB	-	-	Distance	True
+five	NUM	CD	-	-	Distance	True
+years	NOUN	NNS	-	-	Distance	True
+ago	ADV	RB	ago.idio	Time_vector	-	False
+.	PUNCT	.	-	-	-	False
+
+Eu	X	NNP	-	-	Event	True
+morei	X	FW	-	-	Event	True
+em	INTJ	FW	-	-	Event	True
+Stratford-on-Avon	PROPN	NNP	-	-	Event	True
+até	VERB	FW	até.prep	Time_vector	-	False
+cinco	X	FW	-	-	Landmark_event	True
+anos	X	FW	-	-	Landmark_event	True
+atrás	X	FW	-	-	Landmark_event	True
+.	PUNCT	.	-	-	-	False

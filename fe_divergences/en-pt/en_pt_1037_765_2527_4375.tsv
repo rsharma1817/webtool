@@ -1,0 +1,22 @@
+And	CCONJ	CC	-	-	-	False
+yet	ADV	RB	-	-	-	False
+we	PRON	PRP	-	-	Teacher	True
+'re	VERB	VBP	-	-	-	False
+meant	VERB	VBN	-	-	-	False
+to	PART	TO	-	-	-	False
+be	VERB	VB	-	-	-	False
+educating	VERB	VBG	educate.v	Education_teaching	-	False
+them	PRON	PRP	-	-	Student	True
+for	ADP	IN	-	-	Skill	True
+it	PRON	PRP	-	-	Skill	True
+.	PUNCT	.	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+ainda	X	FW	-	-	-	False
+assim	X	FW	-	-	-	False
+devemos	X	FW	-	-	-	False
+educá-los	X	FW	-	-	-	False
+para	X	FW	-	-	Skill	True
+esse	X	FW	-	-	Skill	True
+mundo	X	FW	-	-	Skill	True
+.	PUNCT	.	-	-	-	False

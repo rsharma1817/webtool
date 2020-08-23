@@ -1,0 +1,23 @@
+Wait	VERB	VB	wait.v	Waiting	-	False
+here	ADV	RB	-	-	Place	False
+.	PUNCT	.	-	-	-	False
+
+Ele	X	FW	-	-	-	False
+disse	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+Espere	X	NNP	esperar.v	Waiting	-	False
+aqui	X	NNP	-	-	Place	False
+,	PUNCT	,	-	-	-	False
+já	X	FW	-	-	-	False
+voltamos.Não	X	FW	-	-	-	False
+vai	X	FW	-	-	-	False
+demorar.	X	FW	-	-	-	False
+'	PUNCT	''	-	-	-	False
+,	PUNCT	,	-	-	-	False
+e	X	FW	-	-	-	False
+eles	X	FW	-	-	-	False
+deixaram	X	FW	-	-	-	False
+ela	X	FW	-	-	-	False
+sozinha	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

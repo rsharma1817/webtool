@@ -1,0 +1,23 @@
+We	PRON	PRP	-	-	Cognizer	True
+think	VERB	VBP	think.v	Awareness	-	False
+visually	ADV	RB	-	-	Manner	False
+,	PUNCT	,	-	-	-	False
+we	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+in	ADP	IN	-	-	-	False
+sound	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+we	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+kinesthetically	ADV	RB	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Pensamos	X	NNP	pensar.v	Awareness	-	False
+visualmente	X	NN	-	-	Manner	False
+,	PUNCT	,	-	-	-	False
+pensamos	X	FW	-	-	-	False
+auditivamente	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+pensamos	X	FW	-	-	-	False
+cinestesicamente	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

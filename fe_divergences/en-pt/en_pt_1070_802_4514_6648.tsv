@@ -1,0 +1,27 @@
+We	PRON	PRP	-	-	Topical_entity	True
+had	VERB	VBD	have.v	Have_associated	-	False
+the	DET	DT	-	-	Entity	True
+place	NOUN	NN	-	-	Entity	True
+crammed	VERB	VBN	-	-	Entity	True
+full	ADJ	JJ	-	-	Entity	True
+of	ADP	IN	-	-	Entity	True
+agents	NOUN	NNS	-	-	Entity	True
+in	ADP	IN	-	-	Entity	True
+T-shirts	NOUN	NNS	-	-	Entity	True
+:	PUNCT	:	-	-	-	False
+
+Lotamos	X	FW	-	-	-	False
+o	X	FW	-	-	Topical_entity	True
+teatro	X	FW	-	-	Topical_entity	True
+com	X	FW	com.prep	Have_associated	-	False
+representantes	X	FW	-	-	Entity	True
+usando	X	FW	-	-	-	False
+camisetas	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+James	PROPN	NNP	-	-	-	False
+Robinson	PROPN	NNP	-	-	-	False
+É	PROPN	NNP	-	-	-	False
+José	PROPN	NNP	-	-	-	False
+!	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

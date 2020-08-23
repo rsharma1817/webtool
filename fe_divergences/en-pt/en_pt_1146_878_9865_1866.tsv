@@ -1,0 +1,16 @@
+And	CCONJ	CC	-	-	-	False
+then	ADV	RB	-	-	-	False
+we	PRON	PRP	-	-	Agent	True
+focus	VERB	VBP	focus.v	Emphasizing	-	False
+on	ADP	IN	-	-	Consideration	True
+their	PRON	PRP$	-	-	Consideration	True
+heads	NOUN	NNS	-	-	Consideration	True
+.	PUNCT	.	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+depois	VERB	VBP	-	-	Time	False
+nos	X	FW	-	-	Agent	True
+focamos	X	FW	focar.v	Emphasizing	-	False
+na	X	FW	-	-	-	False
+cabeça	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

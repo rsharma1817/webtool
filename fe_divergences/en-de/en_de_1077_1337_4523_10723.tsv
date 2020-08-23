@@ -1,0 +1,11 @@
+They	PRON	PRP	-	-	Exchangers	True
+just	ADV	RB	-	-	-	False
+switched	VERB	VBD	switch.v	Exchange	-	False
+.	PUNCT	.	-	-	-	False
+
+Sie	PROPN	NNP	-	-	Exchangers	True
+hatten	VERB	NNP	-	-	-	False
+die	VERB	VBP	-	-	Themes	True
+Rollen	PROPN	NNP	-	-	Themes	True
+getauscht	PROPN	FW	tauschen.v	Exchange	-	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,17 @@
+And	CCONJ	CC	-	-	-	False
+I	PRON	PRP	-	-	Experiencer	True
+did	VERB	VBD	-	-	-	False
+n't	ADV	RB	-	-	-	False
+want	VERB	VB	want.v	Desiring	-	False
+one	NUM	CD	-	-	Focal_participant	True
+,	PUNCT	,	-	-	-	False
+frankly	ADV	RB	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+eu	X	FW	-	-	Experiencer	True
+não	X	FW	-	-	-	False
+queria	X	FW	querer.v	Desiring	-	False
+,	PUNCT	,	-	-	-	False
+francamente	INTJ	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

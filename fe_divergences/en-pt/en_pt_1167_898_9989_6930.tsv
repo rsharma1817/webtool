@@ -1,0 +1,25 @@
+Our	PRON	PRP$	-	-	-	False
+education	NOUN	NN	-	-	-	False
+system	NOUN	NN	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+predicated	VERB	VBN	-	-	-	False
+on	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+idea	NOUN	NN	idea.n	Awareness	-	False
+of	ADP	IN	-	-	Content	True
+academic	ADJ	JJ	-	-	Content	True
+ability	NOUN	NN	-	-	Content	True
+.	PUNCT	.	-	-	-	False
+
+Nosso	X	JJ	-	-	-	False
+sistema	X	NN	-	-	-	False
+educacional	X	JJ	-	-	-	False
+atual	X	FW	-	-	-	False
+se	X	FW	-	-	-	False
+baseia	X	FW	-	-	-	False
+na	X	FW	-	-	-	False
+idéia	X	FW	ideia.n	Awareness	-	False
+da	X	FW	-	-	Content	True
+habilidade	X	FW	-	-	Content	True
+acadêmica	X	FW	-	-	Content	True
+.	PUNCT	.	-	-	-	False

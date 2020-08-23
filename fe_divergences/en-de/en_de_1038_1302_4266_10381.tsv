@@ -1,0 +1,20 @@
+So	ADV	RB	-	-	-	False
+the	DET	DT	-	-	-	False
+unpredictability	NOUN	NN	unpredictability.n	Expectation	-	False
+,	PUNCT	,	-	-	-	False
+I	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+,	PUNCT	,	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+extraordinary	ADJ	JJ	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Die	VERB	VB	die Unvorhersagbarkeit.n	Expectation	-	False
+Unvorhersagbarkeit	X	NNP	die Unvorhersagbarkeit.n	Expectation	-	False
+ist	X	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+finde	X	FW	-	-	-	False
+ich	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+atemberaubend	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False

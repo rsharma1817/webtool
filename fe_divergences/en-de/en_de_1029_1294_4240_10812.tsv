@@ -1,0 +1,19 @@
+'	PUNCT	''	-	-	-	False
+My	PRON	PRP$	-	-	-	False
+one	NUM	CD	-	-	Count	False
+night	NOUN	NN	night.n	Calendric_unit	Unit	True
+out	ADV	RP	-	-	-	False
+all	DET	DT	-	-	-	False
+week	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+Mein	PROPN	NNP	-	-	-	False
+einziger	PROPN	NN	-	-	-	False
+freier	PROPN	NN	-	-	-	False
+Abend	PROPN	NNP	abend.n	Calendric_unit	-	False
+in	ADP	IN	-	-	-	False
+der	X	NNP	-	-	-	False
+Woche	PROPN	NNP	-	-	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

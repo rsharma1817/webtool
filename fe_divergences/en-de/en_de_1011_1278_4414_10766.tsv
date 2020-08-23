@@ -1,0 +1,19 @@
+I	PRON	PRP	-	-	-	False
+'ve	VERB	VBP	-	-	-	False
+been	VERB	VBN	-	-	-	False
+blown	VERB	VBN	-	-	-	False
+away	ADV	RP	-	-	-	False
+by	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+whole	ADJ	JJ	-	-	-	False
+thing	NOUN	NN	thing.n	Entity	Entity	True
+.	PUNCT	.	-	-	-	False
+
+Die	VERB	VB	-	-	Constituent_parts	False
+ganze	PROPN	NNP	-	-	Constituent_parts	False
+Sache	PROPN	NNP	sache.n	Entity	Entity	True
+hier	X	NN	-	-	Constituent_parts	False
+hat	X	NN	-	-	-	False
+mich	X	FW	-	-	-	False
+umgehauen	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

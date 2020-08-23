@@ -1,0 +1,30 @@
+But	CCONJ	CC	-	-	-	False
+if	ADP	IN	if.scon	Conditional_occurrence	-	False
+you	PRON	PRP	-	-	Profiled_possibility	True
+ask	VERB	VBP	-	-	Profiled_possibility	True
+about	ADP	IN	-	-	Profiled_possibility	True
+their	PRON	PRP$	-	-	Profiled_possibility	True
+education	NOUN	NN	-	-	Profiled_possibility	True
+,	PUNCT	,	-	-	-	False
+they	PRON	PRP	-	-	Consequence	True
+pin	VERB	VBP	-	-	Consequence	True
+you	PRON	PRP	-	-	Consequence	True
+to	ADP	IN	-	-	Consequence	True
+the	DET	DT	-	-	Consequence	True
+wall	NOUN	NN	-	-	Consequence	True
+.	PUNCT	.	-	-	-	False
+
+Fragen	PROPN	NNP	-	-	Profiled_possibility	True
+Sie	PROPN	NNP	fragen Sie.V	Conditional_occurrence	Profiled_possibility	True
+sie	PROPN	VB	-	-	Profiled_possibility	True
+nach	PROPN	NN	-	-	Profiled_possibility	True
+ihrer	PROPN	NNP	-	-	Profiled_possibility	True
+Schulbildung	PROPN	NNP	-	-	Profiled_possibility	True
+,	PUNCT	,	-	-	-	False
+nageln	X	FW	-	-	Consequence	True
+sie	X	FW	-	-	Consequence	True
+Sie	PROPN	VB	-	-	Consequence	True
+an	DET	DT	-	-	Consequence	True
+die	VERB	VBP	-	-	Consequence	True
+Wand	PROPN	NNP	-	-	Consequence	True
+.	PUNCT	.	-	-	-	False

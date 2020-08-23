@@ -1,0 +1,25 @@
+You	PRON	PRP	-	-	-	False
+do	VERB	VBP	-	-	-	False
+n't	ADV	RB	-	-	-	False
+think	VERB	VB	-	-	-	False
+of	ADP	IN	-	-	-	False
+Shakespeare	PROPN	NNP	-	-	Ego	True
+having	VERB	VBG	-	-	-	False
+a	DET	DT	-	-	-	False
+father	NOUN	NN	father.n	Kinship	Alter	True
+,	PUNCT	,	-	-	-	False
+do	VERB	VBP	-	-	-	False
+you	PRON	PRP	-	-	-	False
+?	PUNCT	.	-	-	-	False
+
+Você	X	FW	-	-	-	False
+nunca	X	FW	-	-	-	False
+pensou	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+Shakespeare	X	NNP	-	-	-	False
+teve	X	NN	-	-	-	False
+um	INTJ	UH	-	-	-	False
+pai	X	FW	pai.n	Kinship	-	False
+,	PUNCT	,	-	-	-	False
+pensou	NOUN	NN	-	-	-	False
+?	PUNCT	.	-	-	-	False

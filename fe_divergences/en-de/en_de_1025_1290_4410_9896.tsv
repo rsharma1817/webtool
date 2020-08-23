@@ -1,0 +1,18 @@
+And	CCONJ	CC	-	-	-	False
+you	PRON	PRP	-	-	Feature	True
+'re	VERB	VBP	-	-	Feature	True
+never	ADV	RB	-	-	Feature	True
+asked	VERB	VBN	-	-	Feature	True
+back	ADP	RP	-	-	Feature	True
+,	PUNCT	,	-	-	-	False
+curiously	ADV	RB	curiously.adv	Typicality	-	False
+.	PUNCT	.	-	-	-	False
+
+Auf	INTJ	NNP	-	-	-	False
+jeden	PROPN	NNP	-	-	-	False
+Fall	PROPN	NNP	-	-	-	False
+nicht	NOUN	NN	-	-	-	False
+zweimal	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+seltsamerweise	NOUN	NN	seltsamerweise.adv	Typicality	-	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,24 @@
+And	CCONJ	CC	-	-	-	False
+our	PRON	PRP$	-	-	Helper	True
+job	NOUN	NN	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+to	PART	TO	-	-	-	False
+help	VERB	VB	help.v	Assistance	-	False
+them	PRON	PRP	-	-	Benefited_party	True
+make	VERB	VB	-	-	Goal	True
+something	NOUN	NN	-	-	Goal	True
+of	ADP	IN	-	-	Goal	True
+it	PRON	PRP	-	-	Goal	True
+.	PUNCT	.	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+o	NOUN	UH	-	-	Helper	True
+nosso	X	FW	-	-	Helper	True
+trabalho	X	FW	-	-	Helper	True
+é	X	FW	-	-	-	False
+ajudá-las	X	FW	-	-	-	False
+a	X	FW	-	-	-	False
+tirar	X	FW	-	-	-	False
+proveito	X	FW	-	-	-	False
+dele	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

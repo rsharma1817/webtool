@@ -1,0 +1,12 @@
+How	ADV	WRB	-	-	Degree	False
+annoying	ADJ	JJ	annoying.a	Stimulus_focus	-	False
+would	AUX	MD	-	-	-	False
+that	DET	DT	-	-	Stimulus	True
+be	VERB	VB	-	-	-	False
+?	PUNCT	.	-	-	-	False
+
+Como	X	NNP	-	-	-	False
+isso	X	FW	-	-	Stimulus	True
+seria	X	FW	-	-	-	False
+irritante	X	FW	irritante.a	Stimulus_focus	-	False
+?	PUNCT	.	-	-	-	False

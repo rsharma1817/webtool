@@ -1,0 +1,44 @@
+There	PRON	EX	-	-	-	False
+have	VERB	VBP	-	-	-	False
+been	VERB	VBN	-	-	-	False
+three	NUM	CD	-	-	-	False
+themes	NOUN	NNS	theme.n	Topic	Topic	True
+running	VERB	VBG	-	-	-	False
+through	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+conference	NOUN	NN	-	-	-	False
+which	PRON	WDT	-	-	-	False
+are	VERB	VBP	-	-	-	False
+relevant	ADJ	JJ	-	-	-	False
+to	ADP	IN	-	-	-	False
+what	PRON	WP	-	-	-	False
+I	PRON	PRP	-	-	-	False
+want	VERB	VBP	-	-	-	False
+to	PART	TO	-	-	-	False
+talk	VERB	VB	-	-	-	False
+about	ADP	IN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Es	X	FW	-	-	-	False
+gab	X	FW	-	-	-	False
+drei	X	FW	drei Leitmotive.n	Topic	-	False
+Leitmotive	PROPN	NNP	drei Leitmotive.n	Topic	-	False
+,	PUNCT	,	-	-	-	False
+die	VERB	VBP	-	-	-	False
+sich	ADJ	JJ	-	-	-	False
+durch	NOUN	NN	-	-	-	False
+die	VERB	VBP	-	-	Text	True
+Konferenz	PROPN	NNP	-	-	Text	True
+zogen	PROPN	NNP	-	-	-	False
+,	PUNCT	,	-	-	-	False
+die	VERB	VBP	-	-	-	False
+wichtig	NOUN	FW	-	-	-	False
+sind	NOUN	FW	-	-	-	False
+für	NOUN	FW	-	-	-	False
+das	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+worüber	X	FW	-	-	-	False
+ich	X	FW	-	-	-	False
+sprechen	X	FW	-	-	-	False
+will	NOUN	MD	-	-	-	False
+.	PUNCT	.	-	-	-	False

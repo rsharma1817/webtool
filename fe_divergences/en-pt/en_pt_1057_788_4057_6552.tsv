@@ -1,0 +1,27 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	-	False
+girl	NOUN	NN	-	-	-	False
+said	VERB	VBD	-	-	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+I	PRON	PRP	-	-	-	False
+'m	VERB	VBP	-	-	-	False
+drawing	VERB	VBG	draw.v	Create_physical_artwork	-	False
+a	DET	DT	-	-	Representation	True
+picture	NOUN	NN	-	-	Representation	True
+of	ADP	IN	-	-	Representation	True
+God	PROPN	NNP	-	-	Representation	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+a	DET	DT	-	-	-	False
+menina	X	FW	-	-	-	False
+respondeu	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+Estou	PROPN	FW	-	-	-	False
+desenhando	PROPN	FW	desenhar.v	Create_physical_artwork	-	False
+Deus	PROPN	NNP	-	-	Representation	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

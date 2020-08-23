@@ -1,0 +1,25 @@
+Our	PRON	PRP$	-	-	Possessor	False
+education	NOUN	NN	-	-	Function	True
+system	NOUN	NN	system.n	System	Complex	True
+is	VERB	VBZ	-	-	-	False
+predicated	VERB	VBN	-	-	-	False
+on	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+idea	NOUN	NN	-	-	-	False
+of	ADP	IN	-	-	-	False
+academic	ADJ	JJ	-	-	-	False
+ability	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Nosso	X	JJ	-	-	-	False
+sistema	X	NN	sistema.n	System	-	False
+educacional	X	JJ	-	-	Function	True
+atual	X	FW	-	-	-	False
+se	X	FW	-	-	-	False
+baseia	X	FW	-	-	-	False
+na	X	FW	-	-	-	False
+idéia	X	FW	-	-	-	False
+da	X	FW	-	-	-	False
+habilidade	X	FW	-	-	-	False
+acadêmica	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

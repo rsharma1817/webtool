@@ -1,0 +1,17 @@
+It	PRON	PRP	-	-	Evaluee	True
+'s	VERB	VBZ	-	-	-	False
+been	VERB	VBN	-	-	-	False
+great	ADJ	JJ	great.a	Desirability	-	False
+,	PUNCT	,	-	-	-	False
+has	VERB	VBZ	-	-	-	False
+n't	ADV	RB	-	-	-	False
+it	PRON	PRP	-	-	Evaluee	True
+?	PUNCT	.	-	-	-	False
+
+Es	NOUN	NNP	-	-	Evaluee	True
+war	NOUN	NN	-	-	-	False
+großartig	NOUN	NN	großartig.a	Desirability	-	False
+,	PUNCT	,	-	-	-	False
+nicht	NOUN	NN	-	-	-	False
+wahr	NOUN	NN	-	-	-	False
+?	PUNCT	.	-	-	-	False

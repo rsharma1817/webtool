@@ -1,0 +1,14 @@
+I	PRON	PRP	-	-	-	False
+have	VERB	VBP	-	-	-	False
+an	DET	DT	-	-	-	False
+interest	NOUN	NN	-	-	-	False
+in	ADP	IN	-	-	-	False
+education	NOUN	NN	education.n	Education_teaching	-	False
+.	PUNCT	.	-	-	-	False
+
+Eu	INTJ	NNP	-	-	-	False
+me	PRON	PRP	-	-	-	False
+interesso	X	FW	-	-	-	False
+por	X	FW	-	-	-	False
+educação	X	FW	educação.n	Education_teaching	-	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,19 @@
+So	ADV	RB	-	-	-	False
+the	DET	DT	-	-	-	False
+hierarchy	NOUN	NN	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+rooted	VERB	VBN	-	-	-	False
+on	ADP	IN	-	-	-	False
+two	NUM	CD	two.num	Cardinal_numbers	Number	True
+ideas	NOUN	NNS	-	-	Entity	True
+.	PUNCT	.	-	-	-	False
+
+Então	PROPN	FW	-	-	-	False
+a	DET	FW	-	-	-	False
+hierarquia	X	FW	-	-	-	False
+está	X	FW	-	-	-	False
+apoiada	X	FW	-	-	-	False
+em	X	FW	-	-	-	False
+duas	X	FW	dois.num	Cardinal_numbers	-	False
+idéias	X	FW	-	-	Entity	True
+.	PUNCT	.	-	-	-	False

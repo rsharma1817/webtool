@@ -1,0 +1,12 @@
+One	NUM	CD	-	-	-	False
+,	PUNCT	,	-	-	-	False
+it	PRON	PRP	-	-	-	False
+'s	VERB	VBZ	-	-	-	False
+diverse	ADJ	JJ	diverse.a	Diversity	-	False
+.	PUNCT	.	-	-	-	False
+
+Um	INTJ	UH	-	-	-	False
+,	PUNCT	,	-	-	-	False
+é	X	FW	-	-	-	False
+variada	X	FW	variado.a	Diversity	-	False
+.	PUNCT	.	-	-	-	False

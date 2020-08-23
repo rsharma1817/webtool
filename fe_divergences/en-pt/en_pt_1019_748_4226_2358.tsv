@@ -1,0 +1,27 @@
+Actually	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+what	PRON	WP	-	-	Phenomenon	True
+I	PRON	PRP	-	-	Cognizer	True
+find	VERB	VBP	find.v	Becoming_aware	-	False
+is	VERB	VBZ	-	-	-	False
+everybody	NOUN	NN	-	-	-	False
+has	VERB	VBZ	-	-	-	False
+an	DET	DT	-	-	-	False
+interest	NOUN	NN	-	-	-	False
+in	ADP	IN	-	-	-	False
+education	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Na	X	UH	-	-	-	False
+verdade	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+eu	X	FW	-	-	Cognizer	True
+descobri	X	FW	descobrir.v	Becoming_aware	-	False
+que	X	FW	-	-	Phenomenon	True
+todo	X	FW	-	-	Phenomenon	True
+mundo	X	FW	-	-	Phenomenon	True
+se	X	FW	-	-	Phenomenon	True
+interessa	X	FW	-	-	Phenomenon	True
+por	X	FW	-	-	Phenomenon	True
+educação	X	FW	-	-	Phenomenon	True
+.	PUNCT	.	-	-	-	False

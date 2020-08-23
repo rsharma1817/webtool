@@ -1,0 +1,26 @@
+They	PRON	PRP	-	-	-	False
+'re	VERB	VBP	-	-	-	False
+just	ADV	RB	-	-	-	False
+a	DET	DT	-	-	-	False
+form	NOUN	NN	-	-	-	False
+of	ADP	IN	-	-	-	False
+life	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+another	DET	DT	another.a	Increment	Added_set	True
+form	NOUN	NN	-	-	Added_set	True
+of	ADP	IN	-	-	Added_set	True
+life	NOUN	NN	-	-	Added_set	True
+.	PUNCT	.	-	-	-	False
+
+É	NOUN	NN	-	-	-	False
+só	ADV	RB	-	-	-	False
+uma	X	FW	-	-	-	False
+forma	X	FW	-	-	-	False
+de	X	FW	-	-	-	False
+vida	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+outra	X	FW	outro.a	Increment	-	False
+forma	X	FW	-	-	Added_set	True
+de	X	FW	-	-	Added_set	True
+vida	X	FW	-	-	Added_set	True
+.	PUNCT	.	-	-	-	False

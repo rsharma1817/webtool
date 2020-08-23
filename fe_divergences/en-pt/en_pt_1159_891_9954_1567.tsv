@@ -1,0 +1,23 @@
+They	PRON	PRP	-	-	-	False
+'re	VERB	VBP	-	-	-	False
+disembodied	ADJ	VBN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+you	PRON	PRP	-	-	-	False
+know	VERB	VBP	-	-	-	False
+,	PUNCT	,	-	-	-	False
+in	ADP	IN	-	-	-	False
+a	DET	DT	-	-	-	False
+kind	NOUN	NN	-	-	Manner_descriptor	True
+of	ADP	IN	-	-	Manner_descriptor	True
+literal	ADJ	JJ	-	-	Manner_descriptor	True
+way	NOUN	NN	way.n	Manner	Manner	True
+.	PUNCT	.	-	-	-	False
+
+Eles	PROPN	FW	-	-	Salient_entity	True
+saíram	PROPN	FW	-	-	Comparison_activity	True
+do	VERB	VBP	-	-	Comparison_activity	True
+corpo	NOUN	NN	-	-	Comparison_activity	True
+,	PUNCT	,	-	-	-	False
+quase	NOUN	NN	-	-	Manner_descriptor	True
+literalmente	NOUN	NN	literalmente.adv	Manner	-	False
+.	PUNCT	.	-	-	-	False

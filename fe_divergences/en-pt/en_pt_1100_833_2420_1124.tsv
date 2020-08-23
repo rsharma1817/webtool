@@ -1,0 +1,21 @@
+So	ADV	RB	-	-	-	False
+you	PRON	PRP	-	-	Entity	True
+can	AUX	MD	can.v	Capability	-	False
+imagine	VERB	VB	-	-	Event	False
+what	PRON	WP	-	-	Event	False
+a	DET	DT	-	-	Event	False
+seamless	ADJ	JJ	-	-	Event	False
+transition	NOUN	NN	-	-	Event	False
+that	PRON	WDT	-	-	Event	False
+was	VERB	VBD	-	-	Event	False
+.	PUNCT	.	-	-	-	False
+
+Vocês	NOUN	NNS	-	-	Entity	True
+podem	NOUN	NN	poder.v	Capability	-	False
+imaginar	VERB	VBP	-	-	Event	False
+a	DET	DT	-	-	Event	False
+mudança	X	FW	-	-	Event	False
+suave	X	FW	-	-	Event	False
+que	X	FW	-	-	Event	False
+foi	X	FW	-	-	Event	False
+.	PUNCT	.	-	-	-	False

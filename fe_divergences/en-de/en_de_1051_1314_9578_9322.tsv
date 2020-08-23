@@ -1,0 +1,14 @@
+So	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+15	NUM	CD	-	-	Count	True
+minutes	NOUN	NNS	minute.n	Measure_duration	Unit	True
+left	VERB	VBN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+So	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+noch	NOUN	NNP	-	-	-	False
+15	NUM	CD	-	-	Count	True
+Minuten	PROPN	NNP	minute.n	Measure_duration	-	False
+Zeit	PROPN	NNP	-	-	-	False
+.	PUNCT	.	-	-	-	False

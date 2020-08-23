@@ -1,0 +1,24 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	Text	True
+third	ADJ	JJ	-	-	Text	True
+thing	NOUN	NN	-	-	Text	True
+about	ADP	IN	about.prep	Topic	-	False
+intelligence	NOUN	NN	-	-	Topic	True
+is	VERB	VBZ	-	-	-	False
+,	PUNCT	,	-	-	-	False
+it	PRON	PRP	-	-	-	False
+'s	VERB	VBZ	-	-	-	False
+distinct	ADJ	JJ	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+O	INTJ	UH	-	-	-	False
+terceiro	X	FW	-	-	-	False
+ponto	X	FW	ponto.n	Topic	-	False
+sobre	X	FW	-	-	Topic	True
+a	X	FW	-	-	Topic	True
+inteligência	X	FW	-	-	Topic	True
+é	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+é	X	FW	-	-	-	False
+distinta	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

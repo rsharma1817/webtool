@@ -1,0 +1,25 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	Speaker	True
+second	ADJ	JJ	-	-	Speaker	True
+boy	NOUN	NN	-	-	Speaker	True
+said	VERB	VBD	say.v	Statement	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+I	PRON	PRP	-	-	Message	True
+bring	VERB	VBP	-	-	Message	True
+you	PRON	PRP	-	-	Message	True
+myrrh	NOUN	NN	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+O	INTJ	UH	-	-	Speaker	True
+segundo	X	FW	-	-	Speaker	True
+garoto	X	FW	-	-	Speaker	True
+disse	X	FW	dizer.v	Statement	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	``	-	-	-	False
+Eu	X	NNP	-	-	Message	True
+trago	X	FW	-	-	Message	True
+mirra	X	FW	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

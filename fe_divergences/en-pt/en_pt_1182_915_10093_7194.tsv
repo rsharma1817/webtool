@@ -1,0 +1,57 @@
+In	ADP	IN	-	-	Proposition	True
+the	DET	DT	-	-	Proposition	True
+next	ADJ	JJ	-	-	Proposition	True
+30	NUM	CD	-	-	Proposition	True
+years	NOUN	NNS	-	-	Proposition	True
+,	PUNCT	,	-	-	-	False
+according	VERB	VBG	according to.prep	Attributed_information	-	False
+to	ADP	IN	according to.prep	Attributed_information	-	False
+UNESCO	PROPN	NNP	-	-	Speaker	True
+,	PUNCT	,	-	-	-	False
+more	ADJ	JJR	-	-	Proposition	True
+people	NOUN	NNS	-	-	Proposition	True
+worldwide	ADV	RB	-	-	Proposition	True
+will	AUX	MD	-	-	Proposition	True
+be	VERB	VB	-	-	Proposition	True
+graduating	VERB	VBG	-	-	Proposition	True
+through	ADP	IN	-	-	Proposition	True
+education	NOUN	NN	-	-	Proposition	True
+than	ADP	IN	-	-	Proposition	True
+since	ADP	IN	-	-	Proposition	True
+the	DET	DT	-	-	Proposition	True
+beginning	NOUN	NN	-	-	Proposition	True
+of	ADP	IN	-	-	Proposition	True
+history	NOUN	NN	-	-	Proposition	True
+.	PUNCT	.	-	-	-	False
+
+Nos	NOUN	NNP	-	-	-	False
+próximos	NOUN	NNS	-	-	-	False
+30	NUM	CD	-	-	-	False
+anos	NOUN	UH	-	-	-	False
+,	PUNCT	,	-	-	-	False
+de	X	FW	de acordo com.c	Attributed_information	-	False
+acordo	X	FW	de acordo com.c	Attributed_information	-	False
+com	X	NN	de acordo com.c	Attributed_information	-	False
+a	DET	DT	-	-	Speaker	True
+UNESCO	PROPN	NNP	-	-	Speaker	True
+,	PUNCT	,	-	-	-	False
+mais	X	FW	-	-	Proposition	True
+gente	X	FW	-	-	Proposition	True
+ao	X	FW	-	-	Proposition	True
+redor	X	FW	-	-	Proposition	True
+do	X	VBP	-	-	Proposition	True
+mundo	X	NNP	-	-	Proposition	True
+irá	X	FW	-	-	Proposition	True
+se	X	FW	-	-	Proposition	True
+formar	X	FW	-	-	Proposition	True
+através	X	FW	-	-	Proposition	True
+da	X	FW	-	-	Proposition	True
+educação	X	FW	-	-	Proposition	True
+do	X	VB	-	-	Proposition	True
+que	X	FW	-	-	Proposition	True
+desde	X	FW	-	-	Proposition	True
+o	X	FW	-	-	Proposition	True
+princípio	X	FW	-	-	Proposition	True
+da	X	FW	-	-	Proposition	True
+história	X	FW	-	-	Proposition	True
+.	PUNCT	.	-	-	-	False

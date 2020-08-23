@@ -1,0 +1,29 @@
+What	PRON	WP	-	-	-	False
+these	DET	DT	-	-	Entities	True
+things	NOUN	NNS	-	-	Entities	True
+have	VERB	VBP	-	-	-	False
+in	ADP	IN	in common.a	Commonality	-	False
+common	NOUN	JJ	in common.a	Commonality	-	False
+is	VERB	VBZ	-	-	-	False
+that	ADP	IN	-	-	Commonality	True
+kids	NOUN	NNS	-	-	Commonality	True
+will	AUX	MD	-	-	Commonality	True
+take	VERB	VB	-	-	Commonality	True
+a	DET	DT	-	-	Commonality	True
+chance	NOUN	NN	-	-	Commonality	True
+.	PUNCT	.	-	-	-	False
+
+O	X	UH	-	-	-	False
+que	X	FW	-	-	-	False
+essas	X	FW	-	-	-	False
+histórias	X	FW	-	-	-	False
+tem	X	FW	-	-	-	False
+em	X	FW	-	-	-	False
+comum	X	FW	comum.a	Commonality	-	False
+é	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+as	ADP	IN	-	-	-	False
+crianças	X	FW	-	-	-	False
+correm	X	FW	-	-	-	False
+riscos	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

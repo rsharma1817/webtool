@@ -1,0 +1,21 @@
+If	ADP	IN	if.scon	Conditional_occurrence	-	False
+they	PRON	PRP	-	-	Profiled_possibility	True
+do	VERB	VBP	-	-	Profiled_possibility	True
+n't	ADV	RB	-	-	Profiled_possibility	True
+know	VERB	VB	-	-	Profiled_possibility	True
+,	PUNCT	,	-	-	-	False
+they	PRON	PRP	-	-	Consequence	True
+'ll	AUX	MD	-	-	Consequence	True
+have	VERB	VB	-	-	Consequence	True
+a	DET	DT	-	-	Consequence	True
+go	NOUN	NN	-	-	Consequence	True
+.	PUNCT	.	-	-	-	False
+
+Se	X	FW	se.c	Conditional_occurrence	-	False
+elas	X	FW	-	-	Profiled_possibility	True
+não	X	FW	-	-	Profiled_possibility	True
+sabem	X	FW	-	-	Profiled_possibility	True
+,	PUNCT	,	-	-	-	False
+elas	X	FW	-	-	Consequence	True
+chutam	X	FW	-	-	Consequence	True
+.	PUNCT	.	-	-	-	False

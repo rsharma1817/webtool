@@ -1,0 +1,14 @@
+And	CCONJ	CC	-	-	-	False
+there	PRON	EX	there be.v	Existence	-	False
+'s	VERB	VBZ	there be.v	Existence	-	False
+a	DET	DT	-	-	Entity	True
+reason	NOUN	NN	-	-	Entity	True
+.	PUNCT	.	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+existe	NOUN	VBP	existir.v	Existence	-	False
+uma	X	FW	-	-	Entity	True
+razão	X	FW	-	-	Entity	True
+para	X	FW	-	-	Inherent_purpose	False
+isso	X	FW	-	-	Inherent_purpose	False
+.	PUNCT	.	-	-	-	False

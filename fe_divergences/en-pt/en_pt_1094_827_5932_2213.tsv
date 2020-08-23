@@ -1,0 +1,21 @@
+The	DET	DT	-	-	-	False
+problem	NOUN	NN	problem.n	Predicament	-	False
+is	VERB	VBZ	-	-	-	False
+to	PART	TO	-	-	Situation	True
+remain	VERB	VB	-	-	Situation	True
+an	DET	DT	-	-	Situation	True
+artist	NOUN	NN	-	-	Situation	True
+as	ADP	IN	-	-	Time	False
+we	PRON	PRP	-	-	Time	False
+grow	VERB	VBP	-	-	Time	False
+up	ADP	RP	-	-	Time	False
+.	PUNCT	.	-	-	-	False
+
+O	NOUN	UH	-	-	-	False
+problema	NOUN	FW	problema.n	Predicament	-	False
+é	X	FW	-	-	Situation	True
+permanecer	X	FW	-	-	Situation	True
+artista	X	FW	-	-	Situation	True
+enquanto	X	FW	-	-	Situation	True
+crescemos	X	FW	-	-	Situation	True
+.	PUNCT	.	-	-	-	False

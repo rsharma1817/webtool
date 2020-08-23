@@ -1,0 +1,24 @@
+And	CCONJ	CC	-	-	-	False
+my	PRON	PRP$	-	-	-	False
+contention	NOUN	NN	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+,	PUNCT	,	-	-	-	False
+all	DET	DT	all.a	Quantified_mass	Quantity	True
+kids	NOUN	NNS	-	-	Individuals	True
+have	VERB	VBP	-	-	-	False
+tremendous	ADJ	JJ	-	-	-	False
+talents	NOUN	NNS	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Minha	PROPN	NNP	-	-	-	False
+convicção	X	FW	-	-	-	False
+é	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+todas	X	FW	todo.a	Quantified_mass	-	False
+as	ADP	IN	-	-	Individuals	True
+crianças	X	FW	-	-	Individuals	True
+têm	X	FW	-	-	-	False
+um	INTJ	UH	-	-	-	False
+talento	NOUN	NN	-	-	-	False
+tremendo	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False

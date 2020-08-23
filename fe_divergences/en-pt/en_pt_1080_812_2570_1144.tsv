@@ -1,0 +1,26 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	Speaker	True
+third	ADJ	JJ	-	-	Speaker	True
+boy	NOUN	NN	-	-	Speaker	True
+said	VERB	VBD	say.v	Statement	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+Frank	PROPN	NNP	-	-	Message	True
+sent	VERB	VBD	-	-	Message	True
+this	DET	DT	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+o	X	FW	-	-	Speaker	True
+terceiro	X	FW	-	-	Speaker	True
+garoto	X	FW	-	-	Speaker	True
+disse	X	FW	dizer.v	Statement	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+O	INTJ	UH	-	-	Message	True
+Frank	PROPN	NNP	-	-	Message	True
+mandou	PROPN	FW	-	-	Message	True
+isso	PROPN	FW	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

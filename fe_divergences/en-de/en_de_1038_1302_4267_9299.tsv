@@ -1,0 +1,20 @@
+So	ADV	RB	-	-	-	False
+the	DET	DT	-	-	Stimulus	True
+unpredictability	NOUN	NN	-	-	Stimulus	True
+,	PUNCT	,	-	-	-	False
+I	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+,	PUNCT	,	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+extraordinary	ADJ	JJ	extraordinary.a	Stimulus_focus	-	False
+.	PUNCT	.	-	-	-	False
+
+Die	VERB	VB	-	-	Stimulus	True
+Unvorhersagbarkeit	X	NNP	-	-	Stimulus	True
+ist	X	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+finde	X	FW	-	-	-	False
+ich	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+atemberaubend	NOUN	NN	atemberaubend.a	Stimulus_focus	-	False
+.	PUNCT	.	-	-	-	False

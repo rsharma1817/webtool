@@ -1,0 +1,34 @@
+So	ADV	RB	-	-	-	False
+I	PRON	PRP	-	-	Experiencer	True
+have	VERB	VBP	-	-	-	False
+a	DET	DT	-	-	-	False
+big	ADJ	JJ	-	-	Degree	False
+interest	NOUN	NN	interest.n	Emotion_directed	-	False
+in	ADP	IN	-	-	Topic	True
+education	NOUN	NN	-	-	Topic	True
+,	PUNCT	,	-	-	-	False
+and	CCONJ	CC	-	-	-	False
+I	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+we	PRON	PRP	-	-	-	False
+all	DET	DT	-	-	-	False
+do	VERB	VBP	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Ich	INTJ	NNP	-	-	Experiencer	True
+habe	INTJ	NN	Interesse haben an.v	Emotion_directed	-	False
+ein	INTJ	NN	-	-	-	False
+großes	VERB	VBZ	-	-	Degree	False
+Interesse	PROPN	NNP	Interesse haben an.v	Emotion_directed	-	False
+an	DET	DT	Interesse haben an.v	Emotion_directed	Topic	True
+Bildung	PROPN	NNP	-	-	Topic	True
+,	PUNCT	,	-	-	-	False
+und	X	FW	-	-	-	False
+ich	X	FW	-	-	-	False
+denke	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+das	X	FW	-	-	-	False
+haben	X	FW	-	-	-	False
+wir	X	FW	-	-	-	False
+alle	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,21 @@
+The	DET	DT	-	-	-	False
+problem	NOUN	NN	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+to	PART	TO	-	-	-	False
+remain	VERB	VB	remain.v	State_continue	-	False
+an	DET	DT	-	-	State	False
+artist	NOUN	NN	-	-	State	False
+as	ADP	IN	-	-	Time	False
+we	PRON	PRP	-	-	Time	False
+grow	VERB	VBP	-	-	Time	False
+up	ADP	RP	-	-	Time	False
+.	PUNCT	.	-	-	-	False
+
+O	NOUN	UH	-	-	-	False
+problema	NOUN	FW	-	-	-	False
+é	X	FW	-	-	-	False
+permanecer	X	FW	permanecer.v	State_continue	-	False
+artista	X	FW	-	-	State	False
+enquanto	X	FW	-	-	Duration	False
+crescemos	X	FW	-	-	Duration	False
+.	PUNCT	.	-	-	-	False

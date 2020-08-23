@@ -1,0 +1,27 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	Speaker	True
+girl	NOUN	NN	-	-	Speaker	True
+said	VERB	VBD	say.v	Statement	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+They	PRON	PRP	-	-	Message	True
+will	AUX	MD	-	-	Message	True
+,	PUNCT	,	-	-	Message	True
+in	ADP	IN	-	-	Message	True
+a	DET	DT	-	-	Message	True
+minute	NOUN	NN	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+a	DET	DT	-	-	Speaker	True
+menina	X	FW	-	-	Speaker	True
+disse	X	FW	dizer.v	Statement	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	``	-	-	-	False
+Vão	PROPN	NNP	-	-	Message	True
+conhecer	X	FW	-	-	Message	True
+num	X	FW	-	-	Message	True
+minuto	X	FW	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

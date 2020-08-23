@@ -1,0 +1,26 @@
+Picasso	PROPN	NNP	-	-	-	False
+once	ADV	RB	-	-	-	False
+said	VERB	VBD	-	-	-	False
+this	DET	DT	-	-	-	False
+,	PUNCT	,	-	-	-	False
+he	PRON	PRP	-	-	Speaker	True
+said	VERB	VBD	say.v	Statement	-	False
+that	ADP	IN	-	-	Message	True
+all	DET	DT	-	-	Message	True
+children	NOUN	NNS	-	-	Message	True
+are	VERB	VBP	-	-	Message	True
+born	VERB	VBN	-	-	Message	True
+artists	NOUN	NNS	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+
+Picasso	PROPN	NNP	-	-	Speaker	True
+disse	X	FW	dizer.v	Statement	-	False
+uma	X	FW	-	-	Time	False
+vez	X	FW	-	-	Time	False
+que	X	FW	-	-	Message	True
+todas	X	FW	-	-	Message	True
+as	ADP	IN	-	-	Message	True
+crianças	X	FW	-	-	Message	True
+nascem	X	FW	-	-	Message	True
+artistas	X	NNS	-	-	Message	True
+.	PUNCT	.	-	-	-	False

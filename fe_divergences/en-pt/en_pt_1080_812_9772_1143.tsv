@@ -1,0 +1,26 @@
+And	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	-	False
+third	ADJ	JJ	-	-	-	False
+boy	NOUN	NN	boy.n	People_by_age	Person	True
+said	VERB	VBD	-	-	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+Frank	PROPN	NNP	-	-	-	False
+sent	VERB	VBD	-	-	-	False
+this	DET	DT	-	-	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+E	NOUN	NN	-	-	-	False
+o	X	FW	-	-	-	False
+terceiro	X	FW	-	-	-	False
+garoto	X	FW	garoto.n	People_by_age	-	False
+disse	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+O	INTJ	UH	-	-	-	False
+Frank	PROPN	NNP	-	-	-	False
+mandou	PROPN	FW	-	-	-	False
+isso	PROPN	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

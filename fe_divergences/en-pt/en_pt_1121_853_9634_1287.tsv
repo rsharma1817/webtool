@@ -1,0 +1,23 @@
+He	PRON	PRP	-	-	Experiencer	True
+loved	VERB	VBD	love.v	Experiencer_focus	-	False
+it	PRON	PRP	-	-	Content	True
+,	PUNCT	,	-	-	-	False
+but	CCONJ	CC	-	-	-	False
+he	PRON	PRP	-	-	-	False
+had	VERB	VBD	-	-	-	False
+a	DET	DT	-	-	-	False
+girlfriend	NOUN	NN	-	-	-	False
+in	ADP	IN	-	-	-	False
+England	PROPN	NNP	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Ele	X	FW	-	-	Experiencer	True
+adorava	X	FW	adorar.v	Experiencer_focus	-	False
+,	PUNCT	,	-	-	-	False
+mas	X	FW	-	-	-	False
+tinha	X	FW	-	-	-	False
+uma	X	FW	-	-	-	False
+namorada	X	FW	-	-	-	False
+na	X	FW	-	-	-	False
+Inglaterra	X	NNP	-	-	-	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,25 @@
+So	ADV	RB	-	-	-	False
+I	PRON	PRP	-	-	-	False
+want	VERB	VBP	-	-	-	False
+to	PART	TO	-	-	-	False
+talk	VERB	VB	-	-	-	False
+about	ADP	IN	-	-	-	False
+education	NOUN	NN	education.n	Education_teaching	-	False
+and	CCONJ	CC	-	-	-	False
+I	PRON	PRP	-	-	-	False
+want	VERB	VBP	-	-	-	False
+to	PART	TO	-	-	-	False
+talk	VERB	VB	-	-	-	False
+about	ADP	IN	-	-	-	False
+creativity	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Ich	PROPN	NNP	-	-	-	False
+möchte	PROPN	NNP	-	-	-	False
+also	ADV	RB	-	-	-	False
+über	ADJ	NN	-	-	-	False
+Bildung	PROPN	NNP	bildung.n	Education_teaching	-	False
+und	CCONJ	NNP	-	-	-	False
+Kreativität	PROPN	NNP	-	-	-	False
+sprechen	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False

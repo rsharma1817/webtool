@@ -1,0 +1,18 @@
+I	PRON	PRP	-	-	-	False
+'ve	VERB	VBP	-	-	-	False
+been	VERB	VBN	-	-	-	False
+blown	VERB	VBN	-	-	-	False
+away	ADV	RP	-	-	-	False
+by	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+whole	ADJ	JJ	whole.a	Ranked_expectation	-	False
+thing	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Fiquei	X	NNP	-	-	-	False
+maravilhado	X	NNP	-	-	-	False
+com	X	NN	-	-	-	False
+a	X	DT	-	-	-	False
+coisa	X	NN	-	-	Entity	True
+toda	X	NN	todo.a	Ranked_expectation	-	False
+.	PUNCT	.	-	-	-	False

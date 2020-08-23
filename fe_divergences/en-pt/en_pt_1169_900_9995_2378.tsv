@@ -1,0 +1,40 @@
+Around	ADP	IN	-	-	Place	False
+the	DET	DT	-	-	Place	False
+world	NOUN	NN	-	-	Place	False
+,	PUNCT	,	-	-	-	False
+there	PRON	EX	there be.v	Existence	-	False
+were	VERB	VBD	there be.v	Existence	-	False
+no	DET	DT	-	-	Entity	True
+public	ADJ	JJ	-	-	Entity	True
+systems	NOUN	NNS	-	-	Entity	True
+of	ADP	IN	-	-	Entity	True
+education	NOUN	NN	-	-	Entity	True
+,	PUNCT	,	-	-	-	False
+really	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+before	ADP	IN	-	-	-	False
+the	DET	DT	-	-	-	False
+19th	ADJ	JJ	-	-	-	False
+century	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+O	INTJ	UH	-	-	-	False
+sistema	NOUN	NN	-	-	-	False
+foi	NOUN	FW	-	-	-	False
+concebido	NOUN	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+e	INTJ	FW	-	-	-	False
+no	INTJ	FW	-	-	-	False
+mundo	X	FW	-	-	-	False
+todo	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+não	X	FW	-	-	-	False
+existiam	X	FW	existir.v	Existence	-	False
+sistemas	X	FW	-	-	Entity	True
+públicos	X	FW	-	-	Entity	True
+de	X	FW	-	-	Entity	True
+educação	X	FW	-	-	Entity	True
+antes	X	FW	-	-	Time	False
+do	VERB	VBP	-	-	Time	False
+Séc.XIX	PROPN	NNP	-	-	Time	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,18 @@
+When	ADV	WRB	when.adv	Temporal_collocation	-	False
+my	PRON	PRP$	-	-	Landmark_period	True
+son	NOUN	NN	-	-	Landmark_period	True
+was	VERB	VBD	-	-	Landmark_period	True
+four	NUM	CD	-	-	Landmark_period	True
+in	ADP	IN	-	-	Landmark_period	True
+England	PROPN	NNP	-	-	Landmark_period	True
+--	PUNCT	:	-	-	-	False
+
+Quando	X	NNP	quando.c	Temporal_collocation	-	False
+meu	X	FW	-	-	Landmark_period	True
+filho	X	FW	-	-	Landmark_period	True
+tinha	X	FW	-	-	Landmark_period	True
+quatro	X	FW	-	-	Landmark_period	True
+anos	X	FW	-	-	Landmark_period	True
+na	X	FW	-	-	Landmark_period	True
+Inglaterra	X	NNP	-	-	Landmark_period	True
+...	PUNCT	.	-	-	-	False

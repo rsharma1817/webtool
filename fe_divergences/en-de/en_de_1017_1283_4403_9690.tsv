@@ -1,0 +1,17 @@
+No	DET	DT	-	-	-	False
+idea	NOUN	NN	idea.n	Awareness	-	False
+how	ADV	WRB	-	-	Content	True
+this	DET	DT	-	-	Content	True
+may	AUX	MD	-	-	Content	True
+play	VERB	VB	-	-	Content	True
+out	ADP	RP	-	-	Content	True
+.	PUNCT	.	-	-	-	False
+
+Keine	PROPN	NNP	-	-	Degree	False
+Ahnung	PROPN	NNP	keine Ahnung haben.v	Awareness	-	False
+,	PUNCT	,	-	-	-	False
+wie	X	FW	-	-	Topic	True
+das	X	FW	-	-	Topic	True
+enden	X	FW	-	-	Topic	True
+wird	NOUN	NN	-	-	Topic	True
+.	PUNCT	.	-	-	-	False

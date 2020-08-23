@@ -1,0 +1,23 @@
+They	PRON	PRP	-	-	-	False
+live	VERB	VBP	-	-	-	False
+up	ADP	RB	-	-	-	False
+there	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+and	CCONJ	CC	-	-	-	False
+slightly	ADV	RB	-	-	-	False
+to	ADP	IN	-	-	-	False
+one	NUM	CD	-	-	-	False
+side	NOUN	NN	side.n	Part_orientational	Part	True
+.	PUNCT	.	-	-	-	False
+
+Eles	X	FW	-	-	-	False
+vivem	X	FW	-	-	-	False
+lá	X	FW	-	-	Whole	True
+em	X	FW	-	-	Whole	True
+cima	X	FW	-	-	Whole	True
+e	X	FW	-	-	-	False
+levemente	X	FW	-	-	-	False
+para	X	FW	-	-	-	False
+um	INTJ	UH	-	-	-	False
+lado	NOUN	FW	lado.n	Part_orientational	-	False
+.	PUNCT	.	-	-	-	False

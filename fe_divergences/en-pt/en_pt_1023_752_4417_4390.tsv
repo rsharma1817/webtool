@@ -1,0 +1,27 @@
+Actually	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+you	PRON	PRP	-	-	-	False
+'re	VERB	VBP	-	-	-	False
+not	ADV	RB	not.adv	Negation	-	False
+often	ADV	RB	-	-	Negated_proposition	True
+at	ADP	IN	-	-	-	False
+dinner	NOUN	NN	-	-	-	False
+parties	NOUN	NNS	-	-	-	False
+,	PUNCT	,	-	-	-	False
+frankly	ADV	RB	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Na	PROPN	FW	-	-	-	False
+verdade	PROPN	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+você	X	FW	-	-	Negated_proposition	True
+não	X	FW	não.adv	Negation	-	False
+vai	X	FW	-	-	Negated_proposition	True
+a	X	FW	-	-	Negated_proposition	True
+muitas	X	FW	-	-	Negated_proposition	True
+festas	X	FW	-	-	Negated_proposition	True
+se	X	FW	-	-	Negated_proposition	True
+trabalha	X	FW	-	-	Negated_proposition	True
+com	X	FW	-	-	Negated_proposition	True
+educação	X	FW	-	-	Negated_proposition	True
+.	PUNCT	.	-	-	-	False

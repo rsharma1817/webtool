@@ -1,0 +1,13 @@
+I	PRON	PRP	-	-	-	False
+find	VERB	VBP	find.v	Regard	-	False
+this	DET	DT	-	-	Evaluee	True
+very	ADV	RB	-	-	Judgment	True
+interesting	ADJ	JJ	-	-	Judgment	True
+.	PUNCT	.	-	-	-	False
+
+Eu	X	NNP	-	-	Cognizer	True
+acho	X	FW	achar.v	Regard	-	False
+isso	X	FW	-	-	Evaluee	True
+muito	X	FW	-	-	Judgment	True
+interessante	X	FW	-	-	Judgment	True
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,23 @@
+They	PRON	PRP	-	-	-	False
+come	VERB	VBP	-	-	-	False
+in	ADP	RP	-	-	-	False
+bearing	VERB	VBG	-	-	-	False
+gifts	NOUN	NNS	gift.n	Giving	-	False
+,	PUNCT	,	-	-	-	False
+gold	NOUN	NN	-	-	Theme	True
+,	PUNCT	,	-	-	Theme	True
+frankincense	NOUN	NN	-	-	Theme	True
+and	CCONJ	CC	-	-	Theme	True
+myrrh	NOUN	NN	-	-	Theme	True
+.	PUNCT	.	-	-	-	False
+
+Sie	PROPN	VB	-	-	Donor	True
+bringen	PROPN	NNP	bringen.v	Giving	-	False
+Geschenke	PROPN	NNP	-	-	Theme	True
+,	PUNCT	,	-	-	-	False
+Gold	PROPN	NNP	-	-	Depictive	False
+,	PUNCT	,	-	-	-	False
+Weihrauch	PROPN	NNP	-	-	Depictive	False
+und	CCONJ	NNP	-	-	-	False
+Myrrhe	PROPN	NNP	-	-	Depictive	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,26 @@
+Picasso	PROPN	NNP	-	-	-	False
+once	ADV	RB	-	-	-	False
+said	VERB	VBD	-	-	-	False
+this	DET	DT	-	-	-	False
+,	PUNCT	,	-	-	-	False
+he	PRON	PRP	-	-	-	False
+said	VERB	VBD	-	-	-	False
+that	ADP	IN	-	-	-	False
+all	DET	DT	-	-	-	False
+children	NOUN	NNS	child.n	People_by_age	Person	True
+are	VERB	VBP	-	-	-	False
+born	VERB	VBN	-	-	-	False
+artists	NOUN	NNS	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Picasso	PROPN	NNP	-	-	-	False
+disse	X	FW	-	-	-	False
+uma	X	FW	-	-	-	False
+vez	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+todas	X	FW	-	-	-	False
+as	ADP	IN	-	-	-	False
+crianças	X	FW	criança.n	People_by_age	-	False
+nascem	X	FW	-	-	Descriptor	False
+artistas	X	NNS	-	-	Descriptor	False
+.	PUNCT	.	-	-	-	False

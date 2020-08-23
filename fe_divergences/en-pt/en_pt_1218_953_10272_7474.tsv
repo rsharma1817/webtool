@@ -1,0 +1,21 @@
+I	PRON	PRP	-	-	-	False
+'m	VERB	VBP	-	-	-	False
+fascinated	VERB	JJ	-	-	-	False
+by	ADP	IN	-	-	-	False
+how	ADV	WRB	how.adv	Means	-	False
+people	NOUN	NNS	-	-	Means	True
+got	VERB	VBD	-	-	Means	True
+to	PART	TO	-	-	Means	True
+be	VERB	VB	-	-	Means	True
+there	ADV	RB	-	-	Means	True
+.	PUNCT	.	-	-	-	False
+
+Sou	X	FW	-	-	-	False
+fascinado	X	FW	-	-	-	False
+por	X	FW	-	-	-	False
+como	X	FW	como.c	Means	-	False
+elas	X	FW	-	-	Means	True
+chegaram	X	FW	-	-	Means	True
+onde	X	FW	-	-	Purpose	True
+estão	X	FW	-	-	Purpose	True
+.	PUNCT	.	-	-	-	False

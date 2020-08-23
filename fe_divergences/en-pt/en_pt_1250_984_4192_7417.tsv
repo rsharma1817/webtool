@@ -1,0 +1,24 @@
+We	PRON	PRP	-	-	-	False
+walked	VERB	VBD	-	-	-	False
+in	ADP	IN	-	-	-	False
+this	DET	DT	-	-	-	False
+room	NOUN	NN	-	-	-	False
+and	CCONJ	CC	-	-	-	False
+it	PRON	PRP	-	-	-	False
+was	VERB	VBD	-	-	-	False
+full	ADJ	JJ	-	-	-	False
+of	ADP	IN	-	-	-	False
+people	NOUN	NNS	-	-	Entity_1	True
+like	ADP	IN	like.prep	Similarity	-	False
+me	PRON	PRP	-	-	Entity_2	True
+.	PUNCT	.	-	-	-	False
+
+Entramos	X	FW	-	-	-	False
+numa	X	FW	-	-	-	False
+sala	X	FW	-	-	-	False
+cheia	X	FW	-	-	-	False
+de	X	FW	-	-	-	False
+pessoas	X	FW	-	-	Entity_1	True
+como	X	FW	como.c	Similarity	-	False
+eu	X	FW	-	-	Entity_2	True
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,26 @@
+They	PRON	PRP	-	-	-	False
+'re	VERB	VBP	-	-	-	False
+just	ADV	RB	-	-	-	False
+a	DET	DT	-	-	-	False
+form	NOUN	NN	-	-	-	False
+of	ADP	IN	-	-	-	False
+life	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+another	DET	DT	-	-	-	False
+form	NOUN	NN	form.n	Type	-	False
+of	ADP	IN	-	-	Category	True
+life	NOUN	NN	-	-	Category	True
+.	PUNCT	.	-	-	-	False
+
+É	NOUN	NN	-	-	-	False
+só	ADV	RB	-	-	-	False
+uma	X	FW	-	-	-	False
+forma	X	FW	-	-	Subtype	True
+de	X	FW	de.prep	Type	-	False
+vida	X	FW	-	-	Category	True
+,	PUNCT	,	-	-	-	False
+outra	X	FW	-	-	-	False
+forma	X	FW	-	-	-	False
+de	X	FW	-	-	-	False
+vida	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

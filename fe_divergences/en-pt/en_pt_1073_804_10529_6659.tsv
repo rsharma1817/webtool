@@ -1,0 +1,25 @@
+They	PRON	PRP	-	-	-	False
+come	VERB	VBP	-	-	-	False
+in	ADP	RP	-	-	-	False
+bearing	VERB	VBG	-	-	-	False
+gifts	NOUN	NNS	gift.n	Giving	-	False
+,	PUNCT	,	-	-	-	False
+gold	NOUN	NN	-	-	Theme	True
+,	PUNCT	,	-	-	Theme	True
+frankincense	NOUN	NN	-	-	Theme	True
+and	CCONJ	CC	-	-	Theme	True
+myrrh	NOUN	NN	-	-	Theme	True
+.	PUNCT	.	-	-	-	False
+
+Eles	PROPN	NNP	-	-	Donor	True
+carregam	PROPN	NNP	-	-	-	False
+presentes	NOUN	VBZ	presente.n	Giving	-	False
+,	PUNCT	,	-	-	-	False
+e	X	FW	-	-	-	False
+trazem	X	FW	-	-	-	False
+ouro	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+incenso	X	FW	-	-	-	False
+e	X	FW	-	-	-	False
+mirra	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

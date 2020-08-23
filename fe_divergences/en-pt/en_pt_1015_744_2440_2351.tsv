@@ -1,0 +1,17 @@
+Just	ADV	RB	-	-	-	False
+the	DET	DT	-	-	-	False
+variety	NOUN	NN	variety.n	Diversity	-	False
+of	ADP	IN	-	-	Dimension	True
+it	PRON	PRP	-	-	Dimension	True
+and	CCONJ	CC	-	-	-	False
+the	DET	DT	-	-	-	False
+range	NOUN	NN	-	-	-	False
+of	ADP	IN	-	-	-	False
+it	PRON	PRP	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Sua	PROPN	NN	-	-	Group	True
+variedade	VERB	NN	variedade.n	Diversity	-	False
+e	NOUN	NN	-	-	-	False
+multiplicidade	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False

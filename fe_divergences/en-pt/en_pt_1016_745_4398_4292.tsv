@@ -1,0 +1,48 @@
+The	DET	DT	-	-	-	False
+second	ADJ	JJ	-	-	-	False
+is	VERB	VBZ	-	-	-	False
+that	ADP	IN	-	-	-	False
+it	PRON	PRP	-	-	-	False
+'s	VERB	VBZ	-	-	-	False
+put	VERB	VBN	-	-	-	False
+us	PRON	PRP	-	-	-	False
+in	ADP	IN	-	-	-	False
+a	DET	DT	-	-	-	False
+place	NOUN	NN	-	-	-	False
+where	ADV	WRB	-	-	-	False
+we	PRON	PRP	-	-	Cognizer	True
+have	VERB	VBP	-	-	-	False
+no	DET	DT	-	-	-	False
+idea	NOUN	NN	idea.n	Awareness	-	False
+what	PRON	WP	-	-	Content	True
+'s	VERB	VBZ	-	-	Content	True
+going	VERB	VBG	-	-	Content	True
+to	PART	TO	-	-	Content	True
+happen	VERB	VB	-	-	Content	True
+,	PUNCT	,	-	-	Content	True
+in	ADP	IN	-	-	Content	True
+terms	NOUN	NNS	-	-	Content	True
+of	ADP	IN	-	-	Content	True
+the	DET	DT	-	-	Content	True
+future	NOUN	NN	-	-	Content	True
+.	PUNCT	.	-	-	-	False
+
+O	INTJ	UH	-	-	-	False
+segundo	X	NN	-	-	-	False
+é	X	NN	-	-	-	False
+o	X	UH	-	-	-	False
+fato	X	FW	-	-	-	False
+de	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+não	X	FW	-	-	-	False
+fazemos	X	FW	fazer ideia.v	Awareness	-	False
+a	X	FW	fazer ideia.v	Awareness	Degree	False
+menor	X	FW	fazer ideia.v	Awareness	Degree	False
+idéia	X	FW	fazer ideia.v	Awareness	-	False
+do	X	VBP	-	-	Content	True
+que	X	FW	-	-	Content	True
+vai	X	FW	-	-	Content	True
+acontecer	X	FW	-	-	Content	True
+no	DET	DT	-	-	Content	True
+futuro	NOUN	NN	-	-	Content	True
+.	PUNCT	.	-	-	-	False

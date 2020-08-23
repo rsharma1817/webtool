@@ -1,0 +1,9 @@
+She	PRON	PRP	-	-	Evaluee	True
+'s	VERB	VBZ	-	-	-	False
+wonderful	ADJ	JJ	wonderful.a	Desirability	-	False
+.	PUNCT	.	-	-	-	False
+
+Ela	X	FW	-	-	Evaluee	True
+é	X	FW	-	-	-	False
+maravilhosa	X	FW	maravilhoso.a	Desirability	-	False
+.	PUNCT	.	-	-	-	False

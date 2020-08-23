@@ -1,0 +1,14 @@
+It	PRON	PRP	-	-	Ailment	True
+was	VERB	VBD	-	-	-	False
+n't	ADV	RB	-	-	-	False
+an	DET	DT	-	-	-	False
+available	ADJ	JJ	-	-	-	False
+condition	NOUN	NN	condition.n	Medical_conditions	-	False
+.	PUNCT	.	-	-	-	False
+
+Não	X	NNP	-	-	-	False
+era	X	NN	-	-	-	False
+uma	X	FW	-	-	-	False
+doença	X	FW	doença.n	Medical_conditions	-	False
+disponível	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

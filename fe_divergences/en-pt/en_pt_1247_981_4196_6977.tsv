@@ -1,0 +1,18 @@
+I	PRON	PRP	-	-	-	False
+said	VERB	VBD	-	-	-	False
+,	PUNCT	,	-	-	-	False
+'	PUNCT	''	-	-	-	False
+What	PRON	WP	-	-	Event	False
+happened	VERB	VBD	happen.v	Event	-	False
+?	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False
+
+Eu	X	NNP	-	-	-	False
+perguntei	X	FW	-	-	-	False
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+O	INTJ	UH	-	-	Event	False
+que	X	FW	-	-	Event	False
+aconteceu	X	FW	acontecer.v	Event	-	False
+?	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

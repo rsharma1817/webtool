@@ -1,0 +1,13 @@
+Secondly	ADV	RB	-	-	-	False
+,	PUNCT	,	-	-	-	False
+intelligence	NOUN	NN	-	-	Exerter	True
+is	VERB	VBZ	-	-	-	False
+dynamic	ADJ	JJ	dynamic.a	Dynamism	-	False
+.	PUNCT	.	-	-	-	False
+
+Dois	PROPN	NNP	-	-	-	False
+,	PUNCT	,	-	-	-	False
+inteligência	X	FW	-	-	Exerter	True
+é	X	FW	-	-	-	False
+dinâmica	X	FW	dinâmico.a	Dynamism	-	False
+.	PUNCT	.	-	-	-	False

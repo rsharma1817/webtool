@@ -1,0 +1,26 @@
+I	PRON	PRP	-	-	-	False
+mean	VERB	VBP	-	-	-	False
+,	PUNCT	,	-	-	-	False
+Sirena	PROPN	NNP	-	-	-	False
+last	ADJ	JJ	-	-	Relative_time	True
+night	NOUN	NN	night.n	Calendric_unit	Unit	True
+was	VERB	VBD	-	-	-	False
+a	DET	DT	-	-	-	False
+marvel	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+was	VERB	VBD	-	-	-	False
+n't	ADV	RB	-	-	-	False
+she	PRON	PRP	-	-	-	False
+?	PUNCT	.	-	-	-	False
+
+Sirena	PROPN	NNP	-	-	-	False
+ontem	VERB	UH	ontem.adv	Calendric_unit	-	False
+a	DET	DT	-	-	Relative_time	True
+noite	X	FW	-	-	Relative_time	True
+foi	X	FW	-	-	-	False
+uma	X	FW	-	-	-	False
+maravilha	X	FW	-	-	-	False
+,	PUNCT	,	-	-	-	False
+não	X	NNP	-	-	-	False
+foi	X	NNP	-	-	-	False
+?	PUNCT	.	-	-	-	False

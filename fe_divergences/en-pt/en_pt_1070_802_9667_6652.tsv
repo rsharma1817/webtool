@@ -1,0 +1,27 @@
+We	PRON	PRP	-	-	-	False
+had	VERB	VBD	-	-	-	False
+the	DET	DT	-	-	-	False
+place	NOUN	NN	-	-	-	False
+crammed	VERB	VBN	-	-	-	False
+full	ADJ	JJ	-	-	-	False
+of	ADP	IN	-	-	-	False
+agents	NOUN	NNS	-	-	Wearer	True
+in	ADP	IN	in.prep	Wearing	-	False
+T-shirts	NOUN	NNS	-	-	-	False
+:	PUNCT	:	-	-	-	False
+
+Lotamos	X	FW	-	-	-	False
+o	X	FW	-	-	-	False
+teatro	X	FW	-	-	-	False
+com	X	FW	-	-	-	False
+representantes	X	FW	-	-	Wearer	True
+usando	X	FW	usar.v	Wearing	-	False
+camisetas	X	FW	-	-	Clothing	True
+:	PUNCT	:	-	-	-	False
+'	PUNCT	''	-	-	-	False
+James	PROPN	NNP	-	-	-	False
+Robinson	PROPN	NNP	-	-	-	False
+É	PROPN	NNP	-	-	-	False
+José	PROPN	NNP	-	-	-	False
+!	PUNCT	.	-	-	-	False
+'	PUNCT	''	-	-	-	False

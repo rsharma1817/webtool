@@ -1,0 +1,21 @@
+I	PRON	PRP	-	-	-	False
+think	VERB	VBP	-	-	-	False
+now	ADV	RB	-	-	-	False
+they	PRON	PRP	-	-	Speaker	True
+'d	AUX	MD	-	-	-	False
+say	VERB	VB	say.v	Statement	-	False
+she	PRON	PRP	-	-	Message	True
+had	VERB	VBD	-	-	Message	True
+ADHD	PROPN	NNP	-	-	Message	True
+.	PUNCT	.	-	-	-	False
+
+Eu	INTJ	UH	-	-	-	False
+acho	X	FW	-	-	-	False
+que	X	FW	-	-	-	False
+hoje	X	FW	-	-	-	False
+diriam	X	FW	dizer.v	Statement	-	False
+que	X	FW	-	-	Message	True
+ela	X	FW	-	-	Message	True
+tinha	X	FW	-	-	Message	True
+TDAH	PROPN	NNP	-	-	Message	True
+.	PUNCT	.	-	-	-	False

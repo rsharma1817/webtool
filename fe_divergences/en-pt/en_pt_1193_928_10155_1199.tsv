@@ -1,0 +1,14 @@
+We	PRON	PRP	-	-	-	False
+know	VERB	VBP	-	-	-	False
+three	NUM	CD	-	-	-	False
+things	NOUN	NNS	thing.n	Entity	Entity	True
+about	ADP	IN	-	-	-	False
+intelligence	NOUN	NN	-	-	-	False
+.	PUNCT	.	-	-	-	False
+
+Sabemos	X	FW	-	-	-	False
+três	X	FW	-	-	-	False
+coisas	X	FW	coisa.n	Entity	-	False
+sobre	X	FW	-	-	-	False
+inteligência	X	FW	-	-	-	False
+.	PUNCT	.	-	-	-	False

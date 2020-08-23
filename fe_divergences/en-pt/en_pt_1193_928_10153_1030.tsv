@@ -1,0 +1,14 @@
+We	PRON	PRP	-	-	Cognizer	True
+know	VERB	VBP	know.v	Awareness	-	False
+three	NUM	CD	-	-	Content	True
+things	NOUN	NNS	-	-	Content	True
+about	ADP	IN	-	-	Topic	True
+intelligence	NOUN	NN	-	-	Topic	True
+.	PUNCT	.	-	-	-	False
+
+Sabemos	X	FW	saber.v	Awareness	-	False
+três	X	FW	-	-	Content	True
+coisas	X	FW	-	-	Content	True
+sobre	X	FW	-	-	Topic	True
+inteligência	X	FW	-	-	Topic	True
+.	PUNCT	.	-	-	-	False

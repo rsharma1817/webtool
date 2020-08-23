@@ -1,0 +1,13 @@
+In	ADP	IN	-	-	-	False
+fact	NOUN	NN	-	-	-	False
+,	PUNCT	,	-	-	-	False
+I	PRON	PRP	-	-	Theme	True
+'m	VERB	VBP	-	-	-	False
+leaving	VERB	VBG	leave.v	Departing	-	False
+.	PUNCT	.	-	-	-	False
+
+Also	ADV	RB	-	-	-	False
+ich	X	FW	-	-	Theme	True
+gehe	X	FW	gehen.v	Departing	-	False
+jetzt	X	FW	-	-	Time	False
+.	PUNCT	.	-	-	-	False

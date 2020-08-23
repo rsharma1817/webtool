@@ -1,0 +1,11 @@
+That	DET	DT	-	-	State_of_affairs	True
+'s	VERB	VBZ	-	-	-	False
+strange	ADJ	JJ	strange.a	Typicality	-	False
+to	ADP	IN	-	-	fe_Experiencer	False
+me	PRON	PRP	-	-	fe_Experiencer	False
+.	PUNCT	.	-	-	-	False
+
+Das	X	NNP	-	-	State_of_affairs	True
+ist	X	VBD	-	-	-	False
+merkwürdig	X	NN	merkwürdig.a	Typicality	-	False
+.	PUNCT	.	-	-	-	False

@@ -1,0 +1,17 @@
+It	PRON	PRP	-	-	Evaluee	True
+'s	VERB	VBZ	-	-	-	False
+been	VERB	VBN	-	-	-	False
+great	ADJ	JJ	great.a	Desirability	-	False
+,	PUNCT	,	-	-	-	False
+has	VERB	VBZ	-	-	-	False
+n't	ADV	RB	-	-	-	False
+it	PRON	PRP	-	-	Evaluee	True
+?	PUNCT	.	-	-	-	False
+
+Tem	PROPN	NNP	-	-	-	False
+sido	PROPN	NNP	-	-	-	False
+ótimo	PROPN	NNP	ótimo.a	Desirability	-	False
+,	PUNCT	,	-	-	-	False
+não	X	NNP	-	-	-	False
+tem	X	NNP	-	-	-	False
+?	PUNCT	.	-	-	-	False
