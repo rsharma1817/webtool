@@ -32,14 +32,13 @@ Assuming that semantic frame can be successfully projected (i.e., there's no div
 
 If we only look at the projection of core frame elements, when the sentence pairs share the same semantic frame, 40.7% of the annotations of EN-PT pairs and 51.8% of EN-DE pairs share the same set of core frame element labels. Translational divergence is not the sufficient cause for the discrepancies as it seems like corpus linguists have different interpretations of the semantic roles. For example, for this EN-PT sentence pair "And our job is to help them make something of it ." and "E o nosso trabalho é ajudá-las a tirar proveito dele .", the phrase "a tirar proveito dele" that corresponds to the phrase "make something of it" is not labelled with the frame element *Goal* under the frame *Assistance*. Since we only have one annotation set for each language, we cannot calculate the interannotator agreement score.
 
-Constituent-to-constituent projection outperforms word-to-word projection of frame elements for EN-PT and EN-DE sentence pairs. The reason is that many frame element labels span across multiple words, and the semantic alignments of syntactic constituents allows the linguistically meaningful transfer of the span-based semantic role labels. For example, when the thematic divergence takes place in this EN-PT sentence pair ("No idea how this may play out ." and "Nenhuma idéia do que nos espera." [No idea of what awaits us.]), the Portuguese word "nos" is not aligned with any word in the English sentence and therefore is not labeled with the frame element *Content* under the frame *Awareness*. 
+Constituent-to-constituent projection outperforms word-to-word projection of frame elements for EN-PT and EN-DE sentence pairs. The reason is that many frame element labels span across multiple words, and the semantic alignments of syntactic constituents allows the linguistically meaningful transfer of the span-based semantic role labels. For example, when the thematic divergence takes place in this EN-PT sentence pair "No idea how this may play out ." and "Nenhuma idéia do que nos espera." [No idea of what awaits us.], the Portuguese word "nos" is not aligned with any word in the English sentence and therefore is not labeled with the frame element *Content* under the frame *Awareness*. 
 
-Constituent-to-word projection gives the best result, with an exact match ratio of 16.7% for projecting frame elements from EN to PT and 28.7% from EN to DE. However, the success does not originate from the linguistic factors, but from the implementation of the projection and the discrepancies in the annotations of the parallel sentences. When we create the semantic alignments between the constituents in the source sentence and the words in the target sentence, we only use constituents from the immediate parent nodes in the constituency-based parse tree, as it would be unreasonable to semantically align a constituent that spans across many words, such as the entire source sentence, to a word in the target sentence. If such parent nodes are not available, we would fall back to the leaf nodes. The figure below exemplifies the chosen constituents (bracketed in red) based on the heuristic. 
+Constituent-to-word projection gives the best result, with an exact match ratio of 16.7% for projecting frame elements from EN to PT and 28.7% from EN to DE. However, the success does not originate from the linguistic factors, but from the implementation of the projection and the discrepancies in the annotations of the parallel sentences. When we create the semantic alignments between the constituents in the source sentence and the words in the target sentence, we only use constituents from the immediate parent nodes in the constituency-based parse tree, as it would be unreasonable to semantically align a constituent that spans across many words, such as the entire source sentence, to a word in the target sentence. If such parent nodes are not available, we would fall back to the leaf nodes. The figure below exemplifies the chosen constituents (in red brackets) based on the heuristic. 
 
 ![Example](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/c2w_example.png)
 
-Since we only project a frame element label when they span the entire constituent, constituent-to-word projection reduces the number of frame elements projected. Surprisingly, this characteristic yields a better result because the Portuguese sentences and German sentences are under-labelled. 
-
+Since we only project a frame element label when they span the entire constituent, constituent-to-word projection reduces the number of frame elements projected. Specifically, if only a single word in the two-word constituent is labelled with a frame element label, the frame element label is not projected to the target sentence. Surprisingly, this characteristic results in a better projection because the Portuguese sentences and German sentences are under-labelled. For example, for the EN-PT sentence pair "We know three things about intelligence ." and "Sabemos três coisas sobre inteligência ."[(We) know three things about intelligence .] that shares the same semantic frame *Topic*, the English phrase "three things" is labelled with the role *Text* but not the Portuguese phrase "três coisas". In essence, it is uncertain whether we can generalize the success of the constituent-to-word projection that is contingent upon the annotation discrepancies.
 
 ---
 ## Resources for Future Research
@@ -50,16 +49,7 @@ A Python package that retrieves the transcript text of TED Talk Corpus, their go
 #### Demo
 ![Demo](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/demo_globalfn_final.gif)
 
-### 2. Frame Divergence of Lexical Units ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
-#### Descriptions
-Each document contains the information of aligned pairs of frame-evoking words and their annotated semantic frames for a bilingual sentence pair. The lexical units are aligned with fast_align (Dyer, Chahuneau, & Smith, 2013). The purpose is to study the frame divergence of the aligned lexical units.
-
-#### Results
-Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/frame_divergences
-
-![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_frame_divergence.png)
-
-### 3. Automated Sentence Alignments ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
+### 2. Automated Sentence Alignments ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
 #### Descriptions
 Currently, the sentence alignments of TED Talk transcripts for EN-JP, EN-FR, EN-UR, and EN-HI are missing, and the alignment for EN-DE is incomplete. I used the [`vecalign`](https://github.com/thompsonb/vecalign) model from the paper "Vecalign: Improved Sentence Alignment in Linear Time and Space" (Thompson & Koehn, 2019) to create the alignments. 
 
@@ -68,6 +58,29 @@ Result can be found on the Google Sheet: [TED Corpus Sentence Alignment GSoC (ve
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_vecalign.png)
 
+### 3. Frame Divergence of Lexical Units ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
+#### Descriptions
+Each document contains the information of aligned pairs of frame-evoking words and their annotated semantic frames for a bilingual sentence pair. The lexical units are aligned with fast_align (Dyer, Chahuneau, & Smith, 2013). The purpose is to study the frame divergence of the aligned lexical units.
+
+#### Results
+Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/frame_divergences
+
+![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_frame_divergence.png)
+
+### 4. Frame Element Divergence Under the Same Semantic Frame ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
+#### Descriptions
+The folder contains files in the pseudo-CoNLL format for further research on FE Divergences where an aligned sentence pair shares an annotated semantic frame.
+
+`allFE_divergence.txt` contains a list of filenames where there are discrepancies in the annotated core and non-core frame elements.
+
+`coreFE_divergence.txt` contains a list of filenames where there are discrepancies in the annotated core frame elements.
+
+The filename of the `tsv` file comprises the information of the language pair, the pair of sentence IDs, and the pair of annotation IDs. In each file, there are two annotated sentences that share the same semantic frame and are separated by an empty line. Each column, separated by tabs, in the file contains the following information
+
+#### Results
+Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/fe_divergences
+
+![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/FE_divergence_demo.png)
 
 
 ---
