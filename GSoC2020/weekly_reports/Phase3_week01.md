@@ -73,7 +73,7 @@
 14. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per corpus. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 15. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per document. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 16. YOLO recognized objects matching Frames and Frame Elements in the bounding boxes per sentence. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-17. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. 
+17. Ternary qualia relations connecting an LU in the text with any of the LUs in a frame annotated in the video. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 ### Challenges and solutions
 
