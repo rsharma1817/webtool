@@ -55,10 +55,15 @@ A Python package that retrieves the transcript text of TED Talk Corpus, their go
 
 ### 2. Automated Sentence Alignments ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
 #### Descriptions
-Currently, the sentence alignments of TED Talk transcripts for EN-JP, EN-FR, EN-UR, and EN-HI are missing, and the alignment for EN-DE is incomplete. I used the [`vecalign`](https://github.com/thompsonb/vecalign) model from the paper "Vecalign: Improved Sentence Alignment in Linear Time and Space" (Thompson & Koehn, 2019) to create the alignments. 
+Currently, the sentence alignments of TED Talk transcripts for EN-JP, EN-FR, EN-UR, and EN-HI are missing, and the alignment for EN-DE is incomplete. I used the [`vecalign`](https://github.com/thompsonb/vecalign) model from the paper "Vecalign: Improved Sentence Alignment in Linear Time and Space" (Thompson & Koehn, 2019) to create the alignments. Note that `vecalign` (https://www.aclweb.org/anthology/D19-1136/) relies on LASER multilingual sentence embeddings, where no data of Germanic and Romanic language families (e.g. Swedish, Norwegian, Afrikaans, Catalan or Corsican) are used during the pre-training stage.
 
 #### Results
 Result can be found on the Google Sheet: [TED Corpus Sentence Alignment GSoC (vecalign)](https://docs.google.com/spreadsheets/d/1W7tPyE2kiAziFOw-woaYzlDlC5aCc1jco-5VkAtEtCs/edit#gid=898901472)
+
+Spot-checked: 
+- EN-FR, EN-JP: Alignments are quite accurate even for sentences that are not 1:1 alignments (which are approximately 5% of the alignments). 
+- DE-FR: Alignments are quite accurate.
+- EN-SE, FR-SE: The alignments are problematic. First, there are a lot less 1:1 alignment and more sentence splitting such as 1826/27 and 1839/40. Second, the Swedish text contains audience reactions like "(laughs)" which are missing from the other texts. There are also some re-arrangement of clauses into different combinations (i. e. "A B. C." to "A. B C."), which can be due to different rules of sentence/clause coordination. 
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_vecalign.png)
 
