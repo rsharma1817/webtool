@@ -90,5 +90,4 @@ Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tr
 ---
 
 #### Codes
-- https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/week1-4_codes
-- LU_projection.ipynb notebook: https://deepnote.com/project/9180a10b-0c75-4478-b383-eedfccbf67fd
+https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/week9-12_codes
