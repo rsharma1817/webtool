@@ -91,5 +91,7 @@ Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tr
 
 ### Codes
 Week 1 - 4: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/week1-4_codes
+
 Week 5 - 8: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/week5-8_codes
+
 Week 9 - 12: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/week9-12_codes
