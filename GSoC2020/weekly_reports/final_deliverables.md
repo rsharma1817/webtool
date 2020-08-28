@@ -67,7 +67,16 @@ Spot-checked:
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_vecalign.png)
 
-### 3. Frame Divergence of Lexical Units ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
+### 3. Automated Sentence Alignments between EN-ES transcripts ![stretch](https://img.shields.io/static/v1?label=task&message=stretch&color=orange)
+#### Descriptions
+There's currently no Spanish annotation in the Global FrameNet repository. As per requested by Prof. Baker, I extracted the Spanish transcript for the TED Talk "Do Schools Kill Creativity?", split the transcript into individual sentences using `nltk.sent_tokenize`, and created the EN-ES sentence alignments using the [`vecalign`](https://github.com/thompsonb/vecalign) model.
+
+#### Results
+Result can be found on the Google Sheet: [TED Corpus EN-ES Alignment (GSoC)](https://docs.google.com/spreadsheets/d/1RrmNvABlZQIiWtOJ7lycXcdNSpGRq_MsXSyz3MwJCM0/edit#gid=617610384)
+
+![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/en_es_vecalign.png)
+
+### 4. Frame Divergence of Lexical Units ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
 #### Descriptions
 Each document contains the information of aligned pairs of frame-evoking words and their annotated semantic frames for a bilingual sentence pair. The lexical units are aligned with fast_align (Dyer, Chahuneau, & Smith, 2013). The purpose is to study the frame divergence of the aligned lexical units.
 
@@ -76,7 +85,7 @@ Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tr
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/result_frame_divergence.png)
 
-### 4. Frame Element Divergence Under the Same Semantic Frame ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
+### 5. Frame Element Divergence Under the Same Semantic Frame ![main](https://img.shields.io/static/v1?label=task&message=main&color=green)
 #### Descriptions
 The folder contains files in the pseudo-CoNLL format for further research on FE Divergences, where an aligned sentence pair shares the same semantic frame but labeled with different frame elements.
 
@@ -90,7 +99,6 @@ The filename of the `tsv` file comprises the information of the language pair, t
 Results can be found on the folder: https://github.com/FrameNetBrasil/webtool/tree/gsoc2020_1/fe_divergences
 
 ![Result](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/FE_divergence_demo.png)
-
 
 ---
 
