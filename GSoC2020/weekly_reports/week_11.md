@@ -10,27 +10,18 @@
 - Train the attention mechanism to learn to disambiguate LUs using the annotated sentences in Global FrameNet and exemplar sentences from FN 1.7 and FrameNet Brasil. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Apply the attention mechanism to the n-gram embeddings of a sentence to disambiguate the LU given the projected semantic frame. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 - Obtain the SegRNN model from https://github.com/swabhs/open-sesame. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
-- Create the attention mechanism using https://github.com/thomlake/pytorch-attention and train it on the annotated sentences. Augment the SegRNN model with the trained attention mechanism. 
-- Apply the augmented SegRNN on the unannotated sentences to label the semantic roles.
+- Create the attention mechanism using https://github.com/thomlake/pytorch-attention and train it on the annotated sentences. Augment the SegRNN model with the trained attention mechanism. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
+- Apply the augmented SegRNN on the unannotated sentences to label the semantic roles. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
 
 
 ### Challenges and solutions
-
-...
-
-
-### Tasks completed
-
-....
+It was challenging to use Open-Sesame on Python 3.7. I had to use the modified codes from https://github.com/free-soellingeraj/open-sesame/tree/master/sesame that have been made compatible with Python 3 and remove the lines that call the gpu:0 devices for DyNet. The pre-trained models were not working so I had to retrain the entire Open-Sesame parser.
 
 ### Tasks postponed to next week
-
-...
-...
+None
 
 ### Observations
 
-...
 ---
 Remember to use tags! You can add multiple tags to any task.
 
