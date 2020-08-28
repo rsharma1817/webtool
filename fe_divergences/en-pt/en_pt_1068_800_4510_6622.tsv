@@ -1,30 +1,30 @@
-But	CCONJ	CC	-	-	Event	True
-James	PROPN	NNP	-	-	Event	True
-got	VERB	VBD	-	-	Event	True
-the	DET	DT	-	-	Event	True
-part	NOUN	NN	-	-	Event	True
-of	ADP	IN	-	-	Event	True
-Joseph	PROPN	NNP	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	Event	True
-we	PRON	PRP	-	-	Experiencer	True
-were	VERB	VBD	-	-	-	False
-thrilled	VERB	VBN	thrilled.a	Emotion_directed	-	False
-about	ADP	IN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	Event	3494	True
+James	NNP	-	-	-	Event	3494	True
+got	VBD	-	-	-	Event	3494	True
+the	DT	-	-	-	Event	3494	True
+part	NN	-	-	-	Event	3494	True
+of	IN	-	-	-	Event	3494	True
+Joseph	NNP	-	-	-	Event	3494	True
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	Event	3494	True
+we	PRP	-	-	-	Experiencer	194	True
+were	VBD	-	-	-	-	-	False
+thrilled	VBN	thrilled.a	Emotion_directed	46	-	-	False
+about	IN	-	-	-	Event	3494	True
+.	.	-	-	-	-	-	False
 
-Mas	X	UH	-	-	-	False
-o	X	UH	-	-	Stimulus	True
-James	X	NNP	-	-	Stimulus	True
-ganhou	X	FW	-	-	Stimulus	True
-o	X	FW	-	-	Stimulus	True
-papel	X	FW	-	-	Stimulus	True
-de	X	FW	-	-	Stimulus	True
-José	PROPN	NNP	-	-	Stimulus	True
-,	PUNCT	,	-	-	-	False
-o	INTJ	UH	-	-	Stimulus	True
-que	X	FW	-	-	Stimulus	True
-nos	X	FW	-	-	Experiencer	True
-deixou	X	FW	-	-	-	False
-empolgados	X	FW	empolgado.a	Emotion_directed	-	False
-.	PUNCT	.	-	-	-	False
+Mas	UH	-	-	-	-	-	False
+o	UH	-	-	-	Stimulus	197	True
+James	NNP	-	-	-	Stimulus	197	True
+ganhou	FW	-	-	-	Stimulus	197	True
+o	FW	-	-	-	Stimulus	197	True
+papel	FW	-	-	-	Stimulus	197	True
+de	FW	-	-	-	Stimulus	197	True
+José	NNP	-	-	-	Stimulus	197	True
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	Stimulus	197	True
+que	FW	-	-	-	Stimulus	197	True
+nos	FW	-	-	-	Experiencer	194	True
+deixou	FW	-	-	-	-	-	False
+empolgados	FW	empolgado.a	Emotion_directed	46	-	-	False
+.	.	-	-	-	-	-	False

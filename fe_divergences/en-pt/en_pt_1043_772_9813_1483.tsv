@@ -1,31 +1,31 @@
-What	PRON	WP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-there	ADV	EX	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-person	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-dedication	NOUN	NN	-	-	-	False
-who	PRON	WP	-	-	-	False
-found	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-talent	NOUN	NN	talent.n	Capability	-	False
-.	PUNCT	.	-	-	-	False
+What	WP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+person	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+dedication	NN	-	-	-	-	-	False
+who	WP	-	-	-	-	-	False
+found	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+talent	NN	talent.n	Capability	990	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-que	X	FW	-	-	-	False
-vemos	X	FW	-	-	-	False
-ali	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-pessoa	X	FW	-	-	Entity	True
-de	X	FW	-	-	Entity	True
-extrema	X	FW	-	-	Entity	True
-dedicação	X	FW	-	-	Entity	True
-que	X	FW	-	-	-	False
-achou	X	FW	-	-	-	False
-seu	X	FW	-	-	-	False
-talento	X	FW	talento.n	Capability	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+vemos	FW	-	-	-	-	-	False
+ali	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+pessoa	FW	-	-	-	Entity	5981	True
+de	FW	-	-	-	Entity	5981	True
+extrema	FW	-	-	-	Entity	5981	True
+dedicação	FW	-	-	-	Entity	5981	True
+que	FW	-	-	-	-	-	False
+achou	FW	-	-	-	-	-	False
+seu	FW	-	-	-	-	-	False
+talento	FW	talento.n	Capability	990	-	-	False
+.	.	-	-	-	-	-	False

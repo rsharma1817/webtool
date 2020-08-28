@@ -1,35 +1,35 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-children	NOUN	NNS	-	-	Trajector_event	True
-starting	VERB	VBG	-	-	Trajector_event	True
-school	NOUN	NN	-	-	Trajector_event	True
-this	DET	DT	-	-	Trajector_event	True
-year	NOUN	NN	-	-	Trajector_event	True
-will	AUX	MD	-	-	Trajector_event	True
-be	VERB	VB	-	-	Trajector_event	True
-retiring	VERB	VBG	-	-	Trajector_event	True
-in	ADP	IN	in.prep	Temporal_collocation	-	False
-2065	NUM	CD	-	-	Landmark_period	True
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+children	NNS	-	-	-	Trajector_event	12064	True
+starting	VBG	-	-	-	Trajector_event	12064	True
+school	NN	-	-	-	Trajector_event	12064	True
+this	DT	-	-	-	Trajector_event	12064	True
+year	NN	-	-	-	Trajector_event	12064	True
+will	MD	-	-	-	Trajector_event	12064	True
+be	VB	-	-	-	Trajector_event	12064	True
+retiring	VBG	-	-	-	Trajector_event	12064	True
+in	IN	in.prep	Temporal_collocation	1895	-	-	False
+2065	CD	-	-	-	Landmark_period	12063	True
+.	.	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-formos	X	FW	-	-	-	False
-pensar	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	Trajector_event	True
-crianças	X	FW	-	-	Trajector_event	True
-entrando	X	FW	-	-	Trajector_event	True
-na	X	FW	-	-	Trajector_event	True
-escola	X	FW	-	-	Trajector_event	True
-esse	X	FW	-	-	Trajector_event	True
-ano	X	FW	-	-	Trajector_event	True
-estarão	X	FW	-	-	Trajector_event	True
-se	X	FW	-	-	Trajector_event	True
-aposentando	X	FW	-	-	Trajector_event	True
-em	X	FW	em.prep	Temporal_collocation	-	False
-2065	NUM	CD	-	-	Landmark_period	True
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+formos	FW	-	-	-	-	-	False
+pensar	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	Trajector_event	12064	True
+crianças	FW	-	-	-	Trajector_event	12064	True
+entrando	FW	-	-	-	Trajector_event	12064	True
+na	FW	-	-	-	Trajector_event	12064	True
+escola	FW	-	-	-	Trajector_event	12064	True
+esse	FW	-	-	-	Trajector_event	12064	True
+ano	FW	-	-	-	Trajector_event	12064	True
+estarão	FW	-	-	-	Trajector_event	12064	True
+se	FW	-	-	-	Trajector_event	12064	True
+aposentando	FW	-	-	-	Trajector_event	12064	True
+em	FW	em.prep	Temporal_collocation	1895	-	-	False
+2065	CD	-	-	-	Landmark_period	12063	True
+.	.	-	-	-	-	-	False

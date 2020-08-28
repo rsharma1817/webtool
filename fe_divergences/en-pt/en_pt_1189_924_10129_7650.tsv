@@ -1,72 +1,72 @@
-But	CCONJ	CC	but.c	Concessive	-	False
-now	ADV	RB	-	-	Conceded_state_of_affairs	True
-kids	NOUN	NNS	-	-	Conceded_state_of_affairs	True
-with	ADP	IN	-	-	Conceded_state_of_affairs	True
-degrees	NOUN	NNS	-	-	Conceded_state_of_affairs	True
-are	VERB	VBP	-	-	Conceded_state_of_affairs	True
-often	ADV	RB	-	-	Conceded_state_of_affairs	True
-heading	VERB	VBG	-	-	Conceded_state_of_affairs	True
-home	ADV	RB	-	-	Conceded_state_of_affairs	True
-to	PART	TO	-	-	Conceded_state_of_affairs	True
-carry	VERB	VB	-	-	Conceded_state_of_affairs	True
-on	ADP	RP	-	-	Conceded_state_of_affairs	True
-playing	VERB	VBG	-	-	Conceded_state_of_affairs	True
-video	NOUN	NN	-	-	Conceded_state_of_affairs	True
-games	NOUN	NNS	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-an	DET	DT	-	-	-	False
-MA	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-the	DET	DT	-	-	-	False
-previous	ADJ	JJ	-	-	-	False
-job	NOUN	NN	-	-	-	False
-required	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-BA	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-now	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-PhD	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-other	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	but.c	Concessive	2150	-	-	False
+now	RB	-	-	-	Conceded_state_of_affairs	13302	True
+kids	NNS	-	-	-	Conceded_state_of_affairs	13302	True
+with	IN	-	-	-	Conceded_state_of_affairs	13302	True
+degrees	NNS	-	-	-	Conceded_state_of_affairs	13302	True
+are	VBP	-	-	-	Conceded_state_of_affairs	13302	True
+often	RB	-	-	-	Conceded_state_of_affairs	13302	True
+heading	VBG	-	-	-	Conceded_state_of_affairs	13302	True
+home	RB	-	-	-	Conceded_state_of_affairs	13302	True
+to	TO	-	-	-	Conceded_state_of_affairs	13302	True
+carry	VB	-	-	-	Conceded_state_of_affairs	13302	True
+on	RP	-	-	-	Conceded_state_of_affairs	13302	True
+playing	VBG	-	-	-	Conceded_state_of_affairs	13302	True
+video	NN	-	-	-	Conceded_state_of_affairs	13302	True
+games	NNS	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+MA	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+previous	JJ	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+required	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+BA	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+PhD	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+other	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	mas.c	Concessive	-	False
-agora	X	FW	-	-	Conceded_state_of_affairs	True
-garotos	X	FW	-	-	Conceded_state_of_affairs	True
-com	X	FW	-	-	Conceded_state_of_affairs	True
-diplomas	X	FW	-	-	Conceded_state_of_affairs	True
-estão	X	FW	-	-	Conceded_state_of_affairs	True
-voltando	X	FW	-	-	Conceded_state_of_affairs	True
-para	X	FW	-	-	Conceded_state_of_affairs	True
-casa	X	FW	-	-	Conceded_state_of_affairs	True
-para	X	FW	-	-	Conceded_state_of_affairs	True
-jogar	X	FW	-	-	Conceded_state_of_affairs	True
-video	X	FW	-	-	Conceded_state_of_affairs	True
-game	X	FW	-	-	Conceded_state_of_affairs	True
-porque	X	FW	-	-	Conceded_state_of_affairs	True
-pedem	X	FW	-	-	Conceded_state_of_affairs	True
-mestrado	X	FW	-	-	Conceded_state_of_affairs	True
-para	X	FW	-	-	Conceded_state_of_affairs	True
-o	X	FW	-	-	Conceded_state_of_affairs	True
-trabalho	X	FW	-	-	Conceded_state_of_affairs	True
-que	X	FW	-	-	Conceded_state_of_affairs	True
-necessitava	X	FW	-	-	Conceded_state_of_affairs	True
-bacharelado	X	FW	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	Conceded_state_of_affairs	True
-e	X	FW	-	-	Conceded_state_of_affairs	True
-doutorado	X	FW	-	-	Conceded_state_of_affairs	True
-para	X	FW	-	-	Conceded_state_of_affairs	True
-o	X	FW	-	-	Conceded_state_of_affairs	True
-trabalho	X	FW	-	-	Conceded_state_of_affairs	True
-que	X	FW	-	-	Conceded_state_of_affairs	True
-necessitava	X	FW	-	-	Conceded_state_of_affairs	True
-mestrado	X	FW	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+Mas	FW	mas.c	Concessive	2150	-	-	False
+agora	FW	-	-	-	Conceded_state_of_affairs	13302	True
+garotos	FW	-	-	-	Conceded_state_of_affairs	13302	True
+com	FW	-	-	-	Conceded_state_of_affairs	13302	True
+diplomas	FW	-	-	-	Conceded_state_of_affairs	13302	True
+estão	FW	-	-	-	Conceded_state_of_affairs	13302	True
+voltando	FW	-	-	-	Conceded_state_of_affairs	13302	True
+para	FW	-	-	-	Conceded_state_of_affairs	13302	True
+casa	FW	-	-	-	Conceded_state_of_affairs	13302	True
+para	FW	-	-	-	Conceded_state_of_affairs	13302	True
+jogar	FW	-	-	-	Conceded_state_of_affairs	13302	True
+video	FW	-	-	-	Conceded_state_of_affairs	13302	True
+game	FW	-	-	-	Conceded_state_of_affairs	13302	True
+porque	FW	-	-	-	Conceded_state_of_affairs	13302	True
+pedem	FW	-	-	-	Conceded_state_of_affairs	13302	True
+mestrado	FW	-	-	-	Conceded_state_of_affairs	13302	True
+para	FW	-	-	-	Conceded_state_of_affairs	13302	True
+o	FW	-	-	-	Conceded_state_of_affairs	13302	True
+trabalho	FW	-	-	-	Conceded_state_of_affairs	13302	True
+que	FW	-	-	-	Conceded_state_of_affairs	13302	True
+necessitava	FW	-	-	-	Conceded_state_of_affairs	13302	True
+bacharelado	FW	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	Conceded_state_of_affairs	13302	True
+e	FW	-	-	-	Conceded_state_of_affairs	13302	True
+doutorado	FW	-	-	-	Conceded_state_of_affairs	13302	True
+para	FW	-	-	-	Conceded_state_of_affairs	13302	True
+o	FW	-	-	-	Conceded_state_of_affairs	13302	True
+trabalho	FW	-	-	-	Conceded_state_of_affairs	13302	True
+que	FW	-	-	-	Conceded_state_of_affairs	13302	True
+necessitava	FW	-	-	-	Conceded_state_of_affairs	13302	True
+mestrado	FW	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False

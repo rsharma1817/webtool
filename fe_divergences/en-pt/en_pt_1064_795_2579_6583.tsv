@@ -1,12 +1,12 @@
-Do	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-remember	VERB	VB	remember.v	Memory	-	False
-the	DET	DT	-	-	Content	True
-story	NOUN	NN	-	-	Content	True
-?	PUNCT	.	-	-	-	False
+Do	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	874	True
+remember	VB	remember.v	Memory	135	-	-	False
+the	DT	-	-	-	Content	875	True
+story	NN	-	-	-	Content	875	True
+?	.	-	-	-	-	-	False
 
-Se	X	FW	-	-	Cognizer	True
-lembram	X	FW	lembrar.v	Memory	-	False
-da	X	FW	-	-	Content	True
-história	X	FW	-	-	Content	True
-?	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	Cognizer	874	True
+lembram	FW	lembrar.v	Memory	135	-	-	False
+da	FW	-	-	-	Content	875	True
+história	FW	-	-	-	Content	875	True
+?	.	-	-	-	-	-	False

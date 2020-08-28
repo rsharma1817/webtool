@@ -1,35 +1,35 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Cogitation	-	False
-of	ADP	IN	-	-	Topic	True
-it	PRON	PRP	-	-	Topic	True
-,	PUNCT	,	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-starting	VERB	VBG	-	-	-	False
-school	NOUN	NN	-	-	-	False
-this	DET	DT	-	-	-	False
-year	NOUN	NN	-	-	-	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-retiring	VERB	VBG	-	-	-	False
-in	ADP	IN	-	-	-	False
-2065	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	96	True
+think	VBP	think.v	Cogitation	22	-	-	False
+of	IN	-	-	-	Topic	97	True
+it	PRP	-	-	-	Topic	97	True
+,	,	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+starting	VBG	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+year	NN	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+retiring	VBG	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-formos	X	FW	-	-	-	False
-pensar	X	FW	pensar.v	Cogitation	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	-	-	-	False
-entrando	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-escola	X	FW	-	-	-	False
-esse	X	FW	-	-	-	False
-ano	X	FW	-	-	-	False
-estarão	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-aposentando	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-2065	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+formos	FW	-	-	-	-	-	False
+pensar	FW	pensar.v	Cogitation	22	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+entrando	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+escola	FW	-	-	-	-	-	False
+esse	FW	-	-	-	-	-	False
+ano	FW	-	-	-	-	-	False
+estarão	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+aposentando	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

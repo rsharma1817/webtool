@@ -1,43 +1,43 @@
-And	CCONJ	CC	-	-	-	False
-when	ADV	WRB	-	-	-	False
-they	PRON	PRP	-	-	-	False
-got	VERB	VBD	-	-	-	False
-out	ADP	RP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	Ego	True
-mother	NOUN	NN	mother.n	Kinship	Alter	True
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Just	ADV	RB	-	-	-	False
-stand	VERB	VB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-watch	VERB	VB	-	-	-	False
-her	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+when	WRB	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+got	VBD	-	-	-	-	-	False
+out	RP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	Ego	517	True
+mother	NN	mother.n	Kinship	104	Alter	516	True
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Just	RB	-	-	-	-	-	False
+stand	VB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+watch	VB	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-quando	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-saíram	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-sala	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-mãe	X	FW	mãe.n	Kinship	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Só	ADV	RB	-	-	-	False
-a	DET	DT	-	-	-	False
-escute	ADJ	NN	-	-	-	False
-e	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-observe	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+saíram	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+sala	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+mãe	FW	mãe.n	Kinship	104	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Só	RB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+escute	NN	-	-	-	-	-	False
+e	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+observe	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

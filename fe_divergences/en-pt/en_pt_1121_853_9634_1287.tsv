@@ -1,23 +1,23 @@
-He	PRON	PRP	-	-	Experiencer	True
-loved	VERB	VBD	love.v	Experiencer_focus	-	False
-it	PRON	PRP	-	-	Content	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-girlfriend	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-England	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	Experiencer	201	True
+loved	VBD	love.v	Experiencer_focus	48	-	-	False
+it	PRP	-	-	-	Content	202	True
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+girlfriend	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+England	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Experiencer	True
-adorava	X	FW	adorar.v	Experiencer_focus	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-namorada	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-Inglaterra	X	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Experiencer	201	True
+adorava	FW	adorar.v	Experiencer_focus	48	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+namorada	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+Inglaterra	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,29 +1,29 @@
-And	CCONJ	CC	-	-	-	False
-in	ADP	IN	-	-	-	False
-pretty	ADV	RB	-	-	-	False
-much	ADV	RB	-	-	-	False
-every	DET	DT	-	-	-	False
-system	NOUN	NN	system.n	System	Complex	True
-too	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-hierarchy	NOUN	NN	-	-	-	False
-within	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-arts	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+pretty	RB	-	-	-	-	-	False
+much	RB	-	-	-	-	-	False
+every	DT	-	-	-	-	-	False
+system	NN	system.n	System	1610	Complex	8913	True
+too	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+hierarchy	NN	-	-	-	-	-	False
+within	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+arts	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-praticamente	NOUN	NN	-	-	-	False
-em	INTJ	FW	-	-	-	False
-qualquer	X	FW	-	-	-	False
-sistema	X	FW	sistema.n	System	-	False
-existe	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-hierarquia	X	FW	-	-	-	False
-dentre	X	FW	-	-	-	False
-as	ADP	IN	-	-	Component_entities	True
-artes	NOUN	NNS	-	-	Component_entities	True
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+praticamente	NN	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+qualquer	FW	-	-	-	-	-	False
+sistema	FW	sistema.n	System	1610	-	-	False
+existe	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+hierarquia	FW	-	-	-	-	-	False
+dentre	FW	-	-	-	-	-	False
+as	IN	-	-	-	Component_entities	8912	True
+artes	NNS	-	-	-	Component_entities	8912	True
+.	.	-	-	-	-	-	False

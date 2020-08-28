@@ -1,20 +1,20 @@
-So	ADV	RB	-	-	-	False
-the	DET	DT	-	-	Opinion	True
-unpredictability	NOUN	NN	-	-	Opinion	True
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Opinion	-	False
-,	PUNCT	,	-	-	-	False
-is	VERB	VBZ	-	-	Opinion	True
-extraordinary	ADJ	JJ	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+the	DT	-	-	-	Opinion	7870	True
+unpredictability	NN	-	-	-	Opinion	7870	True
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	Cognizer	7869	True
+think	VBP	think.v	Opinion	1412	-	-	False
+,	,	-	-	-	-	-	False
+is	VBZ	-	-	-	Opinion	7870	True
+extraordinary	JJ	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
 
-Die	VERB	VB	-	-	Opinion	True
-Unvorhersagbarkeit	X	NNP	-	-	Opinion	True
-ist	X	NN	-	-	Opinion	True
-,	PUNCT	,	-	-	-	False
-finde	X	FW	finden.v	Opinion	-	False
-ich	X	FW	-	-	Cognizer	True
-,	PUNCT	,	-	-	-	False
-atemberaubend	NOUN	NN	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+Die	VB	-	-	-	Opinion	7870	True
+Unvorhersagbarkeit	NNP	-	-	-	Opinion	7870	True
+ist	NN	-	-	-	Opinion	7870	True
+,	,	-	-	-	-	-	False
+finde	FW	finden.v	Opinion	1412	-	-	False
+ich	FW	-	-	-	Cognizer	7869	True
+,	,	-	-	-	-	-	False
+atemberaubend	NN	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False

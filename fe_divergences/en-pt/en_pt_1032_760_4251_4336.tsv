@@ -1,30 +1,30 @@
-Like	ADP	IN	-	-	-	False
-religion	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-money	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-other	ADJ	JJ	-	-	-	False
-things	NOUN	NNS	thing.n	Entity	Entity	True
-.	PUNCT	.	-	-	-	False
+Like	IN	-	-	-	-	-	False
+religion	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+money	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+other	JJ	-	-	-	-	-	False
+things	NNS	thing.n	Entity	251	Entity	2607	True
+.	.	-	-	-	-	-	False
 
-Porque	NOUN	NNP	-	-	-	False
-é	NOUN	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-dessas	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-arraigadas	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-pessoas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-certo	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-Como	X	NNP	-	-	-	False
-religião	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dinheiro	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-outras	X	FW	-	-	Type	False
-coisas	X	FW	coisa.n	Entity	-	False
-.	PUNCT	.	-	-	-	False
+Porque	NNP	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+dessas	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+arraigadas	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+certo	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+Como	NNP	-	-	-	-	-	False
+religião	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dinheiro	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+outras	FW	-	-	-	Type	2608	False
+coisas	FW	coisa.n	Entity	251	-	-	False
+.	.	-	-	-	-	-	False

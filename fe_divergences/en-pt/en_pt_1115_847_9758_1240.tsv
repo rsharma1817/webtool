@@ -1,22 +1,22 @@
-'	PUNCT	''	-	-	-	False
-And	CCONJ	CC	-	-	-	False
-stop	VERB	VB	stop.v	Activity_stop	-	False
-speaking	VERB	VBG	-	-	Activity	False
-like	ADP	IN	-	-	Activity	False
-that	DET	DT	-	-	Activity	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+And	CC	-	-	-	-	-	False
+stop	VB	stop.v	Activity_stop	166	-	-	False
+speaking	VBG	-	-	-	Activity	2084	False
+like	IN	-	-	-	Activity	2084	False
+that	DT	-	-	-	Activity	2084	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-'	PUNCT	``	-	-	-	False
-Larga	X	NNP	-	-	-	False
-esse	X	FW	-	-	-	False
-lápis.E	X	FW	-	-	-	False
-para	X	FW	parar.v	Activity_stop	-	False
-de	X	FW	-	-	Activity	False
-falar	X	FW	-	-	Activity	False
-desse	X	FW	-	-	Activity	False
-jeito.Ninguém	X	FW	-	-	-	False
-entende	X	FW	-	-	-	False
-nada	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	``	-	-	-	-	-	False
+Larga	NNP	-	-	-	-	-	False
+esse	FW	-	-	-	-	-	False
+lápis.E	FW	-	-	-	-	-	False
+para	FW	parar.v	Activity_stop	166	-	-	False
+de	FW	-	-	-	Activity	2084	False
+falar	FW	-	-	-	Activity	2084	False
+desse	FW	-	-	-	Activity	2084	False
+jeito.Ninguém	FW	-	-	-	-	-	False
+entende	FW	-	-	-	-	-	False
+nada	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

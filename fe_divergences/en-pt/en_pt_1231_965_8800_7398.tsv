@@ -1,21 +1,21 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	think.v	Opinion	-	False
-now	ADV	RB	-	-	Opinion	True
-they	PRON	PRP	-	-	Opinion	True
-'d	AUX	MD	-	-	Opinion	True
-say	VERB	VB	-	-	Opinion	True
-she	PRON	PRP	-	-	Opinion	True
-had	VERB	VBD	-	-	Opinion	True
-ADHD	PROPN	NNP	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	think.v	Opinion	1412	-	-	False
+now	RB	-	-	-	Opinion	7870	True
+they	PRP	-	-	-	Opinion	7870	True
+'d	MD	-	-	-	Opinion	7870	True
+say	VB	-	-	-	Opinion	7870	True
+she	PRP	-	-	-	Opinion	7870	True
+had	VBD	-	-	-	Opinion	7870	True
+ADHD	NNP	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	UH	-	-	Cognizer	True
-acho	X	FW	achar.v	Opinion	-	False
-que	X	FW	-	-	Opinion	True
-hoje	X	FW	-	-	Opinion	True
-diriam	X	FW	-	-	Opinion	True
-que	X	FW	-	-	Opinion	True
-ela	X	FW	-	-	Opinion	True
-tinha	X	FW	-	-	Opinion	True
-TDAH	PROPN	NNP	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+Eu	UH	-	-	-	Cognizer	7869	True
+acho	FW	achar.v	Opinion	1412	-	-	False
+que	FW	-	-	-	Opinion	7870	True
+hoje	FW	-	-	-	Opinion	7870	True
+diriam	FW	-	-	-	Opinion	7870	True
+que	FW	-	-	-	Opinion	7870	True
+ela	FW	-	-	-	Opinion	7870	True
+tinha	FW	-	-	-	Opinion	7870	True
+TDAH	NNP	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False

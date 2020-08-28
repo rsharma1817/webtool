@@ -1,13 +1,13 @@
-'	PUNCT	''	-	-	-	False
-Must	AUX	MD	-	-	-	False
-try	VERB	VB	try.v	Attempt	-	False
-harder	ADV	RBR	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+Must	MD	-	-	-	-	-	False
+try	VB	try.v	Attempt	116	-	-	False
+harder	RBR	-	-	-	Manner	7980	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-'	PUNCT	''	-	-	-	False
-Se	VERB	FW	-	-	Agent	True
-esforce	NOUN	FW	esforçar.v	Attempt	-	False
-mais	NOUN	FW	-	-	Effort	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+Se	FW	-	-	-	Agent	569	True
+esforce	FW	esforçar.v	Attempt	116	-	-	False
+mais	FW	-	-	-	Effort	651	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

@@ -1,28 +1,28 @@
-We	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Awareness	-	False
-about	ADP	IN	-	-	Content	True
-the	DET	DT	-	-	Content	True
-world	NOUN	NN	-	-	Content	True
-in	ADP	IN	-	-	Content	True
-all	DET	PDT	-	-	Content	True
-the	DET	DT	-	-	Content	True
-ways	NOUN	NNS	-	-	Content	True
-that	PRON	WDT	-	-	Content	True
-we	PRON	PRP	-	-	Content	True
-experience	VERB	VBP	-	-	Content	True
-it	PRON	PRP	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Cognizer	83	True
+think	VBP	think.v	Awareness	19	-	-	False
+about	IN	-	-	-	Content	84	True
+the	DT	-	-	-	Content	84	True
+world	NN	-	-	-	Content	84	True
+in	IN	-	-	-	Content	84	True
+all	PDT	-	-	-	Content	84	True
+the	DT	-	-	-	Content	84	True
+ways	NNS	-	-	-	Content	84	True
+that	WDT	-	-	-	Content	84	True
+we	PRP	-	-	-	Content	84	True
+experience	VBP	-	-	-	Content	84	True
+it	PRP	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Pensamos	PROPN	NNP	pensar.v	Awareness	-	False
-a	DET	DT	-	-	Topic	True
-respeito	NOUN	NN	-	-	Topic	True
-do	VERB	VB	-	-	Topic	True
-mundo	X	FW	-	-	Topic	True
-de	X	FW	-	-	Manner	False
-todas	X	FW	-	-	Manner	False
-as	ADP	IN	-	-	Manner	False
-formas	X	FW	-	-	Manner	False
-que	X	FW	-	-	Manner	False
-o	X	FW	-	-	Manner	False
-vivenciamos	X	FW	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+Pensamos	NNP	pensar.v	Awareness	19	-	-	False
+a	DT	-	-	-	Topic	86	True
+respeito	NN	-	-	-	Topic	86	True
+do	VB	-	-	-	Topic	86	True
+mundo	FW	-	-	-	Topic	86	True
+de	FW	-	-	-	Manner	946	False
+todas	FW	-	-	-	Manner	946	False
+as	IN	-	-	-	Manner	946	False
+formas	FW	-	-	-	Manner	946	False
+que	FW	-	-	-	Manner	946	False
+o	FW	-	-	-	Manner	946	False
+vivenciamos	FW	-	-	-	Manner	946	False
+.	.	-	-	-	-	-	False

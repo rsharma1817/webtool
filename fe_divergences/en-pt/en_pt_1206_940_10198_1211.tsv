@@ -1,29 +1,29 @@
-There	PRON	EX	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-raft	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-research	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Cognizer	True
-know	VERB	VBP	know.v	Awareness	-	False
-it	PRON	PRP	-	-	Content	True
-from	ADP	IN	-	-	Evidence	False
-my	PRON	PRP$	-	-	Evidence	False
-personal	ADJ	JJ	-	-	Evidence	False
-life	NOUN	NN	-	-	Evidence	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+raft	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+research	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Cognizer	83	True
+know	VBP	know.v	Awareness	19	-	-	False
+it	PRP	-	-	-	Content	84	True
+from	IN	-	-	-	Evidence	85	False
+my	PRP$	-	-	-	Evidence	85	False
+personal	JJ	-	-	-	Evidence	85	False
+life	NN	-	-	-	Evidence	85	False
+.	.	-	-	-	-	-	False
 
-As	ADP	IN	-	-	-	False
-pesquisas	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-abundantes	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-eu	X	FW	-	-	Cognizer	True
-sei	X	FW	saber.v	Awareness	-	False
-por	X	FW	-	-	Evidence	False
-experiência	X	FW	-	-	Evidence	False
-própria	X	FW	-	-	Evidence	False
-.	PUNCT	.	-	-	-	False
+As	IN	-	-	-	-	-	False
+pesquisas	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+abundantes	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Cognizer	83	True
+sei	FW	saber.v	Awareness	19	-	-	False
+por	FW	-	-	-	Evidence	85	False
+experiência	FW	-	-	-	Evidence	85	False
+própria	FW	-	-	-	Evidence	85	False
+.	.	-	-	-	-	-	False

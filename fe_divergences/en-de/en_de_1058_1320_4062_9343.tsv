@@ -1,31 +1,31 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-teacher	NOUN	NN	teacher.n	Education_teaching	Teacher	True
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-But	CCONJ	CC	-	-	-	False
-nobody	NOUN	NN	-	-	-	False
-knows	VERB	VBZ	-	-	-	False
-what	PRON	WP	-	-	-	False
-God	PROPN	NNP	-	-	-	False
-looks	VERB	VBZ	-	-	-	False
-like	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+teacher	NN	teacher.n	Education_teaching	111	Teacher	541	True
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+But	CC	-	-	-	-	-	False
+nobody	NN	-	-	-	-	-	False
+knows	VBZ	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+God	NNP	-	-	-	-	-	False
+looks	VBZ	-	-	-	-	-	False
+like	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Und	CCONJ	CC	-	-	-	False
-die	VERB	VB	-	-	-	False
-Lehrerin	PROPN	NNP	lehrerin.n	Education_teaching	-	False
-sagte	NOUN	VB	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Aber	PROPN	FW	-	-	-	False
-niemand	X	FW	-	-	-	False
-weiß	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	X	FW	-	-	-	False
-Gott	X	FW	-	-	-	False
-aussieht	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Und	CC	-	-	-	-	-	False
+die	VB	-	-	-	-	-	False
+Lehrerin	NNP	lehrerin.n	Education_teaching	111	-	-	False
+sagte	VB	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Aber	FW	-	-	-	-	-	False
+niemand	FW	-	-	-	-	-	False
+weiß	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	FW	-	-	-	-	-	False
+Gott	FW	-	-	-	-	-	False
+aussieht	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

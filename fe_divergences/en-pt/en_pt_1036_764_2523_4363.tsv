@@ -1,57 +1,57 @@
-Nobody	NOUN	NN	-	-	Cognizer	True
-has	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-clue	NOUN	NN	clue.n	Awareness	-	False
-,	PUNCT	,	-	-	-	False
-despite	ADP	IN	-	-	-	False
-all	DET	PDT	-	-	-	False
-the	DET	DT	-	-	-	False
-expertise	NOUN	NN	-	-	-	False
-that	PRON	WDT	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-been	VERB	VBN	-	-	-	False
-on	ADP	IN	-	-	-	False
-parade	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-past	ADJ	JJ	-	-	-	False
-four	NUM	CD	-	-	-	False
-days	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	Content	True
-the	DET	DT	-	-	Content	True
-world	NOUN	NN	-	-	Content	True
-will	AUX	MD	-	-	Content	True
-look	VERB	VB	-	-	Content	True
-like	ADP	IN	-	-	Content	True
-in	ADP	IN	-	-	Content	True
-five	NUM	CD	-	-	Content	True
-years'	NOUN	JJ	-	-	Content	True
-time	NOUN	NN	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+Nobody	NN	-	-	-	Cognizer	83	True
+has	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+clue	NN	clue.n	Awareness	19	-	-	False
+,	,	-	-	-	-	-	False
+despite	IN	-	-	-	-	-	False
+all	PDT	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+expertise	NN	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+parade	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+past	JJ	-	-	-	-	-	False
+four	CD	-	-	-	-	-	False
+days	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	Content	84	True
+the	DT	-	-	-	Content	84	True
+world	NN	-	-	-	Content	84	True
+will	MD	-	-	-	Content	84	True
+look	VB	-	-	-	Content	84	True
+like	IN	-	-	-	Content	84	True
+in	IN	-	-	-	Content	84	True
+five	CD	-	-	-	Content	84	True
+years'	JJ	-	-	-	Content	84	True
+time	NN	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Ninguém	X	NNP	-	-	-	False
-tem	X	FW	-	-	-	False
-noção	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-apesar	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-todo	X	FW	-	-	-	False
-conhecimento	X	FW	conhecimento.n	Awareness	-	False
-que	X	FW	-	-	-	False
-vimos	X	FW	-	-	-	False
-nos	X	FW	-	-	-	False
-últimos	X	FW	-	-	-	False
-quatro	X	FW	-	-	-	False
-dias	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-de	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-estar	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-cinco	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ninguém	NNP	-	-	-	-	-	False
+tem	FW	-	-	-	-	-	False
+noção	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+apesar	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+conhecimento	FW	conhecimento.n	Awareness	19	-	-	False
+que	FW	-	-	-	-	-	False
+vimos	FW	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+últimos	FW	-	-	-	-	-	False
+quatro	FW	-	-	-	-	-	False
+dias	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+estar	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+cinco	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

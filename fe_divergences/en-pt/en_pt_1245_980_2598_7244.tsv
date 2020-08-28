@@ -1,65 +1,65 @@
-And	CCONJ	CC	-	-	-	False
-they	PRON	PRP	-	-	-	False
-watched	VERB	VBD	-	-	-	False
-for	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-few	ADJ	JJ	-	-	-	False
-minutes	NOUN	NNS	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	Speaker	True
-turned	VERB	VBD	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	-	False
-mother	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-said	VERB	VBD	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Mrs.Lynne	PROPN	NNP	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-Gillian	PROPN	NNP	-	-	Message	True
-is	VERB	VBZ	-	-	Message	True
-n't	ADV	RB	-	-	Message	True
-sick	ADJ	JJ	-	-	Message	True
-;	PUNCT	:	-	-	Message	True
-she	PRON	PRP	-	-	Message	True
-'s	VERB	VBZ	-	-	Message	True
-a	DET	DT	-	-	Message	True
-dancer	NOUN	NN	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+watched	VBD	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+few	JJ	-	-	-	-	-	False
+minutes	NNS	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+he	PRP	-	-	-	Speaker	183	True
+turned	VBD	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	-	-	False
+mother	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+said	VBD	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Mrs.Lynne	NNP	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+Gillian	NNP	-	-	-	Message	185	True
+is	VBZ	-	-	-	Message	185	True
+n't	RB	-	-	-	Message	185	True
+sick	JJ	-	-	-	Message	185	True
+;	:	-	-	-	Message	185	True
+she	PRP	-	-	-	Message	185	True
+'s	VBZ	-	-	-	Message	185	True
+a	DT	-	-	-	Message	185	True
+dancer	NN	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
 
-Eles	X	FW	-	-	-	False
-observaram	X	FW	-	-	-	False
-por	X	FW	-	-	-	False
-alguns	X	FW	-	-	-	False
-minutos	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-ele	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-virou	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-mãe	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-disse	X	FW	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Sra.Lynne	PROPN	NNP	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-a	DET	DT	-	-	Message	True
-Gillian	PROPN	NNP	-	-	Message	True
-não	X	FW	-	-	Message	True
-está	X	FW	-	-	Message	True
-doente	X	FW	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-ela	X	FW	-	-	Message	True
-é	X	FW	-	-	Message	True
-uma	X	FW	-	-	Message	True
-dançarina.Leve-a	X	FW	-	-	Message	True
-para	X	FW	-	-	Message	True
-uma	X	FW	-	-	Message	True
-escola	X	FW	-	-	Message	True
-de	X	FW	-	-	Message	True
-dança	X	FW	-	-	Message	True
-.	PUNCT	.	-	-	Message	True
-'	PUNCT	''	-	-	-	False
+Eles	FW	-	-	-	-	-	False
+observaram	FW	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+alguns	FW	-	-	-	-	-	False
+minutos	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+virou	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+mãe	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+disse	FW	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Sra.Lynne	NNP	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+a	DT	-	-	-	Message	185	True
+Gillian	NNP	-	-	-	Message	185	True
+não	FW	-	-	-	Message	185	True
+está	FW	-	-	-	Message	185	True
+doente	FW	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+ela	FW	-	-	-	Message	185	True
+é	FW	-	-	-	Message	185	True
+uma	FW	-	-	-	Message	185	True
+dançarina.Leve-a	FW	-	-	-	Message	185	True
+para	FW	-	-	-	Message	185	True
+uma	FW	-	-	-	Message	185	True
+escola	FW	-	-	-	Message	185	True
+de	FW	-	-	-	Message	185	True
+dança	FW	-	-	-	Message	185	True
+.	.	-	-	-	Message	185	True
+'	''	-	-	-	-	-	False

@@ -1,49 +1,49 @@
-I	PRON	PRP	-	-	-	False
-heard	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-great	ADJ	JJ	great.a	Desirability	-	False
-story	NOUN	NN	-	-	Evaluee	True
-recently	ADV	RB	-	-	-	False
---	PUNCT	:	-	-	-	False
-I	PRON	PRP	-	-	-	False
-love	VERB	VBP	-	-	-	False
-telling	VERB	VBG	-	-	-	False
-it	PRON	PRP	-	-	-	False
---	PUNCT	:	-	-	-	False
-of	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-little	ADJ	JJ	-	-	-	False
-girl	NOUN	NN	-	-	-	False
-who	PRON	WP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-drawing	NOUN	NN	-	-	-	False
-lesson	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+heard	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+great	JJ	great.a	Desirability	354	-	-	False
+story	NN	-	-	-	Evaluee	3153	True
+recently	RB	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+love	VBP	-	-	-	-	-	False
+telling	VBG	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+little	JJ	-	-	-	-	-	False
+girl	NN	-	-	-	-	-	False
+who	WP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+drawing	NN	-	-	-	-	-	False
+lesson	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ich	INTJ	FW	-	-	-	False
-habe	X	FW	-	-	-	False
-vor	X	FW	-	-	-	False
-kurzem	X	FW	-	-	-	False
-eine	X	FW	-	-	-	False
-tolle	X	FW	toll.a	Desirability	-	False
-Geschichte	PROPN	FW	-	-	Evaluee	True
-gehört	NOUN	FW	-	-	-	False
---	PUNCT	:	-	-	-	False
-ich	X	FW	-	-	-	False
-erzähle	X	FW	-	-	-	False
-sie	X	FW	-	-	-	False
-zu	X	FW	-	-	-	False
-gern	X	FW	-	-	-	False
---	PUNCT	:	-	-	-	False
-über	X	FW	-	-	-	False
-ein	X	FW	-	-	-	False
-kleines	X	FW	-	-	-	False
-Mädchen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-in	ADP	IN	-	-	-	False
-Zeichnen	PROPN	NNP	-	-	-	False
-saß	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ich	FW	-	-	-	-	-	False
+habe	FW	-	-	-	-	-	False
+vor	FW	-	-	-	-	-	False
+kurzem	FW	-	-	-	-	-	False
+eine	FW	-	-	-	-	-	False
+tolle	FW	toll.a	Desirability	354	-	-	False
+Geschichte	FW	-	-	-	Evaluee	3153	True
+gehört	FW	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+ich	FW	-	-	-	-	-	False
+erzähle	FW	-	-	-	-	-	False
+sie	FW	-	-	-	-	-	False
+zu	FW	-	-	-	-	-	False
+gern	FW	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+über	FW	-	-	-	-	-	False
+ein	FW	-	-	-	-	-	False
+kleines	FW	-	-	-	-	-	False
+Mädchen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+Zeichnen	NNP	-	-	-	-	-	False
+saß	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

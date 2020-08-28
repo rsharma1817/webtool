@@ -1,59 +1,59 @@
-Nobody	NOUN	NN	-	-	-	False
-has	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-clue	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-despite	ADP	IN	-	-	-	False
-all	DET	PDT	-	-	-	False
-the	DET	DT	-	-	-	False
-expertise	NOUN	NN	-	-	-	False
-that	PRON	WDT	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-been	VERB	VBN	-	-	-	False
-on	ADP	IN	-	-	-	False
-parade	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-past	ADJ	JJ	-	-	-	False
-four	NUM	CD	four.num	Cardinal_numbers	Number	True
-days	NOUN	NNS	-	-	Unit	True
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	-	-	-	False
-will	AUX	MD	-	-	-	False
-look	VERB	VB	-	-	-	False
-like	ADP	IN	-	-	-	False
-in	ADP	IN	-	-	-	False
-five	NUM	CD	-	-	-	False
-years'	NOUN	JJ	-	-	-	False
-time	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Nobody	NN	-	-	-	-	-	False
+has	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+clue	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+despite	IN	-	-	-	-	-	False
+all	PDT	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+expertise	NN	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+parade	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+past	JJ	-	-	-	-	-	False
+four	CD	four.num	Cardinal_numbers	218	Number	3622	True
+days	NNS	-	-	-	Unit	16740	True
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+look	VB	-	-	-	-	-	False
+like	IN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+five	CD	-	-	-	-	-	False
+years'	JJ	-	-	-	-	-	False
+time	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Keiner	PROPN	NNP	-	-	-	False
-hat	INTJ	VBD	-	-	-	False
-eine	INTJ	NNP	-	-	-	False
-Ahnung	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-trotz	VERB	NN	-	-	-	False
-jeglicher	NOUN	NN	-	-	-	False
-Expertise	NOUN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	X	VB	-	-	-	False
-wir	X	NN	-	-	-	False
-die	X	VBP	-	-	-	False
-letzten	X	FW	-	-	-	False
-vier	X	FW	-	-	-	False
-Tage	X	FW	-	-	-	False
-erleben	X	FW	-	-	-	False
-durften	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	PRON	UH	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Welt	PROPN	NNP	-	-	-	False
-in	ADP	IN	-	-	-	False
-fünf	NOUN	NN	fünf.num	Cardinal_numbers	-	False
-Jahren	PROPN	NNP	-	-	Entity	True
-aussehen	PROPN	NNP	-	-	-	False
-wird	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Keiner	NNP	-	-	-	-	-	False
+hat	VBD	-	-	-	-	-	False
+eine	NNP	-	-	-	-	-	False
+Ahnung	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+trotz	NN	-	-	-	-	-	False
+jeglicher	NN	-	-	-	-	-	False
+Expertise	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VB	-	-	-	-	-	False
+wir	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+letzten	FW	-	-	-	-	-	False
+vier	FW	-	-	-	-	-	False
+Tage	FW	-	-	-	-	-	False
+erleben	FW	-	-	-	-	-	False
+durften	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	UH	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Welt	NNP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+fünf	NN	fünf.num	Cardinal_numbers	218	-	-	False
+Jahren	NNP	-	-	-	Entity	3623	True
+aussehen	NNP	-	-	-	-	-	False
+wird	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

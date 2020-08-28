@@ -1,45 +1,45 @@
-And	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	Main_assertion	True
-'s	VERB	VBZ	-	-	Main_assertion	True
-exceptional	ADJ	JJ	-	-	Main_assertion	True
-,	PUNCT	,	-	-	Main_assertion	True
-but	CCONJ	CC	but.c	Concessive	-	False
-I	PRON	PRP	-	-	Conceded_state_of_affairs	True
-think	VERB	VBP	-	-	Conceded_state_of_affairs	True
-she	PRON	PRP	-	-	Conceded_state_of_affairs	True
-'s	VERB	VBZ	-	-	Conceded_state_of_affairs	True
-not	ADV	RB	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	Conceded_state_of_affairs	True
-so	ADV	RB	-	-	Conceded_state_of_affairs	True
-to	PART	TO	-	-	Conceded_state_of_affairs	True
-speak	VERB	VB	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	Conceded_state_of_affairs	True
-exceptional	ADJ	JJ	-	-	Conceded_state_of_affairs	True
-in	ADP	IN	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-whole	NOUN	NN	-	-	Conceded_state_of_affairs	True
-of	ADP	IN	-	-	Conceded_state_of_affairs	True
-childhood	NOUN	NN	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+she	PRP	-	-	-	Main_assertion	13312	True
+'s	VBZ	-	-	-	Main_assertion	13312	True
+exceptional	JJ	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	Main_assertion	13312	True
+but	CC	but.c	Concessive	2150	-	-	False
+I	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+think	VBP	-	-	-	Conceded_state_of_affairs	13302	True
+she	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+'s	VBZ	-	-	-	Conceded_state_of_affairs	13302	True
+not	RB	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	Conceded_state_of_affairs	13302	True
+so	RB	-	-	-	Conceded_state_of_affairs	13302	True
+to	TO	-	-	-	Conceded_state_of_affairs	13302	True
+speak	VB	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	Conceded_state_of_affairs	13302	True
+exceptional	JJ	-	-	-	Conceded_state_of_affairs	13302	True
+in	IN	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+whole	NN	-	-	-	Conceded_state_of_affairs	13302	True
+of	IN	-	-	-	Conceded_state_of_affairs	13302	True
+childhood	NN	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False
 
-Ela	INTJ	UH	-	-	Main_assertion	True
-é	INTJ	UH	-	-	Main_assertion	True
-excepcional	ADJ	JJ	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	mas.c	Concessive	-	False
-não	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-por	X	FW	-	-	-	False
-assim	X	FW	-	-	-	False
-dizer	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-seja	X	FW	-	-	-	False
-uma	X	FW	-	-	Conceded_state_of_affairs	True
-exceção	X	FW	-	-	Conceded_state_of_affairs	True
-entre	X	FW	-	-	Conceded_state_of_affairs	True
-todas	X	FW	-	-	Conceded_state_of_affairs	True
-as	ADP	IN	-	-	Conceded_state_of_affairs	True
-crianças	NOUN	FW	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+Ela	UH	-	-	-	Main_assertion	13312	True
+é	UH	-	-	-	Main_assertion	13312	True
+excepcional	JJ	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+mas	FW	mas.c	Concessive	2150	-	-	False
+não	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+assim	FW	-	-	-	-	-	False
+dizer	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+seja	FW	-	-	-	-	-	False
+uma	FW	-	-	-	Conceded_state_of_affairs	13302	True
+exceção	FW	-	-	-	Conceded_state_of_affairs	13302	True
+entre	FW	-	-	-	Conceded_state_of_affairs	13302	True
+todas	FW	-	-	-	Conceded_state_of_affairs	13302	True
+as	IN	-	-	-	Conceded_state_of_affairs	13302	True
+crianças	FW	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False

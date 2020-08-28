@@ -1,51 +1,51 @@
-We	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-huge	ADJ	JJ	-	-	-	False
-vested	VERB	JJ	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-partly	ADV	RB	partly.adv	Degree	-	False
-because	ADP	IN	-	-	Gradable_attribute	True
-it	PRON	PRP	-	-	Gradable_attribute	True
-'s	VERB	VBZ	-	-	Gradable_attribute	True
-education	NOUN	NN	-	-	Gradable_attribute	True
-that	PRON	WDT	-	-	Gradable_attribute	True
-'s	VERB	VBZ	-	-	Gradable_attribute	True
-meant	VERB	VBN	-	-	Gradable_attribute	True
-to	PART	TO	-	-	Gradable_attribute	True
-take	VERB	VB	-	-	Gradable_attribute	True
-us	PRON	PRP	-	-	Gradable_attribute	True
-into	ADP	IN	-	-	Gradable_attribute	True
-this	DET	DT	-	-	Gradable_attribute	True
-future	NOUN	NN	-	-	Gradable_attribute	True
-that	ADP	IN	-	-	Gradable_attribute	True
-we	PRON	PRP	-	-	Gradable_attribute	True
-ca	AUX	MD	-	-	Gradable_attribute	True
-n't	ADV	RB	-	-	Gradable_attribute	True
-grasp	VERB	VB	-	-	Gradable_attribute	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+huge	JJ	-	-	-	-	-	False
+vested	JJ	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+partly	RB	partly.adv	Degree	2001	-	-	False
+because	IN	-	-	-	Gradable_attribute	12081	True
+it	PRP	-	-	-	Gradable_attribute	12081	True
+'s	VBZ	-	-	-	Gradable_attribute	12081	True
+education	NN	-	-	-	Gradable_attribute	12081	True
+that	WDT	-	-	-	Gradable_attribute	12081	True
+'s	VBZ	-	-	-	Gradable_attribute	12081	True
+meant	VBN	-	-	-	Gradable_attribute	12081	True
+to	TO	-	-	-	Gradable_attribute	12081	True
+take	VB	-	-	-	Gradable_attribute	12081	True
+us	PRP	-	-	-	Gradable_attribute	12081	True
+into	IN	-	-	-	Gradable_attribute	12081	True
+this	DT	-	-	-	Gradable_attribute	12081	True
+future	NN	-	-	-	Gradable_attribute	12081	True
+that	IN	-	-	-	Gradable_attribute	12081	True
+we	PRP	-	-	-	Gradable_attribute	12081	True
+ca	MD	-	-	-	Gradable_attribute	12081	True
+n't	RB	-	-	-	Gradable_attribute	12081	True
+grasp	VB	-	-	-	Gradable_attribute	12081	True
+.	.	-	-	-	-	-	False
 
-Nos	INTJ	FW	-	-	Gradable_attribute	True
-interessamos	X	FW	-	-	Gradable_attribute	True
-tanto	X	FW	tanto.adv	Degree	-	False
-por	X	FW	-	-	Gradable_attribute	True
-ela	X	FW	-	-	Gradable_attribute	True
-em	X	FW	-	-	-	False
-parte	X	FW	-	-	-	False
-porque	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-papel	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-nos	X	FW	-	-	-	False
-conduzir	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-esse	X	FW	-	-	-	False
-futuro	X	FW	-	-	-	False
-misterioso	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Nos	FW	-	-	-	Gradable_attribute	12081	True
+interessamos	FW	-	-	-	Gradable_attribute	12081	True
+tanto	FW	tanto.adv	Degree	2001	-	-	False
+por	FW	-	-	-	Gradable_attribute	12081	True
+ela	FW	-	-	-	Gradable_attribute	12081	True
+em	FW	-	-	-	-	-	False
+parte	FW	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+papel	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+conduzir	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+esse	FW	-	-	-	-	-	False
+futuro	FW	-	-	-	-	-	False
+misterioso	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

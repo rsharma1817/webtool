@@ -1,40 +1,40 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-children	NOUN	NNS	-	-	Agent	True
-starting	VERB	VBG	start.v	Activity_start	-	False
-school	NOUN	NN	-	-	Activity	True
-this	DET	DT	-	-	Time	False
-year	NOUN	NN	-	-	Time	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-retiring	VERB	VBG	-	-	-	False
-in	ADP	IN	-	-	-	False
-2065	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+children	NNS	-	-	-	Agent	2542	True
+starting	VBG	start.v	Activity_start	146	-	-	False
+school	NN	-	-	-	Activity	2085	True
+this	DT	-	-	-	Time	1160	False
+year	NN	-	-	-	Time	1160	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+retiring	VBG	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Denken	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-nur	NOUN	NN	-	-	-	False
-:	PUNCT	:	-	-	-	False
-Kinder	PROPN	NNP	-	-	Agent	True
-,	PUNCT	,	-	-	Agent	True
-die	VERB	VBP	-	-	Agent	True
-dieses	NOUN	VBZ	-	-	Time	False
-Jahr	PROPN	NNP	-	-	Time	False
-in	ADP	IN	-	-	Activity	True
-die	VERB	FW	-	-	Activity	True
-Schule	PROPN	FW	-	-	Activity	True
-kommen	PROPN	FW	kommen.v	Activity_start	-	False
-,	PUNCT	,	-	-	-	False
-werden	NOUN	NN	-	-	-	False
-im	ADP	IN	-	-	-	False
-Jahr	PROPN	NNP	-	-	-	False
-2065	NUM	CD	-	-	-	False
-in	ADP	IN	-	-	-	False
-Rente	PROPN	NNP	-	-	-	False
-gehen	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Denken	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+nur	NN	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+Kinder	NNP	-	-	-	Agent	2542	True
+,	,	-	-	-	Agent	2542	True
+die	VBP	-	-	-	Agent	2542	True
+dieses	VBZ	-	-	-	Time	1160	False
+Jahr	NNP	-	-	-	Time	1160	False
+in	IN	-	-	-	Activity	2085	True
+die	FW	-	-	-	Activity	2085	True
+Schule	FW	-	-	-	Activity	2085	True
+kommen	FW	kommen.v	Activity_start	146	-	-	False
+,	,	-	-	-	-	-	False
+werden	NN	-	-	-	-	-	False
+im	IN	-	-	-	-	-	False
+Jahr	NNP	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+Rente	NNP	-	-	-	-	-	False
+gehen	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

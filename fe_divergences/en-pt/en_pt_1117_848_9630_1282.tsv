@@ -1,44 +1,44 @@
-Anyway	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-moved	VERB	VBD	-	-	-	False
-from	ADP	IN	-	-	-	False
-Stratford	PROPN	NNP	-	-	-	False
-to	ADP	IN	-	-	-	False
-Los	PROPN	NNP	-	-	-	False
-Angeles	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Experiencer	True
-just	ADV	RB	-	-	Degree	False
-want	VERB	VBP	want.v	Desiring	-	False
-to	PART	TO	-	-	Event	True
-say	VERB	VB	-	-	Event	True
-a	DET	DT	-	-	Event	True
-word	NOUN	NN	-	-	Event	True
-about	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-transition	NOUN	NN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+Anyway	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+moved	VBD	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+Stratford	NNP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Los	NNP	-	-	-	-	-	False
+Angeles	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Experiencer	3361	True
+just	RB	-	-	-	Degree	3367	False
+want	VBP	want.v	Desiring	366	-	-	False
+to	TO	-	-	-	Event	3363	True
+say	VB	-	-	-	Event	3363	True
+a	DT	-	-	-	Event	3363	True
+word	NN	-	-	-	Event	3363	True
+about	IN	-	-	-	Event	3363	True
+the	DT	-	-	-	Event	3363	True
+transition	NN	-	-	-	Event	3363	True
+.	.	-	-	-	-	-	False
 
-Enfim	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nos	X	FW	-	-	-	False
-mudamos	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Stratford	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-Los	PROPN	NNP	-	-	-	False
-Angeles	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-eu	INTJ	FW	-	-	Experiencer	True
-só	ADV	FW	-	-	-	False
-quero	X	FW	querer.v	Desiring	-	False
-dizer	X	FW	-	-	Event	True
-uma	X	FW	-	-	Event	True
-coisa	X	FW	-	-	Event	True
-sobre	X	FW	-	-	-	False
-essa	X	FW	-	-	-	False
-transição	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Enfim	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+mudamos	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Stratford	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+Los	NNP	-	-	-	-	-	False
+Angeles	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Experiencer	3361	True
+só	FW	-	-	-	-	-	False
+quero	FW	querer.v	Desiring	366	-	-	False
+dizer	FW	-	-	-	Event	3363	True
+uma	FW	-	-	-	Event	3363	True
+coisa	FW	-	-	-	Event	3363	True
+sobre	FW	-	-	-	-	-	False
+essa	FW	-	-	-	-	-	False
+transição	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

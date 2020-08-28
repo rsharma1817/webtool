@@ -1,25 +1,25 @@
-So	ADV	RB	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Experiencer	True
-want	VERB	VBP	want.v	Desiring	-	False
-to	PART	TO	-	-	Event	True
-talk	VERB	VB	-	-	Event	True
-about	ADP	IN	-	-	Event	True
-creativity	NOUN	NN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Experiencer	3361	True
+want	VBP	want.v	Desiring	366	-	-	False
+to	TO	-	-	-	Event	3363	True
+talk	VB	-	-	-	Event	3363	True
+about	IN	-	-	-	Event	3363	True
+creativity	NN	-	-	-	Event	3363	True
+.	.	-	-	-	-	-	False
 
-Ich	PROPN	NNP	-	-	Experiencer	True
-möchte	PROPN	NNP	mögen.v	Desiring	-	False
-also	ADV	RB	-	-	-	False
-über	ADJ	NN	-	-	Event	True
-Bildung	PROPN	NNP	-	-	Event	True
-und	CCONJ	NNP	-	-	Event	True
-Kreativität	PROPN	NNP	-	-	Event	True
-sprechen	NOUN	NN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+Ich	NNP	-	-	-	Experiencer	3361	True
+möchte	NNP	mögen.v	Desiring	366	-	-	False
+also	RB	-	-	-	-	-	False
+über	NN	-	-	-	Event	3363	True
+Bildung	NNP	-	-	-	Event	3363	True
+und	NNP	-	-	-	Event	3363	True
+Kreativität	NNP	-	-	-	Event	3363	True
+sprechen	NN	-	-	-	Event	3363	True
+.	.	-	-	-	-	-	False

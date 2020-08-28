@@ -1,32 +1,32 @@
-And	CCONJ	CC	-	-	-	False
-my	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-all	DET	DT	-	-	-	False
-kids	NOUN	NNS	-	-	-	False
-have	VERB	VBP	-	-	-	False
-tremendous	ADJ	JJ	tremendous.a	Size	-	False
-talents	NOUN	NNS	-	-	Entity	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+my	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+kids	NNS	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+tremendous	JJ	tremendous.a	Size	2282	-	-	False
+talents	NNS	-	-	-	Entity	13813	True
+.	.	-	-	-	-	-	False
 
-Ich	INTJ	FW	-	-	-	False
-behaupte	INTJ	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	FW	-	-	-	False
-alle	X	FW	-	-	-	False
-Kinder	X	FW	-	-	-	False
-gewaltige	X	FW	gewaltig.a	Size	-	False
-Talente	X	FW	-	-	Entity	True
-haben	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-dass	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-sie	X	FW	-	-	-	False
-vergeuden	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-zwar	X	FW	-	-	-	False
-ziemlich	X	FW	-	-	-	False
-rücksichtslos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ich	FW	-	-	-	-	-	False
+behaupte	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+alle	FW	-	-	-	-	-	False
+Kinder	FW	-	-	-	-	-	False
+gewaltige	FW	gewaltig.a	Size	2282	-	-	False
+Talente	FW	-	-	-	Entity	13813	True
+haben	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+sie	FW	-	-	-	-	-	False
+vergeuden	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+zwar	FW	-	-	-	-	-	False
+ziemlich	FW	-	-	-	-	-	False
+rücksichtslos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

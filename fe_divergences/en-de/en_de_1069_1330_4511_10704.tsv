@@ -1,36 +1,36 @@
-We	PRON	PRP	-	-	Cognizer	True
-considered	VERB	VBD	consider.v	Categorization	-	False
-this	DET	DT	-	-	Item	True
-to	PART	TO	-	-	Category	True
-be	VERB	VB	-	-	Category	True
-one	NUM	CD	-	-	Category	True
-of	ADP	IN	-	-	Category	True
-the	DET	DT	-	-	Category	True
-lead	ADJ	JJ	-	-	Category	True
-parts	NOUN	NNS	-	-	Category	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Cognizer	92	True
+considered	VBD	consider.v	Categorization	21	-	-	False
+this	DT	-	-	-	Item	93	True
+to	TO	-	-	-	Category	94	True
+be	VB	-	-	-	Category	94	True
+one	CD	-	-	-	Category	94	True
+of	IN	-	-	-	Category	94	True
+the	DT	-	-	-	Category	94	True
+lead	JJ	-	-	-	Category	94	True
+parts	NNS	-	-	-	Category	94	True
+.	.	-	-	-	-	-	False
 
-'	PUNCT	''	-	-	-	False
-Die	VERB	VB	-	-	-	False
-Geburt	PROPN	NNP	-	-	-	False
-II	PROPN	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-James	PROPN	NNP	-	-	-	False
-spielte	PROPN	NNP	-	-	-	False
-den	PROPN	NNP	-	-	-	False
-Joseph	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-begeistert	X	FW	-	-	-	False
-waren	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-weil	X	NN	-	-	-	False
-wir	X	NN	-	-	Cognizer	True
-das	X	FW	-	-	Item	True
-als	X	FW	-	-	Category	True
-eine	X	FW	-	-	Category	True
-der	X	FW	-	-	Category	True
-Hauptrollen	X	FW	-	-	Category	True
-betrachten	X	FW	betrachten.v	Categorization	-	False
-.	PUNCT	.	-	-	-	False
+'	''	-	-	-	-	-	False
+Die	VB	-	-	-	-	-	False
+Geburt	NNP	-	-	-	-	-	False
+II	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+James	NNP	-	-	-	-	-	False
+spielte	NNP	-	-	-	-	-	False
+den	NNP	-	-	-	-	-	False
+Joseph	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+begeistert	FW	-	-	-	-	-	False
+waren	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+weil	NN	-	-	-	-	-	False
+wir	NN	-	-	-	Cognizer	92	True
+das	FW	-	-	-	Item	93	True
+als	FW	-	-	-	Category	94	True
+eine	FW	-	-	-	Category	94	True
+der	FW	-	-	-	Category	94	True
+Hauptrollen	FW	-	-	-	Category	94	True
+betrachten	FW	betrachten.v	Categorization	21	-	-	False
+.	.	-	-	-	-	-	False

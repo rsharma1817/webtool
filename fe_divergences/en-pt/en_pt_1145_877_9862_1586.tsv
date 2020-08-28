@@ -1,47 +1,47 @@
-Truthfully	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	-	False
-happens	VERB	VBZ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-children	NOUN	NNS	child.n	People_by_age	Person	True
-grow	VERB	VBP	-	-	-	False
-up	ADP	RP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-start	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-educate	VERB	VB	-	-	-	False
-them	PRON	PRP	-	-	-	False
-progressively	ADV	RB	-	-	-	False
-from	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-waist	NOUN	NN	-	-	-	False
-up	ADP	RP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Truthfully	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+happens	VBZ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+children	NNS	child.n	People_by_age	973	Person	5937	True
+grow	VBP	-	-	-	-	-	False
+up	RP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+start	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+educate	VB	-	-	-	-	-	False
+them	PRP	-	-	-	-	-	False
+progressively	RB	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+waist	NN	-	-	-	-	-	False
+up	RP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Sério	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	INTJ	UH	-	-	-	False
-que	X	FW	-	-	-	False
-acontece	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-à	X	FW	-	-	-	False
-medida	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-crianças	X	FW	criança.n	People_by_age	-	False
-crescem	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nós	X	FW	-	-	-	False
-começamos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-educá-las	X	FW	-	-	-	False
-progressivamente	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-cintura	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-cima	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sério	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+acontece	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+à	FW	-	-	-	-	-	False
+medida	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+crianças	FW	criança.n	People_by_age	973	-	-	False
+crescem	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nós	FW	-	-	-	-	-	False
+começamos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+educá-las	FW	-	-	-	-	-	False
+progressivamente	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+cintura	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+cima	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

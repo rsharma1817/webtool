@@ -1,24 +1,24 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-math	NOUN	NN	-	-	Factor	True
-is	VERB	VBZ	-	-	-	False
-very	ADV	RB	-	-	Degree	False
-important	ADJ	JJ	important.a	Importance	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-so	ADV	RB	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-dance	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+math	NN	-	-	-	Factor	3749	True
+is	VBZ	-	-	-	-	-	False
+very	RB	-	-	-	Degree	3752	False
+important	JJ	important.a	Importance	407	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+so	RB	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+dance	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-matemática	X	FW	-	-	Field	True
-é	X	FW	-	-	-	False
-importante	X	FW	importante.a	Importance	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-dança	X	FW	-	-	-	False
-também	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+matemática	FW	-	-	-	Field	3772	True
+é	FW	-	-	-	-	-	False
+importante	FW	importante.a	Importance	407	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+dança	FW	-	-	-	-	-	False
+também	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

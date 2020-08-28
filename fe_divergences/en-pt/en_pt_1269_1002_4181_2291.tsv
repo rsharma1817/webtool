@@ -1,50 +1,50 @@
-We	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-careful	ADJ	JJ	-	-	-	False
-now	ADV	RB	-	-	-	False
-that	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	Agent	True
-use	VERB	VBP	use.v	Using	-	False
-this	DET	DT	-	-	Instrument	True
-gift	NOUN	NN	-	-	Instrument	True
-wisely	ADV	RB	-	-	Manner	False
-and	CCONJ	CC	-	-	-	False
-that	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-avert	VERB	VBP	-	-	-	False
-some	DET	DT	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-scenarios	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-talked	VERB	VBN	-	-	-	False
-about	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+careful	JJ	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+we	PRP	-	-	-	Agent	6574	True
+use	VBP	use.v	Using	1141	-	-	False
+this	DT	-	-	-	Instrument	6580	True
+gift	NN	-	-	-	Instrument	6580	True
+wisely	RB	-	-	-	Manner	6579	False
+and	CC	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+avert	VBP	-	-	-	-	-	False
+some	DT	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+scenarios	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+talked	VBN	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Temos	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ser	X	FW	-	-	-	False
-cuidadosos	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-usar	X	FW	usar.v	Using	-	False
-essa	X	FW	-	-	-	False
-dádiva	X	FW	-	-	Instrument	True
-com	X	FW	-	-	-	False
-sabedoria	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-de	X	FW	-	-	-	False
-modo	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-evitar	X	FW	-	-	Purpose	True
-alguns	X	FW	-	-	Purpose	True
-dos	X	FW	-	-	Purpose	True
-cenários	X	FW	-	-	Purpose	True
-que	X	FW	-	-	Purpose	True
-falamos	X	FW	-	-	Purpose	True
-a	X	FW	-	-	Purpose	True
-respeito	X	FW	-	-	Purpose	True
-.	PUNCT	.	-	-	-	False
+Temos	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ser	FW	-	-	-	-	-	False
+cuidadosos	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+usar	FW	usar.v	Using	1141	-	-	False
+essa	FW	-	-	-	-	-	False
+dádiva	FW	-	-	-	Instrument	6580	True
+com	FW	-	-	-	-	-	False
+sabedoria	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+modo	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+evitar	FW	-	-	-	Purpose	6576	True
+alguns	FW	-	-	-	Purpose	6576	True
+dos	FW	-	-	-	Purpose	6576	True
+cenários	FW	-	-	-	Purpose	6576	True
+que	FW	-	-	-	Purpose	6576	True
+falamos	FW	-	-	-	Purpose	6576	True
+a	FW	-	-	-	Purpose	6576	True
+respeito	FW	-	-	-	Purpose	6576	True
+.	.	-	-	-	-	-	False

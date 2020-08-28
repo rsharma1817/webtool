@@ -1,72 +1,72 @@
-But	CCONJ	CC	-	-	-	False
-now	ADV	RB	-	-	-	False
-kids	NOUN	NNS	-	-	-	False
-with	ADP	IN	-	-	-	False
-degrees	NOUN	NNS	-	-	-	False
-are	VERB	VBP	-	-	-	False
-often	ADV	RB	-	-	-	False
-heading	VERB	VBG	-	-	-	False
-home	ADV	RB	-	-	-	False
-to	PART	TO	-	-	-	False
-carry	VERB	VB	-	-	-	False
-on	ADP	RP	-	-	-	False
-playing	VERB	VBG	play.v	Competition	-	False
-video	NOUN	NN	-	-	Competition	True
-games	NOUN	NNS	-	-	Competition	True
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-an	DET	DT	-	-	-	False
-MA	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-the	DET	DT	-	-	-	False
-previous	ADJ	JJ	-	-	-	False
-job	NOUN	NN	-	-	-	False
-required	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-BA	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-now	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-PhD	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-other	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+kids	NNS	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+degrees	NNS	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+often	RB	-	-	-	-	-	False
+heading	VBG	-	-	-	-	-	False
+home	RB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+carry	VB	-	-	-	-	-	False
+on	RP	-	-	-	-	-	False
+playing	VBG	play.v	Competition	241	-	-	False
+video	NN	-	-	-	Competition	2131	True
+games	NNS	-	-	-	Competition	2131	True
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+MA	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+previous	JJ	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+required	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+BA	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+PhD	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+other	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	-	False
-agora	X	FW	-	-	-	False
-garotos	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-diplomas	X	FW	-	-	-	False
-estão	X	FW	-	-	-	False
-voltando	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-casa	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-jogar	X	FW	jogar.v	Competition	-	False
-video	X	FW	-	-	Competition	True
-game	X	FW	-	-	Competition	True
-porque	X	FW	-	-	-	False
-pedem	X	FW	-	-	-	False
-mestrado	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-trabalho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-necessitava	X	FW	-	-	-	False
-bacharelado	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-doutorado	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-trabalho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-necessitava	X	FW	-	-	-	False
-mestrado	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	-	-	False
+agora	FW	-	-	-	-	-	False
+garotos	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+diplomas	FW	-	-	-	-	-	False
+estão	FW	-	-	-	-	-	False
+voltando	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+casa	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+jogar	FW	jogar.v	Competition	241	-	-	False
+video	FW	-	-	-	Competition	2131	True
+game	FW	-	-	-	Competition	2131	True
+porque	FW	-	-	-	-	-	False
+pedem	FW	-	-	-	-	-	False
+mestrado	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+trabalho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+necessitava	FW	-	-	-	-	-	False
+bacharelado	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+doutorado	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+trabalho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+necessitava	FW	-	-	-	-	-	False
+mestrado	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,31 +1,31 @@
-'	PUNCT	''	-	-	-	False
-My	PRON	PRP$	-	-	Salient_event	False
-one	NUM	CD	-	-	Salient_event	False
-night	NOUN	NN	-	-	Salient_event	False
-out	ADV	RP	-	-	Salient_event	False
-all	DET	DT	-	-	-	False
-week	NOUN	NN	week.n	Calendric_unit	Unit	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+My	PRP$	-	-	-	Salient_event	11700	False
+one	CD	-	-	-	Salient_event	11700	False
+night	NN	-	-	-	Salient_event	11700	False
+out	RP	-	-	-	Salient_event	11700	False
+all	DT	-	-	-	-	-	False
+week	NN	week.n	Calendric_unit	229	Unit	10331	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Elas	X	NNP	-	-	-	False
-pensam	X	NN	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ai	PROPN	FW	-	-	-	False
-meu	PROPN	FW	-	-	-	False
-Deus	PROPN	NNP	-	-	-	False
-!	PUNCT	,	-	-	-	False
-Por	PROPN	FW	-	-	-	False
-que	PROPN	FW	-	-	-	False
-eu	PROPN	FW	-	-	-	False
-?	PUNCT	,	-	-	-	False
-Logo	X	FW	-	-	-	False
-hoje	X	FW	hoje.n	Calendric_unit	-	False
-que	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-saí	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-casa	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Elas	NNP	-	-	-	-	-	False
+pensam	NN	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ai	FW	-	-	-	-	-	False
+meu	FW	-	-	-	-	-	False
+Deus	NNP	-	-	-	-	-	False
+!	,	-	-	-	-	-	False
+Por	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+?	,	-	-	-	-	-	False
+Logo	FW	-	-	-	-	-	False
+hoje	FW	hoje.n	Calendric_unit	229	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+saí	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+casa	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

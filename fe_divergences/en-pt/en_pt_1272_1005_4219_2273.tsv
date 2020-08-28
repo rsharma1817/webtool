@@ -1,29 +1,29 @@
-By	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-way	NOUN	NN	-	-	-	False
---	PUNCT	:	-	-	-	False
-we	PRON	PRP	-	-	Hypothetical_event	True
-may	AUX	MD	may.v	Likelihood	-	False
-not	ADV	RB	-	-	Hypothetical_event	True
-see	VERB	VB	-	-	Hypothetical_event	True
-this	DET	DT	-	-	Hypothetical_event	True
-future	NOUN	NN	-	-	Hypothetical_event	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-they	PRON	PRP	-	-	-	False
-will	AUX	MD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+By	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+we	PRP	-	-	-	Hypothetical_event	563	True
+may	MD	may.v	Likelihood	114	-	-	False
+not	RB	-	-	-	Hypothetical_event	563	True
+see	VB	-	-	-	Hypothetical_event	563	True
+this	DT	-	-	-	Hypothetical_event	563	True
+future	NN	-	-	-	Hypothetical_event	563	True
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-propósito	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-talvez	X	FW	talvez.adv	Likelihood	-	False
-não	X	FW	-	-	Hypothetical_event	True
-vejamos	X	FW	-	-	Hypothetical_event	True
-esse	X	FW	-	-	Hypothetical_event	True
-futuro	X	FW	-	-	Hypothetical_event	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-elas	X	FW	-	-	-	False
-verão	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+propósito	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+talvez	FW	talvez.adv	Likelihood	114	-	-	False
+não	FW	-	-	-	Hypothetical_event	563	True
+vejamos	FW	-	-	-	Hypothetical_event	563	True
+esse	FW	-	-	-	Hypothetical_event	563	True
+futuro	FW	-	-	-	Hypothetical_event	563	True
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+elas	FW	-	-	-	-	-	False
+verão	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

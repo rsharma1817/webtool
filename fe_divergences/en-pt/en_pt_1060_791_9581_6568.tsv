@@ -1,18 +1,18 @@
-When	ADV	WRB	when.adv	Temporal_collocation	-	False
-my	PRON	PRP$	-	-	Landmark_period	True
-son	NOUN	NN	-	-	Landmark_period	True
-was	VERB	VBD	-	-	Landmark_period	True
-four	NUM	CD	-	-	Landmark_period	True
-in	ADP	IN	-	-	Landmark_period	True
-England	PROPN	NNP	-	-	Landmark_period	True
---	PUNCT	:	-	-	-	False
+When	WRB	when.adv	Temporal_collocation	1895	-	-	False
+my	PRP$	-	-	-	Landmark_period	12063	True
+son	NN	-	-	-	Landmark_period	12063	True
+was	VBD	-	-	-	Landmark_period	12063	True
+four	CD	-	-	-	Landmark_period	12063	True
+in	IN	-	-	-	Landmark_period	12063	True
+England	NNP	-	-	-	Landmark_period	12063	True
+--	:	-	-	-	-	-	False
 
-Quando	X	NNP	quando.c	Temporal_collocation	-	False
-meu	X	FW	-	-	Landmark_period	True
-filho	X	FW	-	-	Landmark_period	True
-tinha	X	FW	-	-	Landmark_period	True
-quatro	X	FW	-	-	Landmark_period	True
-anos	X	FW	-	-	Landmark_period	True
-na	X	FW	-	-	Landmark_period	True
-Inglaterra	X	NNP	-	-	Landmark_period	True
-...	PUNCT	.	-	-	-	False
+Quando	NNP	quando.c	Temporal_collocation	1895	-	-	False
+meu	FW	-	-	-	Landmark_period	12063	True
+filho	FW	-	-	-	Landmark_period	12063	True
+tinha	FW	-	-	-	Landmark_period	12063	True
+quatro	FW	-	-	-	Landmark_period	12063	True
+anos	FW	-	-	-	Landmark_period	12063	True
+na	FW	-	-	-	Landmark_period	12063	True
+Inglaterra	NNP	-	-	-	Landmark_period	12063	True
+...	.	-	-	-	-	-	False

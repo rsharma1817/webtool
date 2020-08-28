@@ -1,24 +1,24 @@
-We	PRON	PRP	-	-	-	False
-walked	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-this	DET	DT	-	-	-	False
-room	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-it	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-full	ADJ	JJ	-	-	-	False
-of	ADP	IN	-	-	-	False
-people	NOUN	NNS	people.n	People	Person	True
-like	ADP	IN	-	-	-	False
-me	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+walked	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+room	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+full	JJ	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+people	NNS	people.n	People	304	Person	2618	True
+like	IN	-	-	-	-	-	False
+me	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Entramos	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-sala	X	FW	-	-	-	False
-cheia	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-pessoas	X	FW	pessoa.n	People	-	False
-como	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Entramos	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+sala	FW	-	-	-	-	-	False
+cheia	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+pessoas	FW	pessoa.n	People	304	-	-	False
+como	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

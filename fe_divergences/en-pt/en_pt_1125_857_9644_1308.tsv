@@ -1,48 +1,48 @@
-He	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-really	ADV	RB	-	-	-	False
-upset	ADJ	JJ	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-plane	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	-	False
-'ll	AUX	MD	-	-	Negated_proposition	True
-never	ADV	RB	never.adv	Negation	-	False
-find	VERB	VB	-	-	Negated_proposition	True
-another	DET	DT	-	-	Negated_proposition	True
-girl	NOUN	NN	-	-	Negated_proposition	True
-like	ADP	IN	-	-	Negated_proposition	True
-Sarah	PROPN	NNP	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+He	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+upset	JJ	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+plane	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'ll	MD	-	-	-	Negated_proposition	16210	True
+never	RB	never.adv	Negation	2860	-	-	False
+find	VB	-	-	-	Negated_proposition	16210	True
+another	DT	-	-	-	Negated_proposition	16210	True
+girl	NN	-	-	-	Negated_proposition	16210	True
+like	IN	-	-	-	Negated_proposition	16210	True
+Sarah	NNP	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Em	INTJ	UH	-	-	-	False
-todo	X	FW	-	-	-	False
-caso	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-chateado	X	FW	-	-	-	False
-no	X	FW	-	-	-	False
-avião	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Eu	X	FW	-	-	-	False
-nunca	X	FW	nunca.adv	Negation	-	False
-mais	X	FW	-	-	Negated_proposition	True
-vou	X	FW	-	-	Negated_proposition	True
-encontrar	X	FW	-	-	Negated_proposition	True
-uma	X	FW	-	-	Negated_proposition	True
-garota	X	FW	-	-	Negated_proposition	True
-como	X	FW	-	-	Negated_proposition	True
-a	DET	DT	-	-	Negated_proposition	True
-Sarah	PROPN	NNP	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Em	UH	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+caso	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+chateado	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+avião	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Eu	FW	-	-	-	-	-	False
+nunca	FW	nunca.adv	Negation	2860	-	-	False
+mais	FW	-	-	-	Negated_proposition	16210	True
+vou	FW	-	-	-	Negated_proposition	16210	True
+encontrar	FW	-	-	-	Negated_proposition	16210	True
+uma	FW	-	-	-	Negated_proposition	16210	True
+garota	FW	-	-	-	Negated_proposition	16210	True
+como	FW	-	-	-	Negated_proposition	16210	True
+a	DT	-	-	-	Negated_proposition	16210	True
+Sarah	NNP	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

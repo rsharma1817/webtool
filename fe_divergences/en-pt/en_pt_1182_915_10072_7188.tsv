@@ -1,57 +1,57 @@
-In	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-next	ADJ	JJ	-	-	-	False
-30	NUM	CD	-	-	-	False
-years	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-according	VERB	VBG	-	-	-	False
-to	ADP	IN	-	-	-	False
-UNESCO	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-more	ADJ	JJR	-	-	Agent	True
-people	NOUN	NNS	-	-	Agent	True
-worldwide	ADV	RB	-	-	Depictive	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-graduating	VERB	VBG	graduate.v	Activity_finish	-	False
-through	ADP	IN	-	-	Activity	True
-education	NOUN	NN	-	-	Activity	True
-than	ADP	IN	-	-	-	False
-since	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-beginning	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-history	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+next	JJ	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+years	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+according	VBG	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+UNESCO	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+more	JJR	-	-	-	Agent	2577	True
+people	NNS	-	-	-	Agent	2577	True
+worldwide	RB	-	-	-	Depictive	2228	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+graduating	VBG	graduate.v	Activity_finish	165	-	-	False
+through	IN	-	-	-	Activity	2578	True
+education	NN	-	-	-	Activity	2578	True
+than	IN	-	-	-	-	-	False
+since	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+beginning	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+history	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Nos	NOUN	NNP	-	-	-	False
-próximos	NOUN	NNS	-	-	-	False
-30	NUM	CD	-	-	-	False
-anos	NOUN	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-de	X	FW	-	-	-	False
-acordo	X	FW	-	-	-	False
-com	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-UNESCO	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mais	X	FW	-	-	Agent	True
-gente	X	FW	-	-	Agent	True
-ao	X	FW	-	-	Agent	True
-redor	X	FW	-	-	Agent	True
-do	X	VBP	-	-	Agent	True
-mundo	X	NNP	-	-	Agent	True
-irá	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-formar	X	FW	formar.v	Activity_finish	-	False
-através	X	FW	-	-	Means	False
-da	X	FW	-	-	Means	False
-educação	X	FW	-	-	Means	False
-do	X	VB	-	-	-	False
-que	X	FW	-	-	-	False
-desde	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-princípio	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-história	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Nos	NNP	-	-	-	-	-	False
+próximos	NNS	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+anos	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+acordo	FW	-	-	-	-	-	False
+com	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+UNESCO	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mais	FW	-	-	-	Agent	2577	True
+gente	FW	-	-	-	Agent	2577	True
+ao	FW	-	-	-	Agent	2577	True
+redor	FW	-	-	-	Agent	2577	True
+do	VBP	-	-	-	Agent	2577	True
+mundo	NNP	-	-	-	Agent	2577	True
+irá	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+formar	FW	formar.v	Activity_finish	165	-	-	False
+através	FW	-	-	-	Means	2580	False
+da	FW	-	-	-	Means	2580	False
+educação	FW	-	-	-	Means	2580	False
+do	VB	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+desde	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+princípio	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+história	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

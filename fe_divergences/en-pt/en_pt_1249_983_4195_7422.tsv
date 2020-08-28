@@ -1,18 +1,18 @@
-I	PRON	PRP	-	-	-	False
-ca	AUX	MD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-tell	VERB	VB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-how	ADV	WRB	-	-	Degree	False
-wonderful	ADJ	JJ	wonderful.a	Desirability	-	False
-it	PRON	PRP	-	-	Evaluee	True
-was	VERB	VBD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+ca	MD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+tell	VB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+how	WRB	-	-	-	Degree	3155	False
+wonderful	JJ	wonderful.a	Desirability	354	-	-	False
+it	PRP	-	-	-	Evaluee	3153	True
+was	VBD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Não	X	NNP	-	-	-	False
-consigo	X	FW	-	-	-	False
-descrever	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-maravilhoso	X	FW	maravilhoso.a	Desirability	-	False
-.	PUNCT	.	-	-	-	False
+Não	NNP	-	-	-	-	-	False
+consigo	FW	-	-	-	-	-	False
+descrever	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+maravilhoso	FW	maravilhoso.a	Desirability	354	-	-	False
+.	.	-	-	-	-	-	False

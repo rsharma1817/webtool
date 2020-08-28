@@ -1,16 +1,16 @@
-And	CCONJ	CC	-	-	-	False
-then	ADV	RB	-	-	-	False
-we	PRON	PRP	-	-	-	False
-focus	VERB	VBP	-	-	-	False
-on	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	Possessor	True
-heads	NOUN	NNS	head.n	Body_parts	Body_part	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+then	RB	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+focus	VBP	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	Possessor	611	True
+heads	NNS	head.n	Body_parts	119	Body_part	692	True
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-depois	VERB	VBP	-	-	-	False
-nos	X	FW	-	-	-	False
-focamos	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-cabeça	X	FW	cabeça.n	Body_parts	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+depois	VBP	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+focamos	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+cabeça	FW	cabeça.n	Body_parts	119	-	-	False
+.	.	-	-	-	-	-	False

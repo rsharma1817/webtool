@@ -1,38 +1,38 @@
-Because	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-one	NUM	CD	-	-	-	False
-of	ADP	IN	-	-	-	False
-those	DET	DT	-	-	-	False
-things	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-goes	VERB	VBZ	-	-	-	False
-deep	ADV	RB	-	-	-	False
-with	ADP	IN	-	-	-	False
-people	NOUN	NNS	people.n	People	Person	True
-,	PUNCT	,	-	-	-	False
-am	VERB	VBP	-	-	-	False
-I	PRON	PRP	-	-	-	False
-right	ADJ	JJ	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Because	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+those	DT	-	-	-	-	-	False
+things	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+goes	VBZ	-	-	-	-	-	False
+deep	RB	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+people	NNS	people.n	People	304	Person	2618	True
+,	,	-	-	-	-	-	False
+am	VBP	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+right	JJ	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Porque	NOUN	NNP	-	-	-	False
-é	NOUN	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-dessas	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-arraigadas	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-pessoas	X	FW	pessoa.n	People	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-certo	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-Como	X	NNP	-	-	-	False
-religião	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dinheiro	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-outras	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Porque	NNP	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+dessas	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+arraigadas	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+pessoas	FW	pessoa.n	People	304	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+certo	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+Como	NNP	-	-	-	-	-	False
+religião	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dinheiro	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+outras	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

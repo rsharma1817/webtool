@@ -1,41 +1,41 @@
-Following	VERB	VBG	-	-	-	False
-off	ADP	RP	-	-	-	False
-from	ADP	IN	-	-	-	False
-Helen	PROPN	NNP	-	-	-	False
-yesterday	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-this	DET	DT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-probably	ADV	RB	-	-	-	False
-why	ADV	WRB	-	-	-	False
-women	NOUN	NNS	woman.n	People	Person	True
-are	VERB	VBP	-	-	-	False
-better	ADJ	JJR	-	-	-	False
-at	ADP	IN	-	-	-	False
-multi-tasking	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Following	VBG	-	-	-	-	-	False
+off	RP	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+Helen	NNP	-	-	-	-	-	False
+yesterday	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+probably	RB	-	-	-	-	-	False
+why	WRB	-	-	-	-	-	False
+women	NNS	woman.n	People	304	Person	2618	True
+are	VBP	-	-	-	-	-	False
+better	JJR	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+multi-tasking	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Completando	X	NN	-	-	-	False
-o	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-Helen	X	NNP	-	-	-	False
-falou	X	NN	-	-	-	False
-ontem	X	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-esta	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-razão	X	FW	-	-	-	False
-pela	X	FW	-	-	-	False
-qual	X	FW	-	-	-	False
-as	ADP	FW	-	-	-	False
-mulheres	X	FW	mulher.n	People	-	False
-são	X	FW	-	-	-	False
-melhores	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-multitarefa	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Completando	NN	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+Helen	NNP	-	-	-	-	-	False
+falou	NN	-	-	-	-	-	False
+ontem	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+esta	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+razão	FW	-	-	-	-	-	False
+pela	FW	-	-	-	-	-	False
+qual	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+mulheres	FW	mulher.n	People	304	-	-	False
+são	FW	-	-	-	-	-	False
+melhores	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+multitarefa	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

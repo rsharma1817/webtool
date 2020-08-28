@@ -1,16 +1,16 @@
-They	PRON	PRP	-	-	Experiencer	True
-'re	VERB	VBP	-	-	-	False
-not	ADV	RB	-	-	-	False
-frightened	ADJ	JJ	frightened.a	Fear	-	False
-of	ADP	IN	-	-	Stimulus	True
-being	VERB	VBG	-	-	Stimulus	True
-wrong	ADJ	JJ	-	-	Stimulus	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	Experiencer	12524	True
+'re	VBP	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+frightened	JJ	frightened.a	Fear	2052	-	-	False
+of	IN	-	-	-	Stimulus	12526	True
+being	VBG	-	-	-	Stimulus	12526	True
+wrong	JJ	-	-	-	Stimulus	12526	True
+.	.	-	-	-	-	-	False
 
-Elas	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-tem	X	FW	-	-	-	False
-medo	X	FW	medo.n	Fear	-	False
-de	X	FW	-	-	Stimulus	True
-errar	X	FW	-	-	Stimulus	True
-.	PUNCT	.	-	-	-	False
+Elas	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+tem	FW	-	-	-	-	-	False
+medo	FW	medo.n	Fear	2052	-	-	False
+de	FW	-	-	-	Stimulus	12526	True
+errar	FW	-	-	-	Stimulus	12526	True
+.	.	-	-	-	-	-	False

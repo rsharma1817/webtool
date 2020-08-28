@@ -1,24 +1,24 @@
-And	CCONJ	CC	-	-	-	False
-our	PRON	PRP$	-	-	Helper	True
-job	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	-	False
-help	VERB	VB	help.v	Assistance	-	False
-them	PRON	PRP	-	-	Benefited_party	True
-make	VERB	VB	-	-	Goal	True
-something	NOUN	NN	-	-	Goal	True
-of	ADP	IN	-	-	Goal	True
-it	PRON	PRP	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+our	PRP$	-	-	-	Helper	3500	True
+job	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+help	VB	help.v	Assistance	391	-	-	False
+them	PRP	-	-	-	Benefited_party	3499	True
+make	VB	-	-	-	Goal	3501	True
+something	NN	-	-	-	Goal	3501	True
+of	IN	-	-	-	Goal	3501	True
+it	PRP	-	-	-	Goal	3501	True
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-o	NOUN	UH	-	-	Helper	True
-nosso	X	FW	-	-	Helper	True
-trabalho	X	FW	-	-	Helper	True
-é	X	FW	-	-	-	False
-ajudá-las	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-tirar	X	FW	-	-	-	False
-proveito	X	FW	-	-	-	False
-dele	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+o	UH	-	-	-	Helper	3500	True
+nosso	FW	-	-	-	Helper	3500	True
+trabalho	FW	-	-	-	Helper	3500	True
+é	FW	-	-	-	-	-	False
+ajudá-las	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+tirar	FW	-	-	-	-	-	False
+proveito	FW	-	-	-	-	-	False
+dele	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

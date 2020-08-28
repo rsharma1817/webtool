@@ -1,44 +1,44 @@
-Anyway	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-moved	VERB	VBD	-	-	-	False
-from	ADP	IN	-	-	-	False
-Stratford	PROPN	NNP	-	-	-	False
-to	ADP	IN	-	-	-	False
-Los	PROPN	NNP	-	-	-	False
-Angeles	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Speaker	True
-just	ADV	RB	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-say	VERB	VB	say.v	Statement	-	False
-a	DET	DT	-	-	Message	True
-word	NOUN	NN	-	-	Message	True
-about	ADP	IN	-	-	Topic	True
-the	DET	DT	-	-	Topic	True
-transition	NOUN	NN	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Anyway	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+moved	VBD	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+Stratford	NNP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Los	NNP	-	-	-	-	-	False
+Angeles	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Speaker	183	True
+just	RB	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+say	VB	say.v	Statement	43	-	-	False
+a	DT	-	-	-	Message	185	True
+word	NN	-	-	-	Message	185	True
+about	IN	-	-	-	Topic	186	True
+the	DT	-	-	-	Topic	186	True
+transition	NN	-	-	-	Topic	186	True
+.	.	-	-	-	-	-	False
 
-Enfim	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nos	X	FW	-	-	-	False
-mudamos	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Stratford	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-Los	PROPN	NNP	-	-	-	False
-Angeles	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-eu	INTJ	FW	-	-	Speaker	True
-só	ADV	FW	-	-	-	False
-quero	X	FW	-	-	-	False
-dizer	X	FW	dizer.v	Statement	-	False
-uma	X	FW	-	-	Message	True
-coisa	X	FW	-	-	Message	True
-sobre	X	FW	-	-	Topic	True
-essa	X	FW	-	-	Topic	True
-transição	X	FW	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Enfim	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+mudamos	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Stratford	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+Los	NNP	-	-	-	-	-	False
+Angeles	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Speaker	183	True
+só	FW	-	-	-	-	-	False
+quero	FW	-	-	-	-	-	False
+dizer	FW	dizer.v	Statement	43	-	-	False
+uma	FW	-	-	-	Message	185	True
+coisa	FW	-	-	-	Message	185	True
+sobre	FW	-	-	-	Topic	186	True
+essa	FW	-	-	-	Topic	186	True
+transição	FW	-	-	-	Topic	186	True
+.	.	-	-	-	-	-	False

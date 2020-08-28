@@ -1,36 +1,36 @@
-if	ADP	IN	if.scon	Conditional_occurrence	-	False
-she	PRON	PRP	-	-	Profiled_possibility	True
-comes	VERB	VBZ	-	-	Profiled_possibility	True
-in	ADV	RP	-	-	Profiled_possibility	True
-I	PRON	PRP	-	-	Consequence	True
-get	VERB	VBP	-	-	Consequence	True
-annoyed	ADJ	JJ	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+if	IN	if.scon	Conditional_occurrence	2903	-	-	False
+she	PRP	-	-	-	Profiled_possibility	16290	True
+comes	VBZ	-	-	-	Profiled_possibility	16290	True
+in	RP	-	-	-	Profiled_possibility	16290	True
+I	PRP	-	-	-	Consequence	16292	True
+get	VBP	-	-	-	Consequence	16292	True
+annoyed	JJ	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-eu	X	FW	-	-	-	False
-cozinho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-porta	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-fechada	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	-	-	-	False
-saíram	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	X	FW	-	-	-	False
-telefone	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-fora	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-gancho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	se.c	Conditional_occurrence	-	False
-ela	X	FW	-	-	Profiled_possibility	True
-aparece	X	FW	-	-	Profiled_possibility	True
-eu	X	FW	-	-	Consequence	True
-me	X	FW	-	-	Consequence	True
-irrito	X	FW	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+cozinho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+porta	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+fechada	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+saíram	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+telefone	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+fora	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+gancho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	se.c	Conditional_occurrence	2903	-	-	False
+ela	FW	-	-	-	Profiled_possibility	16290	True
+aparece	FW	-	-	-	Profiled_possibility	16290	True
+eu	FW	-	-	-	Consequence	16292	True
+me	FW	-	-	-	Consequence	16292	True
+irrito	FW	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

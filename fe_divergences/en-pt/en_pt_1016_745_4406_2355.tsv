@@ -1,48 +1,48 @@
-The	DET	DT	-	-	-	False
-second	ADJ	JJ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-put	VERB	VBN	-	-	-	False
-us	PRON	PRP	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-place	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-we	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-no	DET	DT	-	-	-	False
-idea	NOUN	NN	-	-	-	False
-what	PRON	WP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-going	VERB	VBG	-	-	-	False
-to	PART	TO	-	-	-	False
-happen	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	-	-	-	False
-terms	NOUN	NNS	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-future	NOUN	NN	future.n	Temporal_collocation	Trajector_period	True
-.	PUNCT	.	-	-	-	False
+The	DT	-	-	-	-	-	False
+second	JJ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+put	VBN	-	-	-	-	-	False
+us	PRP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+place	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+no	DT	-	-	-	-	-	False
+idea	NN	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+going	VBG	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+happen	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+terms	NNS	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+future	NN	future.n	Temporal_collocation	1895	Trajector_period	12062	True
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-segundo	X	NN	-	-	-	False
-é	X	NN	-	-	-	False
-o	X	UH	-	-	-	False
-fato	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-fazemos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-menor	X	FW	-	-	-	False
-idéia	X	FW	-	-	-	False
-do	X	VBP	-	-	-	False
-que	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-acontecer	X	FW	-	-	-	False
-no	DET	DT	-	-	-	False
-futuro	NOUN	NN	futuro.n	Temporal_collocation	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+segundo	NN	-	-	-	-	-	False
+é	NN	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+fato	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+fazemos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+menor	FW	-	-	-	-	-	False
+idéia	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+acontecer	FW	-	-	-	-	-	False
+no	DT	-	-	-	-	-	False
+futuro	NN	futuro.n	Temporal_collocation	1895	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,19 +1,19 @@
-So	ADV	RB	so.c	Causation	-	False
-the	DET	DT	-	-	Effect	False
-hierarchy	NOUN	NN	-	-	Effect	False
-is	VERB	VBZ	-	-	Effect	False
-rooted	VERB	VBN	-	-	Effect	False
-on	ADP	IN	-	-	Effect	False
-two	NUM	CD	-	-	Effect	False
-ideas	NOUN	NNS	-	-	Effect	False
-.	PUNCT	.	-	-	-	False
+So	RB	so.c	Causation	5	-	-	False
+the	DT	-	-	-	Effect	20	False
+hierarchy	NN	-	-	-	Effect	20	False
+is	VBZ	-	-	-	Effect	20	False
+rooted	VBN	-	-	-	Effect	20	False
+on	IN	-	-	-	Effect	20	False
+two	CD	-	-	-	Effect	20	False
+ideas	NNS	-	-	-	Effect	20	False
+.	.	-	-	-	-	-	False
 
-Então	PROPN	FW	então.c	Causation	-	False
-a	DET	FW	-	-	Effect	False
-hierarquia	X	FW	-	-	Effect	False
-está	X	FW	-	-	Effect	False
-apoiada	X	FW	-	-	Effect	False
-em	X	FW	-	-	Effect	False
-duas	X	FW	-	-	Effect	False
-idéias	X	FW	-	-	Effect	False
-.	PUNCT	.	-	-	-	False
+Então	FW	então.c	Causation	5	-	-	False
+a	FW	-	-	-	Effect	20	False
+hierarquia	FW	-	-	-	Effect	20	False
+está	FW	-	-	-	Effect	20	False
+apoiada	FW	-	-	-	Effect	20	False
+em	FW	-	-	-	Effect	20	False
+duas	FW	-	-	-	Effect	20	False
+idéias	FW	-	-	-	Effect	20	False
+.	.	-	-	-	-	-	False

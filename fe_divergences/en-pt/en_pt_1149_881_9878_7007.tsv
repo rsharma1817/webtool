@@ -1,99 +1,99 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-'d	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-conclude	VERB	VB	conclude.v	Coming_to_believe	-	False
-,	PUNCT	,	-	-	-	False
-if	ADP	IN	-	-	Depictive	False
-you	PRON	PRP	-	-	Depictive	False
-look	VERB	VBP	-	-	Depictive	False
-at	ADP	IN	-	-	Depictive	False
-the	DET	DT	-	-	Depictive	False
-output	NOUN	NN	-	-	Depictive	False
-,	PUNCT	,	-	-	Depictive	False
-who	PRON	WP	-	-	Depictive	False
-really	ADV	RB	-	-	Depictive	False
-succeeds	VERB	VBZ	-	-	Depictive	False
-by	ADP	IN	-	-	Depictive	False
-this	DET	DT	-	-	Depictive	False
-,	PUNCT	,	-	-	Depictive	False
-who	PRON	WP	-	-	Depictive	False
-does	VERB	VBZ	-	-	Depictive	False
-everything	NOUN	NN	-	-	Depictive	False
-that	PRON	WDT	-	-	Depictive	False
-they	PRON	PRP	-	-	Depictive	False
-should	AUX	MD	-	-	Depictive	False
-,	PUNCT	,	-	-	Depictive	False
-who	PRON	WP	-	-	Depictive	False
-gets	VERB	VBZ	-	-	Depictive	False
-all	DET	PDT	-	-	Depictive	False
-the	DET	DT	-	-	Depictive	False
-brownie	NOUN	NN	-	-	Depictive	False
-points	NOUN	NNS	-	-	Depictive	False
-,	PUNCT	,	-	-	Depictive	False
-who	PRON	WP	-	-	Depictive	False
-are	VERB	VBP	-	-	Depictive	False
-the	DET	DT	-	-	Depictive	False
-winners	NOUN	NNS	-	-	Depictive	False
---	PUNCT	:	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	98	True
+'d	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+conclude	VB	conclude.v	Coming_to_believe	23	-	-	False
+,	,	-	-	-	-	-	False
+if	IN	-	-	-	Depictive	989	False
+you	PRP	-	-	-	Depictive	989	False
+look	VBP	-	-	-	Depictive	989	False
+at	IN	-	-	-	Depictive	989	False
+the	DT	-	-	-	Depictive	989	False
+output	NN	-	-	-	Depictive	989	False
+,	,	-	-	-	Depictive	989	False
+who	WP	-	-	-	Depictive	989	False
+really	RB	-	-	-	Depictive	989	False
+succeeds	VBZ	-	-	-	Depictive	989	False
+by	IN	-	-	-	Depictive	989	False
+this	DT	-	-	-	Depictive	989	False
+,	,	-	-	-	Depictive	989	False
+who	WP	-	-	-	Depictive	989	False
+does	VBZ	-	-	-	Depictive	989	False
+everything	NN	-	-	-	Depictive	989	False
+that	WDT	-	-	-	Depictive	989	False
+they	PRP	-	-	-	Depictive	989	False
+should	MD	-	-	-	Depictive	989	False
+,	,	-	-	-	Depictive	989	False
+who	WP	-	-	-	Depictive	989	False
+gets	VBZ	-	-	-	Depictive	989	False
+all	PDT	-	-	-	Depictive	989	False
+the	DT	-	-	-	Depictive	989	False
+brownie	NN	-	-	-	Depictive	989	False
+points	NNS	-	-	-	Depictive	989	False
+,	,	-	-	-	Depictive	989	False
+who	WP	-	-	-	Depictive	989	False
+are	VBP	-	-	-	Depictive	989	False
+the	DT	-	-	-	Depictive	989	False
+winners	NNS	-	-	-	Depictive	989	False
+--	:	-	-	-	-	-	False
 
-Eu	INTJ	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	-	-	-	False
-obrigatória	X	FW	-	-	-	False
-seria	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-olhando	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-resultado	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-quem	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-bem	X	FW	-	-	-	False
-sucedido	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-faz	X	FW	-	-	-	False
-tudo	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-deve	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-ganha	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-estrelinhas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-vencedores	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	conclusão.n	Coming_to_believe	-	False
-seria	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	Content	True
-objetivo	X	FW	-	-	Content	True
-da	X	FW	-	-	Content	True
-educação	X	FW	-	-	Content	True
-pública	X	FW	-	-	Content	True
-ao	X	FW	-	-	Content	True
-redor	X	FW	-	-	Content	True
-do	X	FW	-	-	Content	True
-mundo	X	FW	-	-	Content	True
-é	X	FW	-	-	Content	True
-produzir	X	FW	-	-	Content	True
-professores	X	FW	-	-	Content	True
-universitários	X	FW	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	-	-	-	-	-	False
+obrigatória	FW	-	-	-	-	-	False
+seria	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+olhando	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+resultado	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+sucedido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+faz	FW	-	-	-	-	-	False
+tudo	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+deve	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+ganha	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+estrelinhas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+vencedores	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	conclusão.n	Coming_to_believe	23	-	-	False
+seria	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	Content	100	True
+objetivo	FW	-	-	-	Content	100	True
+da	FW	-	-	-	Content	100	True
+educação	FW	-	-	-	Content	100	True
+pública	FW	-	-	-	Content	100	True
+ao	FW	-	-	-	Content	100	True
+redor	FW	-	-	-	Content	100	True
+do	FW	-	-	-	Content	100	True
+mundo	FW	-	-	-	Content	100	True
+é	FW	-	-	-	Content	100	True
+produzir	FW	-	-	-	Content	100	True
+professores	FW	-	-	-	Content	100	True
+universitários	FW	-	-	-	Content	100	True
+.	.	-	-	-	-	-	False

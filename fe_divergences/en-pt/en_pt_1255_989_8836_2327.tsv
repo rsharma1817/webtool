@@ -1,50 +1,50 @@
-She	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-eventually	ADV	RB	-	-	-	False
-auditioned	VERB	VBN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-School	PROPN	NNP	-	-	-	False
-;	PUNCT	:	-	-	-	False
-she	PRON	PRP	-	-	-	False
-became	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-soloist	NOUN	NN	-	-	-	False
-;	PUNCT	:	-	-	-	False
-she	PRON	PRP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-wonderful	ADJ	JJ	wonderful.a	Desirability	-	False
-career	NOUN	NN	-	-	Evaluee	True
-at	ADP	IN	-	-	Evaluee	True
-the	DET	DT	-	-	Evaluee	True
-Royal	PROPN	NNP	-	-	Evaluee	True
-Ballet	PROPN	NNP	-	-	Evaluee	True
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+eventually	RB	-	-	-	-	-	False
+auditioned	VBN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+School	NNP	-	-	-	-	-	False
+;	:	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+became	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+soloist	NN	-	-	-	-	-	False
+;	:	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+wonderful	JJ	wonderful.a	Desirability	354	-	-	False
+career	NN	-	-	-	Evaluee	3153	True
+at	IN	-	-	-	Evaluee	3153	True
+the	DT	-	-	-	Evaluee	3153	True
+Royal	NNP	-	-	-	Evaluee	3153	True
+Ballet	NNP	-	-	-	Evaluee	3153	True
+.	.	-	-	-	-	-	False
 
-Ela	X	FW	-	-	-	False
-eventualmente	X	FW	-	-	-	False
-fez	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-teste	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-a	DET	DT	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-School	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	-	-	-	False
-tornou	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-solista	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-teve	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-carreira	X	FW	-	-	Evaluee	True
-fantástica	X	FW	fantástico.a	Desirability	-	False
-na	X	FW	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ela	FW	-	-	-	-	-	False
+eventualmente	FW	-	-	-	-	-	False
+fez	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+teste	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+School	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+tornou	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+solista	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+teve	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+carreira	FW	-	-	-	Evaluee	3153	True
+fantástica	FW	fantástico.a	Desirability	354	-	-	False
+na	FW	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

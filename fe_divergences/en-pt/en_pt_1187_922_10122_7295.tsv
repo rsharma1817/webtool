@@ -1,29 +1,29 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-have	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-job	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-because	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	Experiencer	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-want	VERB	VB	want.v	Desiring	-	False
-one	NUM	CD	-	-	Focal_participant	True
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+you	PRP	-	-	-	Experiencer	3361	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+want	VB	want.v	Desiring	366	-	-	False
+one	CD	-	-	-	Focal_participant	3366	True
+.	.	-	-	-	-	-	False
 
-Quem	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-emprego	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-era	X	NN	-	-	-	False
-porque	X	NN	-	-	-	False
-não	X	FW	-	-	-	False
-queria	X	FW	querer.v	Desiring	-	False
-.	PUNCT	.	-	-	-	False
+Quem	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+emprego	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+era	NN	-	-	-	-	-	False
+porque	NN	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+queria	FW	querer.v	Desiring	366	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,31 +1,31 @@
-Number	NOUN	NN	-	-	-	False
-one	NUM	CD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-that	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-most	ADV	RBS	-	-	Degree	False
-useful	ADJ	JJ	useful.a	Usefulness	-	False
-subjects	NOUN	NNS	-	-	Entity	True
-for	ADP	IN	-	-	Purpose	True
-work	NOUN	NN	-	-	Purpose	True
-are	VERB	VBP	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-top	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Number	NN	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+most	RBS	-	-	-	Degree	4785	False
+useful	JJ	useful.a	Usefulness	726	-	-	False
+subjects	NNS	-	-	-	Entity	4783	True
+for	IN	-	-	-	Purpose	4784	True
+work	NN	-	-	-	Purpose	4784	True
+are	VBP	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+top	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-primeira	NOUN	FW	-	-	-	False
-é	NOUN	FW	-	-	-	False
-que	VERB	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-disciplinas	X	FW	-	-	Entity	True
-mais	X	FW	-	-	-	False
-úteis	X	FW	útil.a	Usefulness	-	False
-para	X	FW	-	-	Purpose	True
-o	X	FW	-	-	Purpose	True
-trabalho	X	FW	-	-	Purpose	True
-estão	X	FW	-	-	Purpose	True
-no	DET	DT	-	-	Purpose	True
-topo	NOUN	NN	-	-	Purpose	True
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+primeira	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+disciplinas	FW	-	-	-	Entity	4783	True
+mais	FW	-	-	-	-	-	False
+úteis	FW	útil.a	Usefulness	726	-	-	False
+para	FW	-	-	-	Purpose	4784	True
+o	FW	-	-	-	Purpose	4784	True
+trabalho	FW	-	-	-	Purpose	4784	True
+estão	FW	-	-	-	Purpose	4784	True
+no	DT	-	-	-	Purpose	4784	True
+topo	NN	-	-	-	Purpose	4784	True
+.	.	-	-	-	-	-	False

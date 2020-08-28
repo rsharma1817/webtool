@@ -1,24 +1,24 @@
-We	PRON	PRP	-	-	-	False
-walked	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-this	DET	DT	-	-	-	False
-room	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-it	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-full	ADJ	JJ	-	-	-	False
-of	ADP	IN	-	-	-	False
-people	NOUN	NNS	-	-	Entity_1	True
-like	ADP	IN	like.prep	Similarity	-	False
-me	PRON	PRP	-	-	Entity_2	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+walked	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+room	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+full	JJ	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+people	NNS	-	-	-	Entity_1	4027	True
+like	IN	like.prep	Similarity	481	-	-	False
+me	PRP	-	-	-	Entity_2	4028	True
+.	.	-	-	-	-	-	False
 
-Entramos	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-sala	X	FW	-	-	-	False
-cheia	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-pessoas	X	FW	-	-	Entity_1	True
-como	X	FW	como.c	Similarity	-	False
-eu	X	FW	-	-	Entity_2	True
-.	PUNCT	.	-	-	-	False
+Entramos	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+sala	FW	-	-	-	-	-	False
+cheia	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	Entity_1	4027	True
+como	FW	como.c	Similarity	481	-	-	False
+eu	FW	-	-	-	Entity_2	4028	True
+.	.	-	-	-	-	-	False

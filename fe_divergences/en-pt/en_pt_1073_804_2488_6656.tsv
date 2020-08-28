@@ -1,25 +1,25 @@
-They	PRON	PRP	-	-	Agent	True
-come	VERB	VBP	-	-	-	False
-in	ADP	RP	-	-	-	False
-bearing	VERB	VBG	bear.v	Bringing	-	False
-gifts	NOUN	NNS	-	-	Theme	True
-,	PUNCT	,	-	-	Theme	True
-gold	NOUN	NN	-	-	Theme	True
-,	PUNCT	,	-	-	Theme	True
-frankincense	NOUN	NN	-	-	Theme	True
-and	CCONJ	CC	-	-	Theme	True
-myrrh	NOUN	NN	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	Agent	2117	True
+come	VBP	-	-	-	-	-	False
+in	RP	-	-	-	-	-	False
+bearing	VBG	bear.v	Bringing	240	-	-	False
+gifts	NNS	-	-	-	Theme	2121	True
+,	,	-	-	-	Theme	2121	True
+gold	NN	-	-	-	Theme	2121	True
+,	,	-	-	-	Theme	2121	True
+frankincense	NN	-	-	-	Theme	2121	True
+and	CC	-	-	-	Theme	2121	True
+myrrh	NN	-	-	-	Theme	2121	True
+.	.	-	-	-	-	-	False
 
-Eles	PROPN	NNP	-	-	Agent	True
-carregam	PROPN	NNP	carregar.v	Bringing	-	False
-presentes	NOUN	VBZ	-	-	Theme	True
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-trazem	X	FW	-	-	-	False
-ouro	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-incenso	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-mirra	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eles	NNP	-	-	-	Agent	2117	True
+carregam	NNP	carregar.v	Bringing	240	-	-	False
+presentes	VBZ	-	-	-	Theme	2121	True
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+trazem	FW	-	-	-	-	-	False
+ouro	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+incenso	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+mirra	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

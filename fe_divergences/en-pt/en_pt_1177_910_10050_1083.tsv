@@ -1,18 +1,18 @@
-The	DET	DT	-	-	-	False
-whole	ADJ	JJ	whole.a	Ranked_expectation	-	False
-world	NOUN	NN	-	-	Entity	True
-is	VERB	VBZ	-	-	-	False
-engulfed	VERB	VBN	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-revolution	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+The	DT	-	-	-	-	-	False
+whole	JJ	whole.a	Ranked_expectation	1533	-	-	False
+world	NN	-	-	-	Entity	8353	True
+is	VBZ	-	-	-	-	-	False
+engulfed	VBN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+revolution	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	Entity	True
-mundo	X	FW	-	-	Entity	True
-inteiro	X	FW	inteiro.a	Ranked_expectation	-	False
-está	X	FW	-	-	-	False
-envolto	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-revolução	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	Entity	8353	True
+mundo	FW	-	-	-	Entity	8353	True
+inteiro	FW	inteiro.a	Ranked_expectation	1533	-	-	False
+está	FW	-	-	-	-	-	False
+envolto	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+revolução	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,30 +1,30 @@
-What	PRON	WP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-there	ADV	EX	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-person	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-dedication	NOUN	NN	-	-	-	False
-who	PRON	WP	-	-	-	False
-found	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-talent	NOUN	NN	talent.n	Capability	-	False
-.	PUNCT	.	-	-	-	False
+What	WP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+person	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+dedication	NN	-	-	-	-	-	False
+who	WP	-	-	-	-	-	False
+found	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+talent	NN	talent.n	Capability	990	-	-	False
+.	.	-	-	-	-	-	False
 
-Sie	X	NNP	-	-	-	False
-ist	X	NNP	-	-	-	False
-eine	X	NNP	-	-	-	False
-Person	X	NNP	-	-	-	False
-mit	X	FW	-	-	-	False
-außerordentlicher	X	FW	-	-	-	False
-Hingabe	PROPN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-ihr	NOUN	PRP$	-	-	-	False
-Talent	NOUN	NN	talent.n	Capability	-	False
-gefunden	ADJ	JJ	-	-	-	False
-hat	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+ist	NNP	-	-	-	-	-	False
+eine	NNP	-	-	-	-	-	False
+Person	NNP	-	-	-	-	-	False
+mit	FW	-	-	-	-	-	False
+außerordentlicher	FW	-	-	-	-	-	False
+Hingabe	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+ihr	PRP$	-	-	-	-	-	False
+Talent	NN	talent.n	Capability	990	-	-	False
+gefunden	JJ	-	-	-	-	-	False
+hat	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

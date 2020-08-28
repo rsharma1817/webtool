@@ -1,30 +1,30 @@
-But	CCONJ	CC	-	-	-	False
-James	PROPN	NNP	-	-	Performer	True
-got	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-part	NOUN	NN	part.n	Performers_and_roles	-	False
-of	ADP	IN	-	-	Role	True
-Joseph	PROPN	NNP	-	-	Role	True
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-thrilled	VERB	VBN	-	-	-	False
-about	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+James	NNP	-	-	-	Performer	3790	True
+got	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+part	NN	part.n	Performers_and_roles	413	-	-	False
+of	IN	-	-	-	Role	3796	True
+Joseph	NNP	-	-	-	Role	3796	True
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+thrilled	VBN	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Mas	X	UH	-	-	-	False
-o	X	UH	-	-	Performer	True
-James	X	NNP	-	-	Performer	True
-ganhou	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-papel	X	FW	papel.n	Performers_and_roles	-	False
-de	X	FW	-	-	Role	True
-José	PROPN	NNP	-	-	Role	True
-,	PUNCT	,	-	-	-	False
-o	INTJ	UH	-	-	-	False
-que	X	FW	-	-	-	False
-nos	X	FW	-	-	-	False
-deixou	X	FW	-	-	-	False
-empolgados	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Mas	UH	-	-	-	-	-	False
+o	UH	-	-	-	Performer	3790	True
+James	NNP	-	-	-	Performer	3790	True
+ganhou	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+papel	FW	papel.n	Performers_and_roles	413	-	-	False
+de	FW	-	-	-	Role	3796	True
+José	NNP	-	-	-	Role	3796	True
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+deixou	FW	-	-	-	-	-	False
+empolgados	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

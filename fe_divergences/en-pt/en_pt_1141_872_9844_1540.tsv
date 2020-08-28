@@ -1,24 +1,24 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	think.v	Opinion	-	False
-math	NOUN	NN	-	-	Opinion	True
-is	VERB	VBZ	-	-	Opinion	True
-very	ADV	RB	-	-	Opinion	True
-important	ADJ	JJ	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-but	CCONJ	CC	-	-	Opinion	True
-so	ADV	RB	-	-	Opinion	True
-is	VERB	VBZ	-	-	Opinion	True
-dance	NOUN	NN	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	think.v	Opinion	1412	-	-	False
+math	NN	-	-	-	Opinion	7870	True
+is	VBZ	-	-	-	Opinion	7870	True
+very	RB	-	-	-	Opinion	7870	True
+important	JJ	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+but	CC	-	-	-	Opinion	7870	True
+so	RB	-	-	-	Opinion	7870	True
+is	VBZ	-	-	-	Opinion	7870	True
+dance	NN	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Cognizer	True
-acho	X	FW	achar.v	Opinion	-	False
-que	X	FW	-	-	Opinion	True
-matemática	X	FW	-	-	Opinion	True
-é	X	FW	-	-	Opinion	True
-importante	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-mas	X	FW	-	-	Opinion	True
-dança	X	FW	-	-	Opinion	True
-também	X	FW	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Cognizer	7869	True
+acho	FW	achar.v	Opinion	1412	-	-	False
+que	FW	-	-	-	Opinion	7870	True
+matemática	FW	-	-	-	Opinion	7870	True
+é	FW	-	-	-	Opinion	7870	True
+importante	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+mas	FW	-	-	-	Opinion	7870	True
+dança	FW	-	-	-	Opinion	7870	True
+também	FW	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False

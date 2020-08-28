@@ -1,32 +1,32 @@
-If	ADP	IN	-	-	-	False
-my	PRON	PRP$	-	-	Cook	True
-wife	NOUN	NN	-	-	Cook	True
-is	VERB	VBZ	-	-	-	False
-cooking	VERB	VBG	cook.v	Cooking_creation	-	False
-a	DET	DT	-	-	Produced_food	True
-meal	NOUN	NN	-	-	Produced_food	True
-at	ADP	IN	-	-	Place	False
-home	NOUN	NN	-	-	Place	False
---	PUNCT	:	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-not	ADV	RB	-	-	-	False
-often	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-thankfully	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+my	PRP$	-	-	-	Cook	2298	True
+wife	NN	-	-	-	Cook	2298	True
+is	VBZ	-	-	-	-	-	False
+cooking	VBG	cook.v	Cooking_creation	268	-	-	False
+a	DT	-	-	-	Produced_food	2299	True
+meal	NN	-	-	-	Produced_food	2299	True
+at	IN	-	-	-	Place	2303	False
+home	NN	-	-	-	Place	2303	False
+--	:	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+often	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+thankfully	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-minha	X	FW	-	-	Cook	True
-esposa	X	FW	-	-	Cook	True
-está	X	FW	-	-	-	False
-cozinhando	X	FW	cozinhar.v	Cooking_creation	-	False
-,	PUNCT	,	-	-	-	False
-o	X	UH	-	-	-	False
-que	X	FW	-	-	-	False
-acontece	X	FW	-	-	-	False
-pouco	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ainda	X	FW	-	-	-	False
-bem	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+minha	FW	-	-	-	Cook	2298	True
+esposa	FW	-	-	-	Cook	2298	True
+está	FW	-	-	-	-	-	False
+cozinhando	FW	cozinhar.v	Cooking_creation	268	-	-	False
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+acontece	FW	-	-	-	-	-	False
+pouco	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ainda	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,24 +1,24 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Text	True
-third	ADJ	JJ	-	-	Text	True
-thing	NOUN	NN	-	-	Text	True
-about	ADP	IN	about.prep	Topic	-	False
-intelligence	NOUN	NN	-	-	Topic	True
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-distinct	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Text	3347	True
+third	JJ	-	-	-	Text	3347	True
+thing	NN	-	-	-	Text	3347	True
+about	IN	about.prep	Topic	373	-	-	False
+intelligence	NN	-	-	-	Topic	3346	True
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+distinct	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-terceiro	X	FW	-	-	-	False
-ponto	X	FW	-	-	-	False
-sobre	X	FW	sobre.prep	Topic	-	False
-a	X	FW	-	-	Topic	True
-inteligência	X	FW	-	-	Topic	True
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-distinta	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+terceiro	FW	-	-	-	-	-	False
+ponto	FW	-	-	-	-	-	False
+sobre	FW	sobre.prep	Topic	373	-	-	False
+a	FW	-	-	-	Topic	3346	True
+inteligência	FW	-	-	-	Topic	3346	True
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+distinta	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

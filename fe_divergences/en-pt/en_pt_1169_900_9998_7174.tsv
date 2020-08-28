@@ -1,40 +1,40 @@
-Around	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-world	NOUN	NN	-	-	Event	True
-,	PUNCT	,	-	-	Event	True
-there	PRON	EX	-	-	Event	True
-were	VERB	VBD	-	-	Event	True
-no	DET	DT	-	-	Event	True
-public	ADJ	JJ	-	-	Event	True
-systems	NOUN	NNS	-	-	Event	True
-of	ADP	IN	-	-	Event	True
-education	NOUN	NN	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-really	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-before	ADP	IN	before.prep	Time_vector	-	False
-the	DET	DT	-	-	Landmark_event	True
-19th	ADJ	JJ	-	-	Landmark_event	True
-century	NOUN	NN	-	-	Landmark_event	True
-.	PUNCT	.	-	-	-	False
+Around	IN	-	-	-	Event	4832	True
+the	DT	-	-	-	Event	4832	True
+world	NN	-	-	-	Event	4832	True
+,	,	-	-	-	Event	4832	True
+there	EX	-	-	-	Event	4832	True
+were	VBD	-	-	-	Event	4832	True
+no	DT	-	-	-	Event	4832	True
+public	JJ	-	-	-	Event	4832	True
+systems	NNS	-	-	-	Event	4832	True
+of	IN	-	-	-	Event	4832	True
+education	NN	-	-	-	Event	4832	True
+,	,	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+before	IN	before.prep	Time_vector	379	-	-	False
+the	DT	-	-	-	Landmark_event	3396	True
+19th	JJ	-	-	-	Landmark_event	3396	True
+century	NN	-	-	-	Landmark_event	3396	True
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-sistema	NOUN	NN	-	-	-	False
-foi	NOUN	FW	-	-	-	False
-concebido	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-no	INTJ	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-todo	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	Event	True
-existiam	X	FW	-	-	Event	True
-sistemas	X	FW	-	-	Event	True
-públicos	X	FW	-	-	Event	True
-de	X	FW	-	-	Event	True
-educação	X	FW	-	-	Event	True
-antes	X	FW	antes.adv	Time_vector	-	False
-do	VERB	VBP	-	-	Landmark_event	True
-Séc.XIX	PROPN	NNP	-	-	Landmark_event	True
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+sistema	NN	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+concebido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	Event	4832	True
+existiam	FW	-	-	-	Event	4832	True
+sistemas	FW	-	-	-	Event	4832	True
+públicos	FW	-	-	-	Event	4832	True
+de	FW	-	-	-	Event	4832	True
+educação	FW	-	-	-	Event	4832	True
+antes	FW	antes.adv	Time_vector	379	-	-	False
+do	VBP	-	-	-	Landmark_event	3396	True
+Séc.XIX	NNP	-	-	-	Landmark_event	3396	True
+.	.	-	-	-	-	-	False

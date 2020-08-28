@@ -1,27 +1,27 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Speaker	True
-girl	NOUN	NN	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-They	PRON	PRP	-	-	Message	True
-will	AUX	MD	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-in	ADP	IN	-	-	Message	True
-a	DET	DT	-	-	Message	True
-minute	NOUN	NN	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Speaker	183	True
+girl	NN	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+They	PRP	-	-	-	Message	185	True
+will	MD	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+in	IN	-	-	-	Message	185	True
+a	DT	-	-	-	Message	185	True
+minute	NN	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	Speaker	True
-menina	X	FW	-	-	Speaker	True
-disse	X	FW	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	``	-	-	-	False
-Vão	PROPN	NNP	-	-	Message	True
-conhecer	X	FW	-	-	Message	True
-num	X	FW	-	-	Message	True
-minuto	X	FW	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	DT	-	-	-	Speaker	183	True
+menina	FW	-	-	-	Speaker	183	True
+disse	FW	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	``	-	-	-	-	-	False
+Vão	NNP	-	-	-	Message	185	True
+conhecer	FW	-	-	-	Message	185	True
+num	FW	-	-	-	Message	185	True
+minuto	FW	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

@@ -1,36 +1,36 @@
-If	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-being	VERB	VBG	-	-	-	False
-strict	ADJ	JJ	-	-	-	False
-about	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wherever	ADV	WRB	-	-	-	False
-he	PRON	PRP	-	-	-	False
-went	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-four	NUM	CD	four.num	Cardinal_numbers	Number	True
-that	DET	DT	-	-	-	False
-year	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+being	VBG	-	-	-	-	-	False
+strict	JJ	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wherever	WRB	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+went	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+four	CD	four.num	Cardinal_numbers	218	Number	3622	True
+that	DT	-	-	-	-	-	False
+year	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Para	NOUN	FW	-	-	-	False
-sermos	NOUN	FW	-	-	-	False
-exatos	VERB	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-onde	X	FW	-	-	-	False
-quer	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ele	X	FW	-	-	-	False
-fosse	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-quatro	X	FW	quatro.num	Cardinal_numbers	-	False
-anos	X	FW	-	-	Unit	True
-na	X	FW	-	-	-	False
-ocasião	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Para	FW	-	-	-	-	-	False
+sermos	FW	-	-	-	-	-	False
+exatos	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+onde	FW	-	-	-	-	-	False
+quer	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+fosse	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+quatro	FW	quatro.num	Cardinal_numbers	218	-	-	False
+anos	FW	-	-	-	Unit	16740	True
+na	FW	-	-	-	-	-	False
+ocasião	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

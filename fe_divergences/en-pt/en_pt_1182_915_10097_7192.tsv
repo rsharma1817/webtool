@@ -1,57 +1,57 @@
-In	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-next	ADJ	JJ	-	-	-	False
-30	NUM	CD	-	-	-	False
-years	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-according	VERB	VBG	-	-	-	False
-to	ADP	IN	-	-	-	False
-UNESCO	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-more	ADJ	JJR	-	-	-	False
-people	NOUN	NNS	-	-	-	False
-worldwide	ADV	RB	-	-	-	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-graduating	VERB	VBG	-	-	-	False
-through	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-than	ADP	IN	-	-	-	False
-since	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-beginning	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-history	NOUN	NN	history.n	History	-	False
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+next	JJ	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+years	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+according	VBG	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+UNESCO	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+more	JJR	-	-	-	-	-	False
+people	NNS	-	-	-	-	-	False
+worldwide	RB	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+graduating	VBG	-	-	-	-	-	False
+through	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+than	IN	-	-	-	-	-	False
+since	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+beginning	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+history	NN	history.n	History	2113	-	-	False
+.	.	-	-	-	-	-	False
 
-Nos	NOUN	NNP	-	-	-	False
-próximos	NOUN	NNS	-	-	-	False
-30	NUM	CD	-	-	-	False
-anos	NOUN	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-de	X	FW	-	-	-	False
-acordo	X	FW	-	-	-	False
-com	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-UNESCO	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mais	X	FW	-	-	-	False
-gente	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	VBP	-	-	-	False
-mundo	X	NNP	-	-	-	False
-irá	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-formar	X	FW	-	-	-	False
-através	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-do	X	VB	-	-	-	False
-que	X	FW	-	-	-	False
-desde	X	FW	-	-	-	False
-o	X	FW	-	-	Start_time	False
-princípio	X	FW	-	-	Start_time	False
-da	X	FW	-	-	-	False
-história	X	FW	história.n	History	-	False
-.	PUNCT	.	-	-	-	False
+Nos	NNP	-	-	-	-	-	False
+próximos	NNS	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+anos	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+acordo	FW	-	-	-	-	-	False
+com	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+UNESCO	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mais	FW	-	-	-	-	-	False
+gente	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+mundo	NNP	-	-	-	-	-	False
+irá	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+formar	FW	-	-	-	-	-	False
+através	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+desde	FW	-	-	-	-	-	False
+o	FW	-	-	-	Start_time	13028	False
+princípio	FW	-	-	-	Start_time	13028	False
+da	FW	-	-	-	-	-	False
+história	FW	história.n	History	2113	-	-	False
+.	.	-	-	-	-	-	False

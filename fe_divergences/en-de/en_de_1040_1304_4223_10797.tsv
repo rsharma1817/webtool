@@ -1,24 +1,24 @@
-I	PRON	PRP	-	-	-	False
-mean	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-Sirena	PROPN	NNP	-	-	-	False
-last	ADJ	JJ	-	-	Relative_time	True
-night	NOUN	NN	night.n	Calendric_unit	Unit	True
-was	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-marvel	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-was	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-she	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+mean	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+Sirena	NNP	-	-	-	-	-	False
+last	JJ	-	-	-	Relative_time	1993	True
+night	NN	night.n	Calendric_unit	229	Unit	10331	True
+was	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+marvel	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Sirena	PROPN	NNP	-	-	-	False
-gestern	VERB	NNP	-	-	Relative_time	True
-Abend	PROPN	NNP	abend.n	Calendric_unit	-	False
-war	NOUN	NN	-	-	-	False
-wunderbar	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nicht	NOUN	NN	-	-	-	False
-wahr	NOUN	NN	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Sirena	NNP	-	-	-	-	-	False
+gestern	NNP	-	-	-	Relative_time	1993	True
+Abend	NNP	abend.n	Calendric_unit	229	-	-	False
+war	NN	-	-	-	-	-	False
+wunderbar	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+wahr	NN	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

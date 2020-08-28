@@ -1,32 +1,32 @@
-Waiting	VERB	VBG	-	-	-	False
-until	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	Process	True
-ends	VERB	VBZ	end.v	Process_end	-	False
-so	ADP	IN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-can	AUX	MD	-	-	-	False
-go	VERB	VB	-	-	-	False
-home	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-write	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-paper	NOUN	NN	-	-	-	False
-about	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Waiting	VBG	-	-	-	-	-	False
+until	IN	-	-	-	-	-	False
+it	PRP	-	-	-	Process	2104	True
+ends	VBZ	end.v	Process_end	232	-	-	False
+so	IN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+can	MD	-	-	-	-	-	False
+go	VB	-	-	-	-	-	False
+home	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+write	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+paper	NN	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Só	ADV	RB	-	-	-	False
-esperando	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	Process	True
-evento	X	FW	-	-	Process	True
-acabe	X	FW	acabar.v	Process_end	-	False
-e	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-possam	X	FW	-	-	-	False
-escrever	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-artigo	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-respeito	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Só	RB	-	-	-	-	-	False
+esperando	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	Process	2104	True
+evento	FW	-	-	-	Process	2104	True
+acabe	FW	acabar.v	Process_end	232	-	-	False
+e	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+possam	FW	-	-	-	-	-	False
+escrever	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+artigo	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+respeito	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

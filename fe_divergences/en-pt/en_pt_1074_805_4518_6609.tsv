@@ -1,10 +1,10 @@
-This	DET	DT	-	-	Event	False
-really	ADV	RB	-	-	Manner	False
-happened	VERB	VBD	happen.v	Event	-	False
-.	PUNCT	.	-	-	-	False
+This	DT	-	-	-	Event	1443	False
+really	RB	-	-	-	Manner	4961	False
+happened	VBD	happen.v	Event	187	-	-	False
+.	.	-	-	-	-	-	False
 
-Isso	X	NNP	-	-	Event	False
-aconteceu	X	FW	acontecer.v	Event	-	False
-de	X	FW	-	-	Manner	False
-verdade	X	FW	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+Isso	NNP	-	-	-	Event	1443	False
+aconteceu	FW	acontecer.v	Event	187	-	-	False
+de	FW	-	-	-	Manner	4961	False
+verdade	FW	-	-	-	Manner	4961	False
+.	.	-	-	-	-	-	False

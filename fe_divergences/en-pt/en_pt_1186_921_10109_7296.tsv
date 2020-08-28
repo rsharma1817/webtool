@@ -1,31 +1,31 @@
-When	ADV	WRB	when.adv	Temporal_collocation	-	False
-I	PRON	PRP	-	-	Landmark_period	True
-was	VERB	VBD	-	-	Landmark_period	True
-a	DET	DT	-	-	Landmark_period	True
-student	NOUN	NN	-	-	Landmark_period	True
-,	PUNCT	,	-	-	-	False
-if	ADP	IN	-	-	Event_description	False
-you	PRON	PRP	-	-	Event_description	False
-had	VERB	VBD	-	-	Event_description	False
-a	DET	DT	-	-	Event_description	False
-degree	NOUN	NN	-	-	Event_description	False
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	Trajector_event	True
-had	VERB	VBD	-	-	Trajector_event	True
-a	DET	DT	-	-	Trajector_event	True
-job	NOUN	NN	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+When	WRB	when.adv	Temporal_collocation	1895	-	-	False
+I	PRP	-	-	-	Landmark_period	12063	True
+was	VBD	-	-	-	Landmark_period	12063	True
+a	DT	-	-	-	Landmark_period	12063	True
+student	NN	-	-	-	Landmark_period	12063	True
+,	,	-	-	-	-	-	False
+if	IN	-	-	-	Event_description	11947	False
+you	PRP	-	-	-	Event_description	11947	False
+had	VBD	-	-	-	Event_description	11947	False
+a	DT	-	-	-	Event_description	11947	False
+degree	NN	-	-	-	Event_description	11947	False
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	Trajector_event	12064	True
+had	VBD	-	-	-	Trajector_event	12064	True
+a	DT	-	-	-	Trajector_event	12064	True
+job	NN	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False
 
-Quando	X	NNP	quando.c	Temporal_collocation	-	False
-eu	X	FW	-	-	Landmark_event	True
-estudava	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	Trajector_event	True
-tinha	X	FW	-	-	Trajector_event	True
-um	INTJ	UH	-	-	Trajector_event	True
-diploma	NOUN	NN	-	-	Trajector_event	True
-,	PUNCT	,	-	-	Trajector_event	True
-tinha	NOUN	NN	-	-	Trajector_event	True
-um	INTJ	UH	-	-	Trajector_event	True
-emprego	NOUN	NN	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+Quando	NNP	quando.c	Temporal_collocation	1895	-	-	False
+eu	FW	-	-	-	Landmark_event	11269	True
+estudava	FW	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	Trajector_event	12064	True
+tinha	FW	-	-	-	Trajector_event	12064	True
+um	UH	-	-	-	Trajector_event	12064	True
+diploma	NN	-	-	-	Trajector_event	12064	True
+,	,	-	-	-	Trajector_event	12064	True
+tinha	NN	-	-	-	Trajector_event	12064	True
+um	UH	-	-	-	Trajector_event	12064	True
+emprego	NN	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False

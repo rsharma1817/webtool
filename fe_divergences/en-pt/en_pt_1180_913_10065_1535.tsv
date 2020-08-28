@@ -1,71 +1,71 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-consequence	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-many	ADJ	JJ	-	-	-	False
-highly-talented	ADJ	JJ	-	-	Descriptor	False
-,	PUNCT	,	-	-	Descriptor	False
-brilliant	ADJ	JJ	-	-	Descriptor	False
-,	PUNCT	,	-	-	Descriptor	False
-creative	ADJ	JJ	-	-	Descriptor	False
-people	NOUN	NNS	people.n	People	Person	True
-think	VERB	VBP	-	-	-	False
-they	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-not	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-thing	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-good	ADJ	JJ	-	-	-	False
-at	ADP	IN	-	-	-	False
-at	ADP	IN	-	-	-	False
-school	NOUN	NN	-	-	-	False
-was	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-valued	VERB	VBN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-or	CCONJ	CC	-	-	-	False
-was	VERB	VBD	-	-	-	False
-actually	ADV	RB	-	-	-	False
-stigmatized	VERB	VBN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+consequence	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+many	JJ	-	-	-	-	-	False
+highly-talented	JJ	-	-	-	Descriptor	2620	False
+,	,	-	-	-	Descriptor	2620	False
+brilliant	JJ	-	-	-	Descriptor	2620	False
+,	,	-	-	-	Descriptor	2620	False
+creative	JJ	-	-	-	Descriptor	2620	False
+people	NNS	people.n	People	304	Person	2618	True
+think	VBP	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+thing	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+good	JJ	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+valued	VBN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+or	CC	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+actually	RB	-	-	-	-	-	False
+stigmatized	VBN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-consequência	NOUN	FW	-	-	-	False
-disso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-muitas	X	FW	-	-	-	False
-pessoas	X	FW	pessoa.n	People	-	False
-altamente	X	FW	-	-	Descriptor	False
-talentosas	X	FW	-	-	Descriptor	False
-brilhantes	X	FW	-	-	Descriptor	False
-e	X	FW	-	-	Descriptor	False
-criativas	X	FW	-	-	Descriptor	False
-,	PUNCT	,	-	-	-	False
-pensam	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-porque	X	FW	-	-	-	False
-aquilo	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-elas	X	FW	-	-	-	False
-eram	X	FW	-	-	-	False
-boas	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-escola	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-valorizado	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ou	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-até	X	FW	-	-	-	False
-estigmatizado	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+consequência	FW	-	-	-	-	-	False
+disso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+muitas	FW	-	-	-	-	-	False
+pessoas	FW	pessoa.n	People	304	-	-	False
+altamente	FW	-	-	-	Descriptor	2620	False
+talentosas	FW	-	-	-	Descriptor	2620	False
+brilhantes	FW	-	-	-	Descriptor	2620	False
+e	FW	-	-	-	Descriptor	2620	False
+criativas	FW	-	-	-	Descriptor	2620	False
+,	,	-	-	-	-	-	False
+pensam	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+aquilo	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+elas	FW	-	-	-	-	-	False
+eram	FW	-	-	-	-	-	False
+boas	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+escola	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+valorizado	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ou	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+até	FW	-	-	-	-	-	False
+estigmatizado	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

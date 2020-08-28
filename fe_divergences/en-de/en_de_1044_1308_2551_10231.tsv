@@ -1,32 +1,32 @@
-And	CCONJ	CC	-	-	-	False
-my	PRON	PRP$	-	-	Speaker	True
-contention	NOUN	NN	contention.n	Statement	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-all	DET	DT	-	-	Message	True
-kids	NOUN	NNS	-	-	Message	True
-have	VERB	VBP	-	-	Message	True
-tremendous	ADJ	JJ	-	-	Message	True
-talents	NOUN	NNS	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+my	PRP$	-	-	-	Speaker	183	True
+contention	NN	contention.n	Statement	43	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+all	DT	-	-	-	Message	185	True
+kids	NNS	-	-	-	Message	185	True
+have	VBP	-	-	-	Message	185	True
+tremendous	JJ	-	-	-	Message	185	True
+talents	NNS	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
 
-Ich	INTJ	FW	-	-	Speaker	True
-behaupte	INTJ	FW	behaupten.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	FW	-	-	Message	True
-alle	X	FW	-	-	Message	True
-Kinder	X	FW	-	-	Message	True
-gewaltige	X	FW	-	-	Message	True
-Talente	X	FW	-	-	Message	True
-haben	X	FW	-	-	Message	True
-und	X	FW	-	-	Message	True
-dass	X	FW	-	-	Message	True
-wir	X	FW	-	-	Message	True
-sie	X	FW	-	-	Message	True
-vergeuden	X	FW	-	-	Message	True
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-zwar	X	FW	-	-	-	False
-ziemlich	X	FW	-	-	-	False
-rücksichtslos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ich	FW	-	-	-	Speaker	183	True
+behaupte	FW	behaupten.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+dass	FW	-	-	-	Message	185	True
+alle	FW	-	-	-	Message	185	True
+Kinder	FW	-	-	-	Message	185	True
+gewaltige	FW	-	-	-	Message	185	True
+Talente	FW	-	-	-	Message	185	True
+haben	FW	-	-	-	Message	185	True
+und	FW	-	-	-	Message	185	True
+dass	FW	-	-	-	Message	185	True
+wir	FW	-	-	-	Message	185	True
+sie	FW	-	-	-	Message	185	True
+vergeuden	FW	-	-	-	Message	185	True
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+zwar	FW	-	-	-	-	-	False
+ziemlich	FW	-	-	-	-	-	False
+rücksichtslos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,25 +1,25 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-second	ADJ	JJ	-	-	-	False
-boy	NOUN	NN	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	Agent	True
-bring	VERB	VBP	bring.v	Bringing	-	False
-you	PRON	PRP	-	-	Goal	True
-myrrh	NOUN	NN	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+second	JJ	-	-	-	-	-	False
+boy	NN	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	Agent	2117	True
+bring	VBP	bring.v	Bringing	240	-	-	False
+you	PRP	-	-	-	Goal	2118	True
+myrrh	NN	-	-	-	Theme	2121	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-segundo	X	FW	-	-	-	False
-garoto	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	``	-	-	-	False
-Eu	X	NNP	-	-	Agent	True
-trago	X	FW	trazer.v	Bringing	-	False
-mirra	X	FW	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+O	UH	-	-	-	-	-	False
+segundo	FW	-	-	-	-	-	False
+garoto	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	``	-	-	-	-	-	False
+Eu	NNP	-	-	-	Agent	2117	True
+trago	FW	trazer.v	Bringing	240	-	-	False
+mirra	FW	-	-	-	Theme	2121	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

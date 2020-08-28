@@ -1,69 +1,69 @@
-I	PRON	PRP	-	-	-	False
-believe	VERB	VBP	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-only	ADJ	JJ	-	-	-	False
-hope	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-future	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	-	False
-adopt	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-new	ADJ	JJ	-	-	-	False
-conception	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-human	ADJ	JJ	-	-	-	False
-ecology	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-one	NUM	CD	-	-	-	False
-in	ADP	IN	-	-	-	False
-which	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-start	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-reconstitute	VERB	VB	-	-	-	False
-our	PRON	PRP$	-	-	Cognizer	True
-conception	NOUN	NN	conception.n	Awareness	-	False
-of	ADP	IN	-	-	Content	True
-the	DET	DT	-	-	Content	True
-richness	NOUN	NN	-	-	Content	True
-of	ADP	IN	-	-	Content	True
-human	ADJ	JJ	-	-	Content	True
-capacity	NOUN	NN	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+believe	VBP	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+only	JJ	-	-	-	-	-	False
+hope	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+future	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+adopt	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+new	JJ	-	-	-	-	-	False
+conception	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+human	JJ	-	-	-	-	-	False
+ecology	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+start	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+reconstitute	VB	-	-	-	-	-	False
+our	PRP$	-	-	-	Cognizer	83	True
+conception	NN	conception.n	Awareness	19	-	-	False
+of	IN	-	-	-	Content	84	True
+the	DT	-	-	-	Content	84	True
+richness	NN	-	-	-	Content	84	True
+of	IN	-	-	-	Content	84	True
+human	JJ	-	-	-	Content	84	True
+capacity	NN	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Eu	X	FW	-	-	-	False
-acredito	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-única	X	FW	-	-	-	False
-esperança	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-futuro	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-adoção	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-nova	X	FW	-	-	-	False
-concepção	X	FW	concepção.n	Awareness	-	False
-de	X	FW	-	-	Topic	True
-ecologia	X	FW	-	-	Topic	True
-humana	X	FW	-	-	Topic	True
-,	PUNCT	,	-	-	-	False
-uma	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-começamos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-reconstituir	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-concepção	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-riqueza	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-capacidade	X	FW	-	-	-	False
-humana	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	FW	-	-	-	-	-	False
+acredito	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+única	FW	-	-	-	-	-	False
+esperança	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+futuro	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+adoção	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+nova	FW	-	-	-	-	-	False
+concepção	FW	concepção.n	Awareness	19	-	-	False
+de	FW	-	-	-	Topic	86	True
+ecologia	FW	-	-	-	Topic	86	True
+humana	FW	-	-	-	Topic	86	True
+,	,	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+começamos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+reconstituir	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+concepção	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+riqueza	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+capacidade	FW	-	-	-	-	-	False
+humana	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

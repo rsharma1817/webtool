@@ -1,31 +1,31 @@
-Grown	ADJ	JJ	-	-	Agent	True
-men	NOUN	NNS	-	-	Agent	True
-and	CCONJ	CC	-	-	Agent	True
-women	NOUN	NNS	-	-	Agent	True
-writhing	VERB	VBG	writhe.v	Body_movement	-	False
-uncontrollably	ADV	RB	-	-	Manner	False
-,	PUNCT	,	-	-	-	False
-off	ADP	IN	-	-	Manner	False
-the	DET	DT	-	-	Manner	False
-beat	NOUN	NN	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+Grown	JJ	-	-	-	Agent	68	True
+men	NNS	-	-	-	Agent	68	True
+and	CC	-	-	-	Agent	68	True
+women	NNS	-	-	-	Agent	68	True
+writhing	VBG	writhe.v	Body_movement	16	-	-	False
+uncontrollably	RB	-	-	-	Manner	918	False
+,	,	-	-	-	-	-	False
+off	IN	-	-	-	Manner	918	False
+the	DT	-	-	-	Manner	918	False
+beat	NN	-	-	-	Manner	918	False
+.	.	-	-	-	-	-	False
 
-E	X	FW	-	-	-	False
-lá	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-ver	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-homens	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-mulheres	X	FW	-	-	Agent	True
-maduros	X	FW	-	-	Agent	True
-,	PUNCT	,	-	-	-	False
-se	X	FW	-	-	-	False
-contorcendo	X	FW	contorcer.v	Body_movement	-	False
-incontrolavelmente	X	FW	-	-	Manner	False
-,	PUNCT	,	-	-	-	False
-fora	NOUN	NN	-	-	Depictive	False
-do	VERB	VBP	-	-	Depictive	False
-ritmo	NOUN	NN	-	-	Depictive	False
-.	PUNCT	.	-	-	-	False
+E	FW	-	-	-	-	-	False
+lá	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+ver	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+homens	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+mulheres	FW	-	-	-	Agent	68	True
+maduros	FW	-	-	-	Agent	68	True
+,	,	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+contorcendo	FW	contorcer.v	Body_movement	16	-	-	False
+incontrolavelmente	FW	-	-	-	Manner	918	False
+,	,	-	-	-	-	-	False
+fora	NN	-	-	-	Depictive	915	False
+do	VBP	-	-	-	Depictive	915	False
+ritmo	NN	-	-	-	Depictive	915	False
+.	.	-	-	-	-	-	False

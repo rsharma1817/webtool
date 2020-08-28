@@ -1,81 +1,81 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	think.v	Opinion	-	False
-you	PRON	PRP	-	-	Opinion	True
-'d	AUX	MD	-	-	Opinion	True
-have	VERB	VB	-	-	Opinion	True
-to	PART	TO	-	-	Opinion	True
-conclude	VERB	VB	-	-	Opinion	True
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-purpose	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-public	ADJ	JJ	-	-	-	False
-education	NOUN	NN	-	-	-	False
-throughout	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	-	False
-produce	VERB	VB	-	-	-	False
-university	NOUN	NN	-	-	-	False
-professors	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	think.v	Opinion	1412	-	-	False
+you	PRP	-	-	-	Opinion	7870	True
+'d	MD	-	-	-	Opinion	7870	True
+have	VB	-	-	-	Opinion	7870	True
+to	TO	-	-	-	Opinion	7870	True
+conclude	VB	-	-	-	Opinion	7870	True
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+purpose	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+public	JJ	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+throughout	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+produce	VB	-	-	-	-	-	False
+university	NN	-	-	-	-	-	False
+professors	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	NNP	-	-	Cognizer	True
-acho	X	FW	achar.v	Opinion	-	False
-que	X	FW	-	-	Opinion	True
-a	X	FW	-	-	Opinion	True
-conclusão	X	FW	-	-	Opinion	True
-obrigatória	X	FW	-	-	Opinion	True
-seria	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-olhando	X	FW	-	-	Opinion	True
-para	X	FW	-	-	Opinion	True
-o	X	FW	-	-	Opinion	True
-resultado	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-que	X	FW	-	-	Opinion	True
-quem	X	FW	-	-	Opinion	True
-é	X	FW	-	-	Opinion	True
-bem	X	FW	-	-	Opinion	True
-sucedido	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-quem	X	FW	-	-	Opinion	True
-faz	X	FW	-	-	Opinion	True
-tudo	X	FW	-	-	Opinion	True
-o	X	FW	-	-	Opinion	True
-que	X	FW	-	-	Opinion	True
-deve	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-quem	X	FW	-	-	Opinion	True
-ganha	X	FW	-	-	Opinion	True
-as	X	FW	-	-	Opinion	True
-estrelinhas	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-quem	X	FW	-	-	Opinion	True
-são	X	FW	-	-	Opinion	True
-os	X	FW	-	-	Opinion	True
-vencedores	X	FW	-	-	Opinion	True
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	-	-	-	False
-seria	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-objetivo	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-pública	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-produzir	X	FW	-	-	-	False
-professores	X	FW	-	-	-	False
-universitários	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Cognizer	7869	True
+acho	FW	achar.v	Opinion	1412	-	-	False
+que	FW	-	-	-	Opinion	7870	True
+a	FW	-	-	-	Opinion	7870	True
+conclusão	FW	-	-	-	Opinion	7870	True
+obrigatória	FW	-	-	-	Opinion	7870	True
+seria	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+olhando	FW	-	-	-	Opinion	7870	True
+para	FW	-	-	-	Opinion	7870	True
+o	FW	-	-	-	Opinion	7870	True
+resultado	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+que	FW	-	-	-	Opinion	7870	True
+quem	FW	-	-	-	Opinion	7870	True
+é	FW	-	-	-	Opinion	7870	True
+bem	FW	-	-	-	Opinion	7870	True
+sucedido	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+quem	FW	-	-	-	Opinion	7870	True
+faz	FW	-	-	-	Opinion	7870	True
+tudo	FW	-	-	-	Opinion	7870	True
+o	FW	-	-	-	Opinion	7870	True
+que	FW	-	-	-	Opinion	7870	True
+deve	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+quem	FW	-	-	-	Opinion	7870	True
+ganha	FW	-	-	-	Opinion	7870	True
+as	FW	-	-	-	Opinion	7870	True
+estrelinhas	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+quem	FW	-	-	-	Opinion	7870	True
+são	FW	-	-	-	Opinion	7870	True
+os	FW	-	-	-	Opinion	7870	True
+vencedores	FW	-	-	-	Opinion	7870	True
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	-	-	-	-	-	False
+seria	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+objetivo	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+pública	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+produzir	FW	-	-	-	-	-	False
+professores	FW	-	-	-	-	-	False
+universitários	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

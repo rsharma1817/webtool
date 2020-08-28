@@ -1,15 +1,15 @@
-Just	ADV	RB	-	-	-	False
-seeing	VERB	VBG	see.v	Perception_experience	-	False
-what	PRON	WP	-	-	Phenomenon	True
-she	PRON	PRP	-	-	Phenomenon	True
-could	AUX	MD	-	-	Phenomenon	True
-do	VERB	VB	-	-	Phenomenon	True
-.	PUNCT	.	-	-	-	False
+Just	RB	-	-	-	-	-	False
+seeing	VBG	see.v	Perception_experience	70	-	-	False
+what	WP	-	-	-	Phenomenon	332	True
+she	PRP	-	-	-	Phenomenon	332	True
+could	MD	-	-	-	Phenomenon	332	True
+do	VB	-	-	-	Phenomenon	332	True
+.	.	-	-	-	-	-	False
 
-Ver	PROPN	UH	ver.v	Perception_experience	-	False
-do	VERB	VB	-	-	Phenomenon	True
-que	X	FW	-	-	Phenomenon	True
-ela	X	FW	-	-	Phenomenon	True
-é	X	FW	-	-	Phenomenon	True
-capaz	X	FW	-	-	Phenomenon	True
-.	PUNCT	.	-	-	-	False
+Ver	UH	ver.v	Perception_experience	70	-	-	False
+do	VB	-	-	-	Phenomenon	332	True
+que	FW	-	-	-	Phenomenon	332	True
+ela	FW	-	-	-	Phenomenon	332	True
+é	FW	-	-	-	Phenomenon	332	True
+capaz	FW	-	-	-	Phenomenon	332	True
+.	.	-	-	-	-	-	False

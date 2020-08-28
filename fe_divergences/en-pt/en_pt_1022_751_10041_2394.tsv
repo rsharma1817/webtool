@@ -1,29 +1,29 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-at	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-dinner	NOUN	NN	dinner-party.n	Social_event	Social_event	False
-party	NOUN	NN	dinner-party.n	Social_event	Social_event	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-work	VERB	VBP	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
---	PUNCT	:	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+dinner	NN	dinner-party.n	Social_event	125	Social_event	760	False
+party	NN	dinner-party.n	Social_event	125	Social_event	760	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+work	VBP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-você	X	FW	-	-	Attendee	True
-estiver	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-festa	X	FW	festa.n	Social_event	-	False
-e	X	FW	-	-	-	False
-disser	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-trabalha	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-...	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	Attendee	767	True
+estiver	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+festa	FW	festa.n	Social_event	125	-	-	False
+e	FW	-	-	-	-	-	False
+disser	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+trabalha	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+...	.	-	-	-	-	-	False

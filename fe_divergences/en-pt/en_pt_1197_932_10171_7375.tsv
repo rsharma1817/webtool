@@ -1,21 +1,21 @@
-We	PRON	PRP	-	-	Predicate	True
-think	VERB	VBP	-	-	Predicate	True
-in	ADP	IN	in terms.idio	Domain	-	False
-abstract	ADJ	JJ	-	-	Domain	True
-terms	NOUN	NNS	in terms.idio	Domain	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-in	ADP	IN	-	-	-	False
-movement	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Predicate	3961	True
+think	VBP	-	-	-	Predicate	3961	True
+in	IN	in terms.idio	Domain	430	-	-	False
+abstract	JJ	-	-	-	Domain	3962	True
+terms	NNS	in terms.idio	Domain	430	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+movement	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Pensamos	X	NNP	-	-	-	False
-em	X	FW	em termos.idio	Domain	-	False
-termo	X	FW	em termos.idio	Domain	-	False
-abstratos	X	FW	-	-	Predicate	True
-,	PUNCT	,	-	-	-	False
-pensamos	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-movimento	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Pensamos	NNP	-	-	-	-	-	False
+em	FW	em termos.idio	Domain	430	-	-	False
+termo	FW	em termos.idio	Domain	430	-	-	False
+abstratos	FW	-	-	-	Predicate	3961	True
+,	,	-	-	-	-	-	False
+pensamos	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+movimento	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

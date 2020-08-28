@@ -1,25 +1,25 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-second	ADJ	JJ	second.a	Ordinal_numbers	Item	True
-boy	NOUN	NN	-	-	Type	True
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	-	False
-bring	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-myrrh	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+second	JJ	second.a	Ordinal_numbers	1147	Item	6633	True
+boy	NN	-	-	-	Type	6630	True
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+bring	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+myrrh	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-segundo	X	FW	segundo.a	Ordinal_numbers	-	False
-garoto	X	FW	-	-	Item	True
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	``	-	-	-	False
-Eu	X	NNP	-	-	-	False
-trago	X	FW	-	-	-	False
-mirra	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+O	UH	-	-	-	-	-	False
+segundo	FW	segundo.a	Ordinal_numbers	1147	-	-	False
+garoto	FW	-	-	-	Item	6633	True
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	``	-	-	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+trago	FW	-	-	-	-	-	False
+mirra	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

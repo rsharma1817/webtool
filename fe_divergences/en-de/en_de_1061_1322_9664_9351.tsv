@@ -1,26 +1,26 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	Figure	True
-was	VERB	VBD	-	-	Figure	True
-four	NUM	CD	-	-	Figure	True
-everywhere	ADV	RB	everywhere.adv	Locative_relation	Ground	True
-,	PUNCT	,	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-honest	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	Figure	1622	True
+was	VBD	-	-	-	Figure	1622	True
+four	CD	-	-	-	Figure	1622	True
+everywhere	RB	everywhere.adv	Locative_relation	199	Ground	1621	True
+,	,	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+honest	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Als	PROPN	NNP	-	-	-	False
-mein	VERB	NNP	-	-	-	False
-Sohn	PROPN	NNP	-	-	-	False
-vier	VERB	NN	-	-	-	False
-war	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-England	PROPN	NNP	-	-	-	False
---	PUNCT	:	-	-	-	False
-er	INTJ	UH	-	-	-	False
-war	NOUN	NN	-	-	-	False
-eigentlich	X	FW	-	-	-	False
-überall	X	FW	überall.adv	Locative_relation	-	False
-vier	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Als	NNP	-	-	-	-	-	False
+mein	NNP	-	-	-	-	-	False
+Sohn	NNP	-	-	-	-	-	False
+vier	NN	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+England	NNP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+er	UH	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+eigentlich	FW	-	-	-	-	-	False
+überall	FW	überall.adv	Locative_relation	199	-	-	False
+vier	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

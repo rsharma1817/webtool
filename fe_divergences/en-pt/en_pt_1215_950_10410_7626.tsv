@@ -1,64 +1,64 @@
-I	PRON	PRP	-	-	-	False
-saw	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-great	ADJ	JJ	-	-	-	False
-t-shirt	NOUN	NN	-	-	-	False
-recently	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-If	ADP	IN	-	-	-	False
-a	DET	DT	-	-	Speaker	True
-man	NOUN	NN	-	-	Speaker	True
-speaks	VERB	VBZ	speak.v	Statement	-	False
-his	PRON	PRP$	-	-	Topic	True
-mind	NOUN	NN	-	-	Topic	True
-in	ADP	IN	-	-	Place	False
-a	DET	DT	-	-	Place	False
-forest	NOUN	NN	-	-	Place	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-no	DET	DT	-	-	-	False
-woman	NOUN	NN	-	-	-	False
-hears	VERB	VBZ	-	-	-	False
-him	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-he	PRON	PRP	-	-	-	False
-still	ADV	RB	-	-	-	False
-wrong	ADJ	JJ	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+I	PRP	-	-	-	-	-	False
+saw	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+great	JJ	-	-	-	-	-	False
+t-shirt	NN	-	-	-	-	-	False
+recently	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+If	IN	-	-	-	-	-	False
+a	DT	-	-	-	Speaker	183	True
+man	NN	-	-	-	Speaker	183	True
+speaks	VBZ	speak.v	Statement	43	-	-	False
+his	PRP$	-	-	-	Topic	186	True
+mind	NN	-	-	-	Topic	186	True
+in	IN	-	-	-	Place	4531	False
+a	DT	-	-	-	Place	4531	False
+forest	NN	-	-	-	Place	4531	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+no	DT	-	-	-	-	-	False
+woman	NN	-	-	-	-	-	False
+hears	VBZ	-	-	-	-	-	False
+him	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+still	RB	-	-	-	-	-	False
+wrong	JJ	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Vi	X	FW	-	-	-	False
-uma	X	FW	-	-	Speaker	True
-camiseta	X	FW	-	-	Speaker	True
-excelente	X	FW	-	-	Speaker	True
-esses	X	FW	-	-	-	False
-dias	X	FW	-	-	-	False
-que	X	FW	-	-	Speaker	True
-dizia	X	FW	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Se	VERB	FW	-	-	Message	True
-um	INTJ	UH	-	-	Message	True
-homem	X	FW	-	-	Message	True
-fala	X	FW	-	-	Message	True
-o	X	FW	-	-	Message	True
-que	X	FW	-	-	Message	True
-pensa	X	FW	-	-	Message	True
-numa	X	FW	-	-	Message	True
-floresta	X	FW	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-e	X	FW	-	-	Message	True
-nenhuma	X	FW	-	-	Message	True
-mulher	X	FW	-	-	Message	True
-escuta	X	FW	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-ele	X	FW	-	-	Message	True
-continua	X	FW	-	-	Message	True
-errado	X	FW	-	-	Message	True
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Vi	FW	-	-	-	-	-	False
+uma	FW	-	-	-	Speaker	183	True
+camiseta	FW	-	-	-	Speaker	183	True
+excelente	FW	-	-	-	Speaker	183	True
+esses	FW	-	-	-	-	-	False
+dias	FW	-	-	-	-	-	False
+que	FW	-	-	-	Speaker	183	True
+dizia	FW	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Se	FW	-	-	-	Message	185	True
+um	UH	-	-	-	Message	185	True
+homem	FW	-	-	-	Message	185	True
+fala	FW	-	-	-	Message	185	True
+o	FW	-	-	-	Message	185	True
+que	FW	-	-	-	Message	185	True
+pensa	FW	-	-	-	Message	185	True
+numa	FW	-	-	-	Message	185	True
+floresta	FW	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+e	FW	-	-	-	Message	185	True
+nenhuma	FW	-	-	-	Message	185	True
+mulher	FW	-	-	-	Message	185	True
+escuta	FW	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+ele	FW	-	-	-	Message	185	True
+continua	FW	-	-	-	Message	185	True
+errado	FW	-	-	-	Message	185	True
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

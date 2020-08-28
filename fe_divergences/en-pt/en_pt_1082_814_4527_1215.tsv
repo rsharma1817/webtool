@@ -1,21 +1,21 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-they	PRON	PRP	-	-	Profiled_possibility	True
-do	VERB	VBP	-	-	Profiled_possibility	True
-n't	ADV	RB	-	-	Profiled_possibility	True
-know	VERB	VB	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	Consequence	True
-'ll	AUX	MD	-	-	Consequence	True
-have	VERB	VB	-	-	Consequence	True
-a	DET	DT	-	-	Consequence	True
-go	NOUN	NN	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+they	PRP	-	-	-	Profiled_possibility	16290	True
+do	VBP	-	-	-	Profiled_possibility	16290	True
+n't	RB	-	-	-	Profiled_possibility	16290	True
+know	VB	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	Consequence	16292	True
+'ll	MD	-	-	-	Consequence	16292	True
+have	VB	-	-	-	Consequence	16292	True
+a	DT	-	-	-	Consequence	16292	True
+go	NN	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
 
-Se	X	FW	se.c	Conditional_occurrence	-	False
-elas	X	FW	-	-	Profiled_possibility	True
-não	X	FW	-	-	Profiled_possibility	True
-sabem	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-elas	X	FW	-	-	Consequence	True
-chutam	X	FW	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Se	FW	se.c	Conditional_occurrence	2903	-	-	False
+elas	FW	-	-	-	Profiled_possibility	16290	True
+não	FW	-	-	-	Profiled_possibility	16290	True
+sabem	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+elas	FW	-	-	-	Consequence	16292	True
+chutam	FW	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

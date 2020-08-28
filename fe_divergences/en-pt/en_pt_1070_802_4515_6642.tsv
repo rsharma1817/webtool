@@ -1,27 +1,27 @@
-We	PRON	PRP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	Goal	True
-place	NOUN	NN	-	-	Goal	True
-crammed	VERB	VBN	cram.v	Filling	-	False
-full	ADJ	JJ	-	-	Degree	False
-of	ADP	IN	-	-	Degree	False
-agents	NOUN	NNS	-	-	Degree	False
-in	ADP	IN	-	-	Degree	False
-T-shirts	NOUN	NNS	-	-	Degree	False
-:	PUNCT	:	-	-	-	False
+We	PRP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+the	DT	-	-	-	Goal	257	True
+place	NN	-	-	-	Goal	257	True
+crammed	VBN	cram.v	Filling	59	-	-	False
+full	JJ	-	-	-	Degree	840	False
+of	IN	-	-	-	Degree	840	False
+agents	NNS	-	-	-	Degree	840	False
+in	IN	-	-	-	Degree	840	False
+T-shirts	NNS	-	-	-	Degree	840	False
+:	:	-	-	-	-	-	False
 
-Lotamos	X	FW	lotar.v	Filling	-	False
-o	X	FW	-	-	Goal	True
-teatro	X	FW	-	-	Goal	True
-com	X	FW	-	-	Theme	True
-representantes	X	FW	-	-	Theme	True
-usando	X	FW	-	-	-	False
-camisetas	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-James	PROPN	NNP	-	-	-	False
-Robinson	PROPN	NNP	-	-	-	False
-É	PROPN	NNP	-	-	-	False
-José	PROPN	NNP	-	-	-	False
-!	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Lotamos	FW	lotar.v	Filling	59	-	-	False
+o	FW	-	-	-	Goal	257	True
+teatro	FW	-	-	-	Goal	257	True
+com	FW	-	-	-	Theme	254	True
+representantes	FW	-	-	-	Theme	254	True
+usando	FW	-	-	-	-	-	False
+camisetas	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+James	NNP	-	-	-	-	-	False
+Robinson	NNP	-	-	-	-	-	False
+É	NNP	-	-	-	-	-	False
+José	NNP	-	-	-	-	-	False
+!	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

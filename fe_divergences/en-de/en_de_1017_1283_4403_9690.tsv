@@ -1,17 +1,17 @@
-No	DET	DT	-	-	-	False
-idea	NOUN	NN	idea.n	Awareness	-	False
-how	ADV	WRB	-	-	Content	True
-this	DET	DT	-	-	Content	True
-may	AUX	MD	-	-	Content	True
-play	VERB	VB	-	-	Content	True
-out	ADP	RP	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+No	DT	-	-	-	-	-	False
+idea	NN	idea.n	Awareness	19	-	-	False
+how	WRB	-	-	-	Content	84	True
+this	DT	-	-	-	Content	84	True
+may	MD	-	-	-	Content	84	True
+play	VB	-	-	-	Content	84	True
+out	RP	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Keine	PROPN	NNP	-	-	Degree	False
-Ahnung	PROPN	NNP	keine Ahnung haben.v	Awareness	-	False
-,	PUNCT	,	-	-	-	False
-wie	X	FW	-	-	Topic	True
-das	X	FW	-	-	Topic	True
-enden	X	FW	-	-	Topic	True
-wird	NOUN	NN	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Keine	NNP	-	-	-	Degree	942	False
+Ahnung	NNP	keine Ahnung haben.v	Awareness	19	-	-	False
+,	,	-	-	-	-	-	False
+wie	FW	-	-	-	Topic	86	True
+das	FW	-	-	-	Topic	86	True
+enden	FW	-	-	-	Topic	86	True
+wird	NN	-	-	-	Topic	86	True
+.	.	-	-	-	-	-	False

@@ -1,51 +1,51 @@
-We	PRON	PRP	-	-	Effect	False
-have	VERB	VBP	-	-	Effect	False
-a	DET	DT	-	-	Effect	False
-huge	ADJ	JJ	-	-	Effect	False
-vested	VERB	JJ	-	-	Effect	False
-interest	NOUN	NN	-	-	Effect	False
-in	ADP	IN	-	-	Effect	False
-it	PRON	PRP	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-partly	ADV	RB	-	-	-	False
-because	ADP	IN	because.c	Causation	-	False
-it	PRON	PRP	-	-	Cause	False
-'s	VERB	VBZ	-	-	Cause	False
-education	NOUN	NN	-	-	Cause	False
-that	PRON	WDT	-	-	Cause	False
-'s	VERB	VBZ	-	-	Cause	False
-meant	VERB	VBN	-	-	Cause	False
-to	PART	TO	-	-	Cause	False
-take	VERB	VB	-	-	Cause	False
-us	PRON	PRP	-	-	Cause	False
-into	ADP	IN	-	-	Cause	False
-this	DET	DT	-	-	Cause	False
-future	NOUN	NN	-	-	Cause	False
-that	ADP	IN	-	-	Cause	False
-we	PRON	PRP	-	-	Cause	False
-ca	AUX	MD	-	-	Cause	False
-n't	ADV	RB	-	-	Cause	False
-grasp	VERB	VB	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Effect	20	False
+have	VBP	-	-	-	Effect	20	False
+a	DT	-	-	-	Effect	20	False
+huge	JJ	-	-	-	Effect	20	False
+vested	JJ	-	-	-	Effect	20	False
+interest	NN	-	-	-	Effect	20	False
+in	IN	-	-	-	Effect	20	False
+it	PRP	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+partly	RB	-	-	-	-	-	False
+because	IN	because.c	Causation	5	-	-	False
+it	PRP	-	-	-	Cause	18	False
+'s	VBZ	-	-	-	Cause	18	False
+education	NN	-	-	-	Cause	18	False
+that	WDT	-	-	-	Cause	18	False
+'s	VBZ	-	-	-	Cause	18	False
+meant	VBN	-	-	-	Cause	18	False
+to	TO	-	-	-	Cause	18	False
+take	VB	-	-	-	Cause	18	False
+us	PRP	-	-	-	Cause	18	False
+into	IN	-	-	-	Cause	18	False
+this	DT	-	-	-	Cause	18	False
+future	NN	-	-	-	Cause	18	False
+that	IN	-	-	-	Cause	18	False
+we	PRP	-	-	-	Cause	18	False
+ca	MD	-	-	-	Cause	18	False
+n't	RB	-	-	-	Cause	18	False
+grasp	VB	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False
 
-Nos	INTJ	FW	-	-	Effect	False
-interessamos	X	FW	-	-	Effect	False
-tanto	X	FW	-	-	Effect	False
-por	X	FW	-	-	Effect	False
-ela	X	FW	-	-	Effect	False
-em	X	FW	-	-	-	False
-parte	X	FW	-	-	-	False
-porque	X	FW	porque.c	Causation	-	False
-é	X	FW	-	-	Cause	False
-da	X	FW	-	-	Cause	False
-educação	X	FW	-	-	Cause	False
-o	X	FW	-	-	Cause	False
-papel	X	FW	-	-	Cause	False
-de	X	FW	-	-	Cause	False
-nos	X	FW	-	-	Cause	False
-conduzir	X	FW	-	-	Cause	False
-a	X	FW	-	-	Cause	False
-esse	X	FW	-	-	Cause	False
-futuro	X	FW	-	-	Cause	False
-misterioso	X	FW	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Nos	FW	-	-	-	Effect	20	False
+interessamos	FW	-	-	-	Effect	20	False
+tanto	FW	-	-	-	Effect	20	False
+por	FW	-	-	-	Effect	20	False
+ela	FW	-	-	-	Effect	20	False
+em	FW	-	-	-	-	-	False
+parte	FW	-	-	-	-	-	False
+porque	FW	porque.c	Causation	5	-	-	False
+é	FW	-	-	-	Cause	18	False
+da	FW	-	-	-	Cause	18	False
+educação	FW	-	-	-	Cause	18	False
+o	FW	-	-	-	Cause	18	False
+papel	FW	-	-	-	Cause	18	False
+de	FW	-	-	-	Cause	18	False
+nos	FW	-	-	-	Cause	18	False
+conduzir	FW	-	-	-	Cause	18	False
+a	FW	-	-	-	Cause	18	False
+esse	FW	-	-	-	Cause	18	False
+futuro	FW	-	-	-	Cause	18	False
+misterioso	FW	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False

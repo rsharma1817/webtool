@@ -1,50 +1,50 @@
-She	PRON	PRP	-	-	Event	True
-was	VERB	VBD	-	-	Event	True
-eventually	ADV	RB	eventually.adv	Time_vector	-	False
-auditioned	VERB	VBN	-	-	Event	True
-for	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-Royal	PROPN	NNP	-	-	Event	True
-Ballet	PROPN	NNP	-	-	Event	True
-School	PROPN	NNP	-	-	Event	True
-;	PUNCT	:	-	-	-	False
-she	PRON	PRP	-	-	-	False
-became	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-soloist	NOUN	NN	-	-	-	False
-;	PUNCT	:	-	-	-	False
-she	PRON	PRP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-wonderful	ADJ	JJ	-	-	-	False
-career	NOUN	NN	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	Event	4832	True
+was	VBD	-	-	-	Event	4832	True
+eventually	RB	eventually.adv	Time_vector	379	-	-	False
+auditioned	VBN	-	-	-	Event	4832	True
+for	IN	-	-	-	Event	4832	True
+the	DT	-	-	-	Event	4832	True
+Royal	NNP	-	-	-	Event	4832	True
+Ballet	NNP	-	-	-	Event	4832	True
+School	NNP	-	-	-	Event	4832	True
+;	:	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+became	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+soloist	NN	-	-	-	-	-	False
+;	:	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+wonderful	JJ	-	-	-	-	-	False
+career	NN	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ela	X	FW	-	-	-	False
-eventualmente	X	FW	eventualmente.adv	Time_vector	-	False
-fez	X	FW	-	-	Landmark_event	True
-um	INTJ	UH	-	-	Landmark_event	True
-teste	X	FW	-	-	Landmark_event	True
-para	X	FW	-	-	Landmark_event	True
-a	DET	DT	-	-	Landmark_event	True
-Royal	PROPN	NNP	-	-	Landmark_event	True
-Ballet	PROPN	NNP	-	-	Landmark_event	True
-School	PROPN	NNP	-	-	Landmark_event	True
-,	PUNCT	,	-	-	Landmark_event	True
-se	X	FW	-	-	Landmark_event	True
-tornou	X	FW	-	-	Landmark_event	True
-uma	X	FW	-	-	Landmark_event	True
-solista	X	FW	-	-	Landmark_event	True
-e	X	FW	-	-	Landmark_event	True
-teve	X	FW	-	-	Landmark_event	True
-uma	X	FW	-	-	Landmark_event	True
-carreira	X	FW	-	-	Landmark_event	True
-fantástica	X	FW	-	-	Landmark_event	True
-na	X	FW	-	-	Landmark_event	True
-Royal	PROPN	NNP	-	-	Landmark_event	True
-Ballet	PROPN	NNP	-	-	Landmark_event	True
-.	PUNCT	.	-	-	-	False
+Ela	FW	-	-	-	-	-	False
+eventualmente	FW	eventualmente.adv	Time_vector	379	-	-	False
+fez	FW	-	-	-	Landmark_event	3396	True
+um	UH	-	-	-	Landmark_event	3396	True
+teste	FW	-	-	-	Landmark_event	3396	True
+para	FW	-	-	-	Landmark_event	3396	True
+a	DT	-	-	-	Landmark_event	3396	True
+Royal	NNP	-	-	-	Landmark_event	3396	True
+Ballet	NNP	-	-	-	Landmark_event	3396	True
+School	NNP	-	-	-	Landmark_event	3396	True
+,	,	-	-	-	Landmark_event	3396	True
+se	FW	-	-	-	Landmark_event	3396	True
+tornou	FW	-	-	-	Landmark_event	3396	True
+uma	FW	-	-	-	Landmark_event	3396	True
+solista	FW	-	-	-	Landmark_event	3396	True
+e	FW	-	-	-	Landmark_event	3396	True
+teve	FW	-	-	-	Landmark_event	3396	True
+uma	FW	-	-	-	Landmark_event	3396	True
+carreira	FW	-	-	-	Landmark_event	3396	True
+fantástica	FW	-	-	-	Landmark_event	3396	True
+na	FW	-	-	-	Landmark_event	3396	True
+Royal	NNP	-	-	-	Landmark_event	3396	True
+Ballet	NNP	-	-	-	Landmark_event	3396	True
+.	.	-	-	-	-	-	False

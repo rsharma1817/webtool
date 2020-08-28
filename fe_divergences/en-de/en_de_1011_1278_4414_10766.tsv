@@ -1,19 +1,19 @@
-I	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-blown	VERB	VBN	-	-	-	False
-away	ADV	RP	-	-	-	False
-by	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-thing	NOUN	NN	thing.n	Entity	Entity	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+blown	VBN	-	-	-	-	-	False
+away	RP	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+thing	NN	thing.n	Entity	251	Entity	2607	True
+.	.	-	-	-	-	-	False
 
-Die	VERB	VB	-	-	Constituent_parts	False
-ganze	PROPN	NNP	-	-	Constituent_parts	False
-Sache	PROPN	NNP	sache.n	Entity	Entity	True
-hier	X	NN	-	-	Constituent_parts	False
-hat	X	NN	-	-	-	False
-mich	X	FW	-	-	-	False
-umgehauen	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Die	VB	-	-	-	Constituent_parts	2604	False
+ganze	NNP	-	-	-	Constituent_parts	2604	False
+Sache	NNP	sache.n	Entity	251	Entity	2607	True
+hier	NN	-	-	-	Constituent_parts	2604	False
+hat	NN	-	-	-	-	-	False
+mich	FW	-	-	-	-	-	False
+umgehauen	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

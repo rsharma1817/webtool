@@ -1,20 +1,20 @@
-I	PRON	PRP	-	-	-	False
-lived	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-Stratford-on-Avon	PROPN	NNP	-	-	-	False
-until	ADP	IN	-	-	-	False
-about	ADV	RB	-	-	-	False
-five	NUM	CD	five.num	Cardinal_numbers	Number	True
-years	NOUN	NNS	-	-	Entity	True
-ago	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+lived	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+Stratford-on-Avon	NNP	-	-	-	-	-	False
+until	IN	-	-	-	-	-	False
+about	RB	-	-	-	-	-	False
+five	CD	five.num	Cardinal_numbers	218	Number	3622	True
+years	NNS	-	-	-	Entity	3623	True
+ago	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-morei	X	FW	-	-	-	False
-em	INTJ	FW	-	-	-	False
-Stratford-on-Avon	PROPN	NNP	-	-	-	False
-até	VERB	FW	-	-	-	False
-cinco	X	FW	cinco.num	Cardinal_numbers	-	False
-anos	X	FW	-	-	Unit	True
-atrás	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+morei	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+Stratford-on-Avon	NNP	-	-	-	-	-	False
+até	FW	-	-	-	-	-	False
+cinco	FW	cinco.num	Cardinal_numbers	218	-	-	False
+anos	FW	-	-	-	Unit	16740	True
+atrás	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

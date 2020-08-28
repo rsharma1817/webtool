@@ -1,30 +1,30 @@
-But	CCONJ	CC	but.c	Concessive	-	False
-James	PROPN	NNP	-	-	Conceded_state_of_affairs	True
-got	VERB	VBD	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-part	NOUN	NN	-	-	Conceded_state_of_affairs	True
-of	ADP	IN	-	-	Conceded_state_of_affairs	True
-Joseph	PROPN	NNP	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	Conceded_state_of_affairs	True
-we	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-thrilled	VERB	VBN	-	-	-	False
-about	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	but.c	Concessive	2150	-	-	False
+James	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+got	VBD	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+part	NN	-	-	-	Conceded_state_of_affairs	13302	True
+of	IN	-	-	-	Conceded_state_of_affairs	13302	True
+Joseph	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	Conceded_state_of_affairs	13302	True
+we	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+thrilled	VBN	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Mas	X	UH	mas.c	Concessive	-	False
-o	X	UH	-	-	Conceded_state_of_affairs	True
-James	X	NNP	-	-	Conceded_state_of_affairs	True
-ganhou	X	FW	-	-	Conceded_state_of_affairs	True
-o	X	FW	-	-	Conceded_state_of_affairs	True
-papel	X	FW	-	-	Conceded_state_of_affairs	True
-de	X	FW	-	-	Conceded_state_of_affairs	True
-José	PROPN	NNP	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-o	INTJ	UH	-	-	-	False
-que	X	FW	-	-	-	False
-nos	X	FW	-	-	-	False
-deixou	X	FW	-	-	-	False
-empolgados	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Mas	UH	mas.c	Concessive	2150	-	-	False
+o	UH	-	-	-	Conceded_state_of_affairs	13302	True
+James	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+ganhou	FW	-	-	-	Conceded_state_of_affairs	13302	True
+o	FW	-	-	-	Conceded_state_of_affairs	13302	True
+papel	FW	-	-	-	Conceded_state_of_affairs	13302	True
+de	FW	-	-	-	Conceded_state_of_affairs	13302	True
+José	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+deixou	FW	-	-	-	-	-	False
+empolgados	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

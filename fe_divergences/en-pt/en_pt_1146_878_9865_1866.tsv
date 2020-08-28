@@ -1,16 +1,16 @@
-And	CCONJ	CC	-	-	-	False
-then	ADV	RB	-	-	-	False
-we	PRON	PRP	-	-	Agent	True
-focus	VERB	VBP	focus.v	Emphasizing	-	False
-on	ADP	IN	-	-	Consideration	True
-their	PRON	PRP$	-	-	Consideration	True
-heads	NOUN	NNS	-	-	Consideration	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+then	RB	-	-	-	-	-	False
+we	PRP	-	-	-	Agent	8410	True
+focus	VBP	focus.v	Emphasizing	1542	-	-	False
+on	IN	-	-	-	Consideration	8406	True
+their	PRP$	-	-	-	Consideration	8406	True
+heads	NNS	-	-	-	Consideration	8406	True
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-depois	VERB	VBP	-	-	Time	False
-nos	X	FW	-	-	Agent	True
-focamos	X	FW	focar.v	Emphasizing	-	False
-na	X	FW	-	-	-	False
-cabeça	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+depois	VBP	-	-	-	Time	8415	False
+nos	FW	-	-	-	Agent	8410	True
+focamos	FW	focar.v	Emphasizing	1542	-	-	False
+na	FW	-	-	-	-	-	False
+cabeça	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

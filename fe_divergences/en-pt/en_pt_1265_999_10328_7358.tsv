@@ -1,84 +1,84 @@
-There	PRON	EX	-	-	-	False
-was	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-wonderful	ADJ	JJ	-	-	-	False
-quote	NOUN	NN	-	-	-	False
-by	ADP	IN	-	-	-	False
-Jonas	PROPN	NNP	-	-	-	False
-Salk	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-who	PRON	WP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-If	ADP	IN	-	-	-	False
-all	DET	PDT	-	-	-	False
-the	DET	DT	-	-	-	False
-insects	NOUN	NNS	-	-	-	False
-were	VERB	VBD	-	-	-	False
-to	PART	TO	-	-	-	False
-disappear	VERB	VB	-	-	-	False
-from	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Earth	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-within	ADP	IN	within.prep	Temporal_collocation	-	False
-50	NUM	CD	-	-	Landmark_period	True
-years	NOUN	NNS	-	-	Landmark_period	True
-all	DET	DT	-	-	Trajector_event	True
-life	NOUN	NN	-	-	Trajector_event	True
-on	ADP	IN	-	-	Trajector_event	True
-Earth	PROPN	NNP	-	-	Trajector_event	True
-would	AUX	MD	-	-	Trajector_event	True
-end	VERB	VB	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+wonderful	JJ	-	-	-	-	-	False
+quote	NN	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+Jonas	NNP	-	-	-	-	-	False
+Salk	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+who	WP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+If	IN	-	-	-	-	-	False
+all	PDT	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+insects	NNS	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+disappear	VB	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Earth	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+within	IN	within.prep	Temporal_collocation	1895	-	-	False
+50	CD	-	-	-	Landmark_period	12063	True
+years	NNS	-	-	-	Landmark_period	12063	True
+all	DT	-	-	-	Trajector_event	12064	True
+life	NN	-	-	-	Trajector_event	12064	True
+on	IN	-	-	-	Trajector_event	12064	True
+Earth	NNP	-	-	-	Trajector_event	12064	True
+would	MD	-	-	-	Trajector_event	12064	True
+end	VB	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False
 
-Existe	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-frase	X	FW	-	-	-	False
-maravilhosa	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Jonas	PROPN	NNP	-	-	-	False
-Salk	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-diz	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-insetos	X	FW	-	-	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	dentro de.prep	Temporal_collocation	-	False
-de	X	FW	dentro de.prep	Temporal_collocation	-	False
-50	X	FW	-	-	Landmark_period	True
-anos	X	FW	-	-	Landmark_period	True
-,	PUNCT	,	-	-	-	False
-toda	X	FW	-	-	Trajector_event	True
-vida	X	FW	-	-	Trajector_event	True
-na	X	FW	-	-	Trajector_event	True
-Terra	X	FW	-	-	Trajector_event	True
-desapareceria.Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-humanos	X	FW	-	-	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-Terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-50	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-todas	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-formas	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-vida	X	FW	-	-	-	False
-floresceriam	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Existe	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+frase	FW	-	-	-	-	-	False
+maravilhosa	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Jonas	NNP	-	-	-	-	-	False
+Salk	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+diz	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+insetos	FW	-	-	-	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	dentro de.prep	Temporal_collocation	1895	-	-	False
+de	FW	dentro de.prep	Temporal_collocation	1895	-	-	False
+50	FW	-	-	-	Landmark_period	12063	True
+anos	FW	-	-	-	Landmark_period	12063	True
+,	,	-	-	-	-	-	False
+toda	FW	-	-	-	Trajector_event	12064	True
+vida	FW	-	-	-	Trajector_event	12064	True
+na	FW	-	-	-	Trajector_event	12064	True
+Terra	FW	-	-	-	Trajector_event	12064	True
+desapareceria.Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+humanos	FW	-	-	-	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+Terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+50	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+formas	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+vida	FW	-	-	-	-	-	False
+floresceriam	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

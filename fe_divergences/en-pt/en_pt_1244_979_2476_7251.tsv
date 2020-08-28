@@ -1,42 +1,42 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-minute	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	Theme	True
-left	VERB	VBD	leave.v	Departing	-	False
-the	DET	DT	-	-	Source	True
-room	NOUN	NN	-	-	Source	True
-,	PUNCT	,	-	-	-	False
-she	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-on	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	-	False
-feet	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-moving	VERB	VBG	-	-	-	False
-to	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-music	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+minute	NN	-	-	-	-	-	False
+they	PRP	-	-	-	Theme	243	True
+left	VBD	leave.v	Departing	57	-	-	False
+the	DT	-	-	-	Source	244	True
+room	NN	-	-	-	Source	244	True
+,	,	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	-	-	False
+feet	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+moving	VBG	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+music	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-assim	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eles	X	FW	-	-	Theme	True
-deixaram	X	FW	deixar.v	Departing	-	False
-a	X	FW	-	-	Source	True
-sala	X	FW	-	-	Source	True
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-pé	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	-	-	-	False
-movendo	X	FW	-	-	-	False
-com	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-música	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+assim	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eles	FW	-	-	-	Theme	243	True
+deixaram	FW	deixar.v	Departing	57	-	-	False
+a	FW	-	-	-	Source	244	True
+sala	FW	-	-	-	Source	244	True
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+pé	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+movendo	FW	-	-	-	-	-	False
+com	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+música	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

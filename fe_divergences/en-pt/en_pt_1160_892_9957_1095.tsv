@@ -1,29 +1,29 @@
-They	PRON	PRP	-	-	-	False
-look	VERB	VBP	-	-	-	False
-upon	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-body	NOUN	NN	-	-	-	False
-as	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-form	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-transport	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	Possessor	True
-heads	NOUN	NNS	head.n	Body_parts	Body_part	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	-	-	False
+look	VBP	-	-	-	-	-	False
+upon	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+body	NN	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+form	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+transport	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	Possessor	611	True
+heads	NNS	head.n	Body_parts	119	Body_part	692	True
+.	.	-	-	-	-	-	False
 
-Eles	X	FW	-	-	Possessor	True
-vêem	X	FW	-	-	-	False
-o	X	FW	-	-	Descriptor	False
-próprio	X	FW	-	-	Descriptor	False
-corpo	X	FW	corpo.n	Body_parts	-	False
-como	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-forma	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-transporte	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-cabeça	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eles	FW	-	-	-	Possessor	611	True
+vêem	FW	-	-	-	-	-	False
+o	FW	-	-	-	Descriptor	691	False
+próprio	FW	-	-	-	Descriptor	691	False
+corpo	FW	corpo.n	Body_parts	119	-	-	False
+como	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+forma	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+transporte	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+cabeça	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

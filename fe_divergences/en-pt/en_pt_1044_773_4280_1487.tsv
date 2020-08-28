@@ -1,24 +1,24 @@
-And	CCONJ	CC	-	-	-	False
-my	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-all	DET	DT	-	-	Entity	True
-kids	NOUN	NNS	-	-	Entity	True
-have	VERB	VBP	-	-	-	False
-tremendous	ADJ	JJ	-	-	Degree	False
-talents	NOUN	NNS	talent.n	Capability	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+my	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+all	DT	-	-	-	Entity	5981	True
+kids	NNS	-	-	-	Entity	5981	True
+have	VBP	-	-	-	-	-	False
+tremendous	JJ	-	-	-	Degree	5983	False
+talents	NNS	talent.n	Capability	990	-	-	False
+.	.	-	-	-	-	-	False
 
-Minha	PROPN	NNP	-	-	-	False
-convicção	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-todas	X	FW	-	-	Entity	True
-as	ADP	IN	-	-	Entity	True
-crianças	X	FW	-	-	Entity	True
-têm	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-talento	NOUN	NN	talento.n	Capability	-	False
-tremendo	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Minha	NNP	-	-	-	-	-	False
+convicção	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+todas	FW	-	-	-	Entity	5981	True
+as	IN	-	-	-	Entity	5981	True
+crianças	FW	-	-	-	Entity	5981	True
+têm	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+talento	NN	talento.n	Capability	990	-	-	False
+tremendo	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

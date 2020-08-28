@@ -1,47 +1,47 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-to	PART	TO	-	-	-	False
-visit	VERB	VB	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-an	DET	DT	-	-	-	False
-alien	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-say	VERB	VB	-	-	-	False
-'	PUNCT	''	-	-	-	False
-What	PRON	WP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-it	PRON	PRP	-	-	-	False
-for	ADP	IN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-public	ADJ	JJ	-	-	-	False
-education	NOUN	NN	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+visit	VB	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+alien	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+say	VB	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+What	WP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+public	JJ	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-visitasse	X	FW	-	-	-	False
-nossas	X	FW	-	-	-	False
-escolas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-como	X	VB	-	-	-	False
-um	INTJ	UH	-	-	-	False
-ET	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-perguntasse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Para	PROPN	FW	-	-	-	False
-que	VERB	FW	-	-	-	False
-serve	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-educação	NOUN	FW	educação.n	Education_teaching	-	False
-pública	NOUN	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+visitasse	FW	-	-	-	-	-	False
+nossas	FW	-	-	-	-	-	False
+escolas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+como	VB	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+ET	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+perguntasse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Para	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+serve	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+educação	FW	educação.n	Education_teaching	111	-	-	False
+pública	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

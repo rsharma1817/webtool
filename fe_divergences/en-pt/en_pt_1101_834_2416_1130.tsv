@@ -1,48 +1,48 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-lived	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-place	NOUN	NN	-	-	-	False
-called	VERB	VBN	-	-	-	False
-Snitterfield	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-just	ADV	RB	-	-	-	False
-outside	ADP	IN	-	-	-	False
-Stratford	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-where	ADV	WRB	-	-	Place	False
-Shakespeare	PROPN	NNP	-	-	Child	True
-'s	PART	POS	-	-	Child	True
-father	NOUN	NN	-	-	Child	True
-was	VERB	VBD	-	-	-	False
-born	VERB	VBN	born.v	Being_born	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+lived	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+place	NN	-	-	-	-	-	False
+called	VBN	-	-	-	-	-	False
+Snitterfield	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+just	RB	-	-	-	-	-	False
+outside	IN	-	-	-	-	-	False
+Stratford	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+where	WRB	-	-	-	Place	5622	False
+Shakespeare	NNP	-	-	-	Child	5620	True
+'s	POS	-	-	-	Child	5620	True
+father	NN	-	-	-	Child	5620	True
+was	VBD	-	-	-	-	-	False
+born	VBN	born.v	Being_born	793	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-verdade	X	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nós	X	FW	-	-	-	False
-moramos	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-cidade	X	FW	-	-	-	False
-chamada	X	FW	-	-	-	False
-Snitterfield	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-na	X	FW	-	-	-	False
-periferia	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Stratford	X	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-onde	X	FW	-	-	-	False
-o	X	FW	-	-	Child	True
-pai	X	FW	-	-	Child	True
-do	VERB	VBP	-	-	Child	True
-Shakespeare	PROPN	NNP	-	-	Child	True
-nasceu	PROPN	NNP	nascer.v	Being_born	-	False
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+verdade	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nós	FW	-	-	-	-	-	False
+moramos	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+cidade	FW	-	-	-	-	-	False
+chamada	FW	-	-	-	-	-	False
+Snitterfield	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+periferia	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Stratford	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+onde	FW	-	-	-	-	-	False
+o	FW	-	-	-	Child	5620	True
+pai	FW	-	-	-	Child	5620	True
+do	VBP	-	-	-	Child	5620	True
+Shakespeare	NNP	-	-	-	Child	5620	True
+nasceu	NNP	nascer.v	Being_born	793	-	-	False
+.	.	-	-	-	-	-	False

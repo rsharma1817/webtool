@@ -1,57 +1,57 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Item	True
-only	ADJ	JJ	only.a	Sole_instance	Item	True
-way	NOUN	NN	-	-	Type	True
-we	PRON	PRP	-	-	Type	True
-'ll	AUX	MD	-	-	Type	True
-do	VERB	VB	-	-	Type	True
-it	PRON	PRP	-	-	Type	True
-is	VERB	VBZ	-	-	-	False
-by	ADP	IN	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-creative	ADJ	JJ	-	-	-	False
-capacities	NOUN	NNS	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-richness	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-hope	NOUN	NN	-	-	-	False
-that	PRON	WDT	-	-	-	False
-they	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Item	3656	True
+only	JJ	only.a	Sole_instance	355	Item	3656	True
+way	NN	-	-	-	Type	3657	True
+we	PRP	-	-	-	Type	3657	True
+'ll	MD	-	-	-	Type	3657	True
+do	VB	-	-	-	Type	3657	True
+it	PRP	-	-	-	Type	3657	True
+is	VBZ	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+creative	JJ	-	-	-	-	-	False
+capacities	NNS	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+richness	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+hope	NN	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	FW	-	-	-	False
-única	X	FW	único.a	Sole_instance	-	False
-maneira	X	FW	-	-	Type	True
-de	X	FW	-	-	-	False
-fazer	X	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-encarando	X	FW	-	-	Item	True
-nossa	X	FW	-	-	Item	True
-capacidade	X	FW	-	-	Item	True
-criativa	X	FW	-	-	Item	True
-pela	X	FW	-	-	Item	True
-riqueza	X	FW	-	-	Item	True
-que	X	FW	-	-	Item	True
-ela	X	FW	-	-	Item	True
-representa	X	FW	-	-	Item	True
-e	X	FW	-	-	Item	True
-nossas	X	FW	-	-	Item	True
-crianças	X	FW	-	-	Item	True
-pela	X	FW	-	-	Item	True
-esperança	X	FW	-	-	Item	True
-que	X	FW	-	-	Item	True
-elas	X	FW	-	-	Item	True
-representam	X	FW	-	-	Item	True
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+única	FW	único.a	Sole_instance	355	-	-	False
+maneira	FW	-	-	-	Type	3657	True
+de	FW	-	-	-	-	-	False
+fazer	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+encarando	FW	-	-	-	Item	3656	True
+nossa	FW	-	-	-	Item	3656	True
+capacidade	FW	-	-	-	Item	3656	True
+criativa	FW	-	-	-	Item	3656	True
+pela	FW	-	-	-	Item	3656	True
+riqueza	FW	-	-	-	Item	3656	True
+que	FW	-	-	-	Item	3656	True
+ela	FW	-	-	-	Item	3656	True
+representa	FW	-	-	-	Item	3656	True
+e	FW	-	-	-	Item	3656	True
+nossas	FW	-	-	-	Item	3656	True
+crianças	FW	-	-	-	Item	3656	True
+pela	FW	-	-	-	Item	3656	True
+esperança	FW	-	-	-	Item	3656	True
+que	FW	-	-	-	Item	3656	True
+elas	FW	-	-	-	Item	3656	True
+representam	FW	-	-	-	Item	3656	True
+.	.	-	-	-	-	-	False

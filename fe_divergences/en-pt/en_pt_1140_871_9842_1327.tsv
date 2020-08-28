@@ -1,13 +1,13 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	think.v	Opinion	-	False
-this	DET	DT	-	-	Opinion	True
-is	VERB	VBZ	-	-	Opinion	True
-rather	ADV	RB	-	-	Opinion	True
-important	ADJ	JJ	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	think.v	Opinion	1412	-	-	False
+this	DT	-	-	-	Opinion	7870	True
+is	VBZ	-	-	-	Opinion	7870	True
+rather	RB	-	-	-	Opinion	7870	True
+important	JJ	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Cognizer	True
-acho	X	FW	achar.v	Opinion	-	False
-bastante	X	FW	-	-	Opinion	True
-importante	X	FW	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Cognizer	7869	True
+acho	FW	achar.v	Opinion	1412	-	-	False
+bastante	FW	-	-	-	Opinion	7870	True
+importante	FW	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False

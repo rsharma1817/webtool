@@ -1,24 +1,24 @@
-And	CCONJ	CC	-	-	-	False
-my	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-all	DET	DT	all.a	Quantified_mass	Quantity	True
-kids	NOUN	NNS	-	-	Individuals	True
-have	VERB	VBP	-	-	-	False
-tremendous	ADJ	JJ	-	-	-	False
-talents	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+my	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+all	DT	all.a	Quantified_mass	189	Quantity	1550	True
+kids	NNS	-	-	-	Individuals	1552	True
+have	VBP	-	-	-	-	-	False
+tremendous	JJ	-	-	-	-	-	False
+talents	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Minha	PROPN	NNP	-	-	-	False
-convicção	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-todas	X	FW	todo.a	Quantified_mass	-	False
-as	ADP	IN	-	-	Individuals	True
-crianças	X	FW	-	-	Individuals	True
-têm	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-talento	NOUN	NN	-	-	-	False
-tremendo	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Minha	NNP	-	-	-	-	-	False
+convicção	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+todas	FW	todo.a	Quantified_mass	189	-	-	False
+as	IN	-	-	-	Individuals	1552	True
+crianças	FW	-	-	-	Individuals	1552	True
+têm	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+talento	NN	-	-	-	-	-	False
+tremendo	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

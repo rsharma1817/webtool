@@ -1,23 +1,23 @@
-They	PRON	PRP	-	-	-	False
-come	VERB	VBP	-	-	-	False
-in	ADP	RP	-	-	-	False
-bearing	VERB	VBG	-	-	-	False
-gifts	NOUN	NNS	gift.n	Giving	-	False
-,	PUNCT	,	-	-	-	False
-gold	NOUN	NN	-	-	Theme	True
-,	PUNCT	,	-	-	Theme	True
-frankincense	NOUN	NN	-	-	Theme	True
-and	CCONJ	CC	-	-	Theme	True
-myrrh	NOUN	NN	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	-	-	False
+come	VBP	-	-	-	-	-	False
+in	RP	-	-	-	-	-	False
+bearing	VBG	-	-	-	-	-	False
+gifts	NNS	gift.n	Giving	139	-	-	False
+,	,	-	-	-	-	-	False
+gold	NN	-	-	-	Theme	1054	True
+,	,	-	-	-	Theme	1054	True
+frankincense	NN	-	-	-	Theme	1054	True
+and	CC	-	-	-	Theme	1054	True
+myrrh	NN	-	-	-	Theme	1054	True
+.	.	-	-	-	-	-	False
 
-Sie	PROPN	VB	-	-	Donor	True
-bringen	PROPN	NNP	bringen.v	Giving	-	False
-Geschenke	PROPN	NNP	-	-	Theme	True
-,	PUNCT	,	-	-	-	False
-Gold	PROPN	NNP	-	-	Depictive	False
-,	PUNCT	,	-	-	-	False
-Weihrauch	PROPN	NNP	-	-	Depictive	False
-und	CCONJ	NNP	-	-	-	False
-Myrrhe	PROPN	NNP	-	-	Depictive	False
-.	PUNCT	.	-	-	-	False
+Sie	VB	-	-	-	Donor	1052	True
+bringen	NNP	bringen.v	Giving	139	-	-	False
+Geschenke	NNP	-	-	-	Theme	1054	True
+,	,	-	-	-	-	-	False
+Gold	NNP	-	-	-	Depictive	11956	False
+,	,	-	-	-	-	-	False
+Weihrauch	NNP	-	-	-	Depictive	11956	False
+und	NNP	-	-	-	-	-	False
+Myrrhe	NNP	-	-	-	Depictive	11956	False
+.	.	-	-	-	-	-	False

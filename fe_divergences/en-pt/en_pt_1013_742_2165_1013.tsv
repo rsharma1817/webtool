@@ -1,39 +1,39 @@
-There	PRON	EX	-	-	-	False
-have	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-three	NUM	CD	-	-	-	False
-themes	NOUN	NNS	theme.n	Topic	Topic	True
-running	VERB	VBG	-	-	-	False
-through	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-conference	NOUN	NN	-	-	-	False
-which	PRON	WDT	-	-	-	False
-are	VERB	VBP	-	-	-	False
-relevant	ADJ	JJ	-	-	-	False
-to	ADP	IN	-	-	-	False
-what	PRON	WP	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+three	CD	-	-	-	-	-	False
+themes	NNS	theme.n	Topic	373	Topic	3346	True
+running	VBG	-	-	-	-	-	False
+through	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+conference	NN	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+relevant	JJ	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Existem	X	FW	-	-	-	False
-três	X	FW	-	-	-	False
-tópicos	X	FW	tópico.n	Topic	-	False
-abordados	X	FW	-	-	Text	True
-ao	X	FW	-	-	Text	True
-longo	X	FW	-	-	Text	True
-da	X	FW	-	-	Text	True
-conferência	X	FW	-	-	Text	True
-que	X	FW	-	-	Explanation	False
-são	X	FW	-	-	Explanation	False
-relevantes	X	FW	-	-	Explanation	False
-para	X	FW	-	-	Explanation	False
-o	X	FW	-	-	Explanation	False
-que	X	FW	-	-	Explanation	False
-eu	X	FW	-	-	Explanation	False
-vou	X	FW	-	-	Explanation	False
-falar	X	FW	-	-	Explanation	False
-.	PUNCT	.	-	-	-	False
+Existem	FW	-	-	-	-	-	False
+três	FW	-	-	-	-	-	False
+tópicos	FW	tópico.n	Topic	373	-	-	False
+abordados	FW	-	-	-	Text	3347	True
+ao	FW	-	-	-	Text	3347	True
+longo	FW	-	-	-	Text	3347	True
+da	FW	-	-	-	Text	3347	True
+conferência	FW	-	-	-	Text	3347	True
+que	FW	-	-	-	Explanation	11137	False
+são	FW	-	-	-	Explanation	11137	False
+relevantes	FW	-	-	-	Explanation	11137	False
+para	FW	-	-	-	Explanation	11137	False
+o	FW	-	-	-	Explanation	11137	False
+que	FW	-	-	-	Explanation	11137	False
+eu	FW	-	-	-	Explanation	11137	False
+vou	FW	-	-	-	Explanation	11137	False
+falar	FW	-	-	-	Explanation	11137	False
+.	.	-	-	-	-	-	False

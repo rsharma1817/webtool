@@ -1,33 +1,33 @@
-And	CCONJ	CC	-	-	-	False
-it	PRON	PRP	-	-	-	False
-indicates	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-structure	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-shifting	VERB	VBG	-	-	-	False
-beneath	ADP	IN	-	-	-	False
-our	PRON	PRP$	-	-	Possessor	True
-feet	NOUN	NNS	foot.n	Body_parts	Body_part	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+indicates	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+structure	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+shifting	VBG	-	-	-	-	-	False
+beneath	IN	-	-	-	-	-	False
+our	PRP$	-	-	-	Possessor	611	True
+feet	NNS	foot.n	Body_parts	119	Body_part	692	True
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-é	NOUN	UH	-	-	-	False
-um	INTJ	UH	-	-	-	False
-indicativo	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-toda	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-estrutura	X	FW	-	-	-	False
-educacional	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-mudando	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-frente	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-nosso	X	FW	-	-	-	False
-nariz	X	FW	nariz.n	Body_parts	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+é	UH	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+indicativo	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+toda	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+estrutura	FW	-	-	-	-	-	False
+educacional	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+mudando	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+frente	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+nosso	FW	-	-	-	-	-	False
+nariz	FW	nariz.n	Body_parts	119	-	-	False
+.	.	-	-	-	-	-	False

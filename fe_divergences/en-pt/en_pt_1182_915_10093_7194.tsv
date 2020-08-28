@@ -1,57 +1,57 @@
-In	ADP	IN	-	-	Proposition	True
-the	DET	DT	-	-	Proposition	True
-next	ADJ	JJ	-	-	Proposition	True
-30	NUM	CD	-	-	Proposition	True
-years	NOUN	NNS	-	-	Proposition	True
-,	PUNCT	,	-	-	-	False
-according	VERB	VBG	according to.prep	Attributed_information	-	False
-to	ADP	IN	according to.prep	Attributed_information	-	False
-UNESCO	PROPN	NNP	-	-	Speaker	True
-,	PUNCT	,	-	-	-	False
-more	ADJ	JJR	-	-	Proposition	True
-people	NOUN	NNS	-	-	Proposition	True
-worldwide	ADV	RB	-	-	Proposition	True
-will	AUX	MD	-	-	Proposition	True
-be	VERB	VB	-	-	Proposition	True
-graduating	VERB	VBG	-	-	Proposition	True
-through	ADP	IN	-	-	Proposition	True
-education	NOUN	NN	-	-	Proposition	True
-than	ADP	IN	-	-	Proposition	True
-since	ADP	IN	-	-	Proposition	True
-the	DET	DT	-	-	Proposition	True
-beginning	NOUN	NN	-	-	Proposition	True
-of	ADP	IN	-	-	Proposition	True
-history	NOUN	NN	-	-	Proposition	True
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	Proposition	6635	True
+the	DT	-	-	-	Proposition	6635	True
+next	JJ	-	-	-	Proposition	6635	True
+30	CD	-	-	-	Proposition	6635	True
+years	NNS	-	-	-	Proposition	6635	True
+,	,	-	-	-	-	-	False
+according	VBG	according to.prep	Attributed_information	1148	-	-	False
+to	IN	according to.prep	Attributed_information	1148	-	-	False
+UNESCO	NNP	-	-	-	Speaker	6636	True
+,	,	-	-	-	-	-	False
+more	JJR	-	-	-	Proposition	6635	True
+people	NNS	-	-	-	Proposition	6635	True
+worldwide	RB	-	-	-	Proposition	6635	True
+will	MD	-	-	-	Proposition	6635	True
+be	VB	-	-	-	Proposition	6635	True
+graduating	VBG	-	-	-	Proposition	6635	True
+through	IN	-	-	-	Proposition	6635	True
+education	NN	-	-	-	Proposition	6635	True
+than	IN	-	-	-	Proposition	6635	True
+since	IN	-	-	-	Proposition	6635	True
+the	DT	-	-	-	Proposition	6635	True
+beginning	NN	-	-	-	Proposition	6635	True
+of	IN	-	-	-	Proposition	6635	True
+history	NN	-	-	-	Proposition	6635	True
+.	.	-	-	-	-	-	False
 
-Nos	NOUN	NNP	-	-	-	False
-próximos	NOUN	NNS	-	-	-	False
-30	NUM	CD	-	-	-	False
-anos	NOUN	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-de	X	FW	de acordo com.c	Attributed_information	-	False
-acordo	X	FW	de acordo com.c	Attributed_information	-	False
-com	X	NN	de acordo com.c	Attributed_information	-	False
-a	DET	DT	-	-	Speaker	True
-UNESCO	PROPN	NNP	-	-	Speaker	True
-,	PUNCT	,	-	-	-	False
-mais	X	FW	-	-	Proposition	True
-gente	X	FW	-	-	Proposition	True
-ao	X	FW	-	-	Proposition	True
-redor	X	FW	-	-	Proposition	True
-do	X	VBP	-	-	Proposition	True
-mundo	X	NNP	-	-	Proposition	True
-irá	X	FW	-	-	Proposition	True
-se	X	FW	-	-	Proposition	True
-formar	X	FW	-	-	Proposition	True
-através	X	FW	-	-	Proposition	True
-da	X	FW	-	-	Proposition	True
-educação	X	FW	-	-	Proposition	True
-do	X	VB	-	-	Proposition	True
-que	X	FW	-	-	Proposition	True
-desde	X	FW	-	-	Proposition	True
-o	X	FW	-	-	Proposition	True
-princípio	X	FW	-	-	Proposition	True
-da	X	FW	-	-	Proposition	True
-história	X	FW	-	-	Proposition	True
-.	PUNCT	.	-	-	-	False
+Nos	NNP	-	-	-	-	-	False
+próximos	NNS	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+anos	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+de	FW	de acordo com.c	Attributed_information	1148	-	-	False
+acordo	FW	de acordo com.c	Attributed_information	1148	-	-	False
+com	NN	de acordo com.c	Attributed_information	1148	-	-	False
+a	DT	-	-	-	Speaker	6636	True
+UNESCO	NNP	-	-	-	Speaker	6636	True
+,	,	-	-	-	-	-	False
+mais	FW	-	-	-	Proposition	6635	True
+gente	FW	-	-	-	Proposition	6635	True
+ao	FW	-	-	-	Proposition	6635	True
+redor	FW	-	-	-	Proposition	6635	True
+do	VBP	-	-	-	Proposition	6635	True
+mundo	NNP	-	-	-	Proposition	6635	True
+irá	FW	-	-	-	Proposition	6635	True
+se	FW	-	-	-	Proposition	6635	True
+formar	FW	-	-	-	Proposition	6635	True
+através	FW	-	-	-	Proposition	6635	True
+da	FW	-	-	-	Proposition	6635	True
+educação	FW	-	-	-	Proposition	6635	True
+do	VB	-	-	-	Proposition	6635	True
+que	FW	-	-	-	Proposition	6635	True
+desde	FW	-	-	-	Proposition	6635	True
+o	FW	-	-	-	Proposition	6635	True
+princípio	FW	-	-	-	Proposition	6635	True
+da	FW	-	-	-	Proposition	6635	True
+história	FW	-	-	-	Proposition	6635	True
+.	.	-	-	-	-	-	False

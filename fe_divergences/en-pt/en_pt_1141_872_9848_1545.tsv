@@ -1,24 +1,24 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-math	NOUN	NN	-	-	Main_assertion	True
-is	VERB	VBZ	-	-	Main_assertion	True
-very	ADV	RB	-	-	Main_assertion	True
-important	ADJ	JJ	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	but.c	Concessive	-	False
-so	ADV	RB	-	-	Conceded_state_of_affairs	True
-is	VERB	VBZ	-	-	Conceded_state_of_affairs	True
-dance	NOUN	NN	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+math	NN	-	-	-	Main_assertion	13312	True
+is	VBZ	-	-	-	Main_assertion	13312	True
+very	RB	-	-	-	Main_assertion	13312	True
+important	JJ	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+but	CC	but.c	Concessive	2150	-	-	False
+so	RB	-	-	-	Conceded_state_of_affairs	13302	True
+is	VBZ	-	-	-	Conceded_state_of_affairs	13302	True
+dance	NN	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-matemática	X	FW	-	-	Conceded_state_of_affairs	True
-é	X	FW	-	-	-	False
-importante	X	FW	-	-	Topic	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	mas.c	Concessive	-	False
-dança	X	FW	-	-	Main_assertion	True
-também	X	FW	-	-	Main_assertion	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+matemática	FW	-	-	-	Conceded_state_of_affairs	13302	True
+é	FW	-	-	-	-	-	False
+importante	FW	-	-	-	Topic	13303	True
+,	,	-	-	-	-	-	False
+mas	FW	mas.c	Concessive	2150	-	-	False
+dança	FW	-	-	-	Main_assertion	13312	True
+também	FW	-	-	-	Main_assertion	13312	True
+.	.	-	-	-	-	-	False

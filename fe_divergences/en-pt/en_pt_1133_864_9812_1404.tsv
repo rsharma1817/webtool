@@ -1,39 +1,39 @@
-At	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-top	NOUN	NN	-	-	-	False
-are	VERB	VBP	-	-	-	False
-mathematics	NOUN	NNS	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-languages	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-then	ADV	RB	-	-	-	False
-the	DET	DT	-	-	-	False
-humanities	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-bottom	NOUN	NN	bottom.n	Part_orientational	-	False
-are	VERB	VBP	-	-	-	False
-the	DET	DT	-	-	Part	True
-arts	NOUN	NNS	-	-	Part	True
-.	PUNCT	.	-	-	-	False
+At	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+top	NN	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+mathematics	NNS	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+languages	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+then	RB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+humanities	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+bottom	NN	bottom.n	Part_orientational	143	-	-	False
+are	VBP	-	-	-	-	-	False
+the	DT	-	-	-	Part	1110	True
+arts	NNS	-	-	-	Part	1110	True
+.	.	-	-	-	-	-	False
 
-No	DET	DT	-	-	-	False
-topo	NOUN	NN	topo.n	Part_orientational	-	False
-estão	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	Part	True
-matemática	NOUN	NN	-	-	Part	True
-e	NOUN	NN	-	-	Part	True
-as	ADP	IN	-	-	Part	True
-línguas	NOUN	FW	-	-	Part	True
-,	PUNCT	,	-	-	-	False
-depois	NOUN	NN	-	-	-	False
-as	ADP	IN	-	-	-	False
-humanas	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-por	X	FW	-	-	-	False
-último	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-artes	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+No	DT	-	-	-	-	-	False
+topo	NN	topo.n	Part_orientational	143	-	-	False
+estão	NN	-	-	-	-	-	False
+a	DT	-	-	-	Part	1110	True
+matemática	NN	-	-	-	Part	1110	True
+e	NN	-	-	-	Part	1110	True
+as	IN	-	-	-	Part	1110	True
+línguas	FW	-	-	-	Part	1110	True
+,	,	-	-	-	-	-	False
+depois	NN	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+humanas	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+último	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+artes	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

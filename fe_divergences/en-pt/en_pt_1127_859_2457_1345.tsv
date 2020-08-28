@@ -1,25 +1,25 @@
-Because	ADP	IN	-	-	-	False
-she	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-main	ADJ	JJ	-	-	-	False
-reason	NOUN	NN	-	-	-	False
-we	PRON	PRP	-	-	Theme	True
-were	VERB	VBD	-	-	-	False
-leaving	VERB	VBG	leave.v	Departing	-	False
-the	DET	DT	-	-	Source	True
-country	NOUN	NN	-	-	Source	True
-.	PUNCT	.	-	-	-	False
+Because	IN	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+main	JJ	-	-	-	-	-	False
+reason	NN	-	-	-	-	-	False
+we	PRP	-	-	-	Theme	243	True
+were	VBD	-	-	-	-	-	False
+leaving	VBG	leave.v	Departing	57	-	-	False
+the	DT	-	-	-	Source	244	True
+country	NN	-	-	-	Source	244	True
+.	.	-	-	-	-	-	False
 
-Porque	X	NNP	-	-	-	False
-ela	X	NNP	-	-	-	False
-era	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-principal	NOUN	NN	-	-	-	False
-razão	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-estarmos	X	FW	-	-	-	False
-deixando	X	FW	deixar.v	Departing	-	False
-o	X	FW	-	-	Source	True
-país	X	FW	-	-	Source	True
-.	PUNCT	.	-	-	-	False
+Porque	NNP	-	-	-	-	-	False
+ela	NNP	-	-	-	-	-	False
+era	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+principal	NN	-	-	-	-	-	False
+razão	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+estarmos	FW	-	-	-	-	-	False
+deixando	FW	deixar.v	Departing	57	-	-	False
+o	FW	-	-	-	Source	244	True
+país	FW	-	-	-	Source	244	True
+.	.	-	-	-	-	-	False

@@ -1,57 +1,57 @@
-In	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-next	ADJ	JJ	next.a	Relative_time	-	False
-30	NUM	CD	-	-	Landmark_occasion	True
-years	NOUN	NNS	-	-	Landmark_occasion	True
-,	PUNCT	,	-	-	-	False
-according	VERB	VBG	-	-	-	False
-to	ADP	IN	-	-	-	False
-UNESCO	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-more	ADJ	JJR	-	-	-	False
-people	NOUN	NNS	-	-	-	False
-worldwide	ADV	RB	-	-	-	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-graduating	VERB	VBG	-	-	-	False
-through	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-than	ADP	IN	-	-	-	False
-since	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-beginning	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-history	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+next	JJ	next.a	Relative_time	81	-	-	False
+30	CD	-	-	-	Landmark_occasion	374	True
+years	NNS	-	-	-	Landmark_occasion	374	True
+,	,	-	-	-	-	-	False
+according	VBG	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+UNESCO	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+more	JJR	-	-	-	-	-	False
+people	NNS	-	-	-	-	-	False
+worldwide	RB	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+graduating	VBG	-	-	-	-	-	False
+through	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+than	IN	-	-	-	-	-	False
+since	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+beginning	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+history	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Nos	NOUN	NNP	-	-	-	False
-próximos	NOUN	NNS	próximo.a	Relative_time	-	False
-30	NUM	CD	-	-	Focal_occasion	True
-anos	NOUN	UH	-	-	Focal_occasion	True
-,	PUNCT	,	-	-	-	False
-de	X	FW	-	-	-	False
-acordo	X	FW	-	-	-	False
-com	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-UNESCO	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mais	X	FW	-	-	Focal_participant	True
-gente	X	FW	-	-	Focal_participant	True
-ao	X	FW	-	-	Focal_participant	True
-redor	X	FW	-	-	Focal_participant	True
-do	X	VBP	-	-	Focal_participant	True
-mundo	X	NNP	-	-	Focal_participant	True
-irá	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-formar	X	FW	-	-	-	False
-através	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-do	X	VB	-	-	-	False
-que	X	FW	-	-	-	False
-desde	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-princípio	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-história	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Nos	NNP	-	-	-	-	-	False
+próximos	NNS	próximo.a	Relative_time	81	-	-	False
+30	CD	-	-	-	Focal_occasion	373	True
+anos	UH	-	-	-	Focal_occasion	373	True
+,	,	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+acordo	FW	-	-	-	-	-	False
+com	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+UNESCO	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mais	FW	-	-	-	Focal_participant	4586	True
+gente	FW	-	-	-	Focal_participant	4586	True
+ao	FW	-	-	-	Focal_participant	4586	True
+redor	FW	-	-	-	Focal_participant	4586	True
+do	VBP	-	-	-	Focal_participant	4586	True
+mundo	NNP	-	-	-	Focal_participant	4586	True
+irá	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+formar	FW	-	-	-	-	-	False
+através	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+desde	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+princípio	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+história	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -25,7 +25,7 @@ fe_divergences/
 
 The filename of the `tsv` file comprises the information of the language pair, the pair of sentence IDs, and the pair of annotation IDs. In each file, there are two annotated sentences that share the same semantic frame and are separated by an empty line. Each column, separated by tabs, in the file contains the following information
 ```
-Word | Universal_POS | Fine_graind_POS | Lexical_unit | Semantic_frame | Frame_element | Is_core_FE
+Word | Fine_grained_POS | Lexical_unit | Semantic_frame | Frame_ID| Frame_element | Frame_element_ID | Is_core_FE
 ```
 
 ![Example](https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/assets/FE_divergence_demo.png)

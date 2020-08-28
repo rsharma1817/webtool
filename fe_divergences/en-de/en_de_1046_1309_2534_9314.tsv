@@ -1,25 +1,25 @@
-So	ADV	RB	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ich	PROPN	NNP	-	-	-	False
-möchte	PROPN	NNP	-	-	-	False
-also	ADV	RB	-	-	-	False
-über	ADJ	NN	-	-	-	False
-Bildung	PROPN	NNP	bildung.n	Education_teaching	-	False
-und	CCONJ	NNP	-	-	-	False
-Kreativität	PROPN	NNP	-	-	-	False
-sprechen	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ich	NNP	-	-	-	-	-	False
+möchte	NNP	-	-	-	-	-	False
+also	RB	-	-	-	-	-	False
+über	NN	-	-	-	-	-	False
+Bildung	NNP	bildung.n	Education_teaching	111	-	-	False
+und	NNP	-	-	-	-	-	False
+Kreativität	NNP	-	-	-	-	-	False
+sprechen	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

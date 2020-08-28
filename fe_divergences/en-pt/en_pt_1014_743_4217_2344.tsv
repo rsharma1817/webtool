@@ -1,48 +1,48 @@
-One	NUM	CD	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-evidence	NOUN	NN	evidence.n	Evidence	-	False
-of	ADP	IN	-	-	Proposition	True
-human	ADJ	JJ	-	-	Proposition	True
-creativity	NOUN	NN	-	-	Proposition	True
-in	ADP	IN	-	-	Support	True
-all	DET	DT	-	-	Support	True
-of	ADP	IN	-	-	Support	True
-the	DET	DT	-	-	Support	True
-presentations	NOUN	NNS	-	-	Support	True
-that	PRON	WDT	-	-	Support	True
-we	PRON	PRP	-	-	Support	True
-'ve	VERB	VBP	-	-	Support	True
-had	VERB	VBN	-	-	Support	True
-and	CCONJ	CC	-	-	Support	True
-in	ADP	IN	-	-	Support	True
-all	DET	DT	-	-	Support	True
-of	ADP	IN	-	-	Support	True
-the	DET	DT	-	-	Support	True
-people	NOUN	NNS	-	-	Support	True
-here	ADV	RB	-	-	Support	True
-.	PUNCT	.	-	-	-	False
+One	CD	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+evidence	NN	evidence.n	Evidence	25	-	-	False
+of	IN	-	-	-	Proposition	108	True
+human	JJ	-	-	-	Proposition	108	True
+creativity	NN	-	-	-	Proposition	108	True
+in	IN	-	-	-	Support	107	True
+all	DT	-	-	-	Support	107	True
+of	IN	-	-	-	Support	107	True
+the	DT	-	-	-	Support	107	True
+presentations	NNS	-	-	-	Support	107	True
+that	WDT	-	-	-	Support	107	True
+we	PRP	-	-	-	Support	107	True
+'ve	VBP	-	-	-	Support	107	True
+had	VBN	-	-	-	Support	107	True
+and	CC	-	-	-	Support	107	True
+in	IN	-	-	-	Support	107	True
+all	DT	-	-	-	Support	107	True
+of	IN	-	-	-	Support	107	True
+the	DT	-	-	-	Support	107	True
+people	NNS	-	-	-	Support	107	True
+here	RB	-	-	-	Support	107	True
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-primeiro	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-extraordinária	X	FW	-	-	Depictive	False
-evidência	X	FW	evidência.n	Evidence	-	False
-da	X	FW	-	-	Proposition	True
-criatividade	X	FW	-	-	Proposition	True
-humana	X	FW	-	-	Proposition	True
-em	INTJ	FW	-	-	Support	True
-todas	NOUN	FW	-	-	Support	True
-as	ADP	IN	-	-	Support	True
-apresentações	X	FW	-	-	Support	True
-que	X	FW	-	-	Support	True
-tivemos	X	FW	-	-	Support	True
-e	X	FW	-	-	Support	True
-em	X	FW	-	-	Support	True
-todas	X	FW	-	-	Support	True
-as	ADP	IN	-	-	Support	True
-pessoas	NOUN	FW	-	-	Support	True
-presentes	VERB	VBZ	-	-	Support	True
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+primeiro	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+extraordinária	FW	-	-	-	Depictive	1023	False
+evidência	FW	evidência.n	Evidence	25	-	-	False
+da	FW	-	-	-	Proposition	108	True
+criatividade	FW	-	-	-	Proposition	108	True
+humana	FW	-	-	-	Proposition	108	True
+em	FW	-	-	-	Support	107	True
+todas	FW	-	-	-	Support	107	True
+as	IN	-	-	-	Support	107	True
+apresentações	FW	-	-	-	Support	107	True
+que	FW	-	-	-	Support	107	True
+tivemos	FW	-	-	-	Support	107	True
+e	FW	-	-	-	Support	107	True
+em	FW	-	-	-	Support	107	True
+todas	FW	-	-	-	Support	107	True
+as	IN	-	-	-	Support	107	True
+pessoas	FW	-	-	-	Support	107	True
+presentes	VBZ	-	-	-	Support	107	True
+.	.	-	-	-	-	-	False

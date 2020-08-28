@@ -1,26 +1,26 @@
-I	PRON	PRP	-	-	-	False
-mean	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-Sirena	PROPN	NNP	-	-	-	False
-last	ADJ	JJ	-	-	Relative_time	True
-night	NOUN	NN	night.n	Calendric_unit	Unit	True
-was	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-marvel	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-was	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-she	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+mean	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+Sirena	NNP	-	-	-	-	-	False
+last	JJ	-	-	-	Relative_time	1993	True
+night	NN	night.n	Calendric_unit	229	Unit	10331	True
+was	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+marvel	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Sirena	PROPN	NNP	-	-	-	False
-ontem	VERB	UH	-	-	Relative_time	True
-a	DET	DT	à noite.a	Calendric_unit	-	False
-noite	X	FW	à noite.a	Calendric_unit	-	False
-foi	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-maravilha	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-não	X	NNP	-	-	-	False
-foi	X	NNP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Sirena	NNP	-	-	-	-	-	False
+ontem	UH	-	-	-	Relative_time	1993	True
+a	DT	à noite.a	Calendric_unit	229	-	-	False
+noite	FW	à noite.a	Calendric_unit	229	-	-	False
+foi	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+maravilha	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+não	NNP	-	-	-	-	-	False
+foi	NNP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

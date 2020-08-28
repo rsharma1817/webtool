@@ -1,30 +1,30 @@
-Somebody	NOUN	NN	-	-	-	False
-else	ADV	RB	-	-	-	False
-might	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-put	VERB	VBN	-	-	-	False
-her	PRON	PRP	-	-	-	False
-on	ADP	IN	-	-	-	False
-medication	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-told	VERB	VBD	-	-	-	False
-her	PRON	PRP	-	-	-	False
-to	PART	TO	-	-	-	False
-calm	VERB	VB	calm.v	Experiencer_obj	-	False
-down	ADP	RP	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+Somebody	NN	-	-	-	-	-	False
+else	RB	-	-	-	-	-	False
+might	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+put	VBN	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+medication	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+told	VBD	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+calm	VB	calm.v	Experiencer_obj	47	-	-	False
+down	RP	-	-	-	Manner	2069	False
+.	.	-	-	-	-	-	False
 
-Outra	X	FW	-	-	-	False
-pessoa	X	FW	-	-	-	False
-poderia	X	FW	-	-	-	False
-ter	X	FW	-	-	-	False
-receitado	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-remédio	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-dito	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-ela	X	FW	-	-	Experiencer	True
-se	X	FW	-	-	-	False
-acalmar	X	FW	acalmar.v	Experiencer_obj	-	False
-.	PUNCT	.	-	-	-	False
+Outra	FW	-	-	-	-	-	False
+pessoa	FW	-	-	-	-	-	False
+poderia	FW	-	-	-	-	-	False
+ter	FW	-	-	-	-	-	False
+receitado	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+remédio	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+dito	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+ela	FW	-	-	-	Experiencer	198	True
+se	FW	-	-	-	-	-	False
+acalmar	FW	acalmar.v	Experiencer_obj	47	-	-	False
+.	.	-	-	-	-	-	False

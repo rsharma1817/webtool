@@ -1,75 +1,75 @@
-In	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-end	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-doctor	NOUN	NN	-	-	-	False
-went	VERB	VBD	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-sat	VERB	VBD	-	-	-	False
-next	ADV	RB	-	-	-	False
-to	ADP	IN	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-listened	VERB	VBN	-	-	-	False
-to	ADP	IN	-	-	-	False
-all	DET	PDT	-	-	Topic	True
-these	DET	DT	-	-	Topic	True
-things	NOUN	NNS	-	-	Topic	True
-your	PRON	PRP$	-	-	Speaker	True
-mother	NOUN	NN	-	-	Speaker	True
-'s	VERB	POS	-	-	-	False
-told	VERB	VBD	tell.v	Statement	-	False
-me	PRON	PRP	-	-	Addressee	False
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP	-	-	-	False
-privately	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+end	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+doctor	NN	-	-	-	-	-	False
+went	VBD	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+sat	VBD	-	-	-	-	-	False
+next	RB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+listened	VBN	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+all	PDT	-	-	-	Topic	186	True
+these	DT	-	-	-	Topic	186	True
+things	NNS	-	-	-	Topic	186	True
+your	PRP$	-	-	-	Speaker	183	True
+mother	NN	-	-	-	Speaker	183	True
+'s	POS	-	-	-	-	-	False
+told	VBD	tell.v	Statement	43	-	-	False
+me	PRP	-	-	-	Addressee	184	False
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+privately	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-No	DET	DT	-	-	-	False
-final	ADJ	JJ	-	-	-	False
-o	X	FW	-	-	Speaker	True
-médico	X	FW	-	-	Speaker	True
-sentou	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-lado	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-Gillian	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-disse	X	FW	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Gillian	PROPN	NNP	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-eu	X	FW	-	-	Message	True
-ouvi	X	FW	-	-	Message	True
-todas	X	FW	-	-	Message	True
-as	ADP	IN	-	-	Message	True
-coisas	X	FW	-	-	Message	True
-que	X	FW	-	-	Message	True
-sua	X	FW	-	-	Message	True
-mãe	X	FW	-	-	Message	True
-me	PRON	FW	-	-	Message	True
-disse	NOUN	FW	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-e	X	FW	-	-	Message	True
-eu	X	FW	-	-	Message	True
-preciso	X	FW	-	-	Message	True
-conversar	X	FW	-	-	Message	True
-a	X	FW	-	-	Message	True
-sós	X	FW	-	-	Message	True
-com	X	FW	-	-	Message	True
-ela	X	FW	-	-	Message	True
-.	PUNCT	.	-	-	Message	True
-'	PUNCT	''	-	-	-	False
+No	DT	-	-	-	-	-	False
+final	JJ	-	-	-	-	-	False
+o	FW	-	-	-	Speaker	183	True
+médico	FW	-	-	-	Speaker	183	True
+sentou	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+lado	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+Gillian	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+disse	FW	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Gillian	NNP	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+eu	FW	-	-	-	Message	185	True
+ouvi	FW	-	-	-	Message	185	True
+todas	FW	-	-	-	Message	185	True
+as	IN	-	-	-	Message	185	True
+coisas	FW	-	-	-	Message	185	True
+que	FW	-	-	-	Message	185	True
+sua	FW	-	-	-	Message	185	True
+mãe	FW	-	-	-	Message	185	True
+me	FW	-	-	-	Message	185	True
+disse	FW	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+e	FW	-	-	-	Message	185	True
+eu	FW	-	-	-	Message	185	True
+preciso	FW	-	-	-	Message	185	True
+conversar	FW	-	-	-	Message	185	True
+a	FW	-	-	-	Message	185	True
+sós	FW	-	-	-	Message	185	True
+com	FW	-	-	-	Message	185	True
+ela	FW	-	-	-	Message	185	True
+.	.	-	-	-	Message	185	True
+'	''	-	-	-	-	-	False

@@ -1,35 +1,35 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-you	PRON	PRP	-	-	Profiled_possibility	True
-think	VERB	VBP	-	-	Profiled_possibility	True
-of	ADP	IN	-	-	Profiled_possibility	True
-it	PRON	PRP	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-children	NOUN	NNS	-	-	Consequence	True
-starting	VERB	VBG	-	-	Consequence	True
-school	NOUN	NN	-	-	Consequence	True
-this	DET	DT	-	-	Consequence	True
-year	NOUN	NN	-	-	Consequence	True
-will	AUX	MD	-	-	Consequence	True
-be	VERB	VB	-	-	Consequence	True
-retiring	VERB	VBG	-	-	Consequence	True
-in	ADP	IN	-	-	Consequence	True
-2065	NUM	CD	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+you	PRP	-	-	-	Profiled_possibility	16290	True
+think	VBP	-	-	-	Profiled_possibility	16290	True
+of	IN	-	-	-	Profiled_possibility	16290	True
+it	PRP	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+children	NNS	-	-	-	Consequence	16292	True
+starting	VBG	-	-	-	Consequence	16292	True
+school	NN	-	-	-	Consequence	16292	True
+this	DT	-	-	-	Consequence	16292	True
+year	NN	-	-	-	Consequence	16292	True
+will	MD	-	-	-	Consequence	16292	True
+be	VB	-	-	-	Consequence	16292	True
+retiring	VBG	-	-	-	Consequence	16292	True
+in	IN	-	-	-	Consequence	16292	True
+2065	CD	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
 
-Se	X	FW	se.c	Conditional_occurrence	-	False
-formos	X	FW	-	-	Profiled_possibility	True
-pensar	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	Consequence	True
-crianças	X	FW	-	-	Consequence	True
-entrando	X	FW	-	-	Consequence	True
-na	X	FW	-	-	Consequence	True
-escola	X	FW	-	-	Consequence	True
-esse	X	FW	-	-	Consequence	True
-ano	X	FW	-	-	Consequence	True
-estarão	X	FW	-	-	Consequence	True
-se	X	FW	-	-	Consequence	True
-aposentando	X	FW	-	-	Consequence	True
-em	X	FW	-	-	Consequence	True
-2065	NUM	CD	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Se	FW	se.c	Conditional_occurrence	2903	-	-	False
+formos	FW	-	-	-	Profiled_possibility	16290	True
+pensar	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	Consequence	16292	True
+crianças	FW	-	-	-	Consequence	16292	True
+entrando	FW	-	-	-	Consequence	16292	True
+na	FW	-	-	-	Consequence	16292	True
+escola	FW	-	-	-	Consequence	16292	True
+esse	FW	-	-	-	Consequence	16292	True
+ano	FW	-	-	-	Consequence	16292	True
+estarão	FW	-	-	-	Consequence	16292	True
+se	FW	-	-	-	Consequence	16292	True
+aposentando	FW	-	-	-	Consequence	16292	True
+em	FW	-	-	-	Consequence	16292	True
+2065	CD	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

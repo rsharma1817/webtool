@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-n't	ADV	RB	-	-	-	False
-an	DET	DT	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-system	NOUN	NN	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-planet	NOUN	NN	-	-	-	False
-that	PRON	WDT	-	-	-	False
-teaches	VERB	VBZ	-	-	-	False
-dance	NOUN	NN	-	-	-	False
-every	DET	DT	-	-	-	False
-day	NOUN	NN	-	-	-	False
-to	ADP	IN	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-the	DET	DT	-	-	-	False
-way	NOUN	NN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-teach	VERB	VBP	-	-	-	False
-them	PRON	PRP	-	-	-	False
-mathematics	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+system	NN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+planet	NN	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+teaches	VBZ	-	-	-	-	-	False
+dance	NN	-	-	-	-	-	False
+every	DT	-	-	-	-	-	False
+day	NN	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+teach	VBP	-	-	-	-	-	False
+them	PRP	-	-	-	-	-	False
+mathematics	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Não	PROPN	NNP	-	-	-	False
-existe	NOUN	VBP	-	-	-	False
-um	INTJ	UH	-	-	Institution	True
-sistema	NOUN	FW	-	-	Institution	True
-educacional	ADJ	FW	-	-	Institution	True
-no	INTJ	FW	-	-	-	False
-planeta	X	FW	-	-	-	False
-que	X	FW	-	-	Institution	True
-ensina	X	FW	ensinar.v	Education_teaching	-	False
-dança	X	FW	-	-	Skill	True
-diariamente	X	FW	-	-	Time	False
-às	X	FW	-	-	Student	True
-crianças	X	FW	-	-	Student	True
-da	X	FW	-	-	Manner	False
-mesma	X	FW	-	-	Manner	False
-forma	X	FW	-	-	Manner	False
-que	X	FW	-	-	Institution	True
-ensina	X	FW	-	-	Role	True
-matemática	X	FW	-	-	Subject	True
-.	PUNCT	.	-	-	-	False
+Não	NNP	-	-	-	-	-	False
+existe	VBP	-	-	-	-	-	False
+um	UH	-	-	-	Institution	543	True
+sistema	FW	-	-	-	Institution	543	True
+educacional	FW	-	-	-	Institution	543	True
+no	FW	-	-	-	-	-	False
+planeta	FW	-	-	-	-	-	False
+que	FW	-	-	-	Institution	543	True
+ensina	FW	ensinar.v	Education_teaching	111	-	-	False
+dança	FW	-	-	-	Skill	6513	True
+diariamente	FW	-	-	-	Time	6510	False
+às	FW	-	-	-	Student	542	True
+crianças	FW	-	-	-	Student	542	True
+da	FW	-	-	-	Manner	578	False
+mesma	FW	-	-	-	Manner	578	False
+forma	FW	-	-	-	Manner	578	False
+que	FW	-	-	-	Institution	543	True
+ensina	FW	-	-	-	Role	6567	True
+matemática	FW	-	-	-	Subject	544	True
+.	.	-	-	-	-	-	False

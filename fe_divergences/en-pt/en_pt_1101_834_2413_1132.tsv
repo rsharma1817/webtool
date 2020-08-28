@@ -1,48 +1,48 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-lived	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-place	NOUN	NN	place.n	Locale	Locale	True
-called	VERB	VBN	-	-	-	False
-Snitterfield	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-just	ADV	RB	-	-	-	False
-outside	ADP	IN	-	-	-	False
-Stratford	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-where	ADV	WRB	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-'s	PART	POS	-	-	-	False
-father	NOUN	NN	-	-	-	False
-was	VERB	VBD	-	-	-	False
-born	VERB	VBN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+lived	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+place	NN	place.n	Locale	192	Locale	1565	True
+called	VBN	-	-	-	-	-	False
+Snitterfield	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+just	RB	-	-	-	-	-	False
+outside	IN	-	-	-	-	-	False
+Stratford	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+'s	POS	-	-	-	-	-	False
+father	NN	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+born	VBN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-verdade	X	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nós	X	FW	-	-	-	False
-moramos	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-cidade	X	FW	-	-	-	False
-chamada	X	FW	-	-	-	False
-Snitterfield	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-na	X	FW	-	-	-	False
-periferia	X	FW	periferia.n	Locale	-	False
-de	X	FW	-	-	Container_possessor	False
-Stratford	X	NNP	-	-	Container_possessor	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-onde	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-pai	X	FW	-	-	-	False
-do	VERB	VBP	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-nasceu	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+verdade	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nós	FW	-	-	-	-	-	False
+moramos	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+cidade	FW	-	-	-	-	-	False
+chamada	FW	-	-	-	-	-	False
+Snitterfield	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+periferia	FW	periferia.n	Locale	192	-	-	False
+de	FW	-	-	-	Container_possessor	1569	False
+Stratford	NNP	-	-	-	Container_possessor	1569	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+onde	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+pai	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+nasceu	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

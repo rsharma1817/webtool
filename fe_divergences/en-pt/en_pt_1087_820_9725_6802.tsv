@@ -1,33 +1,33 @@
-And	CCONJ	CC	-	-	-	False
-by	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-time	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-get	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-adults	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-most	ADJ	JJS	-	-	-	False
-kids	NOUN	NNS	-	-	Owner	True
-have	VERB	VBP	-	-	-	False
-lost	VERB	VBN	lose.v	Losing	-	False
-that	DET	DT	-	-	Possession	True
-capacity	NOUN	NN	-	-	Possession	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+time	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+get	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+adults	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+most	JJS	-	-	-	-	-	False
+kids	NNS	-	-	-	Owner	13497	True
+have	VBP	-	-	-	-	-	False
+lost	VBN	lose.v	Losing	2197	-	-	False
+that	DT	-	-	-	Possession	13498	True
+capacity	NN	-	-	-	Possession	13498	True
+.	.	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-quando	X	NN	-	-	-	False
-chegam	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-fase	ADJ	JJ	-	-	-	False
-adulta	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	Owner	True
-maioria	X	FW	-	-	Owner	True
-das	X	FW	-	-	Owner	True
-crianças	X	FW	-	-	Owner	True
-perdeu	X	FW	perder.v	Losing	-	False
-essa	X	FW	-	-	Possession	True
-capacidade	X	FW	-	-	Possession	True
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+quando	NN	-	-	-	-	-	False
+chegam	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+fase	JJ	-	-	-	-	-	False
+adulta	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	Owner	13497	True
+maioria	FW	-	-	-	Owner	13497	True
+das	FW	-	-	-	Owner	13497	True
+crianças	FW	-	-	-	Owner	13497	True
+perdeu	FW	perder.v	Losing	2197	-	-	False
+essa	FW	-	-	-	Possession	13498	True
+capacidade	FW	-	-	-	Possession	13498	True
+.	.	-	-	-	-	-	False

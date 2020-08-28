@@ -1,32 +1,32 @@
-And	CCONJ	CC	-	-	-	False
-my	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-all	DET	DT	-	-	Entity	True
-kids	NOUN	NNS	-	-	Entity	True
-have	VERB	VBP	-	-	-	False
-tremendous	ADJ	JJ	-	-	Degree	False
-talents	NOUN	NNS	talent.n	Capability	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+my	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+all	DT	-	-	-	Entity	5981	True
+kids	NNS	-	-	-	Entity	5981	True
+have	VBP	-	-	-	-	-	False
+tremendous	JJ	-	-	-	Degree	5983	False
+talents	NNS	talent.n	Capability	990	-	-	False
+.	.	-	-	-	-	-	False
 
-Ich	INTJ	FW	-	-	-	False
-behaupte	INTJ	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	FW	-	-	-	False
-alle	X	FW	-	-	-	False
-Kinder	X	FW	-	-	-	False
-gewaltige	X	FW	-	-	Degree	False
-Talente	X	FW	talent.n	Capability	-	False
-haben	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-dass	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-sie	X	FW	-	-	-	False
-vergeuden	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-zwar	X	FW	-	-	-	False
-ziemlich	X	FW	-	-	-	False
-rücksichtslos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ich	FW	-	-	-	-	-	False
+behaupte	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+alle	FW	-	-	-	-	-	False
+Kinder	FW	-	-	-	-	-	False
+gewaltige	FW	-	-	-	Degree	5983	False
+Talente	FW	talent.n	Capability	990	-	-	False
+haben	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+sie	FW	-	-	-	-	-	False
+vergeuden	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+zwar	FW	-	-	-	-	-	False
+ziemlich	FW	-	-	-	-	-	False
+rücksichtslos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

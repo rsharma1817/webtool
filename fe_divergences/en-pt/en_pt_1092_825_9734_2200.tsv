@@ -1,30 +1,30 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-result	NOUN	NN	result.n	Causation	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	Effect	False
-we	PRON	PRP	-	-	Effect	False
-are	VERB	VBP	-	-	Effect	False
-educating	VERB	VBG	-	-	Effect	False
-people	NOUN	NNS	-	-	Effect	False
-out	ADP	IN	-	-	Effect	False
-of	ADP	IN	-	-	Effect	False
-their	PRON	PRP$	-	-	Effect	False
-creative	ADJ	JJ	-	-	Effect	False
-capacities	NOUN	NNS	-	-	Effect	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+result	NN	result.n	Causation	5	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	Effect	20	False
+we	PRP	-	-	-	Effect	20	False
+are	VBP	-	-	-	Effect	20	False
+educating	VBG	-	-	-	Effect	20	False
+people	NNS	-	-	-	Effect	20	False
+out	IN	-	-	-	Effect	20	False
+of	IN	-	-	-	Effect	20	False
+their	PRP$	-	-	-	Effect	20	False
+creative	JJ	-	-	-	Effect	20	False
+capacities	NNS	-	-	-	Effect	20	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-resultado	X	FW	resultado.n	Causation	-	False
-disso	X	FW	-	-	Cause	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-estamos	X	FW	-	-	Effect	False
-educando	X	FW	-	-	Effect	False
-as	ADP	IN	-	-	Effect	False
-pessoas	X	FW	-	-	Effect	False
-para	X	FW	-	-	Effect	False
-serem	X	FW	-	-	Effect	False
-menos	X	FW	-	-	Effect	False
-criativas	X	FW	-	-	Effect	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+resultado	FW	resultado.n	Causation	5	-	-	False
+disso	FW	-	-	-	Cause	18	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+estamos	FW	-	-	-	Effect	20	False
+educando	FW	-	-	-	Effect	20	False
+as	IN	-	-	-	Effect	20	False
+pessoas	FW	-	-	-	Effect	20	False
+para	FW	-	-	-	Effect	20	False
+serem	FW	-	-	-	Effect	20	False
+menos	FW	-	-	-	Effect	20	False
+criativas	FW	-	-	-	Effect	20	False
+.	.	-	-	-	-	-	False

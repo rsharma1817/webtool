@@ -1,30 +1,30 @@
-Like	ADP	IN	-	-	-	False
-religion	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-money	NOUN	NN	money.n	Money	Money	True
-and	CCONJ	CC	-	-	-	False
-other	ADJ	JJ	-	-	-	False
-things	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Like	IN	-	-	-	-	-	False
+religion	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+money	NN	money.n	Money	1761	Money	10360	True
+and	CC	-	-	-	-	-	False
+other	JJ	-	-	-	-	-	False
+things	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Denn	PROPN	NNP	-	-	-	False
-es	X	FW	-	-	-	False
-ist	X	FW	-	-	-	False
-eines	X	FW	-	-	-	False
-dieser	X	FW	-	-	-	False
-Themen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VB	-	-	-	False
-Leute	PROPN	NNP	-	-	-	False
-tief	X	NN	-	-	-	False
-berühren	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	INTJ	NN	-	-	-	False
-Religion	NOUN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-Geld	PROPN	NNP	geld.n	Money	-	False
-und	X	XX	-	-	-	False
-andere	X	FW	-	-	-	False
-Sachen	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Denn	NNP	-	-	-	-	-	False
+es	FW	-	-	-	-	-	False
+ist	FW	-	-	-	-	-	False
+eines	FW	-	-	-	-	-	False
+dieser	FW	-	-	-	-	-	False
+Themen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VB	-	-	-	-	-	False
+Leute	NNP	-	-	-	-	-	False
+tief	NN	-	-	-	-	-	False
+berühren	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	NN	-	-	-	-	-	False
+Religion	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+Geld	NNP	geld.n	Money	1761	-	-	False
+und	XX	-	-	-	-	-	False
+andere	FW	-	-	-	-	-	False
+Sachen	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

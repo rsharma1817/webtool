@@ -1,41 +1,41 @@
-Mind	VERB	VB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	Effect	False
-'d	AUX	VBD	-	-	Effect	False
-had	VERB	VBN	-	-	Effect	False
-their	PRON	PRP$	-	-	Effect	False
-fourth	ADJ	JJ	-	-	Effect	False
-anniversary	NOUN	NN	-	-	Effect	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	because.c	Causation	-	False
-it	PRON	PRP	-	-	Cause	False
-'s	VERB	VBZ	-	-	Cause	False
-a	DET	DT	-	-	Cause	False
-long	ADJ	JJ	-	-	Cause	False
-time	NOUN	NN	-	-	Cause	False
-when	ADV	WRB	-	-	Cause	False
-you	PRON	PRP	-	-	Cause	False
-'re	VERB	VBP	-	-	Cause	False
-16	NUM	CD	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Mind	VB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	Effect	20	False
+'d	VBD	-	-	-	Effect	20	False
+had	VBN	-	-	-	Effect	20	False
+their	PRP$	-	-	-	Effect	20	False
+fourth	JJ	-	-	-	Effect	20	False
+anniversary	NN	-	-	-	Effect	20	False
+,	,	-	-	-	-	-	False
+because	IN	because.c	Causation	5	-	-	False
+it	PRP	-	-	-	Cause	18	False
+'s	VBZ	-	-	-	Cause	18	False
+a	DT	-	-	-	Cause	18	False
+long	JJ	-	-	-	Cause	18	False
+time	NN	-	-	-	Cause	18	False
+when	WRB	-	-	-	Cause	18	False
+you	PRP	-	-	-	Cause	18	False
+'re	VBP	-	-	-	Cause	18	False
+16	CD	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False
 
-Vejam	PROPN	FW	-	-	-	False
-bem	INTJ	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eles	X	FW	-	-	Actor	True
-já	X	FW	-	-	Explanation	False
-tinham	X	FW	-	-	Explanation	False
-celebrado	X	FW	-	-	Explanation	False
-seu	X	FW	-	-	Explanation	False
-quarto	X	FW	-	-	Explanation	False
-aniversário	X	FW	-	-	Explanation	False
-,	PUNCT	,	-	-	-	False
-porque	X	FW	porque.c	Causation	-	False
-isso	X	FW	-	-	Cause	False
-é	X	FW	-	-	Cause	False
-muito	X	FW	-	-	Cause	False
-tempo	X	NN	-	-	Cause	False
-aos	X	NNP	-	-	Cause	False
-16	NUM	CD	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Vejam	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eles	FW	-	-	-	Actor	7200	True
+já	FW	-	-	-	Explanation	10933	False
+tinham	FW	-	-	-	Explanation	10933	False
+celebrado	FW	-	-	-	Explanation	10933	False
+seu	FW	-	-	-	Explanation	10933	False
+quarto	FW	-	-	-	Explanation	10933	False
+aniversário	FW	-	-	-	Explanation	10933	False
+,	,	-	-	-	-	-	False
+porque	FW	porque.c	Causation	5	-	-	False
+isso	FW	-	-	-	Cause	18	False
+é	FW	-	-	-	Cause	18	False
+muito	FW	-	-	-	Cause	18	False
+tempo	NN	-	-	-	Cause	18	False
+aos	NNP	-	-	-	Cause	18	False
+16	CD	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False

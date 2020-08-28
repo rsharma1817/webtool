@@ -1,26 +1,26 @@
-Picasso	PROPN	NNP	-	-	-	False
-once	ADV	RB	-	-	-	False
-said	VERB	VBD	-	-	-	False
-this	DET	DT	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-that	ADP	IN	-	-	Message	True
-all	DET	DT	-	-	Message	True
-children	NOUN	NNS	-	-	Message	True
-are	VERB	VBP	-	-	Message	True
-born	VERB	VBN	-	-	Message	True
-artists	NOUN	NNS	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+Picasso	NNP	-	-	-	-	-	False
+once	RB	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+that	IN	-	-	-	Message	185	True
+all	DT	-	-	-	Message	185	True
+children	NNS	-	-	-	Message	185	True
+are	VBP	-	-	-	Message	185	True
+born	VBN	-	-	-	Message	185	True
+artists	NNS	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
 
-Picasso	PROPN	NNP	-	-	Speaker	True
-disse	X	FW	dizer.v	Statement	-	False
-uma	X	FW	-	-	Time	False
-vez	X	FW	-	-	Time	False
-que	X	FW	-	-	Message	True
-todas	X	FW	-	-	Message	True
-as	ADP	IN	-	-	Message	True
-crianças	X	FW	-	-	Message	True
-nascem	X	FW	-	-	Message	True
-artistas	X	NNS	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+Picasso	NNP	-	-	-	Speaker	183	True
+disse	FW	dizer.v	Statement	43	-	-	False
+uma	FW	-	-	-	Time	4380	False
+vez	FW	-	-	-	Time	4380	False
+que	FW	-	-	-	Message	185	True
+todas	FW	-	-	-	Message	185	True
+as	IN	-	-	-	Message	185	True
+crianças	FW	-	-	-	Message	185	True
+nascem	FW	-	-	-	Message	185	True
+artistas	NNS	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False

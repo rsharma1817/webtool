@@ -1,42 +1,42 @@
-Every	DET	DT	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-system	NOUN	NN	-	-	-	False
-on	ADP	IN	-	-	-	False
-Earth	PROPN	NNP	-	-	-	False
-has	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-same	ADJ	JJ	-	-	-	False
-hierarchy	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-subjects	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Every	DT	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+system	NN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+Earth	NNP	-	-	-	-	-	False
+has	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+same	JJ	-	-	-	-	-	False
+hierarchy	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+subjects	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Uma	INTJ	FW	-	-	-	False
-coisa	X	FW	-	-	-	False
-chama	X	FW	-	-	-	False
-atenção	X	FW	-	-	-	False
-quando	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-vem	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-EUA	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-quando	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-viaja	X	FW	-	-	-	False
-pelo	X	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-todo	ADJ	FW	-	-	-	False
-sistema	NOUN	FW	-	-	-	False
-educacional	ADJ	FW	educacional.a	Education_teaching	-	False
-do	VERB	FW	-	-	-	False
-planeta	X	FW	-	-	-	False
-tem	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-mesma	X	FW	-	-	-	False
-hierarquia	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-disciplinas	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Uma	FW	-	-	-	-	-	False
+coisa	FW	-	-	-	-	-	False
+chama	FW	-	-	-	-	-	False
+atenção	FW	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+vem	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+EUA	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+viaja	FW	-	-	-	-	-	False
+pelo	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+sistema	FW	-	-	-	-	-	False
+educacional	FW	educacional.a	Education_teaching	111	-	-	False
+do	FW	-	-	-	-	-	False
+planeta	FW	-	-	-	-	-	False
+tem	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+mesma	FW	-	-	-	-	-	False
+hierarquia	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+disciplinas	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

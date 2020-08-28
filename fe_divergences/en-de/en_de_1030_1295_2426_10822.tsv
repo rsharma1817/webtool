@@ -1,30 +1,30 @@
-But	CCONJ	CC	-	-	-	False
-if	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-ask	VERB	VBP	-	-	-	False
-about	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-education	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	-	False
-pin	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-to	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-wall	NOUN	NN	wall.n	Architectural_part	Part	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+if	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+ask	VBP	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+pin	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+wall	NN	wall.n	Architectural_part	971	Part	5924	True
+.	.	-	-	-	-	-	False
 
-Fragen	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-sie	PROPN	VB	-	-	-	False
-nach	PROPN	NN	-	-	-	False
-ihrer	PROPN	NNP	-	-	-	False
-Schulbildung	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nageln	X	FW	-	-	-	False
-sie	X	FW	-	-	-	False
-Sie	PROPN	VB	-	-	-	False
-an	DET	DT	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Wand	PROPN	NNP	wand.n	Architectural_part	-	False
-.	PUNCT	.	-	-	-	False
+Fragen	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+sie	VB	-	-	-	-	-	False
+nach	NN	-	-	-	-	-	False
+ihrer	NNP	-	-	-	-	-	False
+Schulbildung	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nageln	FW	-	-	-	-	-	False
+sie	FW	-	-	-	-	-	False
+Sie	VB	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Wand	NNP	wand.n	Architectural_part	971	-	-	False
+.	.	-	-	-	-	-	False

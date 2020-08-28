@@ -1,23 +1,23 @@
-When	ADV	WRB	-	-	-	False
-my	PRON	PRP$	-	-	Ego	True
-son	NOUN	NN	son.n	Kinship	Alter	True
-was	VERB	VBD	-	-	-	False
-four	NUM	CD	-	-	-	False
-in	ADP	IN	-	-	-	False
-England	PROPN	NNP	-	-	-	False
---	PUNCT	:	-	-	-	False
+When	WRB	-	-	-	-	-	False
+my	PRP$	-	-	-	Ego	517	True
+son	NN	son.n	Kinship	104	Alter	516	True
+was	VBD	-	-	-	-	-	False
+four	CD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+England	NNP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
 
-Als	PROPN	NNP	-	-	-	False
-mein	VERB	NNP	-	-	Ego	True
-Sohn	PROPN	NNP	sohn.n	Kinship	Alter	True
-vier	VERB	NN	-	-	-	False
-war	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-England	PROPN	NNP	-	-	-	False
---	PUNCT	:	-	-	-	False
-er	INTJ	UH	-	-	-	False
-war	NOUN	NN	-	-	-	False
-eigentlich	X	FW	-	-	-	False
-überall	X	FW	-	-	-	False
-vier	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Als	NNP	-	-	-	-	-	False
+mein	NNP	-	-	-	Ego	517	True
+Sohn	NNP	sohn.n	Kinship	104	Alter	516	True
+vier	NN	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+England	NNP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+er	UH	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+eigentlich	FW	-	-	-	-	-	False
+überall	FW	-	-	-	-	-	False
+vier	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

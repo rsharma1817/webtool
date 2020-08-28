@@ -1,13 +1,13 @@
-So	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-15	NUM	CD	-	-	Count	True
-minutes	NOUN	NNS	minute.n	Measure_duration	Unit	True
-left	VERB	VBN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+15	CD	-	-	-	Count	1805	True
+minutes	NNS	minute.n	Measure_duration	224	Unit	1806	True
+left	VBN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Então	PROPN	NNP	-	-	-	False
-...	PUNCT	NFP	-	-	-	False
-Quinze	X	FW	-	-	Count	True
-minutos	X	FW	minuto.n	Measure_duration	-	False
-sobrando	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Então	NNP	-	-	-	-	-	False
+...	NFP	-	-	-	-	-	False
+Quinze	FW	-	-	-	Count	1805	True
+minutos	FW	minuto.n	Measure_duration	224	-	-	False
+sobrando	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,16 +1,16 @@
-They	PRON	PRP	-	-	Negated_proposition	True
-'re	VERB	VBP	-	-	Negated_proposition	True
-not	ADV	RB	not.adv	Negation	-	False
-frightened	ADJ	JJ	-	-	Negated_proposition	True
-of	ADP	IN	-	-	Negated_proposition	True
-being	VERB	VBG	-	-	Negated_proposition	True
-wrong	ADJ	JJ	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	Negated_proposition	16210	True
+'re	VBP	-	-	-	Negated_proposition	16210	True
+not	RB	not.adv	Negation	2860	-	-	False
+frightened	JJ	-	-	-	Negated_proposition	16210	True
+of	IN	-	-	-	Negated_proposition	16210	True
+being	VBG	-	-	-	Negated_proposition	16210	True
+wrong	JJ	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
 
-Elas	X	FW	-	-	-	False
-não	X	FW	não.adv	Negation	-	False
-tem	X	FW	-	-	Negated_proposition	True
-medo	X	FW	-	-	Negated_proposition	True
-de	X	FW	-	-	Negated_proposition	True
-errar	X	FW	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+Elas	FW	-	-	-	-	-	False
+não	FW	não.adv	Negation	2860	-	-	False
+tem	FW	-	-	-	Negated_proposition	16210	True
+medo	FW	-	-	-	Negated_proposition	16210	True
+de	FW	-	-	-	Negated_proposition	16210	True
+errar	FW	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False

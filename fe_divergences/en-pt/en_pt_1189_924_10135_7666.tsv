@@ -1,72 +1,72 @@
-But	CCONJ	CC	-	-	Effect	False
-now	ADV	RB	-	-	Effect	False
-kids	NOUN	NNS	-	-	Effect	False
-with	ADP	IN	-	-	Effect	False
-degrees	NOUN	NNS	-	-	Effect	False
-are	VERB	VBP	-	-	Effect	False
-often	ADV	RB	-	-	Effect	False
-heading	VERB	VBG	-	-	Effect	False
-home	ADV	RB	-	-	Effect	False
-to	PART	TO	-	-	Effect	False
-carry	VERB	VB	-	-	Effect	False
-on	ADP	RP	-	-	Effect	False
-playing	VERB	VBG	-	-	Effect	False
-video	NOUN	NN	-	-	Effect	False
-games	NOUN	NNS	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-because	ADP	IN	because.c	Causation	-	False
-you	PRON	PRP	-	-	Cause	False
-need	VERB	VBP	-	-	Cause	False
-an	DET	DT	-	-	Cause	False
-MA	NOUN	NN	-	-	Cause	False
-where	ADV	WRB	-	-	Cause	False
-the	DET	DT	-	-	-	False
-previous	ADJ	JJ	-	-	-	False
-job	NOUN	NN	-	-	-	False
-required	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-BA	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-now	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-PhD	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-other	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	Effect	20	False
+now	RB	-	-	-	Effect	20	False
+kids	NNS	-	-	-	Effect	20	False
+with	IN	-	-	-	Effect	20	False
+degrees	NNS	-	-	-	Effect	20	False
+are	VBP	-	-	-	Effect	20	False
+often	RB	-	-	-	Effect	20	False
+heading	VBG	-	-	-	Effect	20	False
+home	RB	-	-	-	Effect	20	False
+to	TO	-	-	-	Effect	20	False
+carry	VB	-	-	-	Effect	20	False
+on	RP	-	-	-	Effect	20	False
+playing	VBG	-	-	-	Effect	20	False
+video	NN	-	-	-	Effect	20	False
+games	NNS	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+because	IN	because.c	Causation	5	-	-	False
+you	PRP	-	-	-	Cause	18	False
+need	VBP	-	-	-	Cause	18	False
+an	DT	-	-	-	Cause	18	False
+MA	NN	-	-	-	Cause	18	False
+where	WRB	-	-	-	Cause	18	False
+the	DT	-	-	-	-	-	False
+previous	JJ	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+required	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+BA	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+PhD	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+other	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	Effect	False
-agora	X	FW	-	-	Effect	False
-garotos	X	FW	-	-	Effect	False
-com	X	FW	-	-	Effect	False
-diplomas	X	FW	-	-	Effect	False
-estão	X	FW	-	-	Effect	False
-voltando	X	FW	-	-	Effect	False
-para	X	FW	-	-	Effect	False
-casa	X	FW	-	-	Effect	False
-para	X	FW	-	-	Effect	False
-jogar	X	FW	-	-	Effect	False
-video	X	FW	-	-	Effect	False
-game	X	FW	-	-	Effect	False
-porque	X	FW	porque.c	Causation	-	False
-pedem	X	FW	-	-	Cause	False
-mestrado	X	FW	-	-	Cause	False
-para	X	FW	-	-	Cause	False
-o	X	FW	-	-	Cause	False
-trabalho	X	FW	-	-	Cause	False
-que	X	FW	-	-	Cause	False
-necessitava	X	FW	-	-	Cause	False
-bacharelado	X	FW	-	-	Cause	False
-,	PUNCT	,	-	-	Cause	False
-e	X	FW	-	-	Cause	False
-doutorado	X	FW	-	-	Cause	False
-para	X	FW	-	-	Cause	False
-o	X	FW	-	-	Cause	False
-trabalho	X	FW	-	-	Cause	False
-que	X	FW	-	-	Cause	False
-necessitava	X	FW	-	-	Cause	False
-mestrado	X	FW	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	Effect	20	False
+agora	FW	-	-	-	Effect	20	False
+garotos	FW	-	-	-	Effect	20	False
+com	FW	-	-	-	Effect	20	False
+diplomas	FW	-	-	-	Effect	20	False
+estão	FW	-	-	-	Effect	20	False
+voltando	FW	-	-	-	Effect	20	False
+para	FW	-	-	-	Effect	20	False
+casa	FW	-	-	-	Effect	20	False
+para	FW	-	-	-	Effect	20	False
+jogar	FW	-	-	-	Effect	20	False
+video	FW	-	-	-	Effect	20	False
+game	FW	-	-	-	Effect	20	False
+porque	FW	porque.c	Causation	5	-	-	False
+pedem	FW	-	-	-	Cause	18	False
+mestrado	FW	-	-	-	Cause	18	False
+para	FW	-	-	-	Cause	18	False
+o	FW	-	-	-	Cause	18	False
+trabalho	FW	-	-	-	Cause	18	False
+que	FW	-	-	-	Cause	18	False
+necessitava	FW	-	-	-	Cause	18	False
+bacharelado	FW	-	-	-	Cause	18	False
+,	,	-	-	-	Cause	18	False
+e	FW	-	-	-	Cause	18	False
+doutorado	FW	-	-	-	Cause	18	False
+para	FW	-	-	-	Cause	18	False
+o	FW	-	-	-	Cause	18	False
+trabalho	FW	-	-	-	Cause	18	False
+que	FW	-	-	-	Cause	18	False
+necessitava	FW	-	-	-	Cause	18	False
+mestrado	FW	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False

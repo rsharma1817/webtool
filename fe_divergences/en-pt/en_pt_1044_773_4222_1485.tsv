@@ -1,24 +1,24 @@
-And	CCONJ	CC	-	-	-	False
-my	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-all	DET	DT	-	-	-	False
-kids	NOUN	NNS	kid.n	People_by_age	Person	True
-have	VERB	VBP	-	-	-	False
-tremendous	ADJ	JJ	-	-	-	False
-talents	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+my	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+kids	NNS	kid.n	People_by_age	973	Person	5937	True
+have	VBP	-	-	-	-	-	False
+tremendous	JJ	-	-	-	-	-	False
+talents	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Minha	PROPN	NNP	-	-	-	False
-convicção	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-todas	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	criança.n	People_by_age	-	False
-têm	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-talento	NOUN	NN	-	-	-	False
-tremendo	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Minha	NNP	-	-	-	-	-	False
+convicção	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	criança.n	People_by_age	973	-	-	False
+têm	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+talento	NN	-	-	-	-	-	False
+tremendo	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

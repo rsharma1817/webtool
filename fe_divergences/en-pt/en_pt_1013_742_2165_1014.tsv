@@ -1,39 +1,39 @@
-There	PRON	EX	-	-	-	False
-have	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-three	NUM	CD	-	-	-	False
-themes	NOUN	NNS	theme.n	Topic	Topic	True
-running	VERB	VBG	-	-	-	False
-through	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-conference	NOUN	NN	-	-	-	False
-which	PRON	WDT	-	-	-	False
-are	VERB	VBP	-	-	-	False
-relevant	ADJ	JJ	-	-	-	False
-to	ADP	IN	-	-	-	False
-what	PRON	WP	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+three	CD	-	-	-	-	-	False
+themes	NNS	theme.n	Topic	373	Topic	3346	True
+running	VBG	-	-	-	-	-	False
+through	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+conference	NN	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+relevant	JJ	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Existem	X	FW	-	-	-	False
-três	X	FW	-	-	Topic	True
-tópicos	X	FW	-	-	Topic	True
-abordados	X	FW	abordar.v	Topic	-	False
-ao	X	FW	-	-	Time	False
-longo	X	FW	-	-	Time	False
-da	X	FW	-	-	Time	False
-conferência	X	FW	-	-	Time	False
-que	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-relevantes	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-vou	X	FW	-	-	-	False
-falar	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Existem	FW	-	-	-	-	-	False
+três	FW	-	-	-	Topic	3346	True
+tópicos	FW	-	-	-	Topic	3346	True
+abordados	FW	abordar.v	Topic	373	-	-	False
+ao	FW	-	-	-	Time	11034	False
+longo	FW	-	-	-	Time	11034	False
+da	FW	-	-	-	Time	11034	False
+conferência	FW	-	-	-	Time	11034	False
+que	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+relevantes	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+vou	FW	-	-	-	-	-	False
+falar	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

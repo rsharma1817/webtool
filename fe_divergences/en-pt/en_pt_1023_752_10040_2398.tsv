@@ -1,27 +1,27 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-not	ADV	RB	-	-	-	False
-often	ADV	RB	-	-	-	False
-at	ADP	IN	-	-	-	False
-dinner	NOUN	NN	dinner-party.n	Social_event	Social_event	False
-parties	NOUN	NNS	dinner-party.n	Social_event	Social_event	False
-,	PUNCT	,	-	-	-	False
-frankly	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+often	RB	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+dinner	NN	dinner-party.n	Social_event	125	Social_event	760	False
+parties	NNS	dinner-party.n	Social_event	125	Social_event	760	False
+,	,	-	-	-	-	-	False
+frankly	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	PROPN	FW	-	-	-	False
-verdade	PROPN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-você	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-muitas	X	FW	-	-	-	False
-festas	X	FW	festa.n	Social_event	-	False
-se	X	FW	-	-	-	False
-trabalha	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Na	FW	-	-	-	-	-	False
+verdade	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+muitas	FW	-	-	-	-	-	False
+festas	FW	festa.n	Social_event	125	-	-	False
+se	FW	-	-	-	-	-	False
+trabalha	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

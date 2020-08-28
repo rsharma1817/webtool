@@ -1,29 +1,29 @@
-And	CCONJ	CC	-	-	-	False
-in	ADP	IN	-	-	-	False
-pretty	ADV	RB	-	-	-	False
-much	ADV	RB	-	-	-	False
-every	DET	DT	-	-	-	False
-system	NOUN	NN	-	-	-	False
-too	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	Figure	True
-hierarchy	NOUN	NN	-	-	Figure	True
-within	ADP	IN	within.prep	Interior_profile_relation	-	False
-the	DET	DT	-	-	Ground	True
-arts	NOUN	NNS	-	-	Ground	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+pretty	RB	-	-	-	-	-	False
+much	RB	-	-	-	-	-	False
+every	DT	-	-	-	-	-	False
+system	NN	-	-	-	-	-	False
+too	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	Figure	6826	True
+hierarchy	NN	-	-	-	Figure	6826	True
+within	IN	within.prep	Interior_profile_relation	1178	-	-	False
+the	DT	-	-	-	Ground	6828	True
+arts	NNS	-	-	-	Ground	6828	True
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-praticamente	NOUN	NN	-	-	-	False
-em	INTJ	FW	-	-	-	False
-qualquer	X	FW	-	-	-	False
-sistema	X	FW	-	-	-	False
-existe	X	FW	-	-	-	False
-uma	X	FW	-	-	Figure	True
-hierarquia	X	FW	-	-	Figure	True
-dentre	X	FW	dentre.prep	Interior_profile_relation	-	False
-as	ADP	IN	-	-	Ground	True
-artes	NOUN	NNS	-	-	Ground	True
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+praticamente	NN	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+qualquer	FW	-	-	-	-	-	False
+sistema	FW	-	-	-	-	-	False
+existe	FW	-	-	-	-	-	False
+uma	FW	-	-	-	Figure	6826	True
+hierarquia	FW	-	-	-	Figure	6826	True
+dentre	FW	dentre.prep	Interior_profile_relation	1178	-	-	False
+as	IN	-	-	-	Ground	6828	True
+artes	NNS	-	-	-	Ground	6828	True
+.	.	-	-	-	-	-	False

@@ -1,43 +1,43 @@
-And	CCONJ	CC	-	-	-	False
-when	ADV	WRB	when.adv	Temporal_collocation	-	False
-they	PRON	PRP	-	-	Landmark_event	True
-got	VERB	VBD	-	-	Landmark_event	True
-out	ADP	RP	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	Trajector_event	True
-said	VERB	VBD	-	-	Trajector_event	True
-to	ADP	IN	-	-	Trajector_event	True
-her	PRON	PRP$	-	-	Trajector_event	True
-mother	NOUN	NN	-	-	Trajector_event	True
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Just	ADV	RB	-	-	-	False
-stand	VERB	VB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-watch	VERB	VB	-	-	-	False
-her	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+when	WRB	when.adv	Temporal_collocation	1895	-	-	False
+they	PRP	-	-	-	Landmark_event	11269	True
+got	VBD	-	-	-	Landmark_event	11269	True
+out	RP	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	Trajector_event	12064	True
+said	VBD	-	-	-	Trajector_event	12064	True
+to	IN	-	-	-	Trajector_event	12064	True
+her	PRP$	-	-	-	Trajector_event	12064	True
+mother	NN	-	-	-	Trajector_event	12064	True
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Just	RB	-	-	-	-	-	False
+stand	VB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+watch	VB	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-quando	X	FW	quando.c	Temporal_collocation	-	False
-eles	X	FW	-	-	Landmark_event	True
-saíram	X	FW	-	-	Landmark_event	True
-da	X	FW	-	-	Landmark_event	True
-sala	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	Trajector_event	True
-disse	X	FW	-	-	Trajector_event	True
-para	X	FW	-	-	Trajector_event	True
-a	X	FW	-	-	Trajector_event	True
-mãe	X	FW	-	-	Trajector_event	True
-:	PUNCT	:	-	-	Trajector_event	True
-'	PUNCT	''	-	-	Trajector_event	True
-Só	ADV	RB	-	-	Trajector_event	True
-a	DET	DT	-	-	Trajector_event	True
-escute	ADJ	NN	-	-	Trajector_event	True
-e	NOUN	NN	-	-	Trajector_event	True
-a	DET	DT	-	-	Trajector_event	True
-observe	NOUN	NN	-	-	Trajector_event	True
-.	PUNCT	.	-	-	Trajector_event	True
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+quando	FW	quando.c	Temporal_collocation	1895	-	-	False
+eles	FW	-	-	-	Landmark_event	11269	True
+saíram	FW	-	-	-	Landmark_event	11269	True
+da	FW	-	-	-	Landmark_event	11269	True
+sala	FW	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	Trajector_event	12064	True
+disse	FW	-	-	-	Trajector_event	12064	True
+para	FW	-	-	-	Trajector_event	12064	True
+a	FW	-	-	-	Trajector_event	12064	True
+mãe	FW	-	-	-	Trajector_event	12064	True
+:	:	-	-	-	Trajector_event	12064	True
+'	''	-	-	-	Trajector_event	12064	True
+Só	RB	-	-	-	Trajector_event	12064	True
+a	DT	-	-	-	Trajector_event	12064	True
+escute	NN	-	-	-	Trajector_event	12064	True
+e	NN	-	-	-	Trajector_event	12064	True
+a	DT	-	-	-	Trajector_event	12064	True
+observe	NN	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	Trajector_event	12064	True
+'	''	-	-	-	-	-	False

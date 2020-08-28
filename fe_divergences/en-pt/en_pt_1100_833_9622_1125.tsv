@@ -1,21 +1,21 @@
-So	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-can	AUX	MD	-	-	-	False
-imagine	VERB	VB	imagine.v	Awareness	-	False
-what	PRON	WP	-	-	Content	True
-a	DET	DT	-	-	Content	True
-seamless	ADJ	JJ	-	-	Content	True
-transition	NOUN	NN	-	-	Content	True
-that	PRON	WDT	-	-	Content	True
-was	VERB	VBD	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	83	True
+can	MD	-	-	-	-	-	False
+imagine	VB	imagine.v	Awareness	19	-	-	False
+what	WP	-	-	-	Content	84	True
+a	DT	-	-	-	Content	84	True
+seamless	JJ	-	-	-	Content	84	True
+transition	NN	-	-	-	Content	84	True
+that	WDT	-	-	-	Content	84	True
+was	VBD	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Vocês	NOUN	NNS	-	-	Cognizer	True
-podem	NOUN	NN	-	-	-	False
-imaginar	VERB	VBP	imaginar.v	Awareness	-	False
-a	DET	DT	-	-	Content	True
-mudança	X	FW	-	-	Content	True
-suave	X	FW	-	-	Content	True
-que	X	FW	-	-	Content	True
-foi	X	FW	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+Vocês	NNS	-	-	-	Cognizer	83	True
+podem	NN	-	-	-	-	-	False
+imaginar	VBP	imaginar.v	Awareness	19	-	-	False
+a	DT	-	-	-	Content	84	True
+mudança	FW	-	-	-	Content	84	True
+suave	FW	-	-	-	Content	84	True
+que	FW	-	-	-	Content	84	True
+foi	FW	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False

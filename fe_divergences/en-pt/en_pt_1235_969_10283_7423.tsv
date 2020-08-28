@@ -1,19 +1,19 @@
-People	NOUN	NNS	people.n	People	Person	True
-were	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-aware	ADJ	JJ	-	-	-	False
-they	PRON	PRP	-	-	-	False
-could	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-that	DET	DT	-	-	-	False
-.	PUNCT	.	-	-	-	False
+People	NNS	people.n	People	304	Person	2618	True
+were	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+aware	JJ	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+could	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-As	ADP	IN	-	-	-	False
-pessoas	NOUN	FW	pessoa.n	People	-	False
-não	X	FW	-	-	-	False
-sabiam	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-podiam	X	FW	-	-	-	False
-ter	X	FW	-	-	-	False
-aquilo	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+As	IN	-	-	-	-	-	False
+pessoas	FW	pessoa.n	People	304	-	-	False
+não	FW	-	-	-	-	-	False
+sabiam	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+podiam	FW	-	-	-	-	-	False
+ter	FW	-	-	-	-	-	False
+aquilo	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

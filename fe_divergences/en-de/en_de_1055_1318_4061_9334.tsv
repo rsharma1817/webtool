@@ -1,26 +1,26 @@
-The	DET	DT	-	-	-	False
-teacher	NOUN	NN	teacher.n	Education_teaching	Teacher	True
-was	VERB	VBD	-	-	-	False
-fascinated	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+The	DT	-	-	-	-	-	False
+teacher	NN	teacher.n	Education_teaching	111	Teacher	541	True
+was	VBD	-	-	-	-	-	False
+fascinated	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Die	VERB	VB	-	-	-	False
-Lehrerin	PROPN	NNP	lehrerin.n	Education_teaching	-	False
-war	NOUN	NN	-	-	-	False
-fasziniert	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ging	X	FW	-	-	-	False
-zu	X	FW	-	-	-	False
-ihr	X	FW	-	-	-	False
-herüber	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-fragte	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Was	VERB	VBD	-	-	-	False
-malst	X	FW	-	-	-	False
-du	X	FW	-	-	-	False
-denn	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Die	VB	-	-	-	-	-	False
+Lehrerin	NNP	lehrerin.n	Education_teaching	111	-	-	False
+war	NN	-	-	-	-	-	False
+fasziniert	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ging	FW	-	-	-	-	-	False
+zu	FW	-	-	-	-	-	False
+ihr	FW	-	-	-	-	-	False
+herüber	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+fragte	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Was	VBD	-	-	-	-	-	False
+malst	FW	-	-	-	-	-	False
+du	FW	-	-	-	-	-	False
+denn	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

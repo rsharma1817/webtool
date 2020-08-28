@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-n't	ADV	RB	-	-	-	False
-an	DET	DT	-	-	Teacher	True
-education	NOUN	NN	-	-	Teacher	True
-system	NOUN	NN	-	-	Teacher	True
-on	ADP	IN	-	-	Teacher	True
-the	DET	DT	-	-	Teacher	True
-planet	NOUN	NN	-	-	Teacher	True
-that	PRON	WDT	-	-	Teacher	True
-teaches	VERB	VBZ	teach.v	Education_teaching	-	False
-dance	NOUN	NN	-	-	Subject	True
-every	DET	DT	-	-	Depictive	False
-day	NOUN	NN	-	-	Depictive	False
-to	ADP	IN	-	-	Student	True
-children	NOUN	NNS	-	-	Student	True
-the	DET	DT	-	-	Manner	False
-way	NOUN	NN	-	-	Manner	False
-we	PRON	PRP	-	-	Manner	False
-teach	VERB	VBP	-	-	Manner	False
-them	PRON	PRP	-	-	Manner	False
-mathematics	NOUN	NNS	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+an	DT	-	-	-	Teacher	541	True
+education	NN	-	-	-	Teacher	541	True
+system	NN	-	-	-	Teacher	541	True
+on	IN	-	-	-	Teacher	541	True
+the	DT	-	-	-	Teacher	541	True
+planet	NN	-	-	-	Teacher	541	True
+that	WDT	-	-	-	Teacher	541	True
+teaches	VBZ	teach.v	Education_teaching	111	-	-	False
+dance	NN	-	-	-	Subject	544	True
+every	DT	-	-	-	Depictive	575	False
+day	NN	-	-	-	Depictive	575	False
+to	IN	-	-	-	Student	542	True
+children	NNS	-	-	-	Student	542	True
+the	DT	-	-	-	Manner	578	False
+way	NN	-	-	-	Manner	578	False
+we	PRP	-	-	-	Manner	578	False
+teach	VBP	-	-	-	Manner	578	False
+them	PRP	-	-	-	Manner	578	False
+mathematics	NNS	-	-	-	Manner	578	False
+.	.	-	-	-	-	-	False
 
-Não	PROPN	NNP	-	-	-	False
-existe	NOUN	VBP	-	-	-	False
-um	INTJ	UH	-	-	Institution	True
-sistema	NOUN	FW	-	-	Institution	True
-educacional	ADJ	FW	-	-	Institution	True
-no	INTJ	FW	-	-	-	False
-planeta	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ensina	X	FW	-	-	-	False
-dança	X	FW	-	-	-	False
-diariamente	X	FW	-	-	-	False
-às	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-da	X	FW	-	-	Manner	False
-mesma	X	FW	-	-	Manner	False
-forma	X	FW	-	-	Manner	False
-que	X	FW	-	-	Institution	True
-ensina	X	FW	ensinar.v	Education_teaching	-	False
-matemática	X	FW	-	-	Subject	True
-.	PUNCT	.	-	-	-	False
+Não	NNP	-	-	-	-	-	False
+existe	VBP	-	-	-	-	-	False
+um	UH	-	-	-	Institution	543	True
+sistema	FW	-	-	-	Institution	543	True
+educacional	FW	-	-	-	Institution	543	True
+no	FW	-	-	-	-	-	False
+planeta	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ensina	FW	-	-	-	-	-	False
+dança	FW	-	-	-	-	-	False
+diariamente	FW	-	-	-	-	-	False
+às	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+da	FW	-	-	-	Manner	578	False
+mesma	FW	-	-	-	Manner	578	False
+forma	FW	-	-	-	Manner	578	False
+que	FW	-	-	-	Institution	543	True
+ensina	FW	ensinar.v	Education_teaching	111	-	-	False
+matemática	FW	-	-	-	Subject	544	True
+.	.	-	-	-	-	-	False

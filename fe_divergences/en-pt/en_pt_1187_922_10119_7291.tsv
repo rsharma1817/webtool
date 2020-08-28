@@ -1,29 +1,29 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	Owner	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-have	VERB	VB	have.v	Possession	-	False
-a	DET	DT	-	-	Possession	True
-job	NOUN	NN	-	-	Possession	True
-,	PUNCT	,	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-because	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-want	VERB	VB	-	-	-	False
-one	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	Owner	573	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+have	VB	have.v	Possession	118	-	-	False
+a	DT	-	-	-	Possession	582	True
+job	NN	-	-	-	Possession	582	True
+,	,	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+want	VB	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Quem	X	FW	-	-	Owner	True
-não	X	FW	-	-	-	False
-tinha	X	FW	ter.v	Possession	-	False
-um	INTJ	UH	-	-	Possession	True
-emprego	NOUN	FW	-	-	Possession	True
-,	PUNCT	,	-	-	-	False
-era	X	NN	-	-	-	False
-porque	X	NN	-	-	-	False
-não	X	FW	-	-	-	False
-queria	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Quem	FW	-	-	-	Owner	573	True
+não	FW	-	-	-	-	-	False
+tinha	FW	ter.v	Possession	118	-	-	False
+um	UH	-	-	-	Possession	582	True
+emprego	FW	-	-	-	Possession	582	True
+,	,	-	-	-	-	-	False
+era	NN	-	-	-	-	-	False
+porque	NN	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+queria	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

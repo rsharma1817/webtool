@@ -1,30 +1,30 @@
-But	CCONJ	CC	-	-	-	False
-they	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-rather	ADV	RB	-	-	-	False
-curious	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Speaker	True
-say	VERB	VBP	say.v	Statement	-	False
-this	DET	DT	-	-	Message	True
-out	ADP	IN	-	-	Internal_cause	False
-of	ADP	IN	-	-	Internal_cause	False
-affection	NOUN	NN	-	-	Internal_cause	False
-for	ADP	IN	-	-	Internal_cause	False
-them	PRON	PRP	-	-	Internal_cause	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+rather	RB	-	-	-	-	-	False
+curious	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Speaker	183	True
+say	VBP	say.v	Statement	43	-	-	False
+this	DT	-	-	-	Message	185	True
+out	IN	-	-	-	Internal_cause	1519	False
+of	IN	-	-	-	Internal_cause	1519	False
+affection	NN	-	-	-	Internal_cause	1519	False
+for	IN	-	-	-	Internal_cause	1519	False
+them	PRP	-	-	-	Internal_cause	1519	False
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-peculiares	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	Speaker	True
-digo	X	FW	dizer.v	Statement	-	False
-isso	X	FW	-	-	Message	True
-com	X	FW	-	-	Manner	False
-todo	X	FW	-	-	Manner	False
-carinho	X	FW	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+peculiares	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Speaker	183	True
+digo	FW	dizer.v	Statement	43	-	-	False
+isso	FW	-	-	-	Message	185	True
+com	FW	-	-	-	Manner	1241	False
+todo	FW	-	-	-	Manner	1241	False
+carinho	FW	-	-	-	Manner	1241	False
+.	.	-	-	-	-	-	False

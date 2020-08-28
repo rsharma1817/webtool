@@ -1,39 +1,39 @@
-We	PRON	PRP	-	-	-	False
-'ll	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-back	ADV	RB	-	-	-	False
-;	PUNCT	:	-	-	-	False
-we	PRON	PRP	-	-	-	False
-wo	AUX	MD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-be	VERB	VB	-	-	-	False
-very	ADV	RB	-	-	-	False
-long	ADJ	JJ	-	-	-	False
-,'	PUNCT	NFP	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-they	PRON	PRP	-	-	Agent	True
-went	VERB	VBD	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-left	VERB	VBD	leave.v	Abandonment	-	False
-her	PRON	PRP	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+'ll	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+back	RB	-	-	-	-	-	False
+;	:	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+wo	MD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+very	RB	-	-	-	-	-	False
+long	JJ	-	-	-	-	-	False
+,'	NFP	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+they	PRP	-	-	-	Agent	12338	True
+went	VBD	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+left	VBD	leave.v	Abandonment	2031	-	-	False
+her	PRP	-	-	-	Theme	12339	True
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Espere	X	NNP	-	-	-	False
-aqui	X	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-já	X	FW	-	-	-	False
-voltamos.Não	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-demorar.	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-eles	X	FW	-	-	Agent	True
-deixaram	X	FW	deixar.v	Abandonment	-	False
-ela	X	FW	-	-	Theme	True
-sozinha	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Espere	NNP	-	-	-	-	-	False
+aqui	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+já	FW	-	-	-	-	-	False
+voltamos.Não	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+demorar.	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eles	FW	-	-	-	Agent	12338	True
+deixaram	FW	deixar.v	Abandonment	2031	-	-	False
+ela	FW	-	-	-	Theme	12339	True
+sozinha	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,57 +1,57 @@
-Nobody	NOUN	NN	-	-	Main_assertion	True
-has	VERB	VBZ	-	-	Main_assertion	True
-a	DET	DT	-	-	Main_assertion	True
-clue	NOUN	NN	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-despite	ADP	IN	despite.prep	Concessive	-	False
-all	DET	PDT	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-expertise	NOUN	NN	-	-	Conceded_state_of_affairs	True
-that	PRON	WDT	-	-	Conceded_state_of_affairs	True
-'s	VERB	VBZ	-	-	Conceded_state_of_affairs	True
-been	VERB	VBN	-	-	Conceded_state_of_affairs	True
-on	ADP	IN	-	-	Conceded_state_of_affairs	True
-parade	NOUN	NN	-	-	Conceded_state_of_affairs	True
-for	ADP	IN	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-past	ADJ	JJ	-	-	Conceded_state_of_affairs	True
-four	NUM	CD	-	-	Conceded_state_of_affairs	True
-days	NOUN	NNS	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	Main_assertion	True
-the	DET	DT	-	-	Main_assertion	True
-world	NOUN	NN	-	-	Main_assertion	True
-will	AUX	MD	-	-	Main_assertion	True
-look	VERB	VB	-	-	Main_assertion	True
-like	ADP	IN	-	-	Main_assertion	True
-in	ADP	IN	-	-	Main_assertion	True
-five	NUM	CD	-	-	Main_assertion	True
-years'	NOUN	JJ	-	-	Main_assertion	True
-time	NOUN	NN	-	-	Main_assertion	True
-.	PUNCT	.	-	-	-	False
+Nobody	NN	-	-	-	Main_assertion	13312	True
+has	VBZ	-	-	-	Main_assertion	13312	True
+a	DT	-	-	-	Main_assertion	13312	True
+clue	NN	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+despite	IN	despite.prep	Concessive	2150	-	-	False
+all	PDT	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+expertise	NN	-	-	-	Conceded_state_of_affairs	13302	True
+that	WDT	-	-	-	Conceded_state_of_affairs	13302	True
+'s	VBZ	-	-	-	Conceded_state_of_affairs	13302	True
+been	VBN	-	-	-	Conceded_state_of_affairs	13302	True
+on	IN	-	-	-	Conceded_state_of_affairs	13302	True
+parade	NN	-	-	-	Conceded_state_of_affairs	13302	True
+for	IN	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+past	JJ	-	-	-	Conceded_state_of_affairs	13302	True
+four	CD	-	-	-	Conceded_state_of_affairs	13302	True
+days	NNS	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	Main_assertion	13312	True
+the	DT	-	-	-	Main_assertion	13312	True
+world	NN	-	-	-	Main_assertion	13312	True
+will	MD	-	-	-	Main_assertion	13312	True
+look	VB	-	-	-	Main_assertion	13312	True
+like	IN	-	-	-	Main_assertion	13312	True
+in	IN	-	-	-	Main_assertion	13312	True
+five	CD	-	-	-	Main_assertion	13312	True
+years'	JJ	-	-	-	Main_assertion	13312	True
+time	NN	-	-	-	Main_assertion	13312	True
+.	.	-	-	-	-	-	False
 
-Ninguém	X	NNP	-	-	Main_assertion	True
-tem	X	FW	-	-	Main_assertion	True
-noção	X	FW	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-apesar	X	FW	apesar de.c	Concessive	-	False
-de	X	FW	apesar de.c	Concessive	-	False
-todo	X	FW	-	-	Conceded_state_of_affairs	True
-conhecimento	X	FW	-	-	Conceded_state_of_affairs	True
-que	X	FW	-	-	Conceded_state_of_affairs	True
-vimos	X	FW	-	-	Conceded_state_of_affairs	True
-nos	X	FW	-	-	Conceded_state_of_affairs	True
-últimos	X	FW	-	-	Conceded_state_of_affairs	True
-quatro	X	FW	-	-	Conceded_state_of_affairs	True
-dias	X	FW	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-de	X	FW	-	-	Main_assertion	True
-como	X	FW	-	-	Main_assertion	True
-o	X	FW	-	-	Main_assertion	True
-mundo	X	FW	-	-	Main_assertion	True
-vai	X	FW	-	-	Main_assertion	True
-estar	X	FW	-	-	Main_assertion	True
-em	X	FW	-	-	Main_assertion	True
-cinco	X	FW	-	-	Main_assertion	True
-anos	X	FW	-	-	Main_assertion	True
-.	PUNCT	.	-	-	-	False
+Ninguém	NNP	-	-	-	Main_assertion	13312	True
+tem	FW	-	-	-	Main_assertion	13312	True
+noção	FW	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+apesar	FW	apesar de.c	Concessive	2150	-	-	False
+de	FW	apesar de.c	Concessive	2150	-	-	False
+todo	FW	-	-	-	Conceded_state_of_affairs	13302	True
+conhecimento	FW	-	-	-	Conceded_state_of_affairs	13302	True
+que	FW	-	-	-	Conceded_state_of_affairs	13302	True
+vimos	FW	-	-	-	Conceded_state_of_affairs	13302	True
+nos	FW	-	-	-	Conceded_state_of_affairs	13302	True
+últimos	FW	-	-	-	Conceded_state_of_affairs	13302	True
+quatro	FW	-	-	-	Conceded_state_of_affairs	13302	True
+dias	FW	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+de	FW	-	-	-	Main_assertion	13312	True
+como	FW	-	-	-	Main_assertion	13312	True
+o	FW	-	-	-	Main_assertion	13312	True
+mundo	FW	-	-	-	Main_assertion	13312	True
+vai	FW	-	-	-	Main_assertion	13312	True
+estar	FW	-	-	-	Main_assertion	13312	True
+em	FW	-	-	-	Main_assertion	13312	True
+cinco	FW	-	-	-	Main_assertion	13312	True
+anos	FW	-	-	-	Main_assertion	13312	True
+.	.	-	-	-	-	-	False

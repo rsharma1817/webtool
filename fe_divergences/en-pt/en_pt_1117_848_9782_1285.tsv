@@ -1,44 +1,44 @@
-Anyway	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-moved	VERB	VBD	-	-	-	False
-from	ADP	IN	-	-	-	False
-Stratford	PROPN	NNP	-	-	-	False
-to	ADP	IN	-	-	-	False
-Los	PROPN	NNP	-	-	-	False
-Angeles	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-just	ADV	RB	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-say	VERB	VB	-	-	-	False
-a	DET	DT	-	-	Text	True
-word	NOUN	NN	-	-	Text	True
-about	ADP	IN	about.prep	Topic	-	False
-the	DET	DT	-	-	Topic	True
-transition	NOUN	NN	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Anyway	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+moved	VBD	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+Stratford	NNP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Los	NNP	-	-	-	-	-	False
+Angeles	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+just	RB	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+say	VB	-	-	-	-	-	False
+a	DT	-	-	-	Text	3347	True
+word	NN	-	-	-	Text	3347	True
+about	IN	about.prep	Topic	373	-	-	False
+the	DT	-	-	-	Topic	3346	True
+transition	NN	-	-	-	Topic	3346	True
+.	.	-	-	-	-	-	False
 
-Enfim	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nos	X	FW	-	-	-	False
-mudamos	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Stratford	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-Los	PROPN	NNP	-	-	-	False
-Angeles	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-eu	INTJ	FW	-	-	Communicator	True
-só	ADV	FW	-	-	-	False
-quero	X	FW	-	-	-	False
-dizer	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-coisa	X	FW	-	-	-	False
-sobre	X	FW	sobre.prep	Topic	-	False
-essa	X	FW	-	-	Topic	True
-transição	X	FW	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Enfim	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+mudamos	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Stratford	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+Los	NNP	-	-	-	-	-	False
+Angeles	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Communicator	3348	True
+só	FW	-	-	-	-	-	False
+quero	FW	-	-	-	-	-	False
+dizer	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+coisa	FW	-	-	-	-	-	False
+sobre	FW	sobre.prep	Topic	373	-	-	False
+essa	FW	-	-	-	Topic	3346	True
+transição	FW	-	-	-	Topic	3346	True
+.	.	-	-	-	-	-	False

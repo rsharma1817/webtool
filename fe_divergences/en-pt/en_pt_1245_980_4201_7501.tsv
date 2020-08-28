@@ -1,65 +1,65 @@
-And	CCONJ	CC	-	-	-	False
-they	PRON	PRP	-	-	-	False
-watched	VERB	VBD	-	-	-	False
-for	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-few	ADJ	JJ	-	-	-	False
-minutes	NOUN	NNS	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	-	False
-turned	VERB	VBD	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	-	False
-mother	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Mrs.Lynne	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-n't	ADV	RB	-	-	-	False
-sick	ADJ	JJ	-	-	-	False
-;	PUNCT	:	-	-	-	False
-she	PRON	PRP	-	-	Person	True
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-dancer	NOUN	NN	dancer.n	People_by_vocation	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+watched	VBD	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+few	JJ	-	-	-	-	-	False
+minutes	NNS	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+turned	VBD	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	-	-	False
+mother	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Mrs.Lynne	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+sick	JJ	-	-	-	-	-	False
+;	:	-	-	-	-	-	False
+she	PRP	-	-	-	Person	6263	True
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+dancer	NN	dancer.n	People_by_vocation	1071	-	-	False
+.	.	-	-	-	-	-	False
 
-Eles	X	FW	-	-	-	False
-observaram	X	FW	-	-	-	False
-por	X	FW	-	-	-	False
-alguns	X	FW	-	-	-	False
-minutos	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-ele	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-virou	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-mãe	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Sra.Lynne	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-não	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-doente	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-dançarina.Leve-a	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-escola	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-dança	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Eles	FW	-	-	-	-	-	False
+observaram	FW	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+alguns	FW	-	-	-	-	-	False
+minutos	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+virou	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+mãe	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Sra.Lynne	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+doente	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+dançarina.Leve-a	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+escola	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+dança	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

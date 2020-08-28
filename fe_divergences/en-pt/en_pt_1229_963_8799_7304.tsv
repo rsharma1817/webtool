@@ -1,52 +1,52 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-school	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-'	PUNCT	''	-	-	-	False
-30s	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wrote	VERB	VBD	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	-	False
-parents	NOUN	NNS	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-We	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Opinion	-	False
-Gillian	PROPN	NNP	-	-	Opinion	True
-has	VERB	VBZ	-	-	Opinion	True
-a	DET	DT	-	-	Opinion	True
-learning	NOUN	NN	-	-	Opinion	True
-disorder	NOUN	NN	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+30s	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wrote	VBD	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	-	-	False
+parents	NNS	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+We	PRP	-	-	-	Cognizer	7869	True
+think	VBP	think.v	Opinion	1412	-	-	False
+Gillian	NNP	-	-	-	Opinion	7870	True
+has	VBZ	-	-	-	Opinion	7870	True
+a	DT	-	-	-	Opinion	7870	True
+learning	NN	-	-	-	Opinion	7870	True
+disorder	NN	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-escola	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nos	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-30	NUM	CD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-escreveu	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-pais	X	FW	-	-	-	False
-dizendo	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Achamos	PROPN	NNP	achar.v	Opinion	-	False
-que	VERB	VB	-	-	Opinion	True
-a	DET	DT	-	-	Opinion	True
-Gillian	PROPN	NNP	-	-	Opinion	True
-tem	X	FW	-	-	Opinion	True
-dificuldade	X	FW	-	-	Opinion	True
-de	X	FW	-	-	Opinion	True
-aprendizado	X	FW	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+escola	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+escreveu	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+pais	FW	-	-	-	-	-	False
+dizendo	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Achamos	NNP	achar.v	Opinion	1412	-	-	False
+que	VB	-	-	-	Opinion	7870	True
+a	DT	-	-	-	Opinion	7870	True
+Gillian	NNP	-	-	-	Opinion	7870	True
+tem	FW	-	-	-	Opinion	7870	True
+dificuldade	FW	-	-	-	Opinion	7870	True
+de	FW	-	-	-	Opinion	7870	True
+aprendizado	FW	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

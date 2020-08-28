@@ -1,40 +1,40 @@
-Around	ADP	IN	-	-	Place	False
-the	DET	DT	-	-	Place	False
-world	NOUN	NN	-	-	Place	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	there be.v	Existence	-	False
-were	VERB	VBD	there be.v	Existence	-	False
-no	DET	DT	-	-	Entity	True
-public	ADJ	JJ	-	-	Entity	True
-systems	NOUN	NNS	-	-	Entity	True
-of	ADP	IN	-	-	Entity	True
-education	NOUN	NN	-	-	Entity	True
-,	PUNCT	,	-	-	-	False
-really	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-before	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-19th	ADJ	JJ	-	-	-	False
-century	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Around	IN	-	-	-	Place	6547	False
+the	DT	-	-	-	Place	6547	False
+world	NN	-	-	-	Place	6547	False
+,	,	-	-	-	-	-	False
+there	EX	there be.v	Existence	660	-	-	False
+were	VBD	there be.v	Existence	660	-	-	False
+no	DT	-	-	-	Entity	4381	True
+public	JJ	-	-	-	Entity	4381	True
+systems	NNS	-	-	-	Entity	4381	True
+of	IN	-	-	-	Entity	4381	True
+education	NN	-	-	-	Entity	4381	True
+,	,	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+before	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+19th	JJ	-	-	-	-	-	False
+century	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-sistema	NOUN	NN	-	-	-	False
-foi	NOUN	FW	-	-	-	False
-concebido	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-no	INTJ	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-todo	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	-	False
-existiam	X	FW	existir.v	Existence	-	False
-sistemas	X	FW	-	-	Entity	True
-públicos	X	FW	-	-	Entity	True
-de	X	FW	-	-	Entity	True
-educação	X	FW	-	-	Entity	True
-antes	X	FW	-	-	Time	False
-do	VERB	VBP	-	-	Time	False
-Séc.XIX	PROPN	NNP	-	-	Time	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+sistema	NN	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+concebido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+existiam	FW	existir.v	Existence	660	-	-	False
+sistemas	FW	-	-	-	Entity	4381	True
+públicos	FW	-	-	-	Entity	4381	True
+de	FW	-	-	-	Entity	4381	True
+educação	FW	-	-	-	Entity	4381	True
+antes	FW	-	-	-	Time	4382	False
+do	VBP	-	-	-	Time	4382	False
+Séc.XIX	NNP	-	-	-	Time	4382	False
+.	.	-	-	-	-	-	False

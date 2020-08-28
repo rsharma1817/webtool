@@ -1,29 +1,29 @@
-So	ADV	RB	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Communicator	True
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	about.prep	Topic	-	False
-creativity	NOUN	NN	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Communicator	3348	True
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	about.prep	Topic	373	-	-	False
+creativity	NN	-	-	-	Topic	3346	True
+.	.	-	-	-	-	-	False
 
-Por	NOUN	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-quero	X	FW	-	-	-	False
-falar	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-quero	X	FW	-	-	-	False
-falar	X	FW	-	-	-	False
-sobre	X	FW	sobre.prep	Topic	-	False
-criatividade	X	FW	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Por	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+quero	FW	-	-	-	-	-	False
+falar	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+quero	FW	-	-	-	-	-	False
+falar	FW	-	-	-	-	-	False
+sobre	FW	sobre.prep	Topic	373	-	-	False
+criatividade	FW	-	-	-	Topic	3346	True
+.	.	-	-	-	-	-	False

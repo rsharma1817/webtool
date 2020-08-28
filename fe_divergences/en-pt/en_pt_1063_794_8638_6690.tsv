@@ -1,15 +1,15 @@
-He	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Nativity	PROPN	NNP	-	-	Type	True
-play	NOUN	NN	play.n	Performing_arts	-	False
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Nativity	NNP	-	-	-	Type	3743	True
+play	NN	play.n	Performing_arts	405	-	-	False
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Performer	True
-estava	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-peça	X	FW	peça.n	Performing_arts	-	False
-de	X	FW	-	-	Type	True
-Natal	X	NNP	-	-	Type	True
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Performer	3735	True
+estava	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+peça	FW	peça.n	Performing_arts	405	-	-	False
+de	FW	-	-	-	Type	3743	True
+Natal	NNP	-	-	-	Type	3743	True
+.	.	-	-	-	-	-	False

@@ -1,33 +1,33 @@
-If	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-being	VERB	VBG	-	-	-	False
-strict	ADJ	JJ	-	-	-	False
-about	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wherever	ADV	WRB	-	-	-	False
-he	PRON	PRP	-	-	-	False
-went	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-four	NUM	CD	-	-	-	False
-that	DET	DT	-	-	-	False
-year	NOUN	NN	year.n	Calendric_unit	Whole	True
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+being	VBG	-	-	-	-	-	False
+strict	JJ	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wherever	WRB	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+went	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+four	CD	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+year	NN	year.n	Calendric_unit	229	Whole	2016	True
+.	.	-	-	-	-	-	False
 
-Genau	PROPN	NNP	-	-	-	False
-genommen	NOUN	NNS	-	-	-	False
-war	NOUN	NN	-	-	-	False
-er	INTJ	FW	-	-	-	False
-das	X	FW	-	-	-	False
-ganze	X	FW	-	-	-	False
-Jahr	X	NNP	jahr.n	Calendric_unit	-	False
-vier	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-egal	X	NN	-	-	-	False
-wo	X	MD	-	-	-	False
-er	INTJ	UH	-	-	-	False
-hinging	INTJ	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Genau	NNP	-	-	-	-	-	False
+genommen	NNS	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+er	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+ganze	FW	-	-	-	-	-	False
+Jahr	NNP	jahr.n	Calendric_unit	229	-	-	False
+vier	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+egal	NN	-	-	-	-	-	False
+wo	MD	-	-	-	-	-	False
+er	UH	-	-	-	-	-	False
+hinging	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

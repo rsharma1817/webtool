@@ -1,30 +1,30 @@
-What	PRON	WP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-there	ADV	EX	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-person	NOUN	NN	person.n	People	Person	True
-of	ADP	IN	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-dedication	NOUN	NN	-	-	-	False
-who	PRON	WP	-	-	-	False
-found	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-talent	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+What	WP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+person	NN	person.n	People	304	Person	2618	True
+of	IN	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+dedication	NN	-	-	-	-	-	False
+who	WP	-	-	-	-	-	False
+found	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+talent	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Sie	X	NNP	-	-	-	False
-ist	X	NNP	-	-	-	False
-eine	X	NNP	-	-	-	False
-Person	X	NNP	person.n	People	-	False
-mit	X	FW	-	-	Persistent_characteristic	False
-außerordentlicher	X	FW	-	-	Persistent_characteristic	False
-Hingabe	PROPN	FW	-	-	Persistent_characteristic	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-ihr	NOUN	PRP$	-	-	-	False
-Talent	NOUN	NN	-	-	-	False
-gefunden	ADJ	JJ	-	-	-	False
-hat	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+ist	NNP	-	-	-	-	-	False
+eine	NNP	-	-	-	-	-	False
+Person	NNP	person.n	People	304	-	-	False
+mit	FW	-	-	-	Persistent_characteristic	2619	False
+außerordentlicher	FW	-	-	-	Persistent_characteristic	2619	False
+Hingabe	FW	-	-	-	Persistent_characteristic	2619	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+ihr	PRP$	-	-	-	-	-	False
+Talent	NN	-	-	-	-	-	False
+gefunden	JJ	-	-	-	-	-	False
+hat	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

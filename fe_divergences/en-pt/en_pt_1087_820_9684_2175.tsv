@@ -1,33 +1,33 @@
-And	CCONJ	CC	-	-	-	False
-by	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-time	NOUN	NN	time.n	Event_instance	Instance	True
-they	PRON	PRP	-	-	Event	True
-get	VERB	VBP	-	-	Event	True
-to	PART	TO	-	-	Event	True
-be	VERB	VB	-	-	Event	True
-adults	NOUN	NNS	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-most	ADJ	JJS	-	-	-	False
-kids	NOUN	NNS	-	-	-	False
-have	VERB	VBP	-	-	-	False
-lost	VERB	VBN	-	-	-	False
-that	DET	DT	-	-	-	False
-capacity	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+time	NN	time.n	Event_instance	2140	Instance	13271	True
+they	PRP	-	-	-	Event	13272	True
+get	VBP	-	-	-	Event	13272	True
+to	TO	-	-	-	Event	13272	True
+be	VB	-	-	-	Event	13272	True
+adults	NNS	-	-	-	Event	13272	True
+,	,	-	-	-	-	-	False
+most	JJS	-	-	-	-	-	False
+kids	NNS	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+lost	VBN	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+capacity	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-quando	X	NN	-	-	-	False
-chegam	X	NN	-	-	Event	True
-a	DET	DT	-	-	Event	True
-fase	ADJ	JJ	fase.n	Event_instance	Event	True
-adulta	NOUN	NN	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-maioria	X	FW	-	-	-	False
-das	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-perdeu	X	FW	-	-	-	False
-essa	X	FW	-	-	-	False
-capacidade	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+quando	NN	-	-	-	-	-	False
+chegam	NN	-	-	-	Event	13272	True
+a	DT	-	-	-	Event	13272	True
+fase	JJ	fase.n	Event_instance	2140	Event	13272	True
+adulta	NN	-	-	-	Event	13272	True
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+maioria	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+perdeu	FW	-	-	-	-	-	False
+essa	FW	-	-	-	-	-	False
+capacidade	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

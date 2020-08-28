@@ -1,64 +1,64 @@
-We	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-sitting	VERB	VBG	-	-	-	False
-there	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-they	PRON	PRP	-	-	-	False
-just	ADV	RB	-	-	-	False
-went	VERB	VBD	-	-	-	False
-out	ADP	IN	-	-	-	False
-of	ADP	IN	-	-	-	False
-sequence	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	Event	True
-talked	VERB	VBD	-	-	Event	True
-to	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-little	ADJ	JJ	-	-	Event	True
-boy	NOUN	NN	-	-	Event	True
-afterward	ADV	RB	afterward.adv	Time_vector	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-You	PRON	PRP	-	-	-	False
-OK	ADJ	JJ	-	-	-	False
-with	ADP	IN	-	-	-	False
-that	DET	DT	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+We	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+sitting	VBG	-	-	-	-	-	False
+there	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+just	RB	-	-	-	-	-	False
+went	VBD	-	-	-	-	-	False
+out	IN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+sequence	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+we	PRP	-	-	-	Event	4832	True
+talked	VBD	-	-	-	Event	4832	True
+to	IN	-	-	-	Event	4832	True
+the	DT	-	-	-	Event	4832	True
+little	JJ	-	-	-	Event	4832	True
+boy	NN	-	-	-	Event	4832	True
+afterward	RB	afterward.adv	Time_vector	379	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+You	PRP	-	-	-	-	-	False
+OK	JJ	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Wir	X	NNP	-	-	Landmark_event	True
-saßen	X	FW	-	-	Landmark_event	True
-da	X	FW	-	-	Landmark_event	True
-und	X	FW	-	-	Landmark_event	True
-ich	X	FW	-	-	Landmark_event	True
-glaube	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	Landmark_event	True
-sie	X	FW	-	-	Landmark_event	True
-vertauschten	X	FW	-	-	Landmark_event	True
-die	X	FW	-	-	Landmark_event	True
-Reihenfolge	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-weil	NOUN	NN	-	-	-	False
-wir	NOUN	NN	-	-	-	False
-hinterher	NOUN	NN	hinterher.adv	Time_vector	Direction	True
-fragten	VERB	NN	-	-	Event	True
-:	PUNCT	:	-	-	Event	True
-'	PUNCT	''	-	-	Event	True
-War	NOUN	NN	-	-	Event	True
-das	X	VBZ	-	-	Event	True
-okay	X	JJ	-	-	Event	True
-für	X	NN	-	-	Event	True
-dich	X	FW	-	-	Event	True
-?'	PUNCT	''	-	-	Event	True
-und	CCONJ	VB	-	-	-	False
-er	INTJ	UH	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ja	PROPN	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Wir	NNP	-	-	-	Landmark_event	3396	True
+saßen	FW	-	-	-	Landmark_event	3396	True
+da	FW	-	-	-	Landmark_event	3396	True
+und	FW	-	-	-	Landmark_event	3396	True
+ich	FW	-	-	-	Landmark_event	3396	True
+glaube	FW	-	-	-	Landmark_event	3396	True
+,	,	-	-	-	Landmark_event	3396	True
+sie	FW	-	-	-	Landmark_event	3396	True
+vertauschten	FW	-	-	-	Landmark_event	3396	True
+die	FW	-	-	-	Landmark_event	3396	True
+Reihenfolge	FW	-	-	-	Landmark_event	3396	True
+,	,	-	-	-	-	-	False
+weil	NN	-	-	-	-	-	False
+wir	NN	-	-	-	-	-	False
+hinterher	NN	hinterher.adv	Time_vector	379	Direction	3398	True
+fragten	NN	-	-	-	Event	4832	True
+:	:	-	-	-	Event	4832	True
+'	''	-	-	-	Event	4832	True
+War	NN	-	-	-	Event	4832	True
+das	VBZ	-	-	-	Event	4832	True
+okay	JJ	-	-	-	Event	4832	True
+für	NN	-	-	-	Event	4832	True
+dich	FW	-	-	-	Event	4832	True
+?'	''	-	-	-	Event	4832	True
+und	VB	-	-	-	-	-	False
+er	UH	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ja	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

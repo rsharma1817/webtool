@@ -1,40 +1,40 @@
-I	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-please	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	Cook	True
-'m	VERB	VBP	-	-	-	False
-trying	VERB	VBG	-	-	-	False
-to	PART	TO	-	-	-	False
-fry	VERB	VB	fry.v	Cooking_creation	-	False
-an	DET	DT	-	-	Produced_food	True
-egg	NOUN	NN	-	-	Produced_food	True
-in	ADV	RB	-	-	-	False
-here	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+I	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+please	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	Cook	2298	True
+'m	VBP	-	-	-	-	-	False
+trying	VBG	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+fry	VB	fry.v	Cooking_creation	268	-	-	False
+an	DT	-	-	-	Produced_food	2299	True
+egg	NN	-	-	-	Produced_food	2299	True
+in	RB	-	-	-	-	-	False
+here	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-digo	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-por	X	FW	-	-	-	False
-favor	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-tentando	X	FW	-	-	-	False
-fritar	X	FW	fritar.v	Cooking_creation	-	False
-um	INTJ	UH	-	-	Produced_food	True
-ovo	X	FW	-	-	Produced_food	True
-aqui.Me	X	FW	-	-	-	False
-deixa	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-paz	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+digo	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+favor	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+tentando	FW	-	-	-	-	-	False
+fritar	FW	fritar.v	Cooking_creation	268	-	-	False
+um	UH	-	-	-	Produced_food	2299	True
+ovo	FW	-	-	-	Produced_food	2299	True
+aqui.Me	FW	-	-	-	-	-	False
+deixa	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+paz	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

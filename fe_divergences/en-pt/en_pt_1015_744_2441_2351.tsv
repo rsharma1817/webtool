@@ -1,17 +1,17 @@
-Just	ADV	RB	-	-	-	False
-the	DET	DT	-	-	-	False
-variety	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-range	NOUN	NN	range.n	Diversity	-	False
-of	ADP	IN	-	-	Dimension	True
-it	PRON	PRP	-	-	Dimension	True
-.	PUNCT	.	-	-	-	False
+Just	RB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+variety	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+range	NN	range.n	Diversity	1893	-	-	False
+of	IN	-	-	-	Dimension	11246	True
+it	PRP	-	-	-	Dimension	11246	True
+.	.	-	-	-	-	-	False
 
-Sua	PROPN	NN	-	-	Group	True
-variedade	VERB	NN	variedade.n	Diversity	-	False
-e	NOUN	NN	-	-	-	False
-multiplicidade	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sua	NN	-	-	-	Group	11243	True
+variedade	NN	variedade.n	Diversity	1893	-	-	False
+e	NN	-	-	-	-	-	False
+multiplicidade	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

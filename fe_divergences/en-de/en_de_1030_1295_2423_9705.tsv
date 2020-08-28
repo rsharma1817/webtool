@@ -1,30 +1,30 @@
-But	CCONJ	CC	-	-	-	False
-if	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-ask	VERB	VBP	-	-	-	False
-about	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-education	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	Agent	True
-pin	VERB	VBP	pin.v	Attaching	-	False
-you	PRON	PRP	-	-	Item	True
-to	ADP	IN	-	-	Goal	True
-the	DET	DT	-	-	Goal	True
-wall	NOUN	NN	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+if	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+ask	VBP	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	Agent	1605	True
+pin	VBP	pin.v	Attaching	197	-	-	False
+you	PRP	-	-	-	Item	1606	True
+to	IN	-	-	-	Goal	2195	True
+the	DT	-	-	-	Goal	2195	True
+wall	NN	-	-	-	Goal	2195	True
+.	.	-	-	-	-	-	False
 
-Fragen	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-sie	PROPN	VB	-	-	-	False
-nach	PROPN	NN	-	-	-	False
-ihrer	PROPN	NNP	-	-	-	False
-Schulbildung	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nageln	X	FW	nageln.v	Attaching	-	False
-sie	X	FW	-	-	Agent	True
-Sie	PROPN	VB	-	-	Item	True
-an	DET	DT	-	-	Goal	True
-die	VERB	VBP	-	-	Goal	True
-Wand	PROPN	NNP	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+Fragen	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+sie	VB	-	-	-	-	-	False
+nach	NN	-	-	-	-	-	False
+ihrer	NNP	-	-	-	-	-	False
+Schulbildung	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nageln	FW	nageln.v	Attaching	197	-	-	False
+sie	FW	-	-	-	Agent	1605	True
+Sie	VB	-	-	-	Item	1606	True
+an	DT	-	-	-	Goal	2195	True
+die	VBP	-	-	-	Goal	2195	True
+Wand	NNP	-	-	-	Goal	2195	True
+.	.	-	-	-	-	-	False

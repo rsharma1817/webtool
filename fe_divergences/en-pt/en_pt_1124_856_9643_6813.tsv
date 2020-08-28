@@ -1,41 +1,41 @@
-Mind	VERB	VB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	-	False
-'d	AUX	VBD	-	-	-	False
-had	VERB	VBN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-fourth	ADJ	JJ	-	-	-	False
-anniversary	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	Trajector_entity	True
-'s	VERB	VBZ	-	-	Trajector_entity	True
-a	DET	DT	-	-	Trajector_entity	True
-long	ADJ	JJ	-	-	Trajector_entity	True
-time	NOUN	NN	-	-	Trajector_entity	True
-when	ADV	WRB	when.adv	Temporal_collocation	-	False
-you	PRON	PRP	-	-	Landmark_event	True
-'re	VERB	VBP	-	-	Landmark_event	True
-16	NUM	CD	-	-	Landmark_event	True
-.	PUNCT	.	-	-	-	False
+Mind	VB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+'d	VBD	-	-	-	-	-	False
+had	VBN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+fourth	JJ	-	-	-	-	-	False
+anniversary	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+it	PRP	-	-	-	Trajector_entity	11268	True
+'s	VBZ	-	-	-	Trajector_entity	11268	True
+a	DT	-	-	-	Trajector_entity	11268	True
+long	JJ	-	-	-	Trajector_entity	11268	True
+time	NN	-	-	-	Trajector_entity	11268	True
+when	WRB	when.adv	Temporal_collocation	1895	-	-	False
+you	PRP	-	-	-	Landmark_event	11269	True
+'re	VBP	-	-	-	Landmark_event	11269	True
+16	CD	-	-	-	Landmark_event	11269	True
+.	.	-	-	-	-	-	False
 
-Vejam	PROPN	FW	-	-	-	False
-bem	INTJ	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eles	X	FW	-	-	-	False
-já	X	FW	-	-	-	False
-tinham	X	FW	-	-	-	False
-celebrado	X	FW	-	-	-	False
-seu	X	FW	-	-	-	False
-quarto	X	FW	-	-	-	False
-aniversário	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-porque	X	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-muito	X	FW	-	-	Landmark_period	True
-tempo	X	NN	-	-	Landmark_period	True
-aos	X	NNP	a.prep	Temporal_collocation	-	False
-16	NUM	CD	-	-	Trajector_period	True
-.	PUNCT	.	-	-	-	False
+Vejam	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+já	FW	-	-	-	-	-	False
+tinham	FW	-	-	-	-	-	False
+celebrado	FW	-	-	-	-	-	False
+seu	FW	-	-	-	-	-	False
+quarto	FW	-	-	-	-	-	False
+aniversário	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+muito	FW	-	-	-	Landmark_period	12063	True
+tempo	NN	-	-	-	Landmark_period	12063	True
+aos	NNP	a.prep	Temporal_collocation	1895	-	-	False
+16	CD	-	-	-	Trajector_period	12062	True
+.	.	-	-	-	-	-	False

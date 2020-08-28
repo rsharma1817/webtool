@@ -1,16 +1,16 @@
-It	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-process	NOUN	NN	process.n	Process	-	False
-of	ADP	IN	-	-	Process	False
-academic	ADJ	JJ	-	-	Process	False
-inflation	NOUN	NN	-	-	Process	False
-.	PUNCT	.	-	-	-	False
+It	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+process	NN	process.n	Process	233	-	-	False
+of	IN	-	-	-	Process	2018	False
+academic	JJ	-	-	-	Process	2018	False
+inflation	NN	-	-	-	Process	2018	False
+.	.	-	-	-	-	-	False
 
-É	NOUN	NN	-	-	-	False
-um	INTJ	UH	-	-	-	False
-processo	X	FW	processo.n	Process	-	False
-de	X	FW	-	-	Result	False
-inflação	X	FW	-	-	Result	False
-acadêmica	X	FW	-	-	Result	False
-.	PUNCT	.	-	-	Result	False
+É	NN	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+processo	FW	processo.n	Process	233	-	-	False
+de	FW	-	-	-	Result	2024	False
+inflação	FW	-	-	-	Result	2024	False
+acadêmica	FW	-	-	-	Result	2024	False
+.	.	-	-	-	Result	2024	False

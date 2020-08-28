@@ -1,43 +1,43 @@
-And	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Experiencer	True
-like	VERB	VBP	like.v	Experiencer_focus	-	False
-university	NOUN	NN	-	-	Content	True
-professors	NOUN	NNS	-	-	Content	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-should	AUX	MD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-hold	VERB	VB	-	-	-	False
-them	PRON	PRP	-	-	-	False
-up	ADP	RP	-	-	-	False
-as	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-high-water	ADJ	JJ	-	-	-	False
-mark	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-all	DET	DT	-	-	-	False
-human	ADJ	JJ	-	-	-	False
-achievement	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Experiencer	201	True
+like	VBP	like.v	Experiencer_focus	48	-	-	False
+university	NN	-	-	-	Content	202	True
+professors	NNS	-	-	-	Content	202	True
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+should	MD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+hold	VB	-	-	-	-	-	False
+them	PRP	-	-	-	-	-	False
+up	RP	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+high-water	JJ	-	-	-	-	-	False
+mark	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+human	JJ	-	-	-	-	-	False
+achievement	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Experiencer	True
-gosto	X	FW	gostar.v	Experiencer_focus	-	False
-de	X	FW	-	-	Content	True
-professores	X	FW	-	-	Content	True
-universitários	X	FW	-	-	Content	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-nós	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-devemos	X	FW	-	-	-	False
-colocá-los	X	FW	-	-	-	False
-no	X	FW	-	-	-	False
-topo	X	FW	-	-	-	False
-das	X	FW	-	-	-	False
-realizações	X	FW	-	-	-	False
-humanas	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Experiencer	201	True
+gosto	FW	gostar.v	Experiencer_focus	48	-	-	False
+de	FW	-	-	-	Content	202	True
+professores	FW	-	-	-	Content	202	True
+universitários	FW	-	-	-	Content	202	True
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+nós	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+devemos	FW	-	-	-	-	-	False
+colocá-los	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+topo	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+realizações	FW	-	-	-	-	-	False
+humanas	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

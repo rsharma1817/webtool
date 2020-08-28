@@ -1,25 +1,25 @@
-They	PRON	PRP	-	-	-	False
-come	VERB	VBP	-	-	-	False
-in	ADP	RP	-	-	-	False
-bearing	VERB	VBG	-	-	-	False
-gifts	NOUN	NNS	gift.n	Giving	-	False
-,	PUNCT	,	-	-	-	False
-gold	NOUN	NN	-	-	Theme	True
-,	PUNCT	,	-	-	Theme	True
-frankincense	NOUN	NN	-	-	Theme	True
-and	CCONJ	CC	-	-	Theme	True
-myrrh	NOUN	NN	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	-	-	False
+come	VBP	-	-	-	-	-	False
+in	RP	-	-	-	-	-	False
+bearing	VBG	-	-	-	-	-	False
+gifts	NNS	gift.n	Giving	139	-	-	False
+,	,	-	-	-	-	-	False
+gold	NN	-	-	-	Theme	1054	True
+,	,	-	-	-	Theme	1054	True
+frankincense	NN	-	-	-	Theme	1054	True
+and	CC	-	-	-	Theme	1054	True
+myrrh	NN	-	-	-	Theme	1054	True
+.	.	-	-	-	-	-	False
 
-Eles	PROPN	NNP	-	-	Donor	True
-carregam	PROPN	NNP	-	-	-	False
-presentes	NOUN	VBZ	presente.n	Giving	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-trazem	X	FW	-	-	-	False
-ouro	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-incenso	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-mirra	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eles	NNP	-	-	-	Donor	1052	True
+carregam	NNP	-	-	-	-	-	False
+presentes	VBZ	presente.n	Giving	139	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+trazem	FW	-	-	-	-	-	False
+ouro	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+incenso	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+mirra	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

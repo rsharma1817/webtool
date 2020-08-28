@@ -1,10 +1,10 @@
-And	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	Source	True
-'s	VERB	VBZ	-	-	-	False
-right	ADJ	JJ	right.a	Correctness	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+he	PRP	-	-	-	Source	11735	True
+'s	VBZ	-	-	-	-	-	False
+right	JJ	right.a	Correctness	1512	-	-	False
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Source	True
-está	X	FW	-	-	-	False
-certo	X	FW	certo.a	Correctness	-	False
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Source	11735	True
+está	FW	-	-	-	-	-	False
+certo	FW	certo.a	Correctness	1512	-	-	False
+.	.	-	-	-	-	-	False

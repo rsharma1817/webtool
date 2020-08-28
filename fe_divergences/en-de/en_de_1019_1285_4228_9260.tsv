@@ -1,27 +1,27 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	-	False
-I	PRON	PRP	-	-	-	False
-find	VERB	VBP	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-everybody	NOUN	NN	-	-	-	False
-has	VERB	VBZ	-	-	-	False
-an	DET	DT	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+find	VBP	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+everybody	NN	-	-	-	-	-	False
+has	VBZ	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+.	.	-	-	-	-	-	False
 
-Im	VERB	UH	-	-	-	False
-Grunde	PROPN	NNP	-	-	-	False
-finde	VERB	VBP	-	-	-	False
-ich	NOUN	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	FW	-	-	-	False
-sich	X	FW	-	-	-	False
-eigentlich	X	FW	-	-	-	False
-jeder	X	FW	-	-	-	False
-für	X	FW	-	-	-	False
-Bildung	X	NNP	bildung.n	Education_teaching	-	False
-interessiert	X	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Im	UH	-	-	-	-	-	False
+Grunde	NNP	-	-	-	-	-	False
+finde	VBP	-	-	-	-	-	False
+ich	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+sich	FW	-	-	-	-	-	False
+eigentlich	FW	-	-	-	-	-	False
+jeder	FW	-	-	-	-	-	False
+für	FW	-	-	-	-	-	False
+Bildung	NNP	bildung.n	Education_teaching	111	-	-	False
+interessiert	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

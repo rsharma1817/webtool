@@ -1,31 +1,31 @@
-'	PUNCT	''	-	-	-	False
-My	PRON	PRP$	-	-	-	False
-one	NUM	CD	-	-	Count	False
-night	NOUN	NN	night.n	Calendric_unit	Unit	True
-out	ADV	RP	-	-	-	False
-all	DET	DT	-	-	-	False
-week	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+My	PRP$	-	-	-	-	-	False
+one	CD	-	-	-	Count	7759	False
+night	NN	night.n	Calendric_unit	229	Unit	10331	True
+out	RP	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+week	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Elas	X	NNP	-	-	-	False
-pensam	X	NN	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ai	PROPN	FW	-	-	-	False
-meu	PROPN	FW	-	-	-	False
-Deus	PROPN	NNP	-	-	-	False
-!	PUNCT	,	-	-	-	False
-Por	PROPN	FW	-	-	-	False
-que	PROPN	FW	-	-	-	False
-eu	PROPN	FW	-	-	-	False
-?	PUNCT	,	-	-	-	False
-Logo	X	FW	-	-	-	False
-hoje	X	FW	hoje.n	Calendric_unit	-	False
-que	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-saí	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-casa	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Elas	NNP	-	-	-	-	-	False
+pensam	NN	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ai	FW	-	-	-	-	-	False
+meu	FW	-	-	-	-	-	False
+Deus	NNP	-	-	-	-	-	False
+!	,	-	-	-	-	-	False
+Por	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+?	,	-	-	-	-	-	False
+Logo	FW	-	-	-	-	-	False
+hoje	FW	hoje.n	Calendric_unit	229	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+saí	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+casa	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

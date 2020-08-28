@@ -1,26 +1,26 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-third	ADJ	JJ	third.a	Ordinal_numbers	Item	True
-boy	NOUN	NN	-	-	Item	True
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Frank	PROPN	NNP	-	-	-	False
-sent	VERB	VBD	-	-	-	False
-this	DET	DT	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+third	JJ	third.a	Ordinal_numbers	1147	Item	6633	True
+boy	NN	-	-	-	Item	6633	True
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Frank	NNP	-	-	-	-	-	False
+sent	VBD	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-o	X	FW	-	-	-	False
-terceiro	X	FW	terceiro.a	Ordinal_numbers	-	False
-garoto	X	FW	-	-	Item	True
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-O	INTJ	UH	-	-	-	False
-Frank	PROPN	NNP	-	-	-	False
-mandou	PROPN	FW	-	-	-	False
-isso	PROPN	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+terceiro	FW	terceiro.a	Ordinal_numbers	1147	-	-	False
+garoto	FW	-	-	-	Item	6633	True
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+O	UH	-	-	-	-	-	False
+Frank	NNP	-	-	-	-	-	False
+mandou	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

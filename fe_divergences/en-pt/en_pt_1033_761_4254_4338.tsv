@@ -1,31 +1,31 @@
-So	ADV	RB	-	-	-	False
-I	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-big	ADJ	JJ	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-we	PRON	PRP	-	-	-	False
-all	DET	DT	-	-	-	False
-do	VERB	VBP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+big	JJ	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	FW	-	-	-	False
-tenho	INTJ	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-grande	X	FW	-	-	-	False
-interesse	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-educação	X	FW	educação.n	Education_teaching	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-temos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	FW	-	-	-	-	-	False
+tenho	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+grande	FW	-	-	-	-	-	False
+interesse	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+educação	FW	educação.n	Education_teaching	111	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+temos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

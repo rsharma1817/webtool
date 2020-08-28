@@ -1,12 +1,12 @@
-I	PRON	PRP	-	-	-	False
-never	ADV	RB	never.adv	Negation	-	False
-thought	VERB	VBD	-	-	Negated_proposition	True
-of	ADP	IN	-	-	Negated_proposition	True
-it	PRON	PRP	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+never	RB	never.adv	Negation	2860	-	-	False
+thought	VBD	-	-	-	Negated_proposition	16210	True
+of	IN	-	-	-	Negated_proposition	16210	True
+it	PRP	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Negated_proposition	True
-nunca	X	FW	nunca.adv	Negation	-	False
-tinha	X	FW	-	-	Negated_proposition	True
-pensado	X	FW	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Negated_proposition	16210	True
+nunca	FW	nunca.adv	Negation	2860	-	-	False
+tinha	FW	-	-	-	Negated_proposition	16210	True
+pensado	FW	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False

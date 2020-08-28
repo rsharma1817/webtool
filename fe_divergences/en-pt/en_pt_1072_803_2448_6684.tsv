@@ -1,37 +1,37 @@
-He	PRON	PRP	-	-	-	False
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-the	DET	DT	-	-	-	False
-bit	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-the	DET	DT	-	-	Theme	True
-three	NUM	CD	-	-	Theme	True
-kings	NOUN	NNS	-	-	Theme	True
-come	VERB	VBP	come.v	Arriving	-	False
-in	ADP	RP	-	-	Goal	True
-?	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+bit	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+the	DT	-	-	-	Theme	223	True
+three	CD	-	-	-	Theme	223	True
+kings	NNS	-	-	-	Theme	223	True
+come	VBP	come.v	Arriving	54	-	-	False
+in	RP	-	-	-	Goal	226	True
+?	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-nenhuma	X	FW	-	-	-	False
-fala	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-vocês	X	FW	-	-	-	False
-conhecem	X	FW	-	-	-	False
-a	X	FW	-	-	Goal	True
-parte	X	FW	-	-	Goal	True
-onde	X	FW	-	-	-	False
-chegam	X	FW	chegar.v	Arriving	-	False
-os	X	IN	-	-	Theme	True
-Reis	PROPN	NNP	-	-	Theme	True
-Magos	PROPN	NNP	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+nenhuma	FW	-	-	-	-	-	False
+fala	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+vocês	FW	-	-	-	-	-	False
+conhecem	FW	-	-	-	-	-	False
+a	FW	-	-	-	Goal	226	True
+parte	FW	-	-	-	Goal	226	True
+onde	FW	-	-	-	-	-	False
+chegam	FW	chegar.v	Arriving	54	-	-	False
+os	IN	-	-	-	Theme	223	True
+Reis	NNP	-	-	-	Theme	223	True
+Magos	NNP	-	-	-	Theme	223	True
+.	.	-	-	-	-	-	False

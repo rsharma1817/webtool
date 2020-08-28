@@ -1,29 +1,29 @@
-What	PRON	WP	-	-	-	False
-these	DET	DT	-	-	Entities	True
-things	NOUN	NNS	-	-	Entities	True
-have	VERB	VBP	-	-	-	False
-in	ADP	IN	in common.a	Commonality	-	False
-common	NOUN	JJ	in common.a	Commonality	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	Commonality	True
-kids	NOUN	NNS	-	-	Commonality	True
-will	AUX	MD	-	-	Commonality	True
-take	VERB	VB	-	-	Commonality	True
-a	DET	DT	-	-	Commonality	True
-chance	NOUN	NN	-	-	Commonality	True
-.	PUNCT	.	-	-	-	False
+What	WP	-	-	-	-	-	False
+these	DT	-	-	-	Entities	15128	True
+things	NNS	-	-	-	Entities	15128	True
+have	VBP	-	-	-	-	-	False
+in	IN	in common.a	Commonality	2669	-	-	False
+common	JJ	in common.a	Commonality	2669	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	Commonality	15130	True
+kids	NNS	-	-	-	Commonality	15130	True
+will	MD	-	-	-	Commonality	15130	True
+take	VB	-	-	-	Commonality	15130	True
+a	DT	-	-	-	Commonality	15130	True
+chance	NN	-	-	-	Commonality	15130	True
+.	.	-	-	-	-	-	False
 
-O	X	UH	-	-	-	False
-que	X	FW	-	-	-	False
-essas	X	FW	-	-	-	False
-histórias	X	FW	-	-	-	False
-tem	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-comum	X	FW	comum.a	Commonality	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	-	-	-	False
-correm	X	FW	-	-	-	False
-riscos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+essas	FW	-	-	-	-	-	False
+histórias	FW	-	-	-	-	-	False
+tem	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+comum	FW	comum.a	Commonality	2669	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+correm	FW	-	-	-	-	-	False
+riscos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,26 +1,26 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-third	ADJ	JJ	-	-	-	False
-boy	NOUN	NN	boy.n	People_by_age	Person	True
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Frank	PROPN	NNP	-	-	-	False
-sent	VERB	VBD	-	-	-	False
-this	DET	DT	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+third	JJ	-	-	-	-	-	False
+boy	NN	boy.n	People_by_age	973	Person	5937	True
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Frank	NNP	-	-	-	-	-	False
+sent	VBD	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-o	X	FW	-	-	-	False
-terceiro	X	FW	-	-	-	False
-garoto	X	FW	garoto.n	People_by_age	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-O	INTJ	UH	-	-	-	False
-Frank	PROPN	NNP	-	-	-	False
-mandou	PROPN	FW	-	-	-	False
-isso	PROPN	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+terceiro	FW	-	-	-	-	-	False
+garoto	FW	garoto.n	People_by_age	973	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+O	UH	-	-	-	-	-	False
+Frank	NNP	-	-	-	-	-	False
+mandou	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

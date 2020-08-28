@@ -1,31 +1,31 @@
-And	CCONJ	CC	-	-	-	False
-our	PRON	PRP$	-	-	Teacher	True
-task	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	-	False
-educate	VERB	VB	educate.v	Education_teaching	-	False
-their	PRON	PRP$	-	-	Student	True
-whole	ADJ	JJ	-	-	Student	True
-being	NOUN	NN	-	-	Student	True
-,	PUNCT	,	-	-	-	False
-so	ADP	CC	-	-	Purpose	False
-they	PRON	PRP	-	-	Purpose	False
-can	AUX	MD	-	-	Purpose	False
-face	VERB	VB	-	-	Purpose	False
-this	DET	DT	-	-	Purpose	False
-future	NOUN	NN	-	-	Purpose	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+our	PRP$	-	-	-	Teacher	541	True
+task	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+educate	VB	educate.v	Education_teaching	111	-	-	False
+their	PRP$	-	-	-	Student	542	True
+whole	JJ	-	-	-	Student	542	True
+being	NN	-	-	-	Student	542	True
+,	,	-	-	-	-	-	False
+so	CC	-	-	-	Purpose	10463	False
+they	PRP	-	-	-	Purpose	10463	False
+can	MD	-	-	-	Purpose	10463	False
+face	VB	-	-	-	Purpose	10463	False
+this	DT	-	-	-	Purpose	10463	False
+future	NN	-	-	-	Purpose	10463	False
+.	.	-	-	-	-	-	False
 
-Nossa	X	FW	-	-	-	False
-tarefa	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-educá-las	X	FW	-	-	-	False
-em	X	FW	-	-	Precept	True
-sua	X	FW	-	-	Precept	True
-totalidade	X	FW	-	-	Precept	True
-,	PUNCT	,	-	-	Precept	True
-preparando-as	X	FW	-	-	Precept	True
-para	X	FW	-	-	Precept	True
-esse	X	FW	-	-	Precept	True
-futuro	X	FW	-	-	Precept	True
-.	PUNCT	.	-	-	-	False
+Nossa	FW	-	-	-	-	-	False
+tarefa	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+educá-las	FW	-	-	-	-	-	False
+em	FW	-	-	-	Precept	6514	True
+sua	FW	-	-	-	Precept	6514	True
+totalidade	FW	-	-	-	Precept	6514	True
+,	,	-	-	-	Precept	6514	True
+preparando-as	FW	-	-	-	Precept	6514	True
+para	FW	-	-	-	Precept	6514	True
+esse	FW	-	-	-	Precept	6514	True
+futuro	FW	-	-	-	Precept	6514	True
+.	.	-	-	-	-	-	False

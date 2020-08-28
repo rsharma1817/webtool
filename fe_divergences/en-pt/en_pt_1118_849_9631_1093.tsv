@@ -1,15 +1,15 @@
-My	PRON	PRP$	-	-	Ego	True
-son	NOUN	NN	son.n	Kinship	Alter	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-want	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-come	VERB	VB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+My	PRP$	-	-	-	Ego	517	True
+son	NN	son.n	Kinship	104	Alter	516	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+want	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+come	VB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Meu	PROPN	NNP	-	-	Alter	True
-filho	X	FW	filho.n	Kinship	-	False
-não	X	FW	-	-	-	False
-queria	X	FW	-	-	-	False
-vir	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Meu	NNP	-	-	-	Alter	516	True
+filho	FW	filho.n	Kinship	104	-	-	False
+não	FW	-	-	-	-	-	False
+queria	FW	-	-	-	-	-	False
+vir	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

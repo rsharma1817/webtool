@@ -1,44 +1,44 @@
-Anyway	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	Theme	True
-moved	VERB	VBD	move.v	Motion	-	False
-from	ADP	IN	-	-	Source	True
-Stratford	PROPN	NNP	-	-	Source	True
-to	ADP	IN	-	-	Goal	True
-Los	PROPN	NNP	-	-	Goal	True
-Angeles	PROPN	NNP	-	-	Goal	True
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-just	ADV	RB	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-say	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-word	NOUN	NN	-	-	-	False
-about	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-transition	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Anyway	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	Theme	26	True
+moved	VBD	move.v	Motion	7	-	-	False
+from	IN	-	-	-	Source	27	True
+Stratford	NNP	-	-	-	Source	27	True
+to	IN	-	-	-	Goal	29	True
+Los	NNP	-	-	-	Goal	29	True
+Angeles	NNP	-	-	-	Goal	29	True
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+just	RB	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+say	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+word	NN	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+transition	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Enfim	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nos	X	FW	-	-	Theme	True
-mudamos	X	FW	mudar.v	Motion	-	False
-de	X	FW	-	-	Source	True
-Stratford	X	FW	-	-	Source	True
-para	X	FW	-	-	Goal	True
-Los	PROPN	NNP	-	-	Goal	True
-Angeles	PROPN	NNP	-	-	Goal	True
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-eu	INTJ	FW	-	-	-	False
-só	ADV	FW	-	-	-	False
-quero	X	FW	-	-	-	False
-dizer	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-coisa	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-essa	X	FW	-	-	-	False
-transição	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Enfim	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nos	FW	-	-	-	Theme	26	True
+mudamos	FW	mudar.v	Motion	7	-	-	False
+de	FW	-	-	-	Source	27	True
+Stratford	FW	-	-	-	Source	27	True
+para	FW	-	-	-	Goal	29	True
+Los	NNP	-	-	-	Goal	29	True
+Angeles	NNP	-	-	-	Goal	29	True
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+só	FW	-	-	-	-	-	False
+quero	FW	-	-	-	-	-	False
+dizer	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+coisa	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+essa	FW	-	-	-	-	-	False
+transição	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

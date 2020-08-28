@@ -1,34 +1,34 @@
-So	ADV	RB	-	-	-	False
-I	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-big	ADJ	JJ	big.a	Size	-	False
-interest	NOUN	NN	-	-	Entity	True
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-we	PRON	PRP	-	-	-	False
-all	DET	DT	-	-	-	False
-do	VERB	VBP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+big	JJ	big.a	Size	2282	-	-	False
+interest	NN	-	-	-	Entity	13813	True
+in	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ich	INTJ	NNP	-	-	-	False
-habe	INTJ	NN	-	-	-	False
-ein	INTJ	NN	-	-	-	False
-großes	VERB	VBZ	groß.a	Size	-	False
-Interesse	PROPN	NNP	-	-	Entity	True
-an	DET	DT	-	-	-	False
-Bildung	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-ich	X	FW	-	-	-	False
-denke	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-das	X	FW	-	-	-	False
-haben	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-alle	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ich	NNP	-	-	-	-	-	False
+habe	NN	-	-	-	-	-	False
+ein	NN	-	-	-	-	-	False
+großes	VBZ	groß.a	Size	2282	-	-	False
+Interesse	NNP	-	-	-	Entity	13813	True
+an	DT	-	-	-	-	-	False
+Bildung	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+ich	FW	-	-	-	-	-	False
+denke	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+haben	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+alle	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

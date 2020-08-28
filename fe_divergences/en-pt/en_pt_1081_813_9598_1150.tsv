@@ -1,29 +1,29 @@
-What	PRON	WP	-	-	-	False
-these	DET	DT	-	-	-	False
-things	NOUN	NNS	-	-	-	False
-have	VERB	VBP	-	-	-	False
-in	ADP	IN	-	-	-	False
-common	NOUN	JJ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-kids	NOUN	NNS	kid.n	People_by_age	Person	True
-will	AUX	MD	-	-	-	False
-take	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-chance	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+What	WP	-	-	-	-	-	False
+these	DT	-	-	-	-	-	False
+things	NNS	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+common	JJ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+kids	NNS	kid.n	People_by_age	973	Person	5937	True
+will	MD	-	-	-	-	-	False
+take	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+chance	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	X	UH	-	-	-	False
-que	X	FW	-	-	-	False
-essas	X	FW	-	-	-	False
-histórias	X	FW	-	-	-	False
-tem	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-comum	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	criança.n	People_by_age	-	False
-correm	X	FW	-	-	-	False
-riscos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+essas	FW	-	-	-	-	-	False
+histórias	FW	-	-	-	-	-	False
+tem	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+comum	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	criança.n	People_by_age	973	-	-	False
+correm	FW	-	-	-	-	-	False
+riscos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

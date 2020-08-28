@@ -1,12 +1,12 @@
-I	PRON	PRP	-	-	-	False
-never	ADV	RB	-	-	-	False
-thought	VERB	VBD	think.v	Awareness	-	False
-of	ADP	IN	-	-	Content	True
-it	PRON	PRP	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+never	RB	-	-	-	-	-	False
+thought	VBD	think.v	Awareness	19	-	-	False
+of	IN	-	-	-	Content	84	True
+it	PRP	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Cognizer	True
-nunca	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-pensado	X	FW	pensar.v	Awareness	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Cognizer	83	True
+nunca	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+pensado	FW	pensar.v	Awareness	19	-	-	False
+.	.	-	-	-	-	-	False

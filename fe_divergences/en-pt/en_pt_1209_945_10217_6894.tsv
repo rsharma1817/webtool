@@ -1,50 +1,50 @@
-If	ADP	IN	-	-	-	False
-I	PRON	PRP	-	-	Cook	True
-'m	VERB	VBP	-	-	-	False
-cooking	VERB	VBG	cook.v	Cooking_creation	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-door	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-shut	VERB	VBN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-kids	NOUN	NNS	-	-	-	False
-are	VERB	VBP	-	-	-	False
-out	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-phone	NOUN	NN	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-hook	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
+If	IN	-	-	-	-	-	False
+I	PRP	-	-	-	Cook	2298	True
+'m	VBP	-	-	-	-	-	False
+cooking	VBG	cook.v	Cooking_creation	268	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+door	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+shut	VBN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+kids	NNS	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+out	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+phone	NN	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+hook	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-eu	X	FW	-	-	Cook	True
-cozinho	X	FW	cozinhar.v	Cooking_creation	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-porta	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-fechada	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	-	-	-	False
-saíram	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	X	FW	-	-	-	False
-telefone	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-fora	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-gancho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-aparece	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-me	X	FW	-	-	-	False
-irrito	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+eu	FW	-	-	-	Cook	2298	True
+cozinho	FW	cozinhar.v	Cooking_creation	268	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+porta	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+fechada	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+saíram	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+telefone	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+fora	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+gancho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+aparece	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+me	FW	-	-	-	-	-	False
+irrito	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

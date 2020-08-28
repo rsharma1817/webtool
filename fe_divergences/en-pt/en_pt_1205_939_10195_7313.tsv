@@ -1,16 +1,16 @@
-Because	ADP	IN	because.c	Causation	-	False
-you	PRON	PRP	-	-	Cause	False
-are	VERB	VBP	-	-	Cause	False
-,	PUNCT	,	-	-	-	False
-are	VERB	VBP	-	-	-	False
-n't	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Because	IN	because.c	Causation	5	-	-	False
+you	PRP	-	-	-	Cause	18	False
+are	VBP	-	-	-	Cause	18	False
+,	,	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Porque	NOUN	NNP	porque.c	Causation	-	False
-vocês	NOUN	FW	-	-	Effect	False
-são	NOUN	FW	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-não	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Porque	NNP	porque.c	Causation	5	-	-	False
+vocês	FW	-	-	-	Effect	20	False
+são	FW	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+não	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

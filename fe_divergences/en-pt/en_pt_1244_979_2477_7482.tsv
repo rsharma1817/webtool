@@ -1,42 +1,42 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Time	False
-minute	NOUN	NN	-	-	Time	False
-they	PRON	PRP	-	-	Time	False
-left	VERB	VBD	-	-	Time	False
-the	DET	DT	-	-	Time	False
-room	NOUN	NN	-	-	Time	False
-,	PUNCT	,	-	-	-	False
-she	PRON	PRP	-	-	Agent	True
-was	VERB	VBD	-	-	-	False
-on	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	-	False
-feet	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-moving	VERB	VBG	move.v	Body_movement	-	False
-to	ADP	IN	-	-	Coordinated_event	False
-the	DET	DT	-	-	Coordinated_event	False
-music	NOUN	NN	-	-	Coordinated_event	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Time	2098	False
+minute	NN	-	-	-	Time	2098	False
+they	PRP	-	-	-	Time	2098	False
+left	VBD	-	-	-	Time	2098	False
+the	DT	-	-	-	Time	2098	False
+room	NN	-	-	-	Time	2098	False
+,	,	-	-	-	-	-	False
+she	PRP	-	-	-	Agent	68	True
+was	VBD	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	-	-	False
+feet	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+moving	VBG	move.v	Body_movement	16	-	-	False
+to	IN	-	-	-	Coordinated_event	7213	False
+the	DT	-	-	-	Coordinated_event	7213	False
+music	NN	-	-	-	Coordinated_event	7213	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-assim	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-deixaram	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-sala	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-pé	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	-	-	-	False
-movendo	X	FW	mover.v	Body_movement	-	False
-com	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-música	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+assim	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+deixaram	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+sala	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+pé	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+movendo	FW	mover.v	Body_movement	16	-	-	False
+com	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+música	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

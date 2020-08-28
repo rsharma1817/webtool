@@ -1,23 +1,23 @@
-He	PRON	PRP	-	-	Main_assertion	True
-loved	VERB	VBD	-	-	Main_assertion	True
-it	PRON	PRP	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	but.c	Concessive	-	False
-he	PRON	PRP	-	-	Conceded_state_of_affairs	True
-had	VERB	VBD	-	-	Conceded_state_of_affairs	True
-a	DET	DT	-	-	Conceded_state_of_affairs	True
-girlfriend	NOUN	NN	-	-	Conceded_state_of_affairs	True
-in	ADP	IN	-	-	Conceded_state_of_affairs	True
-England	PROPN	NNP	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	Main_assertion	13312	True
+loved	VBD	-	-	-	Main_assertion	13312	True
+it	PRP	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+but	CC	but.c	Concessive	2150	-	-	False
+he	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+had	VBD	-	-	-	Conceded_state_of_affairs	13302	True
+a	DT	-	-	-	Conceded_state_of_affairs	13302	True
+girlfriend	NN	-	-	-	Conceded_state_of_affairs	13302	True
+in	IN	-	-	-	Conceded_state_of_affairs	13302	True
+England	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Main_assertion	True
-adorava	X	FW	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	mas.c	Concessive	-	False
-tinha	X	FW	-	-	Conceded_state_of_affairs	True
-uma	X	FW	-	-	Conceded_state_of_affairs	True
-namorada	X	FW	-	-	Conceded_state_of_affairs	True
-na	X	FW	-	-	Conceded_state_of_affairs	True
-Inglaterra	X	NNP	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Main_assertion	13312	True
+adorava	FW	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+mas	FW	mas.c	Concessive	2150	-	-	False
+tinha	FW	-	-	-	Conceded_state_of_affairs	13302	True
+uma	FW	-	-	-	Conceded_state_of_affairs	13302	True
+namorada	FW	-	-	-	Conceded_state_of_affairs	13302	True
+na	FW	-	-	-	Conceded_state_of_affairs	13302	True
+Inglaterra	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False

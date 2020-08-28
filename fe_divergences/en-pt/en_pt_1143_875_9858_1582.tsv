@@ -1,18 +1,18 @@
-We	PRON	PRP	-	-	Possessor	True
-all	DET	DT	-	-	Possessor	True
-have	VERB	VBP	-	-	-	False
-bodies	NOUN	NNS	body.n	Body_parts	Body_part	True
-,	PUNCT	,	-	-	-	False
-do	VERB	VBP	-	-	-	False
-n't	ADV	RB	-	-	-	False
-we	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Possessor	611	True
+all	DT	-	-	-	Possessor	611	True
+have	VBP	-	-	-	-	-	False
+bodies	NNS	body.n	Body_parts	119	Body_part	692	True
+,	,	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Nós	X	FW	-	-	Possessor	True
-todos	X	FW	-	-	-	False
-temos	X	FW	-	-	-	False
-corpos	X	FW	corpo.n	Body_parts	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	-	False
-temos	X	NNS	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Nós	FW	-	-	-	Possessor	611	True
+todos	FW	-	-	-	-	-	False
+temos	FW	-	-	-	-	-	False
+corpos	FW	corpo.n	Body_parts	119	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+temos	NNS	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

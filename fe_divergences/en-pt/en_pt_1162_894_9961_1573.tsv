@@ -1,22 +1,22 @@
-It	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-way	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-getting	VERB	VBG	-	-	-	False
-their	PRON	PRP$	-	-	Possessor	True
-head	NOUN	NN	head.n	Body_parts	Body_part	True
-to	ADP	IN	-	-	-	False
-meetings	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+It	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+getting	VBG	-	-	-	-	-	False
+their	PRP$	-	-	-	Possessor	611	True
+head	NN	head.n	Body_parts	119	Body_part	692	True
+to	IN	-	-	-	-	-	False
+meetings	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-É	NOUN	NN	-	-	-	False
-um	INTJ	UH	-	-	-	False
-jeito	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-levarem	X	FW	-	-	-	False
-suas	X	FW	-	-	Possessor	True
-cabeças	X	FW	cabeça.n	Body_parts	-	False
-às	ADP	IN	-	-	-	False
-conferências	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+É	NN	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+jeito	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+levarem	FW	-	-	-	-	-	False
+suas	FW	-	-	-	Possessor	611	True
+cabeças	FW	cabeça.n	Body_parts	119	-	-	False
+às	IN	-	-	-	-	-	False
+conferências	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

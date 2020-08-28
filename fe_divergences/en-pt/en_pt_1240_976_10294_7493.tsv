@@ -1,23 +1,23 @@
-Wait	VERB	VB	-	-	-	False
-here	ADV	RB	here.adv	Locative_relation	Ground	True
-.	PUNCT	.	-	-	-	False
+Wait	VB	-	-	-	-	-	False
+here	RB	here.adv	Locative_relation	199	Ground	1621	True
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Espere	X	NNP	-	-	-	False
-aqui	X	NNP	aqui.adv	Locative_relation	-	False
-,	PUNCT	,	-	-	-	False
-já	X	FW	-	-	-	False
-voltamos.Não	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-demorar.	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-deixaram	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-sozinha	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Espere	NNP	-	-	-	-	-	False
+aqui	NNP	aqui.adv	Locative_relation	199	-	-	False
+,	,	-	-	-	-	-	False
+já	FW	-	-	-	-	-	False
+voltamos.Não	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+demorar.	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+deixaram	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+sozinha	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

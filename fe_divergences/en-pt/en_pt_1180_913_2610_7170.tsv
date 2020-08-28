@@ -1,71 +1,71 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-consequence	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-many	ADJ	JJ	-	-	-	False
-highly-talented	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-brilliant	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-creative	ADJ	JJ	-	-	-	False
-people	NOUN	NNS	-	-	-	False
-think	VERB	VBP	-	-	-	False
-they	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-not	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-the	DET	DT	-	-	Evaluee	True
-thing	NOUN	NN	-	-	Evaluee	True
-they	PRON	PRP	-	-	Evaluee	True
-were	VERB	VBD	-	-	Evaluee	True
-good	ADJ	JJ	-	-	Evaluee	True
-at	ADP	IN	-	-	Evaluee	True
-at	ADP	IN	-	-	Evaluee	True
-school	NOUN	NN	-	-	Evaluee	True
-was	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-valued	VERB	VBN	value.v	Judgment	-	False
-,	PUNCT	,	-	-	-	False
-or	CCONJ	CC	-	-	-	False
-was	VERB	VBD	-	-	-	False
-actually	ADV	RB	-	-	-	False
-stigmatized	VERB	VBN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+consequence	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+many	JJ	-	-	-	-	-	False
+highly-talented	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+brilliant	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+creative	JJ	-	-	-	-	-	False
+people	NNS	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+the	DT	-	-	-	Evaluee	116	True
+thing	NN	-	-	-	Evaluee	116	True
+they	PRP	-	-	-	Evaluee	116	True
+were	VBD	-	-	-	Evaluee	116	True
+good	JJ	-	-	-	Evaluee	116	True
+at	IN	-	-	-	Evaluee	116	True
+at	IN	-	-	-	Evaluee	116	True
+school	NN	-	-	-	Evaluee	116	True
+was	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+valued	VBN	value.v	Judgment	28	-	-	False
+,	,	-	-	-	-	-	False
+or	CC	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+actually	RB	-	-	-	-	-	False
+stigmatized	VBN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-consequência	NOUN	FW	-	-	-	False
-disso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-muitas	X	FW	-	-	-	False
-pessoas	X	FW	-	-	-	False
-altamente	X	FW	-	-	-	False
-talentosas	X	FW	-	-	-	False
-brilhantes	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-criativas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-pensam	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-porque	X	FW	-	-	-	False
-aquilo	X	FW	-	-	Evaluee	True
-que	X	FW	-	-	Evaluee	True
-elas	X	FW	-	-	Evaluee	True
-eram	X	FW	-	-	Evaluee	True
-boas	X	FW	-	-	Evaluee	True
-na	X	FW	-	-	Evaluee	True
-escola	X	FW	-	-	Evaluee	True
-não	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-valorizado	X	FW	valorizar.v	Judgment	-	False
-,	PUNCT	,	-	-	-	False
-ou	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-até	X	FW	-	-	-	False
-estigmatizado	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+consequência	FW	-	-	-	-	-	False
+disso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+muitas	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	-	-	False
+altamente	FW	-	-	-	-	-	False
+talentosas	FW	-	-	-	-	-	False
+brilhantes	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+criativas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+pensam	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+aquilo	FW	-	-	-	Evaluee	116	True
+que	FW	-	-	-	Evaluee	116	True
+elas	FW	-	-	-	Evaluee	116	True
+eram	FW	-	-	-	Evaluee	116	True
+boas	FW	-	-	-	Evaluee	116	True
+na	FW	-	-	-	Evaluee	116	True
+escola	FW	-	-	-	Evaluee	116	True
+não	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+valorizado	FW	valorizar.v	Judgment	28	-	-	False
+,	,	-	-	-	-	-	False
+ou	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+até	FW	-	-	-	-	-	False
+estigmatizado	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

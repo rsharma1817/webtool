@@ -1,59 +1,59 @@
-I	PRON	PRP	-	-	-	False
-'m	VERB	VBP	-	-	-	False
-doing	VERB	VBG	-	-	-	False
-a	DET	DT	-	-	-	False
-new	ADJ	JJ	-	-	-	False
-book	NOUN	NN	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-moment	NOUN	NN	-	-	-	False
-called	VERB	VBN	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epiphany	PROPN	NNP	-	-	-	False
-,'	PUNCT	''	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-based	VERB	VBN	-	-	-	False
-on	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-series	NOUN	NN	series.n	Sequence	-	False
-of	ADP	IN	-	-	Entities	True
-interviews	NOUN	NNS	-	-	Entities	True
-with	ADP	IN	-	-	Entities	True
-people	NOUN	NNS	-	-	Entities	True
-about	ADP	IN	-	-	-	False
-how	ADV	WRB	-	-	-	False
-they	PRON	PRP	-	-	-	False
-discovered	VERB	VBD	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-talent	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'m	VBP	-	-	-	-	-	False
+doing	VBG	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+new	JJ	-	-	-	-	-	False
+book	NN	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+moment	NN	-	-	-	-	-	False
+called	VBN	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epiphany	NNP	-	-	-	-	-	False
+,'	''	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+based	VBN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+series	NN	series.n	Sequence	2135	-	-	False
+of	IN	-	-	-	Entities	13222	True
+interviews	NNS	-	-	-	Entities	13222	True
+with	IN	-	-	-	Entities	13222	True
+people	NNS	-	-	-	Entities	13222	True
+about	IN	-	-	-	-	-	False
+how	WRB	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+discovered	VBD	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+talent	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Estou	PROPN	NNP	-	-	-	False
-escrevendo	NOUN	NNP	-	-	-	False
-um	INTJ	UH	-	-	-	False
-livro	X	FW	-	-	-	False
-atualmente	X	FW	-	-	-	False
-chamado	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epifania	PROPN	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-baseado	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-série	X	FW	série.n	Sequence	-	False
-de	X	FW	-	-	Entities	True
-entrevistas	X	FW	-	-	Entities	True
-que	X	FW	-	-	Descriptor	False
-eu	X	FW	-	-	Descriptor	False
-fiz	X	FW	-	-	Descriptor	False
-sobre	X	FW	-	-	Descriptor	False
-como	X	FW	-	-	Descriptor	False
-as	ADP	FW	-	-	Descriptor	False
-pessoas	X	FW	-	-	Descriptor	False
-descobriram	X	FW	-	-	Descriptor	False
-seus	X	FW	-	-	Descriptor	False
-talentos	X	FW	-	-	Descriptor	False
-.	PUNCT	.	-	-	-	False
+Estou	NNP	-	-	-	-	-	False
+escrevendo	NNP	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+livro	FW	-	-	-	-	-	False
+atualmente	FW	-	-	-	-	-	False
+chamado	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epifania	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+baseado	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+série	FW	série.n	Sequence	2135	-	-	False
+de	FW	-	-	-	Entities	13222	True
+entrevistas	FW	-	-	-	Entities	13222	True
+que	FW	-	-	-	Descriptor	14200	False
+eu	FW	-	-	-	Descriptor	14200	False
+fiz	FW	-	-	-	Descriptor	14200	False
+sobre	FW	-	-	-	Descriptor	14200	False
+como	FW	-	-	-	Descriptor	14200	False
+as	FW	-	-	-	Descriptor	14200	False
+pessoas	FW	-	-	-	Descriptor	14200	False
+descobriram	FW	-	-	-	Descriptor	14200	False
+seus	FW	-	-	-	Descriptor	14200	False
+talentos	FW	-	-	-	Descriptor	14200	False
+.	.	-	-	-	-	-	False

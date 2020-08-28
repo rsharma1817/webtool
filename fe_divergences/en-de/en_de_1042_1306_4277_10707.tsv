@@ -1,47 +1,47 @@
-And	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	State_of_affairs	True
-'s	VERB	VBZ	-	-	-	False
-exceptional	ADJ	JJ	exceptional.a	Typicality	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-she	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-not	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-so	ADV	RB	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-exceptional	ADJ	JJ	-	-	-	False
-in	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-childhood	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+she	PRP	-	-	-	State_of_affairs	6562	True
+'s	VBZ	-	-	-	-	-	False
+exceptional	JJ	exceptional.a	Typicality	1134	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+so	RB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+exceptional	JJ	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+childhood	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Sie	X	VB	-	-	-	False
-ist	X	NN	-	-	-	False
-außergewöhnlich	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-aber	X	FW	-	-	-	False
-ich	X	FW	-	-	-	False
-denke	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-sie	X	FW	-	-	State_of_affairs	True
-ist	X	NN	-	-	-	False
-nicht	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-sozusagen	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-außergewöhnlich	X	FW	außergewöhnlich.a	Typicality	-	False
-in	ADP	IN	-	-	Comparison_set	False
-Bezug	PROPN	NNP	-	-	Comparison_set	False
-auf	PROPN	NNP	-	-	Comparison_set	False
-die	VERB	VBP	-	-	Comparison_set	False
-Gesamtheit	PROPN	NNP	-	-	Comparison_set	False
-aller	PROPN	NNP	-	-	Comparison_set	False
-Kinder	PROPN	NNP	-	-	Comparison_set	False
-.	PUNCT	.	-	-	-	False
+Sie	VB	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+außergewöhnlich	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+aber	FW	-	-	-	-	-	False
+ich	FW	-	-	-	-	-	False
+denke	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+sie	FW	-	-	-	State_of_affairs	6562	True
+ist	NN	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+sozusagen	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+außergewöhnlich	FW	außergewöhnlich.a	Typicality	1134	-	-	False
+in	IN	-	-	-	Comparison_set	6564	False
+Bezug	NNP	-	-	-	Comparison_set	6564	False
+auf	NNP	-	-	-	Comparison_set	6564	False
+die	VBP	-	-	-	Comparison_set	6564	False
+Gesamtheit	NNP	-	-	-	Comparison_set	6564	False
+aller	NNP	-	-	-	Comparison_set	6564	False
+Kinder	NNP	-	-	-	Comparison_set	6564	False
+.	.	-	-	-	-	-	False

@@ -1,24 +1,24 @@
-What	PRON	WP	-	-	-	False
-TED	PROPN	NNP	-	-	-	False
-celebrates	VERB	VBZ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-gift	NOUN	NN	gift.n	Giving	-	False
-of	ADP	IN	-	-	Theme	True
-the	DET	DT	-	-	Theme	True
-human	ADJ	JJ	-	-	Theme	True
-imagination	NOUN	NN	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+What	WP	-	-	-	-	-	False
+TED	NNP	-	-	-	-	-	False
+celebrates	VBZ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+gift	NN	gift.n	Giving	139	-	-	False
+of	IN	-	-	-	Theme	1054	True
+the	DT	-	-	-	Theme	1054	True
+human	JJ	-	-	-	Theme	1054	True
+imagination	NN	-	-	-	Theme	1054	True
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-que	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-TED	NOUN	NN	-	-	-	False
-celebra	NOUN	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-dádiva	X	FW	dádiva.n	Giving	-	False
-da	X	FW	-	-	Donor	True
-imaginação	X	FW	-	-	Donor	True
-humana	X	FW	-	-	Donor	True
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+que	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+TED	NN	-	-	-	-	-	False
+celebra	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+dádiva	FW	dádiva.n	Giving	139	-	-	False
+da	FW	-	-	-	Donor	1052	True
+imaginação	FW	-	-	-	Donor	1052	True
+humana	FW	-	-	-	Donor	1052	True
+.	.	-	-	-	-	-	False

@@ -1,10 +1,10 @@
-We	PRON	PRP	-	-	Cognizer	True
-stigmatize	VERB	VBP	stigmatize.v	Judgment	-	False
-mistakes	NOUN	NNS	-	-	Evaluee	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Cognizer	115	True
+stigmatize	VBP	stigmatize.v	Judgment	28	-	-	False
+mistakes	NNS	-	-	-	Evaluee	116	True
+.	.	-	-	-	-	-	False
 
-Nós	X	FW	-	-	Cognizer	True
-estigmatizamos	X	FW	estigmatizar.v	Judgment	-	False
-os	X	FW	-	-	Evaluee	True
-erros	X	FW	-	-	Evaluee	True
-.	PUNCT	.	-	-	-	False
+Nós	FW	-	-	-	Cognizer	115	True
+estigmatizamos	FW	estigmatizar.v	Judgment	28	-	-	False
+os	FW	-	-	-	Evaluee	116	True
+erros	FW	-	-	-	Evaluee	116	True
+.	.	-	-	-	-	-	False

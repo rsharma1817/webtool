@@ -1,22 +1,22 @@
-It	PRON	PRP	-	-	Stimulus	True
-was	VERB	VBD	-	-	-	False
-interesting	ADJ	JJ	interesting.a	Mental_stimulus_stimulus_focus	-	False
-.	PUNCT	.	-	-	-	False
+It	PRP	-	-	-	Stimulus	12439	True
+was	VBD	-	-	-	-	-	False
+interesting	JJ	interesting.a	Mental_stimulus_stimulus_focus	2046	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-ela	X	FW	-	-	-	False
-respondeu	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-interessante	X	FW	interessante.a	Mental_stimulus_stimulus_focus	-	False
-,	PUNCT	,	-	-	-	False
-quando	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-escola	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-desanimada	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+respondeu	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+interessante	FW	interessante.a	Mental_stimulus_stimulus_focus	2046	-	-	False
+,	,	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+escola	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+desanimada	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

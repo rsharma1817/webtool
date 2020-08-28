@@ -1,57 +1,57 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-only	ADJ	JJ	-	-	-	False
-way	NOUN	NN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'ll	AUX	MD	-	-	-	False
-do	VERB	VB	-	-	-	False
-it	PRON	PRP	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-by	ADP	IN	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-creative	ADJ	JJ	-	-	-	False
-capacities	NOUN	NNS	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-richness	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-hope	NOUN	NN	hope.n	Desiring	-	False
-that	PRON	WDT	-	-	-	False
-they	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+only	JJ	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'ll	MD	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+creative	JJ	-	-	-	-	-	False
+capacities	NNS	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+richness	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+hope	NN	hope.n	Desiring	366	-	-	False
+that	WDT	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	FW	-	-	-	False
-única	X	FW	-	-	-	False
-maneira	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-fazer	X	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-encarando	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-capacidade	X	FW	-	-	-	False
-criativa	X	FW	-	-	-	False
-pela	X	FW	-	-	-	False
-riqueza	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-representa	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-nossas	X	FW	-	-	Experiencer	True
-crianças	X	FW	-	-	Experiencer	True
-pela	X	FW	-	-	-	False
-esperança	X	FW	esperança.n	Desiring	-	False
-que	X	FW	-	-	-	False
-elas	X	FW	-	-	-	False
-representam	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+única	FW	-	-	-	-	-	False
+maneira	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+fazer	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+encarando	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+capacidade	FW	-	-	-	-	-	False
+criativa	FW	-	-	-	-	-	False
+pela	FW	-	-	-	-	-	False
+riqueza	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+representa	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+nossas	FW	-	-	-	Experiencer	3361	True
+crianças	FW	-	-	-	Experiencer	3361	True
+pela	FW	-	-	-	-	-	False
+esperança	FW	esperança.n	Desiring	366	-	-	False
+que	FW	-	-	-	-	-	False
+elas	FW	-	-	-	-	-	False
+representam	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

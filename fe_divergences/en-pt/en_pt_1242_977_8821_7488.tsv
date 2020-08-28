@@ -1,39 +1,39 @@
-But	CCONJ	CC	-	-	-	False
-as	ADP	IN	-	-	Time	False
-they	PRON	PRP	-	-	Time	False
-went	VERB	VBD	-	-	Time	False
-out	ADP	IN	-	-	Time	False
-of	ADP	IN	-	-	Time	False
-the	DET	DT	-	-	Time	False
-room	NOUN	NN	-	-	Time	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	Agent	True
-turned	VERB	VBD	turn on.v	Change_operational_state	-	False
-on	ADP	RP	turn on.v	Change_operational_state	-	False
-the	DET	DT	-	-	Device	True
-radio	NOUN	NN	-	-	Device	True
-that	PRON	WDT	-	-	Device	True
-was	VERB	VBD	-	-	Device	True
-sitting	VERB	VBG	-	-	Device	True
-on	ADP	IN	-	-	Device	True
-his	PRON	PRP$	-	-	Device	True
-desk	NOUN	NN	-	-	Device	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+as	IN	-	-	-	Time	9700	False
+they	PRP	-	-	-	Time	9700	False
+went	VBD	-	-	-	Time	9700	False
+out	IN	-	-	-	Time	9700	False
+of	IN	-	-	-	Time	9700	False
+the	DT	-	-	-	Time	9700	False
+room	NN	-	-	-	Time	9700	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	Agent	9702	True
+turned	VBD	turn on.v	Change_operational_state	1688	-	-	False
+on	RP	turn on.v	Change_operational_state	1688	-	-	False
+the	DT	-	-	-	Device	9699	True
+radio	NN	-	-	-	Device	9699	True
+that	WDT	-	-	-	Device	9699	True
+was	VBD	-	-	-	Device	9699	True
+sitting	VBG	-	-	-	Device	9699	True
+on	IN	-	-	-	Device	9699	True
+his	PRP$	-	-	-	Device	9699	True
+desk	NN	-	-	-	Device	9699	True
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	-	False
-enquanto	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-saiam	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-sala	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	Agent	True
-ligou	X	FW	ligar.v	Change_operational_state	-	False
-o	X	FW	-	-	Device	True
-rádio	X	FW	-	-	Device	True
-que	X	FW	-	-	Place	False
-estava	X	FW	-	-	Place	False
-sobre	X	FW	-	-	Place	False
-a	DET	FW	-	-	Place	False
-mesa	NOUN	FW	-	-	Place	False
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	-	-	False
+enquanto	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+saiam	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+sala	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	Agent	9702	True
+ligou	FW	ligar.v	Change_operational_state	1688	-	-	False
+o	FW	-	-	-	Device	9699	True
+rádio	FW	-	-	-	Device	9699	True
+que	FW	-	-	-	Place	9701	False
+estava	FW	-	-	-	Place	9701	False
+sobre	FW	-	-	-	Place	9701	False
+a	FW	-	-	-	Place	9701	False
+mesa	FW	-	-	-	Place	9701	False
+.	.	-	-	-	-	-	False

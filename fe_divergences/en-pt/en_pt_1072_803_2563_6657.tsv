@@ -1,37 +1,37 @@
-He	PRON	PRP	-	-	Speaker	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	speak.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-the	DET	DT	-	-	-	False
-bit	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-the	DET	DT	-	-	-	False
-three	NUM	CD	-	-	-	False
-kings	NOUN	NNS	-	-	-	False
-come	VERB	VBP	-	-	-	False
-in	ADP	RP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	Speaker	183	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	speak.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+bit	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+three	CD	-	-	-	-	-	False
+kings	NNS	-	-	-	-	-	False
+come	VBP	-	-	-	-	-	False
+in	RP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Speaker	True
-não	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-nenhuma	X	FW	-	-	-	False
-fala	X	FW	fala.n	Statement	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-vocês	X	FW	-	-	-	False
-conhecem	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-parte	X	FW	-	-	-	False
-onde	X	FW	-	-	-	False
-chegam	X	FW	-	-	-	False
-os	X	IN	-	-	-	False
-Reis	PROPN	NNP	-	-	-	False
-Magos	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Speaker	183	True
+não	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+nenhuma	FW	-	-	-	-	-	False
+fala	FW	fala.n	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+vocês	FW	-	-	-	-	-	False
+conhecem	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+parte	FW	-	-	-	-	-	False
+onde	FW	-	-	-	-	-	False
+chegam	FW	-	-	-	-	-	False
+os	IN	-	-	-	-	-	False
+Reis	NNP	-	-	-	-	-	False
+Magos	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

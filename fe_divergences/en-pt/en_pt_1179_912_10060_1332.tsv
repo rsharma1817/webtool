@@ -1,49 +1,49 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-system	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-public	ADJ	JJ	-	-	-	False
-education	NOUN	NN	-	-	-	False
-around	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	world.n	Political_locales	Locale	True
-is	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-protracted	ADJ	JJ	-	-	-	False
-process	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-university	NOUN	NN	-	-	-	False
-entrance	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+system	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+public	JJ	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+around	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	world.n	Political_locales	195	Locale	1583	True
+is	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+protracted	JJ	-	-	-	-	-	False
+process	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+university	NN	-	-	-	-	-	False
+entrance	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Se	VERB	FW	-	-	-	False
-você	NOUN	FW	-	-	-	False
-for	ADP	IN	-	-	-	False
-pensar	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-todo	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-sistema	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-pública	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	VB	-	-	-	False
-mundo	X	NN	mundo.n	Political_locales	-	False
-é	X	UH	-	-	-	False
-um	INTJ	UH	-	-	-	False
-extensão	X	NN	-	-	-	False
-do	X	VB	-	-	-	False
-processo	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-ingresso	X	FW	-	-	-	False
-à	X	FW	-	-	-	False
-universidade	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+pensar	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+sistema	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+pública	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+mundo	NN	mundo.n	Political_locales	195	-	-	False
+é	UH	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+extensão	NN	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+processo	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+ingresso	FW	-	-	-	-	-	False
+à	FW	-	-	-	-	-	False
+universidade	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

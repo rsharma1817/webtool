@@ -1,30 +1,30 @@
-Like	ADP	IN	like.prep	Similarity	-	False
-religion	NOUN	NN	-	-	Entities	True
-,	PUNCT	,	-	-	Entities	True
-and	CCONJ	CC	-	-	Entities	True
-money	NOUN	NN	-	-	Entities	True
-and	CCONJ	CC	-	-	Entities	True
-other	ADJ	JJ	-	-	Entities	True
-things	NOUN	NNS	-	-	Entities	True
-.	PUNCT	.	-	-	-	False
+Like	IN	like.prep	Similarity	481	-	-	False
+religion	NN	-	-	-	Entities	4019	True
+,	,	-	-	-	Entities	4019	True
+and	CC	-	-	-	Entities	4019	True
+money	NN	-	-	-	Entities	4019	True
+and	CC	-	-	-	Entities	4019	True
+other	JJ	-	-	-	Entities	4019	True
+things	NNS	-	-	-	Entities	4019	True
+.	.	-	-	-	-	-	False
 
-Porque	NOUN	NNP	-	-	-	False
-é	NOUN	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-dessas	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-arraigadas	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-pessoas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-certo	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-Como	X	NNP	como.c	Similarity	-	False
-religião	X	NN	-	-	Entity_2	True
-,	PUNCT	,	-	-	Entity_2	True
-dinheiro	X	FW	-	-	Entity_2	True
-e	X	FW	-	-	Entity_2	True
-outras	X	FW	-	-	Entity_2	True
-coisas	X	FW	-	-	Entity_2	True
-.	PUNCT	.	-	-	-	False
+Porque	NNP	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+dessas	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+arraigadas	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+certo	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+Como	NNP	como.c	Similarity	481	-	-	False
+religião	NN	-	-	-	Entity_2	4028	True
+,	,	-	-	-	Entity_2	4028	True
+dinheiro	FW	-	-	-	Entity_2	4028	True
+e	FW	-	-	-	Entity_2	4028	True
+outras	FW	-	-	-	Entity_2	4028	True
+coisas	FW	-	-	-	Entity_2	4028	True
+.	.	-	-	-	-	-	False

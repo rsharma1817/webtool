@@ -1,39 +1,39 @@
-But	CCONJ	CC	-	-	Event	True
-James	PROPN	NNP	-	-	Event	True
-got	VERB	VBD	-	-	Event	True
-the	DET	DT	-	-	Event	True
-part	NOUN	NN	-	-	Event	True
-of	ADP	IN	-	-	Event	True
-Joseph	PROPN	NNP	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	Event	True
-we	PRON	PRP	-	-	Experiencer	True
-were	VERB	VBD	-	-	-	False
-thrilled	VERB	VBN	thrilled.a	Emotion_directed	-	False
-about	ADP	IN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	Event	3494	True
+James	NNP	-	-	-	Event	3494	True
+got	VBD	-	-	-	Event	3494	True
+the	DT	-	-	-	Event	3494	True
+part	NN	-	-	-	Event	3494	True
+of	IN	-	-	-	Event	3494	True
+Joseph	NNP	-	-	-	Event	3494	True
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	Event	3494	True
+we	PRP	-	-	-	Experiencer	194	True
+were	VBD	-	-	-	-	-	False
+thrilled	VBN	thrilled.a	Emotion_directed	46	-	-	False
+about	IN	-	-	-	Event	3494	True
+.	.	-	-	-	-	-	False
 
-'	PUNCT	''	-	-	Event	True
-Die	VERB	VB	-	-	Event	True
-Geburt	PROPN	NNP	-	-	Event	True
-II	PROPN	NNP	-	-	Event	True
-'	PUNCT	''	-	-	Event	True
-James	PROPN	NNP	-	-	Stimulus	True
-spielte	PROPN	NNP	-	-	Stimulus	True
-den	PROPN	NNP	-	-	Stimulus	True
-Joseph	PROPN	NNP	-	-	Stimulus	True
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-wir	X	FW	-	-	Experiencer	True
-begeistert	X	FW	begeistern.v	Emotion_directed	-	False
-waren	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-weil	X	NN	-	-	Explanation	False
-wir	X	NN	-	-	Explanation	False
-das	X	FW	-	-	Explanation	False
-als	X	FW	-	-	Explanation	False
-eine	X	FW	-	-	Explanation	False
-der	X	FW	-	-	Explanation	False
-Hauptrollen	X	FW	-	-	Explanation	False
-betrachten	X	FW	-	-	Explanation	False
-.	PUNCT	.	-	-	-	False
+'	''	-	-	-	Event	3494	True
+Die	VB	-	-	-	Event	3494	True
+Geburt	NNP	-	-	-	Event	3494	True
+II	NNP	-	-	-	Event	3494	True
+'	''	-	-	-	Event	3494	True
+James	NNP	-	-	-	Stimulus	197	True
+spielte	NNP	-	-	-	Stimulus	197	True
+den	NNP	-	-	-	Stimulus	197	True
+Joseph	NNP	-	-	-	Stimulus	197	True
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+wir	FW	-	-	-	Experiencer	194	True
+begeistert	FW	begeistern.v	Emotion_directed	46	-	-	False
+waren	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+weil	NN	-	-	-	Explanation	3469	False
+wir	NN	-	-	-	Explanation	3469	False
+das	FW	-	-	-	Explanation	3469	False
+als	FW	-	-	-	Explanation	3469	False
+eine	FW	-	-	-	Explanation	3469	False
+der	FW	-	-	-	Explanation	3469	False
+Hauptrollen	FW	-	-	-	Explanation	3469	False
+betrachten	FW	-	-	-	Explanation	3469	False
+.	.	-	-	-	-	-	False

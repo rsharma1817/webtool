@@ -1,69 +1,69 @@
-I	PRON	PRP	-	-	-	False
-believe	VERB	VBP	-	-	-	False
-our	PRON	PRP$	-	-	Experiencer	True
-only	ADJ	JJ	-	-	-	False
-hope	NOUN	NN	hope.n	Desiring	-	False
-for	ADP	IN	-	-	Time_of_event	False
-the	DET	DT	-	-	Time_of_event	False
-future	NOUN	NN	-	-	Time_of_event	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	Event	True
-adopt	VERB	VB	-	-	Event	True
-a	DET	DT	-	-	Event	True
-new	ADJ	JJ	-	-	Event	True
-conception	NOUN	NN	-	-	Event	True
-of	ADP	IN	-	-	Event	True
-human	ADJ	JJ	-	-	Event	True
-ecology	NOUN	NN	-	-	Event	True
-,	PUNCT	,	-	-	Event	True
-one	NUM	CD	-	-	Event	True
-in	ADP	IN	-	-	Event	True
-which	PRON	WDT	-	-	Event	True
-we	PRON	PRP	-	-	Event	True
-start	VERB	VBP	-	-	Event	True
-to	PART	TO	-	-	Event	True
-reconstitute	VERB	VB	-	-	Event	True
-our	PRON	PRP$	-	-	Event	True
-conception	NOUN	NN	-	-	Event	True
-of	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-richness	NOUN	NN	-	-	Event	True
-of	ADP	IN	-	-	Event	True
-human	ADJ	JJ	-	-	Event	True
-capacity	NOUN	NN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+believe	VBP	-	-	-	-	-	False
+our	PRP$	-	-	-	Experiencer	3361	True
+only	JJ	-	-	-	-	-	False
+hope	NN	hope.n	Desiring	366	-	-	False
+for	IN	-	-	-	Time_of_event	3378	False
+the	DT	-	-	-	Time_of_event	3378	False
+future	NN	-	-	-	Time_of_event	3378	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	Event	3363	True
+adopt	VB	-	-	-	Event	3363	True
+a	DT	-	-	-	Event	3363	True
+new	JJ	-	-	-	Event	3363	True
+conception	NN	-	-	-	Event	3363	True
+of	IN	-	-	-	Event	3363	True
+human	JJ	-	-	-	Event	3363	True
+ecology	NN	-	-	-	Event	3363	True
+,	,	-	-	-	Event	3363	True
+one	CD	-	-	-	Event	3363	True
+in	IN	-	-	-	Event	3363	True
+which	WDT	-	-	-	Event	3363	True
+we	PRP	-	-	-	Event	3363	True
+start	VBP	-	-	-	Event	3363	True
+to	TO	-	-	-	Event	3363	True
+reconstitute	VB	-	-	-	Event	3363	True
+our	PRP$	-	-	-	Event	3363	True
+conception	NN	-	-	-	Event	3363	True
+of	IN	-	-	-	Event	3363	True
+the	DT	-	-	-	Event	3363	True
+richness	NN	-	-	-	Event	3363	True
+of	IN	-	-	-	Event	3363	True
+human	JJ	-	-	-	Event	3363	True
+capacity	NN	-	-	-	Event	3363	True
+.	.	-	-	-	-	-	False
 
-Eu	X	FW	-	-	-	False
-acredito	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-nossa	X	FW	-	-	Experiencer	True
-única	X	FW	-	-	-	False
-esperança	X	FW	esperança.n	Desiring	-	False
-para	X	FW	-	-	Focal_participant	True
-o	X	FW	-	-	Focal_participant	True
-futuro	X	FW	-	-	Focal_participant	True
-é	X	FW	-	-	Event	True
-a	X	FW	-	-	Event	True
-adoção	X	FW	-	-	Event	True
-de	X	FW	-	-	Event	True
-uma	X	FW	-	-	Event	True
-nova	X	FW	-	-	Event	True
-concepção	X	FW	-	-	Event	True
-de	X	FW	-	-	Event	True
-ecologia	X	FW	-	-	Event	True
-humana	X	FW	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-uma	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-começamos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-reconstituir	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-concepção	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-riqueza	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-capacidade	X	FW	-	-	-	False
-humana	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	FW	-	-	-	-	-	False
+acredito	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	Experiencer	3361	True
+única	FW	-	-	-	-	-	False
+esperança	FW	esperança.n	Desiring	366	-	-	False
+para	FW	-	-	-	Focal_participant	3366	True
+o	FW	-	-	-	Focal_participant	3366	True
+futuro	FW	-	-	-	Focal_participant	3366	True
+é	FW	-	-	-	Event	3363	True
+a	FW	-	-	-	Event	3363	True
+adoção	FW	-	-	-	Event	3363	True
+de	FW	-	-	-	Event	3363	True
+uma	FW	-	-	-	Event	3363	True
+nova	FW	-	-	-	Event	3363	True
+concepção	FW	-	-	-	Event	3363	True
+de	FW	-	-	-	Event	3363	True
+ecologia	FW	-	-	-	Event	3363	True
+humana	FW	-	-	-	Event	3363	True
+,	,	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+começamos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+reconstituir	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+concepção	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+riqueza	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+capacidade	FW	-	-	-	-	-	False
+humana	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

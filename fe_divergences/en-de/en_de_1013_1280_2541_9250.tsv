@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-have	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-three	NUM	CD	-	-	Phenomenon	True
-themes	NOUN	NNS	-	-	Phenomenon	True
-running	VERB	VBG	-	-	Phenomenon	True
-through	ADP	IN	-	-	Phenomenon	True
-the	DET	DT	-	-	Phenomenon	True
-conference	NOUN	NN	-	-	Phenomenon	True
-which	PRON	WDT	-	-	Phenomenon	True
-are	VERB	VBP	-	-	-	False
-relevant	ADJ	JJ	relevant.a	Being_relevant	-	False
-to	ADP	IN	-	-	Endeavor	True
-what	PRON	WP	-	-	Endeavor	True
-I	PRON	PRP	-	-	Endeavor	True
-want	VERB	VBP	-	-	Endeavor	True
-to	PART	TO	-	-	Endeavor	True
-talk	VERB	VB	-	-	Endeavor	True
-about	ADP	IN	-	-	Endeavor	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+three	CD	-	-	-	Phenomenon	14410	True
+themes	NNS	-	-	-	Phenomenon	14410	True
+running	VBG	-	-	-	Phenomenon	14410	True
+through	IN	-	-	-	Phenomenon	14410	True
+the	DT	-	-	-	Phenomenon	14410	True
+conference	NN	-	-	-	Phenomenon	14410	True
+which	WDT	-	-	-	Phenomenon	14410	True
+are	VBP	-	-	-	-	-	False
+relevant	JJ	relevant.a	Being_relevant	2530	-	-	False
+to	IN	-	-	-	Endeavor	14411	True
+what	WP	-	-	-	Endeavor	14411	True
+I	PRP	-	-	-	Endeavor	14411	True
+want	VBP	-	-	-	Endeavor	14411	True
+to	TO	-	-	-	Endeavor	14411	True
+talk	VB	-	-	-	Endeavor	14411	True
+about	IN	-	-	-	Endeavor	14411	True
+.	.	-	-	-	-	-	False
 
-Es	X	FW	-	-	-	False
-gab	X	FW	-	-	-	False
-drei	X	FW	-	-	-	False
-Leitmotive	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-sich	ADJ	JJ	-	-	-	False
-durch	NOUN	NN	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Konferenz	PROPN	NNP	-	-	-	False
-zogen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	Phenomenon	True
-wichtig	NOUN	FW	wichtig.a	Being_relevant	-	False
-sind	NOUN	FW	-	-	-	False
-für	NOUN	FW	-	-	Endeavor	True
-das	X	FW	-	-	Endeavor	True
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-ich	X	FW	-	-	-	False
-sprechen	X	FW	-	-	-	False
-will	NOUN	MD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Es	FW	-	-	-	-	-	False
+gab	FW	-	-	-	-	-	False
+drei	FW	-	-	-	-	-	False
+Leitmotive	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+sich	JJ	-	-	-	-	-	False
+durch	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Konferenz	NNP	-	-	-	-	-	False
+zogen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	Phenomenon	14410	True
+wichtig	FW	wichtig.a	Being_relevant	2530	-	-	False
+sind	FW	-	-	-	-	-	False
+für	FW	-	-	-	Endeavor	14411	True
+das	FW	-	-	-	Endeavor	14411	True
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+ich	FW	-	-	-	-	-	False
+sprechen	FW	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

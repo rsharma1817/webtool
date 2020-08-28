@@ -1,14 +1,14 @@
-He	PRON	PRP	-	-	Performer	True
-was	VERB	VBD	be.v	Performers_and_roles	-	False
-in	ADP	IN	-	-	Performance	True
-the	DET	DT	-	-	Performance	True
-Nativity	PROPN	NNP	-	-	Performance	True
-play	NOUN	NN	-	-	Performance	True
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	Performer	3790	True
+was	VBD	be.v	Performers_and_roles	413	-	-	False
+in	IN	-	-	-	Performance	3789	True
+the	DT	-	-	-	Performance	3789	True
+Nativity	NNP	-	-	-	Performance	3789	True
+play	NN	-	-	-	Performance	3789	True
+.	.	-	-	-	-	-	False
 
-Er	INTJ	UH	-	-	Performer	True
-spielte	X	FW	spielen.v	Performers_and_roles	-	False
-im	X	FW	-	-	Performance	True
-Krippenspiel	PROPN	FW	-	-	Performance	True
-mit	NOUN	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Er	UH	-	-	-	Performer	3790	True
+spielte	FW	spielen.v	Performers_and_roles	413	-	-	False
+im	FW	-	-	-	Performance	3789	True
+Krippenspiel	FW	-	-	-	Performance	3789	True
+mit	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

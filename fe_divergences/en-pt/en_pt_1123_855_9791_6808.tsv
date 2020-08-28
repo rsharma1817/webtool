@@ -1,16 +1,16 @@
-He	PRON	PRP	-	-	-	False
-'d	VERB	VBD	-	-	-	False
-known	VERB	VBN	-	-	-	False
-her	PRON	PRP	-	-	-	False
-for	ADP	IN	-	-	-	False
-a	DET	DT	-	-	Count	True
-month	NOUN	NN	month.n	Measure_duration	Unit	True
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	-	-	False
+'d	VBD	-	-	-	-	-	False
+known	VBN	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+a	DT	-	-	-	Count	1805	True
+month	NN	month.n	Measure_duration	224	Unit	1806	True
+.	.	-	-	-	-	-	False
 
-Eles	X	FW	-	-	Process	True
-se	X	FW	-	-	Process	True
-conheciam	X	FW	-	-	Process	True
-por	X	FW	-	-	-	False
-um	INTJ	UH	-	-	Count	True
-mês	INTJ	UH	mês.n	Measure_duration	-	False
-.	PUNCT	.	-	-	-	False
+Eles	FW	-	-	-	Process	1807	True
+se	FW	-	-	-	Process	1807	True
+conheciam	FW	-	-	-	Process	1807	True
+por	FW	-	-	-	-	-	False
+um	UH	-	-	-	Count	1805	True
+mês	UH	mês.n	Measure_duration	224	-	-	False
+.	.	-	-	-	-	-	False

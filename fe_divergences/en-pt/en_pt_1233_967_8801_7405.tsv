@@ -1,31 +1,31 @@
-But	CCONJ	CC	-	-	-	False
-this	DET	DT	-	-	-	False
-was	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-1930s	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-ADHD	PROPN	NNP	-	-	Idea	True
-had	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-been	VERB	VBN	-	-	-	False
-invented	VERB	VBN	invent.v	Coming_up_with	-	False
-at	ADP	IN	-	-	Time	False
-this	DET	DT	-	-	Time	False
-point	NOUN	NN	-	-	Time	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+1930s	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+ADHD	NNP	-	-	-	Idea	112	True
+had	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+invented	VBN	invent.v	Coming_up_with	27	-	-	False
+at	IN	-	-	-	Time	5342	False
+this	DT	-	-	-	Time	5342	False
+point	NN	-	-	-	Time	5342	False
+.	.	-	-	-	-	-	False
 
-Mas	X	MD	-	-	-	False
-eram	X	VB	-	-	-	False
-os	X	IN	-	-	-	False
-anos	X	NNP	-	-	-	False
-30	NUM	CD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-TDAH	X	FW	-	-	Idea	True
-não	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-sido	X	FW	-	-	-	False
-inventado	X	FW	inventar.v	Coming_up_with	-	False
-ainda	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Mas	MD	-	-	-	-	-	False
+eram	VB	-	-	-	-	-	False
+os	IN	-	-	-	-	-	False
+anos	NNP	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+TDAH	FW	-	-	-	Idea	112	True
+não	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+sido	FW	-	-	-	-	-	False
+inventado	FW	inventar.v	Coming_up_with	27	-	-	False
+ainda	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

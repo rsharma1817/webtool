@@ -1,21 +1,21 @@
-If	ADP	IN	-	-	-	False
-they	PRON	PRP	-	-	Cognizer	True
-do	VERB	VBP	-	-	-	False
-n't	ADV	RB	-	-	-	False
-know	VERB	VB	know.v	Awareness	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	-	False
-'ll	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-go	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+they	PRP	-	-	-	Cognizer	83	True
+do	VBP	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+know	VB	know.v	Awareness	19	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+'ll	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+go	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-elas	X	FW	-	-	Cognizer	True
-não	X	FW	-	-	-	False
-sabem	X	FW	saber.v	Awareness	-	False
-,	PUNCT	,	-	-	-	False
-elas	X	FW	-	-	-	False
-chutam	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+elas	FW	-	-	-	Cognizer	83	True
+não	FW	-	-	-	-	-	False
+sabem	FW	saber.v	Awareness	19	-	-	False
+,	,	-	-	-	-	-	False
+elas	FW	-	-	-	-	-	False
+chutam	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,47 +1,47 @@
-Truthfully	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	-	False
-happens	VERB	VBZ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	as.adv	Temporal_collocation	-	False
-children	NOUN	NNS	-	-	Landmark_period	True
-grow	VERB	VBP	-	-	Landmark_period	True
-up	ADP	RP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	Trajector_event	True
-start	VERB	VBP	-	-	Trajector_event	True
-to	PART	TO	-	-	Trajector_event	True
-educate	VERB	VB	-	-	Trajector_event	True
-them	PRON	PRP	-	-	Trajector_event	True
-progressively	ADV	RB	-	-	Trajector_event	True
-from	ADP	IN	-	-	Trajector_event	True
-the	DET	DT	-	-	Trajector_event	True
-waist	NOUN	NN	-	-	Trajector_event	True
-up	ADP	RP	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+Truthfully	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+happens	VBZ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	as.adv	Temporal_collocation	1895	-	-	False
+children	NNS	-	-	-	Landmark_period	12063	True
+grow	VBP	-	-	-	Landmark_period	12063	True
+up	RP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	Trajector_event	12064	True
+start	VBP	-	-	-	Trajector_event	12064	True
+to	TO	-	-	-	Trajector_event	12064	True
+educate	VB	-	-	-	Trajector_event	12064	True
+them	PRP	-	-	-	Trajector_event	12064	True
+progressively	RB	-	-	-	Trajector_event	12064	True
+from	IN	-	-	-	Trajector_event	12064	True
+the	DT	-	-	-	Trajector_event	12064	True
+waist	NN	-	-	-	Trajector_event	12064	True
+up	RP	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False
 
-Sério	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	INTJ	UH	-	-	-	False
-que	X	FW	-	-	-	False
-acontece	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-à	X	FW	à medida que.scon	Temporal_collocation	-	False
-medida	X	FW	à medida que.scon	Temporal_collocation	-	False
-que	X	FW	à medida que.scon	Temporal_collocation	-	False
-as	X	FW	-	-	Landmark_event	True
-crianças	X	FW	-	-	Landmark_event	True
-crescem	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-nós	X	FW	-	-	Trajector_event	True
-começamos	X	FW	-	-	Trajector_event	True
-a	X	FW	-	-	Trajector_event	True
-educá-las	X	FW	-	-	Trajector_event	True
-progressivamente	X	FW	-	-	Trajector_event	True
-da	X	FW	-	-	Trajector_event	True
-cintura	X	FW	-	-	Trajector_event	True
-para	X	FW	-	-	Trajector_event	True
-cima	X	FW	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+Sério	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+acontece	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+à	FW	à medida que.scon	Temporal_collocation	1895	-	-	False
+medida	FW	à medida que.scon	Temporal_collocation	1895	-	-	False
+que	FW	à medida que.scon	Temporal_collocation	1895	-	-	False
+as	FW	-	-	-	Landmark_event	11269	True
+crianças	FW	-	-	-	Landmark_event	11269	True
+crescem	FW	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	-	-	False
+nós	FW	-	-	-	Trajector_event	12064	True
+começamos	FW	-	-	-	Trajector_event	12064	True
+a	FW	-	-	-	Trajector_event	12064	True
+educá-las	FW	-	-	-	Trajector_event	12064	True
+progressivamente	FW	-	-	-	Trajector_event	12064	True
+da	FW	-	-	-	Trajector_event	12064	True
+cintura	FW	-	-	-	Trajector_event	12064	True
+para	FW	-	-	-	Trajector_event	12064	True
+cima	FW	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False

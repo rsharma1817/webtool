@@ -1,27 +1,27 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-not	ADV	RB	not.adv	Negation	-	False
-often	ADV	RB	-	-	Negated_proposition	True
-at	ADP	IN	-	-	-	False
-dinner	NOUN	NN	-	-	-	False
-parties	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-frankly	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+not	RB	not.adv	Negation	2860	-	-	False
+often	RB	-	-	-	Negated_proposition	16210	True
+at	IN	-	-	-	-	-	False
+dinner	NN	-	-	-	-	-	False
+parties	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+frankly	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	PROPN	FW	-	-	-	False
-verdade	PROPN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-você	X	FW	-	-	Negated_proposition	True
-não	X	FW	não.adv	Negation	-	False
-vai	X	FW	-	-	Negated_proposition	True
-a	X	FW	-	-	Negated_proposition	True
-muitas	X	FW	-	-	Negated_proposition	True
-festas	X	FW	-	-	Negated_proposition	True
-se	X	FW	-	-	Negated_proposition	True
-trabalha	X	FW	-	-	Negated_proposition	True
-com	X	FW	-	-	Negated_proposition	True
-educação	X	FW	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+Na	FW	-	-	-	-	-	False
+verdade	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+você	FW	-	-	-	Negated_proposition	16210	True
+não	FW	não.adv	Negation	2860	-	-	False
+vai	FW	-	-	-	Negated_proposition	16210	True
+a	FW	-	-	-	Negated_proposition	16210	True
+muitas	FW	-	-	-	Negated_proposition	16210	True
+festas	FW	-	-	-	Negated_proposition	16210	True
+se	FW	-	-	-	Negated_proposition	16210	True
+trabalha	FW	-	-	-	Negated_proposition	16210	True
+com	FW	-	-	-	Negated_proposition	16210	True
+educação	FW	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False

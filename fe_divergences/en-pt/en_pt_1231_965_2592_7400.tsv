@@ -1,21 +1,21 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-now	ADV	RB	-	-	-	False
-they	PRON	PRP	-	-	Speaker	True
-'d	AUX	MD	-	-	-	False
-say	VERB	VB	say.v	Statement	-	False
-she	PRON	PRP	-	-	Message	True
-had	VERB	VBD	-	-	Message	True
-ADHD	PROPN	NNP	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+they	PRP	-	-	-	Speaker	183	True
+'d	MD	-	-	-	-	-	False
+say	VB	say.v	Statement	43	-	-	False
+she	PRP	-	-	-	Message	185	True
+had	VBD	-	-	-	Message	185	True
+ADHD	NNP	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	UH	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-hoje	X	FW	-	-	-	False
-diriam	X	FW	dizer.v	Statement	-	False
-que	X	FW	-	-	Message	True
-ela	X	FW	-	-	Message	True
-tinha	X	FW	-	-	Message	True
-TDAH	PROPN	NNP	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+Eu	UH	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+hoje	FW	-	-	-	-	-	False
+diriam	FW	dizer.v	Statement	43	-	-	False
+que	FW	-	-	-	Message	185	True
+ela	FW	-	-	-	Message	185	True
+tinha	FW	-	-	-	Message	185	True
+TDAH	NNP	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False

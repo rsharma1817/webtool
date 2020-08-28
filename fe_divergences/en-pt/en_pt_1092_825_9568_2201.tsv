@@ -1,30 +1,30 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-result	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	Teacher	True
-are	VERB	VBP	-	-	-	False
-educating	VERB	VBG	educate.v	Education_teaching	-	False
-people	NOUN	NNS	-	-	Student	True
-out	ADP	IN	-	-	Result	False
-of	ADP	IN	-	-	Result	False
-their	PRON	PRP$	-	-	Result	False
-creative	ADJ	JJ	-	-	Result	False
-capacities	NOUN	NNS	-	-	Result	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+result	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+we	PRP	-	-	-	Teacher	541	True
+are	VBP	-	-	-	-	-	False
+educating	VBG	educate.v	Education_teaching	111	-	-	False
+people	NNS	-	-	-	Student	542	True
+out	IN	-	-	-	Result	580	False
+of	IN	-	-	-	Result	580	False
+their	PRP$	-	-	-	Result	580	False
+creative	JJ	-	-	-	Result	580	False
+capacities	NNS	-	-	-	Result	580	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-resultado	X	FW	-	-	-	False
-disso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-estamos	X	FW	-	-	-	False
-educando	X	FW	educar.v	Education_teaching	-	False
-as	ADP	IN	-	-	Student	True
-pessoas	X	FW	-	-	Student	True
-para	X	FW	-	-	Purpose	False
-serem	X	FW	-	-	Purpose	False
-menos	X	FW	-	-	Purpose	False
-criativas	X	FW	-	-	Purpose	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+resultado	FW	-	-	-	-	-	False
+disso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+estamos	FW	-	-	-	-	-	False
+educando	FW	educar.v	Education_teaching	111	-	-	False
+as	IN	-	-	-	Student	542	True
+pessoas	FW	-	-	-	Student	542	True
+para	FW	-	-	-	Purpose	10463	False
+serem	FW	-	-	-	Purpose	10463	False
+menos	FW	-	-	-	Purpose	10463	False
+criativas	FW	-	-	-	Purpose	10463	False
+.	.	-	-	-	-	-	False

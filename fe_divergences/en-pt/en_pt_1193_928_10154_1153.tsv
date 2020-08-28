@@ -1,14 +1,14 @@
-We	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-three	NUM	CD	three.num	Cardinal_numbers	Number	True
-things	NOUN	NNS	-	-	Entity	True
-about	ADP	IN	-	-	-	False
-intelligence	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+three	CD	three.num	Cardinal_numbers	218	Number	3622	True
+things	NNS	-	-	-	Entity	3623	True
+about	IN	-	-	-	-	-	False
+intelligence	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Sabemos	X	FW	-	-	-	False
-três	X	FW	três.num	Cardinal_numbers	-	False
-coisas	X	FW	-	-	Entity	True
-sobre	X	FW	-	-	-	False
-inteligência	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sabemos	FW	-	-	-	-	-	False
+três	FW	três.num	Cardinal_numbers	218	-	-	False
+coisas	FW	-	-	-	Entity	3623	True
+sobre	FW	-	-	-	-	-	False
+inteligência	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

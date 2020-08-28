@@ -1,45 +1,45 @@
-Anyway	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-lunch	NOUN	NN	-	-	-	False
-one	NUM	CD	-	-	-	False
-day	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-How	ADV	WRB	-	-	-	False
-did	VERB	VBD	-	-	-	False
-you	PRON	PRP	-	-	Person	True
-get	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-dancer	NOUN	NN	dancer.n	People_by_vocation	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Anyway	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+lunch	NN	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+day	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+How	WRB	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+you	PRP	-	-	-	Person	6263	True
+get	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+dancer	NN	dancer.n	People_by_vocation	1071	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Gillian	PROPN	NNP	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-almoçamos	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-dia	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-perguntei	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-como	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-tornou	X	FW	-	-	-	False
-dançarina	X	FW	dançarino.n	People_by_vocation	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+almoçamos	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+dia	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+perguntei	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+tornou	FW	-	-	-	-	-	False
+dançarina	FW	dançarino.n	People_by_vocation	1071	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

@@ -1,25 +1,25 @@
-Because	ADP	IN	because.c	Causation	-	False
-you	PRON	PRP	-	-	Cause	False
-do	VERB	VBP	-	-	Cause	False
-n't	ADV	RB	-	-	Cause	False
-think	VERB	VB	-	-	Cause	False
-of	ADP	IN	-	-	Cause	False
-Shakespeare	PROPN	NNP	-	-	Cause	False
-being	VERB	VBG	-	-	Cause	False
-a	DET	DT	-	-	Cause	False
-child	NOUN	NN	-	-	Cause	False
-,	PUNCT	,	-	-	-	False
-do	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Because	IN	because.c	Causation	5	-	-	False
+you	PRP	-	-	-	Cause	18	False
+do	VBP	-	-	-	Cause	18	False
+n't	RB	-	-	-	Cause	18	False
+think	VB	-	-	-	Cause	18	False
+of	IN	-	-	-	Cause	18	False
+Shakespeare	NNP	-	-	-	Cause	18	False
+being	VBG	-	-	-	Cause	18	False
+a	DT	-	-	-	Cause	18	False
+child	NN	-	-	-	Cause	18	False
+,	,	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Porque	X	NNP	porque.c	Causation	-	False
-você	X	FW	-	-	Cause	False
-nunca	X	FW	-	-	Cause	False
-pensou	X	FW	-	-	Cause	False
-no	DET	DT	-	-	Cause	False
-Shakespeare	PROPN	NNP	-	-	Cause	False
-criança	PROPN	NNP	-	-	Cause	False
-,	PUNCT	,	-	-	-	False
-pensou	NOUN	NN	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Porque	NNP	porque.c	Causation	5	-	-	False
+você	FW	-	-	-	Cause	18	False
+nunca	FW	-	-	-	Cause	18	False
+pensou	FW	-	-	-	Cause	18	False
+no	DT	-	-	-	Cause	18	False
+Shakespeare	NNP	-	-	-	Cause	18	False
+criança	NNP	-	-	-	Cause	18	False
+,	,	-	-	-	-	-	False
+pensou	NN	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

@@ -1,13 +1,13 @@
-And	CCONJ	CC	-	-	-	False
-slightly	ADV	RB	-	-	-	False
-to	ADP	IN	-	-	-	False
-one	NUM	CD	-	-	-	False
-side	NOUN	NN	side.n	Part_orientational	Part	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+slightly	RB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+side	NN	side.n	Part_orientational	143	Part	1110	True
+.	.	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-levemente	X	NN	-	-	-	False
-para	X	NN	-	-	-	False
-um	INTJ	UH	-	-	-	False
-lado	NOUN	FW	lado.n	Part_orientational	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+levemente	NN	-	-	-	-	-	False
+para	NN	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+lado	FW	lado.n	Part_orientational	143	-	-	False
+.	.	-	-	-	-	-	False

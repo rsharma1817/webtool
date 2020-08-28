@@ -1,48 +1,48 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-you	PRON	PRP	-	-	Profiled_possibility	True
-'re	VERB	VBP	-	-	Profiled_possibility	True
-at	ADP	IN	-	-	Profiled_possibility	True
-a	DET	DT	-	-	Profiled_possibility	True
-dinner	NOUN	NN	-	-	Profiled_possibility	True
-party	NOUN	NN	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-and	CCONJ	CC	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-say	VERB	VBP	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-work	VERB	VBP	-	-	Profiled_possibility	True
-in	ADP	IN	-	-	Profiled_possibility	True
-education	NOUN	NN	-	-	Profiled_possibility	True
---	PUNCT	:	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+you	PRP	-	-	-	Profiled_possibility	16290	True
+'re	VBP	-	-	-	Profiled_possibility	16290	True
+at	IN	-	-	-	Profiled_possibility	16290	True
+a	DT	-	-	-	Profiled_possibility	16290	True
+dinner	NN	-	-	-	Profiled_possibility	16290	True
+party	NN	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+and	CC	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+say	VBP	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+work	VBP	-	-	-	Profiled_possibility	16290	True
+in	IN	-	-	-	Profiled_possibility	16290	True
+education	NN	-	-	-	Profiled_possibility	16290	True
+--	:	-	-	-	-	-	False
 
-Wenn	PROPN	NNP	wenn.c	Conditional_occurrence	-	False
-Sie	PROPN	NNP	-	-	Profiled_possibility	True
-auf	PROPN	NNP	-	-	Profiled_possibility	True
-einer	PROPN	NNP	-	-	Profiled_possibility	True
-Dinner-Party	PROPN	NNP	-	-	Profiled_possibility	True
-sind	NOUN	NN	-	-	Profiled_possibility	True
-und	NOUN	FW	-	-	Profiled_possibility	True
-erzählen	NOUN	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-dass	X	FW	-	-	Profiled_possibility	True
-sie	X	FW	-	-	Profiled_possibility	True
-im	X	FW	-	-	Profiled_possibility	True
-Bildungswesen	PROPN	NNP	-	-	Profiled_possibility	True
-arbeiten	PROPN	NNP	-	-	Profiled_possibility	True
---	PUNCT	:	-	-	-	False
-offen	NOUN	VBP	-	-	-	False
-gesagt	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ist	X	NN	-	-	-	False
-man	X	NN	-	-	-	False
-nicht	X	NN	-	-	-	False
-oft	X	FW	-	-	-	False
-bei	X	FW	-	-	-	False
-Dinner-Parties	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wenn	NOUN	NN	-	-	-	False
-man	NOUN	UH	-	-	-	False
-im	VERB	UH	-	-	-	False
-Bildungswesen	PROPN	NNP	-	-	-	False
-arbeitet	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Wenn	NNP	wenn.c	Conditional_occurrence	2903	-	-	False
+Sie	NNP	-	-	-	Profiled_possibility	16290	True
+auf	NNP	-	-	-	Profiled_possibility	16290	True
+einer	NNP	-	-	-	Profiled_possibility	16290	True
+Dinner-Party	NNP	-	-	-	Profiled_possibility	16290	True
+sind	NN	-	-	-	Profiled_possibility	16290	True
+und	FW	-	-	-	Profiled_possibility	16290	True
+erzählen	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+dass	FW	-	-	-	Profiled_possibility	16290	True
+sie	FW	-	-	-	Profiled_possibility	16290	True
+im	FW	-	-	-	Profiled_possibility	16290	True
+Bildungswesen	NNP	-	-	-	Profiled_possibility	16290	True
+arbeiten	NNP	-	-	-	Profiled_possibility	16290	True
+--	:	-	-	-	-	-	False
+offen	VBP	-	-	-	-	-	False
+gesagt	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+man	NN	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+oft	FW	-	-	-	-	-	False
+bei	FW	-	-	-	-	-	False
+Dinner-Parties	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wenn	NN	-	-	-	-	-	False
+man	UH	-	-	-	-	-	False
+im	UH	-	-	-	-	-	False
+Bildungswesen	NNP	-	-	-	-	-	False
+arbeitet	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,49 +1,49 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	Perceiver_agentive	True
-look	VERB	VBP	look.v	Perception_active	-	False
-at	ADP	IN	-	-	Phenomenon	True
-the	DET	DT	-	-	Phenomenon	True
-interactions	NOUN	NNS	-	-	Phenomenon	True
-of	ADP	IN	-	-	Phenomenon	True
-a	DET	DT	-	-	Phenomenon	True
-human	ADJ	JJ	-	-	Phenomenon	True
-brain	NOUN	NN	-	-	Phenomenon	True
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-heard	VERB	VBD	-	-	-	False
-yesterday	NOUN	NN	-	-	-	False
-from	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-number	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-presentations	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-intelligence	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-wonderfully	ADV	RB	-	-	-	False
-interactive	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	Perceiver_agentive	301	True
+look	VBP	look.v	Perception_active	66	-	-	False
+at	IN	-	-	-	Phenomenon	302	True
+the	DT	-	-	-	Phenomenon	302	True
+interactions	NNS	-	-	-	Phenomenon	302	True
+of	IN	-	-	-	Phenomenon	302	True
+a	DT	-	-	-	Phenomenon	302	True
+human	JJ	-	-	-	Phenomenon	302	True
+brain	NN	-	-	-	Phenomenon	302	True
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+heard	VBD	-	-	-	-	-	False
+yesterday	NN	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+number	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+presentations	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+intelligence	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+wonderfully	RB	-	-	-	-	-	False
+interactive	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-formos	X	FW	-	-	-	False
-olhar	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-interações	NOUN	FW	-	-	-	False
-do	VERB	VBP	-	-	-	False
-cérebro	X	FW	-	-	-	False
-humano	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-conforme	X	FW	-	-	-	False
-ouvimos	X	FW	ouvir.v	Perception_active	-	False
-ontem	X	FW	-	-	Time	False
-em	X	FW	-	-	-	False
-várias	X	FW	-	-	-	False
-apresentações	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-inteligência	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-maravilhosamente	X	FW	-	-	-	False
-interativa	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+formos	FW	-	-	-	-	-	False
+olhar	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+interações	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+cérebro	FW	-	-	-	-	-	False
+humano	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+conforme	FW	-	-	-	-	-	False
+ouvimos	FW	ouvir.v	Perception_active	66	-	-	False
+ontem	FW	-	-	-	Time	4806	False
+em	FW	-	-	-	-	-	False
+várias	FW	-	-	-	-	-	False
+apresentações	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+inteligência	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+maravilhosamente	FW	-	-	-	-	-	False
+interativa	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

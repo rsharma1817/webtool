@@ -1,31 +1,31 @@
-Grown	ADJ	JJ	-	-	-	False
-men	NOUN	NNS	man.n	People	Person	True
-and	CCONJ	CC	-	-	-	False
-women	NOUN	NNS	-	-	-	False
-writhing	VERB	VBG	-	-	-	False
-uncontrollably	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-off	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-beat	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Grown	JJ	-	-	-	-	-	False
+men	NNS	man.n	People	304	Person	2618	True
+and	CC	-	-	-	-	-	False
+women	NNS	-	-	-	-	-	False
+writhing	VBG	-	-	-	-	-	False
+uncontrollably	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+off	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+beat	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	X	FW	-	-	-	False
-lá	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-vai	X	FW	-	-	-	False
-ver	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-homens	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-mulheres	X	FW	mulher.n	People	-	False
-maduros	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	-	-	-	False
-contorcendo	X	FW	-	-	-	False
-incontrolavelmente	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-fora	NOUN	NN	-	-	-	False
-do	VERB	VBP	-	-	-	False
-ritmo	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	FW	-	-	-	-	-	False
+lá	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+vai	FW	-	-	-	-	-	False
+ver	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+homens	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+mulheres	FW	mulher.n	People	304	-	-	False
+maduros	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+contorcendo	FW	-	-	-	-	-	False
+incontrolavelmente	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+fora	NN	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+ritmo	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

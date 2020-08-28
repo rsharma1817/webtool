@@ -1,22 +1,22 @@
-In	ADP	IN	-	-	-	False
-fact	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	Theme	True
-moved	VERB	VBD	move.v	Motion	-	False
-from	ADP	IN	-	-	Source	True
-Stratford	PROPN	NNP	-	-	Source	True
-to	ADP	IN	-	-	Goal	True
-Los	PROPN	NNP	-	-	Goal	True
-Angeles	PROPN	NNP	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	-	-	False
+fact	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	Theme	26	True
+moved	VBD	move.v	Motion	7	-	-	False
+from	IN	-	-	-	Source	27	True
+Stratford	NNP	-	-	-	Source	27	True
+to	IN	-	-	-	Goal	29	True
+Los	NNP	-	-	-	Goal	29	True
+Angeles	NNP	-	-	-	Goal	29	True
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-realidade	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mudamos	X	FW	mudar.v	Motion	-	False
-de	X	FW	-	-	Source	True
-Stratford	X	NNP	-	-	Source	True
-para	X	FW	-	-	Goal	True
-Los	PROPN	NNP	-	-	Goal	True
-Angeles	PROPN	NNP	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+realidade	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mudamos	FW	mudar.v	Motion	7	-	-	False
+de	FW	-	-	-	Source	27	True
+Stratford	NNP	-	-	-	Source	27	True
+para	FW	-	-	-	Goal	29	True
+Los	NNP	-	-	-	Goal	29	True
+Angeles	NNP	-	-	-	Goal	29	True
+.	.	-	-	-	-	-	False

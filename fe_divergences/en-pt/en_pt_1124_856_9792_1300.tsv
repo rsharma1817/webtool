@@ -1,41 +1,41 @@
-Mind	VERB	VB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	-	False
-'d	AUX	VBD	-	-	-	False
-had	VERB	VBN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-fourth	ADJ	JJ	fourth.a	Ordinal_numbers	Item	True
-anniversary	NOUN	NN	-	-	Item	True
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-long	ADJ	JJ	-	-	-	False
-time	NOUN	NN	-	-	-	False
-when	ADV	WRB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-16	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Mind	VB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+'d	VBD	-	-	-	-	-	False
+had	VBN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+fourth	JJ	fourth.a	Ordinal_numbers	1147	Item	6633	True
+anniversary	NN	-	-	-	Item	6633	True
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+long	JJ	-	-	-	-	-	False
+time	NN	-	-	-	-	-	False
+when	WRB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+16	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Vejam	PROPN	FW	-	-	-	False
-bem	INTJ	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eles	X	FW	-	-	-	False
-já	X	FW	-	-	-	False
-tinham	X	FW	-	-	-	False
-celebrado	X	FW	-	-	-	False
-seu	X	FW	-	-	-	False
-quarto	X	FW	quarto.a	Ordinal_numbers	-	False
-aniversário	X	FW	-	-	Item	True
-,	PUNCT	,	-	-	-	False
-porque	X	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-muito	X	FW	-	-	-	False
-tempo	X	NN	-	-	-	False
-aos	X	NNP	-	-	-	False
-16	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Vejam	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+já	FW	-	-	-	-	-	False
+tinham	FW	-	-	-	-	-	False
+celebrado	FW	-	-	-	-	-	False
+seu	FW	-	-	-	-	-	False
+quarto	FW	quarto.a	Ordinal_numbers	1147	-	-	False
+aniversário	FW	-	-	-	Item	6633	True
+,	,	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+muito	FW	-	-	-	-	-	False
+tempo	NN	-	-	-	-	-	False
+aos	NNP	-	-	-	-	-	False
+16	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

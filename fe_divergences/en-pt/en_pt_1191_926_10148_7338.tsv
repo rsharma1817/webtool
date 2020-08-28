@@ -1,33 +1,33 @@
-And	CCONJ	CC	-	-	-	False
-it	PRON	PRP	-	-	-	False
-indicates	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	Entity	True
-whole	ADJ	JJ	-	-	Entity	True
-structure	NOUN	NN	-	-	Entity	True
-of	ADP	IN	-	-	Entity	True
-education	NOUN	NN	-	-	Entity	True
-is	VERB	VBZ	-	-	-	False
-shifting	VERB	VBG	shift.v	Undergo_change	-	False
-beneath	ADP	IN	-	-	Circumstances	False
-our	PRON	PRP$	-	-	Circumstances	False
-feet	NOUN	NNS	-	-	Circumstances	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+indicates	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	Entity	6803	True
+whole	JJ	-	-	-	Entity	6803	True
+structure	NN	-	-	-	Entity	6803	True
+of	IN	-	-	-	Entity	6803	True
+education	NN	-	-	-	Entity	6803	True
+is	VBZ	-	-	-	-	-	False
+shifting	VBG	shift.v	Undergo_change	1172	-	-	False
+beneath	IN	-	-	-	Circumstances	6844	False
+our	PRP$	-	-	-	Circumstances	6844	False
+feet	NNS	-	-	-	Circumstances	6844	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-é	NOUN	UH	-	-	-	False
-um	INTJ	UH	-	-	-	False
-indicativo	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-toda	X	FW	-	-	Entity	True
-a	X	FW	-	-	Entity	True
-estrutura	X	FW	-	-	Entity	True
-educacional	X	FW	-	-	Entity	True
-está	X	FW	-	-	-	False
-mudando	X	FW	mudar.v	Undergo_change	-	False
-na	X	FW	-	-	Place	False
-frente	X	FW	-	-	Place	False
-do	X	FW	-	-	Place	False
-nosso	X	FW	-	-	Place	False
-nariz	X	FW	-	-	Place	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+é	UH	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+indicativo	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+toda	FW	-	-	-	Entity	6803	True
+a	FW	-	-	-	Entity	6803	True
+estrutura	FW	-	-	-	Entity	6803	True
+educacional	FW	-	-	-	Entity	6803	True
+está	FW	-	-	-	-	-	False
+mudando	FW	mudar.v	Undergo_change	1172	-	-	False
+na	FW	-	-	-	Place	16568	False
+frente	FW	-	-	-	Place	16568	False
+do	FW	-	-	-	Place	16568	False
+nosso	FW	-	-	-	Place	16568	False
+nariz	FW	-	-	-	Place	16568	False
+.	.	-	-	-	-	-	False

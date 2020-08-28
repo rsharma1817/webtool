@@ -1,19 +1,19 @@
-I	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-blown	VERB	VBN	-	-	-	False
-away	ADV	RP	-	-	-	False
-by	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	whole.a	Ranked_expectation	-	False
-thing	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+blown	VBN	-	-	-	-	-	False
+away	RP	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	whole.a	Ranked_expectation	1533	-	-	False
+thing	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Die	VERB	VB	-	-	-	False
-ganze	PROPN	NNP	ganz.a	Ranked_expectation	-	False
-Sache	PROPN	NNP	-	-	Entity	True
-hier	X	NN	-	-	-	False
-hat	X	NN	-	-	-	False
-mich	X	FW	-	-	-	False
-umgehauen	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Die	VB	-	-	-	-	-	False
+ganze	NNP	ganz.a	Ranked_expectation	1533	-	-	False
+Sache	NNP	-	-	-	Entity	8353	True
+hier	NN	-	-	-	-	-	False
+hat	NN	-	-	-	-	-	False
+mich	FW	-	-	-	-	-	False
+umgehauen	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

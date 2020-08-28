@@ -1,36 +1,36 @@
-It	PRON	PRP	-	-	Entity	True
-'s	VERB	VBZ	-	-	-	False
-thicker	ADJ	JJR	thick.a	Measurable_attributes	-	False
-in	ADP	IN	-	-	Circumstances	False
-women	NOUN	NNS	-	-	Circumstances	False
-.	PUNCT	.	-	-	-	False
+It	PRP	-	-	-	Entity	5896	True
+'s	VBZ	-	-	-	-	-	False
+thicker	JJR	thick.a	Measurable_attributes	965	-	-	False
+in	IN	-	-	-	Circumstances	5901	False
+women	NNS	-	-	-	Circumstances	5901	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-cérebro	NOUN	NN	-	-	-	False
-é	NOUN	NN	-	-	-	False
-intencionalmente	NOUN	NN	-	-	-	False
-...	PUNCT	NFP	-	-	-	False
-Por	NOUN	IN	-	-	-	False
-sinal	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-existe	INTJ	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-feixe	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-filamentos	X	FW	-	-	-	False
-nervosos	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-conecta	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-dois	X	FW	-	-	-	False
-lados	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-cérebro	X	FW	-	-	-	False
-chamado	X	FW	-	-	-	False
-corpo	X	FW	-	-	Entity	True
-caloso.É	X	FW	-	-	-	False
-mais	X	FW	-	-	-	False
-espesso	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-mulheres	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+cérebro	NN	-	-	-	-	-	False
+é	NN	-	-	-	-	-	False
+intencionalmente	NN	-	-	-	-	-	False
+...	NFP	-	-	-	-	-	False
+Por	IN	-	-	-	-	-	False
+sinal	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+existe	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+feixe	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+filamentos	FW	-	-	-	-	-	False
+nervosos	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+conecta	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+dois	FW	-	-	-	-	-	False
+lados	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+cérebro	FW	-	-	-	-	-	False
+chamado	FW	-	-	-	-	-	False
+corpo	FW	-	-	-	Entity	5896	True
+caloso.É	FW	-	-	-	-	-	False
+mais	FW	-	-	-	-	-	False
+espesso	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+mulheres	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

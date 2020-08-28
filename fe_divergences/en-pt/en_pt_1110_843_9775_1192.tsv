@@ -1,24 +1,24 @@
-He	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-somebody	NOUN	NN	somebody.n	People	Person	True
-'s	PART	POS	-	-	-	False
-English	PROPN	NNP	-	-	-	False
-class	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-was	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-he	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+somebody	NN	somebody.n	People	304	Person	2618	True
+'s	POS	-	-	-	-	-	False
+English	NNP	-	-	-	-	-	False
+class	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-aprendeu	X	FW	-	-	-	False
-inglês	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-aula	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-alguém	X	FW	alguém.n	People	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	-	False
-aprendeu	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+aprendeu	FW	-	-	-	-	-	False
+inglês	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+aula	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+alguém	FW	alguém.n	People	304	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+aprendeu	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

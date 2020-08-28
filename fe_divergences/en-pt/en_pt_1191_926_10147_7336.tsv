@@ -1,33 +1,33 @@
-And	CCONJ	CC	-	-	-	False
-it	PRON	PRP	-	-	-	False
-indicates	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-structure	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-is	VERB	VBZ	-	-	-	False
-shifting	VERB	VBG	-	-	-	False
-beneath	ADP	IN	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-feet	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+indicates	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+structure	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+is	VBZ	-	-	-	-	-	False
+shifting	VBG	-	-	-	-	-	False
+beneath	IN	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+feet	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-é	NOUN	UH	-	-	-	False
-um	INTJ	UH	-	-	-	False
-indicativo	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-toda	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-estrutura	X	FW	-	-	-	False
-educacional	X	FW	educacional.a	Education_teaching	-	False
-está	X	FW	-	-	-	False
-mudando	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-frente	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-nosso	X	FW	-	-	-	False
-nariz	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+é	UH	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+indicativo	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+toda	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+estrutura	FW	-	-	-	-	-	False
+educacional	FW	educacional.a	Education_teaching	111	-	-	False
+está	FW	-	-	-	-	-	False
+mudando	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+frente	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+nosso	FW	-	-	-	-	-	False
+nariz	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

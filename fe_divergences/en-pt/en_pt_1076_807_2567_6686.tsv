@@ -1,29 +1,29 @@
-And	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Yeah	INTJ	UH	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-why	ADV	WRB	-	-	Message	True
-?	PUNCT	,	-	-	Message	True
-Was	VERB	VBD	-	-	Message	True
-that	DET	DT	-	-	Message	True
-wrong	ADJ	JJ	-	-	Message	True
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+he	PRP	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Yeah	UH	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+why	WRB	-	-	-	Message	185	True
+?	,	-	-	-	Message	185	True
+Was	VBD	-	-	-	Message	185	True
+that	DT	-	-	-	Message	185	True
+wrong	JJ	-	-	-	Message	185	True
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-ele	X	JJ	-	-	Speaker	True
-disse	X	NN	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Claro	PROPN	NNP	-	-	Message	True
-!	PUNCT	.	-	-	Message	True
-Por	PROPN	FW	-	-	Message	True
-quê	PROPN	FW	-	-	Message	True
-?	PUNCT	.	-	-	Message	True
-Estava	PROPN	FW	-	-	Message	True
-errado	PROPN	FW	-	-	Message	True
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+ele	JJ	-	-	-	Speaker	183	True
+disse	NN	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Claro	NNP	-	-	-	Message	185	True
+!	.	-	-	-	Message	185	True
+Por	FW	-	-	-	Message	185	True
+quê	FW	-	-	-	Message	185	True
+?	.	-	-	-	Message	185	True
+Estava	FW	-	-	-	Message	185	True
+errado	FW	-	-	-	Message	185	True
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

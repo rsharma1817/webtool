@@ -1,85 +1,85 @@
-But	CCONJ	CC	-	-	-	False
-if	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-to	ADP	IN	-	-	-	False
-somebody	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-What	PRON	WP	-	-	-	False
-do	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-do	VERB	VB	-	-	-	False
-?'	PUNCT	''	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	Employee	True
-work	VERB	VBP	work.v	Being_employed	-	False
-in	ADP	IN	-	-	Field	True
-education	NOUN	NN	-	-	Field	True
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-can	AUX	MD	-	-	-	False
-see	VERB	VB	-	-	-	False
-the	DET	DT	-	-	-	False
-blood	NOUN	NN	-	-	-	False
-run	VERB	VBN	-	-	-	False
-from	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-face	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+if	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+somebody	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+What	WP	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+?'	''	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	Employee	2796	True
+work	VBP	work.v	Being_employed	282	-	-	False
+in	IN	-	-	-	Field	2804	True
+education	NN	-	-	-	Field	2804	True
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+can	MD	-	-	-	-	-	False
+see	VB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+blood	NN	-	-	-	-	-	False
+run	VBN	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+face	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Sind	ADJ	NN	-	-	-	False
-Sie	NOUN	FW	-	-	-	False
-aber	X	FW	-	-	-	False
-eingeladen	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-reden	X	FW	-	-	-	False
-mit	X	FW	-	-	-	False
-jemandem	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-also	ADV	RB	-	-	-	False
-wenn	VERB	VBD	-	-	-	False
-jemand	X	FW	-	-	-	False
-fragt	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Was	VERB	VBD	-	-	-	False
-machen	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-so	ADV	RB	-	-	-	False
-?'	PUNCT	''	-	-	-	False
-und	CCONJ	VB	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ich	INTJ	FW	-	-	Employee	True
-arbeite	X	FW	arbeiten.v	Being_employed	-	False
-im	X	FW	-	-	Field	True
-Bildungswesen	X	NNP	-	-	Field	True
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-sieht	ADJ	NN	-	-	-	False
-man	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	X	FW	-	-	-	False
-den	X	FW	-	-	-	False
-anderen	X	FW	-	-	-	False
-das	X	FW	-	-	-	False
-Blut	X	FW	-	-	-	False
-aus	X	FW	-	-	-	False
-dem	X	FW	-	-	-	False
-Gesicht	X	FW	-	-	-	False
-weicht	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sind	NN	-	-	-	-	-	False
+Sie	FW	-	-	-	-	-	False
+aber	FW	-	-	-	-	-	False
+eingeladen	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+reden	FW	-	-	-	-	-	False
+mit	FW	-	-	-	-	-	False
+jemandem	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+also	RB	-	-	-	-	-	False
+wenn	VBD	-	-	-	-	-	False
+jemand	FW	-	-	-	-	-	False
+fragt	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Was	VBD	-	-	-	-	-	False
+machen	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+so	RB	-	-	-	-	-	False
+?'	''	-	-	-	-	-	False
+und	VB	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ich	FW	-	-	-	Employee	2796	True
+arbeite	FW	arbeiten.v	Being_employed	282	-	-	False
+im	FW	-	-	-	Field	2804	True
+Bildungswesen	NNP	-	-	-	Field	2804	True
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+sieht	NN	-	-	-	-	-	False
+man	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	FW	-	-	-	-	-	False
+den	FW	-	-	-	-	-	False
+anderen	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+Blut	FW	-	-	-	-	-	False
+aus	FW	-	-	-	-	-	False
+dem	FW	-	-	-	-	-	False
+Gesicht	FW	-	-	-	-	-	False
+weicht	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

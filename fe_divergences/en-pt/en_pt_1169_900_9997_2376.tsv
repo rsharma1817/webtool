@@ -1,40 +1,40 @@
-Around	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	-	-	-	False
-were	VERB	VBD	-	-	-	False
-no	DET	DT	-	-	-	False
-public	ADJ	JJ	-	-	Descriptor	False
-systems	NOUN	NNS	system.n	System	Complex	True
-of	ADP	IN	-	-	Function	True
-education	NOUN	NN	-	-	Function	True
-,	PUNCT	,	-	-	-	False
-really	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-before	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-19th	ADJ	JJ	-	-	-	False
-century	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Around	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+no	DT	-	-	-	-	-	False
+public	JJ	-	-	-	Descriptor	8924	False
+systems	NNS	system.n	System	1610	Complex	8913	True
+of	IN	-	-	-	Function	8914	True
+education	NN	-	-	-	Function	8914	True
+,	,	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+before	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+19th	JJ	-	-	-	-	-	False
+century	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-sistema	NOUN	NN	sistema.n	System	-	False
-foi	NOUN	FW	-	-	-	False
-concebido	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-no	INTJ	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-todo	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	-	False
-existiam	X	FW	-	-	-	False
-sistemas	X	FW	-	-	-	False
-públicos	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-antes	X	FW	-	-	-	False
-do	VERB	VBP	-	-	-	False
-Séc.XIX	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+sistema	NN	sistema.n	System	1610	-	-	False
+foi	FW	-	-	-	-	-	False
+concebido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+existiam	FW	-	-	-	-	-	False
+sistemas	FW	-	-	-	-	-	False
+públicos	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+antes	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+Séc.XIX	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-is	VERB	VBZ	there be.v	Existence	-	False
-n't	ADV	RB	-	-	-	False
-an	DET	DT	-	-	Entity	True
-education	NOUN	NN	-	-	Entity	True
-system	NOUN	NN	-	-	Entity	True
-on	ADP	IN	-	-	Entity	True
-the	DET	DT	-	-	Entity	True
-planet	NOUN	NN	-	-	Entity	True
-that	PRON	WDT	-	-	Entity	True
-teaches	VERB	VBZ	-	-	-	False
-dance	NOUN	NN	-	-	-	False
-every	DET	DT	-	-	-	False
-day	NOUN	NN	-	-	-	False
-to	ADP	IN	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-the	DET	DT	-	-	-	False
-way	NOUN	NN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-teach	VERB	VBP	-	-	-	False
-them	PRON	PRP	-	-	-	False
-mathematics	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+is	VBZ	there be.v	Existence	660	-	-	False
+n't	RB	-	-	-	-	-	False
+an	DT	-	-	-	Entity	4381	True
+education	NN	-	-	-	Entity	4381	True
+system	NN	-	-	-	Entity	4381	True
+on	IN	-	-	-	Entity	4381	True
+the	DT	-	-	-	Entity	4381	True
+planet	NN	-	-	-	Entity	4381	True
+that	WDT	-	-	-	Entity	4381	True
+teaches	VBZ	-	-	-	-	-	False
+dance	NN	-	-	-	-	-	False
+every	DT	-	-	-	-	-	False
+day	NN	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+teach	VBP	-	-	-	-	-	False
+them	PRP	-	-	-	-	-	False
+mathematics	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Não	PROPN	NNP	-	-	-	False
-existe	NOUN	VBP	existir.v	Existence	-	False
-um	INTJ	UH	-	-	Entity	True
-sistema	NOUN	FW	-	-	Entity	True
-educacional	ADJ	FW	-	-	Entity	True
-no	INTJ	FW	-	-	Place	False
-planeta	X	FW	-	-	Place	False
-que	X	FW	-	-	-	False
-ensina	X	FW	-	-	-	False
-dança	X	FW	-	-	-	False
-diariamente	X	FW	-	-	-	False
-às	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-mesma	X	FW	-	-	-	False
-forma	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ensina	X	FW	-	-	-	False
-matemática	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Não	NNP	-	-	-	-	-	False
+existe	VBP	existir.v	Existence	660	-	-	False
+um	UH	-	-	-	Entity	4381	True
+sistema	FW	-	-	-	Entity	4381	True
+educacional	FW	-	-	-	Entity	4381	True
+no	FW	-	-	-	Place	6547	False
+planeta	FW	-	-	-	Place	6547	False
+que	FW	-	-	-	-	-	False
+ensina	FW	-	-	-	-	-	False
+dança	FW	-	-	-	-	-	False
+diariamente	FW	-	-	-	-	-	False
+às	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+mesma	FW	-	-	-	-	-	False
+forma	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ensina	FW	-	-	-	-	-	False
+matemática	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

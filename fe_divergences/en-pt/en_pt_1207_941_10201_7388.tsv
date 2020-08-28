@@ -1,32 +1,32 @@
-If	ADP	IN	-	-	-	False
-my	PRON	PRP$	-	-	Partner_2	True
-wife	NOUN	NN	wife.n	Personal_relationship	Partner_1	True
-is	VERB	VBZ	-	-	-	False
-cooking	VERB	VBG	-	-	-	False
-a	DET	DT	-	-	-	False
-meal	NOUN	NN	-	-	-	False
-at	ADP	IN	-	-	-	False
-home	NOUN	NN	-	-	-	False
---	PUNCT	:	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-not	ADV	RB	-	-	-	False
-often	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-thankfully	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+my	PRP$	-	-	-	Partner_2	488	True
+wife	NN	wife.n	Personal_relationship	102	Partner_1	487	True
+is	VBZ	-	-	-	-	-	False
+cooking	VBG	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+meal	NN	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+home	NN	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+not	RB	-	-	-	-	-	False
+often	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+thankfully	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-minha	X	FW	-	-	-	False
-esposa	X	FW	esposa.n	Personal_relationship	-	False
-está	X	FW	-	-	-	False
-cozinhando	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	X	UH	-	-	-	False
-que	X	FW	-	-	-	False
-acontece	X	FW	-	-	-	False
-pouco	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ainda	X	FW	-	-	-	False
-bem	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+minha	FW	-	-	-	-	-	False
+esposa	FW	esposa.n	Personal_relationship	102	-	-	False
+está	FW	-	-	-	-	-	False
+cozinhando	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+acontece	FW	-	-	-	-	-	False
+pouco	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ainda	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

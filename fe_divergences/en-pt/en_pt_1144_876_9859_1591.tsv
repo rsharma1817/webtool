@@ -1,12 +1,12 @@
-Did	VERB	VBD	-	-	-	False
-I	PRON	PRP	-	-	-	False
-miss	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-meeting	NOUN	NN	meeting.n	Discussion	-	False
-?	PUNCT	.	-	-	-	False
+Did	VBD	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+miss	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+meeting	NN	meeting.n	Discussion	34	-	-	False
+?	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-faltei	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-reunião	X	FW	reunião.n	Discussion	-	False
-?	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+faltei	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+reunião	FW	reunião.n	Discussion	34	-	-	False
+?	.	-	-	-	-	-	False

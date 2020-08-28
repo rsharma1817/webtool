@@ -1,31 +1,31 @@
-And	CCONJ	CC	-	-	-	False
-our	PRON	PRP$	-	-	Responsible_party	True
-task	NOUN	NN	task.n	Being_obligated	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	Duty	True
-educate	VERB	VB	-	-	Duty	True
-their	PRON	PRP$	-	-	Duty	True
-whole	ADJ	JJ	-	-	Duty	True
-being	NOUN	NN	-	-	Duty	True
-,	PUNCT	,	-	-	-	False
-so	ADP	CC	-	-	-	False
-they	PRON	PRP	-	-	-	False
-can	AUX	MD	-	-	-	False
-face	VERB	VB	-	-	-	False
-this	DET	DT	-	-	-	False
-future	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+our	PRP$	-	-	-	Responsible_party	3502	True
+task	NN	task.n	Being_obligated	392	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	Duty	3503	True
+educate	VB	-	-	-	Duty	3503	True
+their	PRP$	-	-	-	Duty	3503	True
+whole	JJ	-	-	-	Duty	3503	True
+being	NN	-	-	-	Duty	3503	True
+,	,	-	-	-	-	-	False
+so	CC	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+can	MD	-	-	-	-	-	False
+face	VB	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+future	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Nossa	X	FW	-	-	Responsible_party	True
-tarefa	X	FW	tarefa.n	Being_obligated	-	False
-é	X	FW	-	-	Duty	True
-educá-las	X	FW	-	-	Duty	True
-em	X	FW	-	-	Duty	True
-sua	X	FW	-	-	Duty	True
-totalidade	X	FW	-	-	Duty	True
-,	PUNCT	,	-	-	Duty	True
-preparando-as	X	FW	-	-	Duty	True
-para	X	FW	-	-	Duty	True
-esse	X	FW	-	-	Duty	True
-futuro	X	FW	-	-	Duty	True
-.	PUNCT	.	-	-	-	False
+Nossa	FW	-	-	-	Responsible_party	3502	True
+tarefa	FW	tarefa.n	Being_obligated	392	-	-	False
+é	FW	-	-	-	Duty	3503	True
+educá-las	FW	-	-	-	Duty	3503	True
+em	FW	-	-	-	Duty	3503	True
+sua	FW	-	-	-	Duty	3503	True
+totalidade	FW	-	-	-	Duty	3503	True
+,	,	-	-	-	Duty	3503	True
+preparando-as	FW	-	-	-	Duty	3503	True
+para	FW	-	-	-	Duty	3503	True
+esse	FW	-	-	-	Duty	3503	True
+futuro	FW	-	-	-	Duty	3503	True
+.	.	-	-	-	-	-	False

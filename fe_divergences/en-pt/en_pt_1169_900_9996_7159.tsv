@@ -1,40 +1,40 @@
-Around	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	-	-	-	False
-were	VERB	VBD	-	-	-	False
-no	DET	DT	no.a	Quantified_mass	Quantity	True
-public	ADJ	JJ	-	-	Individuals	True
-systems	NOUN	NNS	-	-	Individuals	True
-of	ADP	IN	-	-	Individuals	True
-education	NOUN	NN	-	-	Individuals	True
-,	PUNCT	,	-	-	-	False
-really	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-before	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-19th	ADJ	JJ	-	-	-	False
-century	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Around	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+no	DT	no.a	Quantified_mass	189	Quantity	1550	True
+public	JJ	-	-	-	Individuals	1552	True
+systems	NNS	-	-	-	Individuals	1552	True
+of	IN	-	-	-	Individuals	1552	True
+education	NN	-	-	-	Individuals	1552	True
+,	,	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+before	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+19th	JJ	-	-	-	-	-	False
+century	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-sistema	NOUN	NN	-	-	-	False
-foi	NOUN	FW	-	-	-	False
-concebido	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	INTJ	FW	-	-	-	False
-no	INTJ	FW	-	-	-	False
-mundo	X	FW	-	-	Mass	True
-todo	X	FW	todo.a	Quantified_mass	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	-	False
-existiam	X	FW	-	-	-	False
-sistemas	X	FW	-	-	-	False
-públicos	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-antes	X	FW	-	-	-	False
-do	VERB	VBP	-	-	-	False
-Séc.XIX	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+sistema	NN	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+concebido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	Mass	1551	True
+todo	FW	todo.a	Quantified_mass	189	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+existiam	FW	-	-	-	-	-	False
+sistemas	FW	-	-	-	-	-	False
+públicos	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+antes	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+Séc.XIX	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

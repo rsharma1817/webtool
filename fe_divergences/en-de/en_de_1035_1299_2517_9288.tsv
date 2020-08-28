@@ -1,40 +1,40 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-children	NOUN	NNS	child.n	People_by_age	Person	True
-starting	VERB	VBG	-	-	-	False
-school	NOUN	NN	-	-	-	False
-this	DET	DT	-	-	-	False
-year	NOUN	NN	-	-	-	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-retiring	VERB	VBG	-	-	-	False
-in	ADP	IN	-	-	-	False
-2065	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+children	NNS	child.n	People_by_age	973	Person	5937	True
+starting	VBG	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+year	NN	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+retiring	VBG	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Denken	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-nur	NOUN	NN	-	-	-	False
-:	PUNCT	:	-	-	-	False
-Kinder	PROPN	NNP	kind.n	People_by_age	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-dieses	NOUN	VBZ	-	-	-	False
-Jahr	PROPN	NNP	-	-	-	False
-in	ADP	IN	-	-	-	False
-die	VERB	FW	-	-	-	False
-Schule	PROPN	FW	-	-	-	False
-kommen	PROPN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-werden	NOUN	NN	-	-	-	False
-im	ADP	IN	-	-	-	False
-Jahr	PROPN	NNP	-	-	-	False
-2065	NUM	CD	-	-	-	False
-in	ADP	IN	-	-	-	False
-Rente	PROPN	NNP	-	-	-	False
-gehen	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Denken	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+nur	NN	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+Kinder	NNP	kind.n	People_by_age	973	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+dieses	VBZ	-	-	-	-	-	False
+Jahr	NNP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+die	FW	-	-	-	-	-	False
+Schule	FW	-	-	-	-	-	False
+kommen	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+werden	NN	-	-	-	-	-	False
+im	IN	-	-	-	-	-	False
+Jahr	NNP	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+Rente	NNP	-	-	-	-	-	False
+gehen	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

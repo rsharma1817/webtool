@@ -1,41 +1,41 @@
-Being	VERB	VBG	-	-	-	False
-sent	VERB	VBN	send.v	Sending	-	False
-to	ADP	IN	-	-	Goal	True
-bed	NOUN	NN	-	-	Goal	True
-by	ADP	IN	-	-	Sender	True
-his	PRON	PRP$	-	-	Sender	True
-dad	NOUN	NN	-	-	Sender	True
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-to	ADP	IN	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Go	VERB	VB	-	-	-	False
-to	ADP	IN	-	-	-	False
-bed	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-now	ADV	RB	-	-	-	False
-!	PUNCT	.	-	-	-	False
+Being	VBG	-	-	-	-	-	False
+sent	VBN	send.v	Sending	243	-	-	False
+to	IN	-	-	-	Goal	2214	True
+bed	NN	-	-	-	Goal	2214	True
+by	IN	-	-	-	Sender	2212	True
+his	PRP$	-	-	-	Sender	2212	True
+dad	NN	-	-	-	Sender	2212	True
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Go	VB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+bed	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+!	.	-	-	-	-	-	False
 
-Ser	X	FW	-	-	-	False
-mandado	X	FW	mandar.v	Sending	-	False
-para	X	FW	-	-	Goal	True
-cama	X	FW	-	-	Goal	True
-com	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-pai	X	FW	-	-	-	False
-dizendo	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Para	PROPN	NNP	-	-	-	False
-cama	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-agora	NOUN	NN	-	-	-	False
-!'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-para	NOUN	NN	-	-	-	False
-William	PROPN	NNP	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ser	FW	-	-	-	-	-	False
+mandado	FW	mandar.v	Sending	243	-	-	False
+para	FW	-	-	-	Goal	2214	True
+cama	FW	-	-	-	Goal	2214	True
+com	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+pai	FW	-	-	-	-	-	False
+dizendo	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Para	NNP	-	-	-	-	-	False
+cama	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+agora	NN	-	-	-	-	-	False
+!'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+para	NN	-	-	-	-	-	False
+William	NNP	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

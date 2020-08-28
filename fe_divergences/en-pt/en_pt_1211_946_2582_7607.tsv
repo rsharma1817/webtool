@@ -1,40 +1,40 @@
-I	PRON	PRP	-	-	-	False
-say	VERB	VBP	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-please	INTJ	UH	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-I	PRON	PRP	-	-	Message	True
-'m	VERB	VBP	-	-	Message	True
-trying	VERB	VBG	-	-	Message	True
-to	PART	TO	-	-	Message	True
-fry	VERB	VB	-	-	Message	True
-an	DET	DT	-	-	Message	True
-egg	NOUN	NN	-	-	Message	True
-in	ADV	RB	-	-	Message	True
-here	ADV	RB	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+I	PRP	-	-	-	-	-	False
+say	VBP	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+please	UH	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+I	PRP	-	-	-	Message	185	True
+'m	VBP	-	-	-	Message	185	True
+trying	VBG	-	-	-	Message	185	True
+to	TO	-	-	-	Message	185	True
+fry	VB	-	-	-	Message	185	True
+an	DT	-	-	-	Message	185	True
+egg	NN	-	-	-	Message	185	True
+in	RB	-	-	-	Message	185	True
+here	RB	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Speaker	True
-digo	X	FW	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	Topic	True
-,	PUNCT	,	-	-	Topic	True
-por	X	FW	-	-	Topic	True
-favor	X	NN	-	-	Topic	True
-,	PUNCT	,	-	-	Topic	True
-estou	X	FW	-	-	Topic	True
-tentando	X	FW	-	-	Topic	True
-fritar	X	FW	-	-	Topic	True
-um	INTJ	UH	-	-	Topic	True
-ovo	X	FW	-	-	Topic	True
-aqui.Me	X	FW	-	-	Topic	True
-deixa	X	FW	-	-	Topic	True
-em	X	FW	-	-	Topic	True
-paz	X	FW	-	-	Topic	True
-.	PUNCT	.	-	-	Topic	True
-'	PUNCT	''	-	-	-	False
+Eu	NNP	-	-	-	Speaker	183	True
+digo	FW	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	Topic	186	True
+,	,	-	-	-	Topic	186	True
+por	FW	-	-	-	Topic	186	True
+favor	NN	-	-	-	Topic	186	True
+,	,	-	-	-	Topic	186	True
+estou	FW	-	-	-	Topic	186	True
+tentando	FW	-	-	-	Topic	186	True
+fritar	FW	-	-	-	Topic	186	True
+um	UH	-	-	-	Topic	186	True
+ovo	FW	-	-	-	Topic	186	True
+aqui.Me	FW	-	-	-	Topic	186	True
+deixa	FW	-	-	-	Topic	186	True
+em	FW	-	-	-	Topic	186	True
+paz	FW	-	-	-	Topic	186	True
+.	.	-	-	-	Topic	186	True
+'	''	-	-	-	-	-	False

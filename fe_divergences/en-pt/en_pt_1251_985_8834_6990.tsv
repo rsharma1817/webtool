@@ -1,15 +1,15 @@
-People	NOUN	NNS	people.n	People	Person	True
-who	PRON	WP	-	-	-	False
-could	AUX	MD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-sit	VERB	VB	-	-	-	False
-still	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+People	NNS	people.n	People	304	Person	2618	True
+who	WP	-	-	-	-	-	False
+could	MD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+sit	VB	-	-	-	-	-	False
+still	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Pessoas	X	NNP	pessoa.n	People	-	False
-que	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-conseguiam	X	FW	-	-	-	False
-ficar	X	FW	-	-	-	False
-paradas	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Pessoas	NNP	pessoa.n	People	304	-	-	False
+que	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+conseguiam	FW	-	-	-	-	-	False
+ficar	FW	-	-	-	-	-	False
+paradas	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

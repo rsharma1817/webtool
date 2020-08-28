@@ -1,19 +1,19 @@
-We	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-radically	ADV	RB	-	-	-	False
-rethink	VERB	VB	-	-	-	False
-our	PRON	PRP$	-	-	Cognizer	True
-view	NOUN	NN	view.n	Opinion	Opinion	True
-of	ADP	IN	-	-	Topic	False
-intelligence	NOUN	NN	-	-	Topic	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+radically	RB	-	-	-	-	-	False
+rethink	VB	-	-	-	-	-	False
+our	PRP$	-	-	-	Cognizer	7869	True
+view	NN	view.n	Opinion	1412	Opinion	7870	True
+of	IN	-	-	-	Topic	7872	False
+intelligence	NN	-	-	-	Topic	7872	False
+.	.	-	-	-	-	-	False
 
-Precisamos	X	FW	-	-	-	False
-repensar	X	FW	-	-	-	False
-radicalmente	X	FW	-	-	-	False
-nossa	X	FW	-	-	Cognizer	True
-visão	X	FW	visão.n	Opinion	-	False
-de	X	FW	-	-	Topic	False
-inteligência	X	FW	-	-	Topic	False
-.	PUNCT	.	-	-	-	False
+Precisamos	FW	-	-	-	-	-	False
+repensar	FW	-	-	-	-	-	False
+radicalmente	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	Cognizer	7869	True
+visão	FW	visão.n	Opinion	1412	-	-	False
+de	FW	-	-	-	Topic	7872	False
+inteligência	FW	-	-	-	Topic	7872	False
+.	.	-	-	-	-	-	False

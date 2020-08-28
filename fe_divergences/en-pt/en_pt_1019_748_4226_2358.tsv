@@ -1,27 +1,27 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	Phenomenon	True
-I	PRON	PRP	-	-	Cognizer	True
-find	VERB	VBP	find.v	Becoming_aware	-	False
-is	VERB	VBZ	-	-	-	False
-everybody	NOUN	NN	-	-	-	False
-has	VERB	VBZ	-	-	-	False
-an	DET	DT	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	Phenomenon	88	True
+I	PRP	-	-	-	Cognizer	87	True
+find	VBP	find.v	Becoming_aware	20	-	-	False
+is	VBZ	-	-	-	-	-	False
+everybody	NN	-	-	-	-	-	False
+has	VBZ	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-verdade	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	Cognizer	True
-descobri	X	FW	descobrir.v	Becoming_aware	-	False
-que	X	FW	-	-	Phenomenon	True
-todo	X	FW	-	-	Phenomenon	True
-mundo	X	FW	-	-	Phenomenon	True
-se	X	FW	-	-	Phenomenon	True
-interessa	X	FW	-	-	Phenomenon	True
-por	X	FW	-	-	Phenomenon	True
-educação	X	FW	-	-	Phenomenon	True
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+verdade	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	Cognizer	87	True
+descobri	FW	descobrir.v	Becoming_aware	20	-	-	False
+que	FW	-	-	-	Phenomenon	88	True
+todo	FW	-	-	-	Phenomenon	88	True
+mundo	FW	-	-	-	Phenomenon	88	True
+se	FW	-	-	-	Phenomenon	88	True
+interessa	FW	-	-	-	Phenomenon	88	True
+por	FW	-	-	-	Phenomenon	88	True
+educação	FW	-	-	-	Phenomenon	88	True
+.	.	-	-	-	-	-	False

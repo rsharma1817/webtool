@@ -1,25 +1,25 @@
-Because	ADP	IN	because.c	Causation	-	False
-she	PRON	PRP	-	-	Cause	False
-was	VERB	VBD	-	-	Cause	False
-the	DET	DT	-	-	Cause	False
-main	ADJ	JJ	-	-	Cause	False
-reason	NOUN	NN	-	-	Cause	False
-we	PRON	PRP	-	-	Cause	False
-were	VERB	VBD	-	-	Cause	False
-leaving	VERB	VBG	-	-	Cause	False
-the	DET	DT	-	-	Cause	False
-country	NOUN	NN	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Because	IN	because.c	Causation	5	-	-	False
+she	PRP	-	-	-	Cause	18	False
+was	VBD	-	-	-	Cause	18	False
+the	DT	-	-	-	Cause	18	False
+main	JJ	-	-	-	Cause	18	False
+reason	NN	-	-	-	Cause	18	False
+we	PRP	-	-	-	Cause	18	False
+were	VBD	-	-	-	Cause	18	False
+leaving	VBG	-	-	-	Cause	18	False
+the	DT	-	-	-	Cause	18	False
+country	NN	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False
 
-Porque	X	NNP	porque.c	Causation	-	False
-ela	X	NNP	-	-	Actor	True
-era	X	NN	-	-	Cause	False
-a	DET	DT	-	-	Cause	False
-principal	NOUN	NN	-	-	Cause	False
-razão	X	FW	-	-	Cause	False
-de	X	FW	-	-	Cause	False
-estarmos	X	FW	-	-	Cause	False
-deixando	X	FW	-	-	Cause	False
-o	X	FW	-	-	Cause	False
-país	X	FW	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Porque	NNP	porque.c	Causation	5	-	-	False
+ela	NNP	-	-	-	Actor	7200	True
+era	NN	-	-	-	Cause	18	False
+a	DT	-	-	-	Cause	18	False
+principal	NN	-	-	-	Cause	18	False
+razão	FW	-	-	-	Cause	18	False
+de	FW	-	-	-	Cause	18	False
+estarmos	FW	-	-	-	Cause	18	False
+deixando	FW	-	-	-	Cause	18	False
+o	FW	-	-	-	Cause	18	False
+país	FW	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False

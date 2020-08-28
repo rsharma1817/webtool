@@ -1,39 +1,39 @@
-And	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-now	ADV	RB	-	-	-	False
-running	VERB	VBG	-	-	-	False
-national	ADJ	JJ	-	-	-	False
-education	NOUN	NN	-	-	Function	True
-systems	NOUN	NNS	system.n	System	Complex	True
-where	ADV	WRB	-	-	-	False
-mistakes	NOUN	NNS	-	-	-	False
-are	VERB	VBP	-	-	-	False
-the	DET	DT	-	-	-	False
-worst	ADJ	JJS	-	-	-	False
-thing	NOUN	NN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-can	AUX	MD	-	-	-	False
-make	VERB	VB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+running	VBG	-	-	-	-	-	False
+national	JJ	-	-	-	-	-	False
+education	NN	-	-	-	Function	8914	True
+systems	NNS	system.n	System	1610	Complex	8913	True
+where	WRB	-	-	-	-	-	False
+mistakes	NNS	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+worst	JJS	-	-	-	-	-	False
+thing	NN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+can	MD	-	-	-	-	-	False
+make	VB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-hoje	X	FW	-	-	-	False
-administramos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-sistemas	X	FW	sistema.n	System	-	False
-educacionais	X	FW	-	-	Function	True
-de	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-jeito	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-errar	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-pior	X	FW	-	-	-	False
-coisa	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-pode	X	FW	-	-	-	False
-acontecer	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+hoje	FW	-	-	-	-	-	False
+administramos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+sistemas	FW	sistema.n	System	1610	-	-	False
+educacionais	FW	-	-	-	Function	8914	True
+de	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+jeito	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+errar	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+pior	FW	-	-	-	-	-	False
+coisa	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+pode	FW	-	-	-	-	-	False
+acontecer	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

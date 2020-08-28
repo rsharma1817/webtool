@@ -1,19 +1,19 @@
-'	PUNCT	''	-	-	-	False
-My	PRON	PRP$	-	-	Salient_event	False
-one	NUM	CD	-	-	Salient_event	False
-night	NOUN	NN	-	-	Salient_event	False
-out	ADV	RP	-	-	Salient_event	False
-all	DET	DT	-	-	-	False
-week	NOUN	NN	week.n	Calendric_unit	Unit	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+My	PRP$	-	-	-	Salient_event	11700	False
+one	CD	-	-	-	Salient_event	11700	False
+night	NN	-	-	-	Salient_event	11700	False
+out	RP	-	-	-	Salient_event	11700	False
+all	DT	-	-	-	-	-	False
+week	NN	week.n	Calendric_unit	229	Unit	10331	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Mein	PROPN	NNP	-	-	-	False
-einziger	PROPN	NN	-	-	-	False
-freier	PROPN	NN	-	-	-	False
-Abend	PROPN	NNP	-	-	-	False
-in	ADP	IN	-	-	-	False
-der	X	NNP	-	-	-	False
-Woche	PROPN	NNP	woche.n	Calendric_unit	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Mein	NNP	-	-	-	-	-	False
+einziger	NN	-	-	-	-	-	False
+freier	NN	-	-	-	-	-	False
+Abend	NNP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+der	NNP	-	-	-	-	-	False
+Woche	NNP	woche.n	Calendric_unit	229	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

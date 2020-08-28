@@ -1,47 +1,47 @@
-Truthfully	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	-	False
-happens	VERB	VBZ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-grow	VERB	VBP	-	-	-	False
-up	ADP	RP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	Teacher	True
-start	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-educate	VERB	VB	educate.v	Education_teaching	-	False
-them	PRON	PRP	-	-	Student	True
-progressively	ADV	RB	-	-	Manner	False
-from	ADP	IN	-	-	Depictive	False
-the	DET	DT	-	-	Depictive	False
-waist	NOUN	NN	-	-	Depictive	False
-up	ADP	RP	-	-	Depictive	False
-.	PUNCT	.	-	-	-	False
+Truthfully	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+happens	VBZ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+grow	VBP	-	-	-	-	-	False
+up	RP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	Teacher	541	True
+start	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+educate	VB	educate.v	Education_teaching	111	-	-	False
+them	PRP	-	-	-	Student	542	True
+progressively	RB	-	-	-	Manner	578	False
+from	IN	-	-	-	Depictive	575	False
+the	DT	-	-	-	Depictive	575	False
+waist	NN	-	-	-	Depictive	575	False
+up	RP	-	-	-	Depictive	575	False
+.	.	-	-	-	-	-	False
 
-Sério	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	INTJ	UH	-	-	-	False
-que	X	FW	-	-	-	False
-acontece	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-à	X	FW	-	-	-	False
-medida	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-crescem	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nós	X	FW	-	-	Teacher	True
-começamos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-educá-las	X	FW	-	-	-	False
-progressivamente	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-cintura	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-cima	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sério	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+acontece	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+à	FW	-	-	-	-	-	False
+medida	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+crescem	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nós	FW	-	-	-	Teacher	541	True
+começamos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+educá-las	FW	-	-	-	-	-	False
+progressivamente	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+cintura	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+cima	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

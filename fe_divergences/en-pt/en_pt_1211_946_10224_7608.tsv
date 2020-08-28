@@ -1,40 +1,40 @@
-I	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-please	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	Agent	True
-'m	VERB	VBP	-	-	-	False
-trying	VERB	VBG	try.v	Attempt	-	False
-to	PART	TO	-	-	Goal	False
-fry	VERB	VB	-	-	Goal	False
-an	DET	DT	-	-	Goal	False
-egg	NOUN	NN	-	-	Goal	False
-in	ADV	RB	-	-	Place	False
-here	ADV	RB	-	-	Place	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+I	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+please	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	Agent	569	True
+'m	VBP	-	-	-	-	-	False
+trying	VBG	try.v	Attempt	116	-	-	False
+to	TO	-	-	-	Goal	570	False
+fry	VB	-	-	-	Goal	570	False
+an	DT	-	-	-	Goal	570	False
+egg	NN	-	-	-	Goal	570	False
+in	RB	-	-	-	Place	5329	False
+here	RB	-	-	-	Place	5329	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-digo	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-por	X	FW	-	-	-	False
-favor	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-tentando	X	FW	tentar.v	Attempt	-	False
-fritar	X	FW	-	-	Goal	False
-um	INTJ	UH	-	-	Goal	False
-ovo	X	FW	-	-	Goal	False
-aqui.Me	X	FW	-	-	-	False
-deixa	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-paz	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+digo	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+favor	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+tentando	FW	tentar.v	Attempt	116	-	-	False
+fritar	FW	-	-	-	Goal	570	False
+um	UH	-	-	-	Goal	570	False
+ovo	FW	-	-	-	Goal	570	False
+aqui.Me	FW	-	-	-	-	-	False
+deixa	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+paz	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

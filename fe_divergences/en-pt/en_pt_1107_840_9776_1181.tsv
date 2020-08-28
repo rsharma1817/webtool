@@ -1,10 +1,10 @@
-Shakespeare	PROPN	NNP	-	-	-	False
-being	VERB	VBG	-	-	-	False
-seven	NUM	CD	seven.num	Cardinal_numbers	Number	True
-?	PUNCT	.	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+being	VBG	-	-	-	-	-	False
+seven	CD	seven.num	Cardinal_numbers	218	Number	3622	True
+?	.	-	-	-	-	-	False
 
-Shakespeare	NOUN	NNP	-	-	-	False
-com	NOUN	NN	-	-	-	False
-sete	VERB	VBP	sete.num	Cardinal_numbers	-	False
-anos	NOUN	NNS	-	-	Unit	True
-?	PUNCT	.	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+com	NN	-	-	-	-	-	False
+sete	VBP	sete.num	Cardinal_numbers	218	-	-	False
+anos	NNS	-	-	-	Unit	16740	True
+?	.	-	-	-	-	-	False

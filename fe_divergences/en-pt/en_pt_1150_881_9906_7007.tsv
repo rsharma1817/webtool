@@ -1,81 +1,81 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-'d	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-conclude	VERB	VB	conclude.v	Coming_to_believe	-	False
-the	DET	DT	-	-	Content	True
-whole	ADJ	JJ	-	-	Content	True
-purpose	NOUN	NN	-	-	Content	True
-of	ADP	IN	-	-	Content	True
-public	ADJ	JJ	-	-	Content	True
-education	NOUN	NN	-	-	Content	True
-throughout	ADP	IN	-	-	Content	True
-the	DET	DT	-	-	Content	True
-world	NOUN	NN	-	-	Content	True
-is	VERB	VBZ	-	-	Content	True
-to	PART	TO	-	-	Content	True
-produce	VERB	VB	-	-	Content	True
-university	NOUN	NN	-	-	Content	True
-professors	NOUN	NNS	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	98	True
+'d	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+conclude	VB	conclude.v	Coming_to_believe	23	-	-	False
+the	DT	-	-	-	Content	100	True
+whole	JJ	-	-	-	Content	100	True
+purpose	NN	-	-	-	Content	100	True
+of	IN	-	-	-	Content	100	True
+public	JJ	-	-	-	Content	100	True
+education	NN	-	-	-	Content	100	True
+throughout	IN	-	-	-	Content	100	True
+the	DT	-	-	-	Content	100	True
+world	NN	-	-	-	Content	100	True
+is	VBZ	-	-	-	Content	100	True
+to	TO	-	-	-	Content	100	True
+produce	VB	-	-	-	Content	100	True
+university	NN	-	-	-	Content	100	True
+professors	NNS	-	-	-	Content	100	True
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	-	-	-	False
-obrigatória	X	FW	-	-	-	False
-seria	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-olhando	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-resultado	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-quem	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-bem	X	FW	-	-	-	False
-sucedido	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-faz	X	FW	-	-	-	False
-tudo	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-deve	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-ganha	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-estrelinhas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-vencedores	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	conclusão.n	Coming_to_believe	-	False
-seria	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	Content	True
-objetivo	X	FW	-	-	Content	True
-da	X	FW	-	-	Content	True
-educação	X	FW	-	-	Content	True
-pública	X	FW	-	-	Content	True
-ao	X	FW	-	-	Content	True
-redor	X	FW	-	-	Content	True
-do	X	FW	-	-	Content	True
-mundo	X	FW	-	-	Content	True
-é	X	FW	-	-	Content	True
-produzir	X	FW	-	-	Content	True
-professores	X	FW	-	-	Content	True
-universitários	X	FW	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	-	-	-	-	-	False
+obrigatória	FW	-	-	-	-	-	False
+seria	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+olhando	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+resultado	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+sucedido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+faz	FW	-	-	-	-	-	False
+tudo	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+deve	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+ganha	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+estrelinhas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+vencedores	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	conclusão.n	Coming_to_believe	23	-	-	False
+seria	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	Content	100	True
+objetivo	FW	-	-	-	Content	100	True
+da	FW	-	-	-	Content	100	True
+educação	FW	-	-	-	Content	100	True
+pública	FW	-	-	-	Content	100	True
+ao	FW	-	-	-	Content	100	True
+redor	FW	-	-	-	Content	100	True
+do	FW	-	-	-	Content	100	True
+mundo	FW	-	-	-	Content	100	True
+é	FW	-	-	-	Content	100	True
+produzir	FW	-	-	-	Content	100	True
+professores	FW	-	-	-	Content	100	True
+universitários	FW	-	-	-	Content	100	True
+.	.	-	-	-	-	-	False

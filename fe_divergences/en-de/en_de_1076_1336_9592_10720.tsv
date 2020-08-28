@@ -1,20 +1,20 @@
-And	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Yeah	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-why	ADV	WRB	-	-	-	False
-?	PUNCT	,	-	-	-	False
-Was	VERB	VBD	-	-	-	False
-that	DET	DT	-	-	Information	True
-wrong	ADJ	JJ	wrong.a	Correctness	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Yeah	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+why	WRB	-	-	-	-	-	False
+?	,	-	-	-	-	-	False
+Was	VBD	-	-	-	-	-	False
+that	DT	-	-	-	Information	8230	True
+wrong	JJ	wrong.a	Correctness	1512	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-War	PROPN	NNP	-	-	Time	False
-was	VERB	VBD	-	-	Information	True
-falsch	ADJ	JJ	falsch.a	Correctness	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+War	NNP	-	-	-	Time	11738	False
+was	VBD	-	-	-	Information	8230	True
+falsch	JJ	falsch.a	Correctness	1512	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

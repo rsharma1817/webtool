@@ -1,49 +1,49 @@
-She	PRON	PRP	-	-	-	False
-eventually	ADV	RB	-	-	-	False
-graduated	VERB	VBD	-	-	-	False
-from	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-School	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-founded	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-Gillian	PROPN	NNP	-	-	Business_name	False
-Lynne	PROPN	NNP	-	-	Business_name	False
-Dance	PROPN	NNP	-	-	Business_name	False
-Company	PROPN	NNP	company.n	Businesses	Business_name	False
-,	PUNCT	,	-	-	-	False
-met	VERB	VBD	-	-	-	False
-Andrew	PROPN	NNP	-	-	-	False
-Lloyd	PROPN	NNP	-	-	-	False
-Webber	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	-	-	False
+eventually	RB	-	-	-	-	-	False
+graduated	VBD	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+School	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+founded	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Gillian	NNP	-	-	-	Business_name	3386	False
+Lynne	NNP	-	-	-	Business_name	3386	False
+Dance	NNP	-	-	-	Business_name	3386	False
+Company	NNP	company.n	Businesses	365	Business_name	3386	False
+,	,	-	-	-	-	-	False
+met	VBD	-	-	-	-	-	False
+Andrew	NNP	-	-	-	-	-	False
+Lloyd	NNP	-	-	-	-	-	False
+Webber	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ela	X	FW	-	-	-	False
-eventualmente	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-formou	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-School	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-fundou	X	FW	-	-	-	False
-sua	X	FW	-	-	Proprietor	False
-própria	X	FW	-	-	Proprietor	False
-empresa	X	FW	empresa.n	Businesses	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	Business_name	False
-Companhia	PROPN	NNP	-	-	Business_name	False
-de	ADP	NNP	-	-	Business_name	False
-Dança	PROPN	NNP	-	-	Business_name	False
-Gillian	PROPN	NNP	-	-	Business_name	False
-Lynne	PROPN	NNP	-	-	Business_name	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-conheceu	X	FW	-	-	-	False
-Andrew	PROPN	NNP	-	-	-	False
-Lloyd	PROPN	NNP	-	-	-	False
-Weber	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ela	FW	-	-	-	-	-	False
+eventualmente	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+formou	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+School	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+fundou	FW	-	-	-	-	-	False
+sua	FW	-	-	-	Proprietor	3324	False
+própria	FW	-	-	-	Proprietor	3324	False
+empresa	FW	empresa.n	Businesses	365	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	Business_name	3386	False
+Companhia	NNP	-	-	-	Business_name	3386	False
+de	NNP	-	-	-	Business_name	3386	False
+Dança	NNP	-	-	-	Business_name	3386	False
+Gillian	NNP	-	-	-	Business_name	3386	False
+Lynne	NNP	-	-	-	Business_name	3386	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+conheceu	FW	-	-	-	-	-	False
+Andrew	NNP	-	-	-	-	-	False
+Lloyd	NNP	-	-	-	-	-	False
+Weber	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

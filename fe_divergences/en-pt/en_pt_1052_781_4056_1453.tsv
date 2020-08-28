@@ -1,14 +1,14 @@
-Well	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	Child	True
-was	VERB	VBD	-	-	-	False
-born	VERB	VBN	born.v	Being_born	-	False
-...	PUNCT	NFP	-	-	-	False
-no	INTJ	UH	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Well	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	Child	5620	True
+was	VBD	-	-	-	-	-	False
+born	VBN	born.v	Being_born	793	-	-	False
+...	NFP	-	-	-	-	-	False
+no	UH	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Child	True
-nasci	X	NNP	nascer.v	Being_born	-	False
-...	PUNCT	NFP	-	-	-	False
-Não	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Child	5620	True
+nasci	NNP	nascer.v	Being_born	793	-	-	False
+...	NFP	-	-	-	-	-	False
+Não	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

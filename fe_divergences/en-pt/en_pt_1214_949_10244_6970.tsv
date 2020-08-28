@@ -1,11 +1,11 @@
-Remember	VERB	VB	-	-	-	False
-that	DET	DT	-	-	-	False
-old	ADJ	JJ	old.a	Age	-	False
-chestnut	NOUN	NN	-	-	Entity	True
-?	PUNCT	.	-	-	-	False
+Remember	VB	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+old	JJ	old.a	Age	972	-	-	False
+chestnut	NN	-	-	-	Entity	5930	True
+?	.	-	-	-	-	-	False
 
-Lembram	X	NNP	-	-	-	False
-dessa	X	FW	-	-	-	False
-piada	X	FW	-	-	Entity	True
-velha	X	FW	velho.a	Age	-	False
-?	PUNCT	.	-	-	-	False
+Lembram	NNP	-	-	-	-	-	False
+dessa	FW	-	-	-	-	-	False
+piada	FW	-	-	-	Entity	5930	True
+velha	FW	velho.a	Age	972	-	-	False
+?	.	-	-	-	-	-	False

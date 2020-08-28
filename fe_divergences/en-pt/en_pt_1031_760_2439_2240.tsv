@@ -1,38 +1,38 @@
-Because	ADP	IN	because.c	Causation	-	False
-it	PRON	PRP	-	-	Cause	False
-'s	VERB	VBZ	-	-	Cause	False
-one	NUM	CD	-	-	Cause	False
-of	ADP	IN	-	-	Cause	False
-those	DET	DT	-	-	Cause	False
-things	NOUN	NNS	-	-	Cause	False
-that	PRON	WDT	-	-	Cause	False
-goes	VERB	VBZ	-	-	Cause	False
-deep	ADV	RB	-	-	Cause	False
-with	ADP	IN	-	-	Cause	False
-people	NOUN	NNS	-	-	Cause	False
-,	PUNCT	,	-	-	-	False
-am	VERB	VBP	-	-	-	False
-I	PRON	PRP	-	-	-	False
-right	ADJ	JJ	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Because	IN	because.c	Causation	5	-	-	False
+it	PRP	-	-	-	Cause	18	False
+'s	VBZ	-	-	-	Cause	18	False
+one	CD	-	-	-	Cause	18	False
+of	IN	-	-	-	Cause	18	False
+those	DT	-	-	-	Cause	18	False
+things	NNS	-	-	-	Cause	18	False
+that	WDT	-	-	-	Cause	18	False
+goes	VBZ	-	-	-	Cause	18	False
+deep	RB	-	-	-	Cause	18	False
+with	IN	-	-	-	Cause	18	False
+people	NNS	-	-	-	Cause	18	False
+,	,	-	-	-	-	-	False
+am	VBP	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+right	JJ	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Porque	NOUN	NNP	porque.c	Causation	-	False
-é	NOUN	FW	-	-	Cause	False
-uma	X	FW	-	-	Cause	False
-dessas	X	FW	-	-	Cause	False
-coisas	X	FW	-	-	Cause	False
-arraigadas	X	FW	-	-	Cause	False
-nas	X	FW	-	-	Cause	False
-pessoas	X	FW	-	-	Cause	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-certo	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-Como	X	NNP	-	-	-	False
-religião	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dinheiro	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-outras	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Porque	NNP	porque.c	Causation	5	-	-	False
+é	FW	-	-	-	Cause	18	False
+uma	FW	-	-	-	Cause	18	False
+dessas	FW	-	-	-	Cause	18	False
+coisas	FW	-	-	-	Cause	18	False
+arraigadas	FW	-	-	-	Cause	18	False
+nas	FW	-	-	-	Cause	18	False
+pessoas	FW	-	-	-	Cause	18	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+certo	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+Como	NNP	-	-	-	-	-	False
+religião	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dinheiro	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+outras	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

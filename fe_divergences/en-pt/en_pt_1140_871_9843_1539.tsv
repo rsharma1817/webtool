@@ -1,13 +1,13 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-this	DET	DT	-	-	Factor	True
-is	VERB	VBZ	-	-	-	False
-rather	ADV	RB	-	-	Degree	False
-important	ADJ	JJ	important.a	Importance	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+this	DT	-	-	-	Factor	3749	True
+is	VBZ	-	-	-	-	-	False
+rather	RB	-	-	-	Degree	3752	False
+important	JJ	important.a	Importance	407	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-bastante	X	FW	-	-	Degree	False
-importante	X	FW	importante.a	Importance	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+bastante	FW	-	-	-	Degree	3752	False
+importante	FW	importante.a	Importance	407	-	-	False
+.	.	-	-	-	-	-	False

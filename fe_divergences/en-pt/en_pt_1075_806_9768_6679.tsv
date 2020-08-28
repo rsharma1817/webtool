@@ -1,61 +1,61 @@
-We	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-sitting	VERB	VBG	-	-	-	False
-there	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-they	PRON	PRP	-	-	-	False
-just	ADV	RB	-	-	-	False
-went	VERB	VBD	-	-	-	False
-out	ADP	IN	-	-	-	False
-of	ADP	IN	-	-	-	False
-sequence	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	Event	True
-talked	VERB	VBD	-	-	Event	True
-to	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-little	ADJ	JJ	-	-	Event	True
-boy	NOUN	NN	-	-	Event	True
-afterward	ADV	RB	afterward.adv	Time_vector	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-You	PRON	PRP	-	-	-	False
-OK	ADJ	JJ	-	-	-	False
-with	ADP	IN	-	-	-	False
-that	DET	DT	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+We	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+sitting	VBG	-	-	-	-	-	False
+there	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+just	RB	-	-	-	-	-	False
+went	VBD	-	-	-	-	-	False
+out	IN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+sequence	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+we	PRP	-	-	-	Event	4832	True
+talked	VBD	-	-	-	Event	4832	True
+to	IN	-	-	-	Event	4832	True
+the	DT	-	-	-	Event	4832	True
+little	JJ	-	-	-	Event	4832	True
+boy	NN	-	-	-	Event	4832	True
+afterward	RB	afterward.adv	Time_vector	379	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+You	PRP	-	-	-	-	-	False
+OK	JJ	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Estávamos	X	NNP	-	-	-	False
-lá	X	FW	-	-	-	False
-sentados	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-seguiram	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-ordem	X	FW	-	-	-	False
-porque	X	FW	-	-	-	False
-nós	X	FW	-	-	Event	True
-conversamos	X	FW	-	-	Event	True
-com	X	FW	-	-	Event	True
-o	X	FW	-	-	Event	True
-garotinho	X	FW	-	-	Event	True
-depois	X	FW	depois.adv	Time_vector	-	False
-e	X	FW	-	-	-	False
-perguntamos	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Tudo	PROPN	NNP	-	-	-	False
-certo	PROPN	NNP	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Estávamos	NNP	-	-	-	-	-	False
+lá	FW	-	-	-	-	-	False
+sentados	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+seguiram	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+ordem	FW	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+nós	FW	-	-	-	Event	4832	True
+conversamos	FW	-	-	-	Event	4832	True
+com	FW	-	-	-	Event	4832	True
+o	FW	-	-	-	Event	4832	True
+garotinho	FW	-	-	-	Event	4832	True
+depois	FW	depois.adv	Time_vector	379	-	-	False
+e	FW	-	-	-	-	-	False
+perguntamos	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Tudo	NNP	-	-	-	-	-	False
+certo	NNP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

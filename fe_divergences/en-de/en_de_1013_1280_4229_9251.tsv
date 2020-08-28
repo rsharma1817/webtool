@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-have	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-three	NUM	CD	-	-	-	False
-themes	NOUN	NNS	-	-	-	False
-running	VERB	VBG	-	-	-	False
-through	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-conference	NOUN	NN	-	-	-	False
-which	PRON	WDT	-	-	-	False
-are	VERB	VBP	-	-	-	False
-relevant	ADJ	JJ	-	-	-	False
-to	ADP	IN	-	-	-	False
-what	PRON	WP	-	-	Event	True
-I	PRON	PRP	-	-	Experiencer	True
-want	VERB	VBP	want.v	Desiring	-	False
-to	PART	TO	-	-	Event	True
-talk	VERB	VB	-	-	Event	True
-about	ADP	IN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+three	CD	-	-	-	-	-	False
+themes	NNS	-	-	-	-	-	False
+running	VBG	-	-	-	-	-	False
+through	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+conference	NN	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+relevant	JJ	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+what	WP	-	-	-	Event	3363	True
+I	PRP	-	-	-	Experiencer	3361	True
+want	VBP	want.v	Desiring	366	-	-	False
+to	TO	-	-	-	Event	3363	True
+talk	VB	-	-	-	Event	3363	True
+about	IN	-	-	-	Event	3363	True
+.	.	-	-	-	-	-	False
 
-Es	X	FW	-	-	-	False
-gab	X	FW	-	-	-	False
-drei	X	FW	-	-	-	False
-Leitmotive	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-sich	ADJ	JJ	-	-	-	False
-durch	NOUN	NN	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Konferenz	PROPN	NNP	-	-	-	False
-zogen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-wichtig	NOUN	FW	-	-	-	False
-sind	NOUN	FW	-	-	-	False
-für	NOUN	FW	-	-	-	False
-das	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-ich	X	FW	-	-	Experiencer	True
-sprechen	X	FW	-	-	Event	True
-will	NOUN	MD	wollen.v	Desiring	-	False
-.	PUNCT	.	-	-	-	False
+Es	FW	-	-	-	-	-	False
+gab	FW	-	-	-	-	-	False
+drei	FW	-	-	-	-	-	False
+Leitmotive	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+sich	JJ	-	-	-	-	-	False
+durch	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Konferenz	NNP	-	-	-	-	-	False
+zogen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+wichtig	FW	-	-	-	-	-	False
+sind	FW	-	-	-	-	-	False
+für	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+ich	FW	-	-	-	Experiencer	3361	True
+sprechen	FW	-	-	-	Event	3363	True
+will	MD	wollen.v	Desiring	366	-	-	False
+.	.	-	-	-	-	-	False

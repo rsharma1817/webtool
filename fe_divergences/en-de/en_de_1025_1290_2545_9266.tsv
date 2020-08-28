@@ -1,18 +1,18 @@
-And	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	Event	True
-'re	VERB	VBP	-	-	Event	True
-never	ADV	RB	never.adv	Frequency	-	False
-asked	VERB	VBN	-	-	Event	True
-back	ADP	RP	-	-	Event	True
-,	PUNCT	,	-	-	-	False
-curiously	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+you	PRP	-	-	-	Event	371	True
+'re	VBP	-	-	-	Event	371	True
+never	RB	never.adv	Frequency	80	-	-	False
+asked	VBN	-	-	-	Event	371	True
+back	RP	-	-	-	Event	371	True
+,	,	-	-	-	-	-	False
+curiously	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Auf	INTJ	NNP	-	-	-	False
-jeden	PROPN	NNP	-	-	-	False
-Fall	PROPN	NNP	-	-	-	False
-nicht	NOUN	NN	-	-	-	False
-zweimal	NOUN	NN	zweimal.adv	Frequency	-	False
-,	PUNCT	,	-	-	-	False
-seltsamerweise	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Auf	NNP	-	-	-	-	-	False
+jeden	NNP	-	-	-	-	-	False
+Fall	NNP	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+zweimal	NN	zweimal.adv	Frequency	80	-	-	False
+,	,	-	-	-	-	-	False
+seltsamerweise	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

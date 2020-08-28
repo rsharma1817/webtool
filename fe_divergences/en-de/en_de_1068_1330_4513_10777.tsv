@@ -1,39 +1,39 @@
-But	CCONJ	CC	-	-	-	False
-James	PROPN	NNP	-	-	Performer	True
-got	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-part	NOUN	NN	part.n	Performers_and_roles	-	False
-of	ADP	IN	-	-	Role	True
-Joseph	PROPN	NNP	-	-	Role	True
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-thrilled	VERB	VBN	-	-	-	False
-about	ADP	IN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+James	NNP	-	-	-	Performer	3790	True
+got	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+part	NN	part.n	Performers_and_roles	413	-	-	False
+of	IN	-	-	-	Role	3796	True
+Joseph	NNP	-	-	-	Role	3796	True
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+thrilled	VBN	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-'	PUNCT	''	-	-	-	False
-Die	VERB	VB	-	-	-	False
-Geburt	PROPN	NNP	-	-	-	False
-II	PROPN	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-James	PROPN	NNP	-	-	-	False
-spielte	PROPN	NNP	-	-	-	False
-den	PROPN	NNP	-	-	-	False
-Joseph	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-begeistert	X	FW	-	-	-	False
-waren	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-weil	X	NN	-	-	-	False
-wir	X	NN	-	-	-	False
-das	X	FW	-	-	Role	True
-als	X	FW	-	-	-	False
-eine	X	FW	-	-	-	False
-der	X	FW	-	-	-	False
-Hauptrollen	X	FW	Hauptrolle.n	Performers_and_roles	-	False
-betrachten	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+'	''	-	-	-	-	-	False
+Die	VB	-	-	-	-	-	False
+Geburt	NNP	-	-	-	-	-	False
+II	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+James	NNP	-	-	-	-	-	False
+spielte	NNP	-	-	-	-	-	False
+den	NNP	-	-	-	-	-	False
+Joseph	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+begeistert	FW	-	-	-	-	-	False
+waren	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+weil	NN	-	-	-	-	-	False
+wir	NN	-	-	-	-	-	False
+das	FW	-	-	-	Role	3796	True
+als	FW	-	-	-	-	-	False
+eine	FW	-	-	-	-	-	False
+der	FW	-	-	-	-	-	False
+Hauptrollen	FW	Hauptrolle.n	Performers_and_roles	413	-	-	False
+betrachten	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,51 +1,51 @@
-We	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-huge	ADJ	JJ	-	-	-	False
-vested	VERB	JJ	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-partly	ADV	RB	-	-	-	False
-because	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-education	NOUN	NN	-	-	Agent	True
-that	PRON	WDT	-	-	Agent	True
-'s	VERB	VBZ	-	-	-	False
-meant	VERB	VBN	-	-	-	False
-to	PART	TO	-	-	-	False
-take	VERB	VB	take.v	Bringing	-	False
-us	PRON	PRP	-	-	Theme	True
-into	ADP	IN	-	-	Goal	True
-this	DET	DT	-	-	Goal	True
-future	NOUN	NN	-	-	Goal	True
-that	ADP	IN	-	-	Goal	True
-we	PRON	PRP	-	-	Goal	True
-ca	AUX	MD	-	-	Goal	True
-n't	ADV	RB	-	-	Goal	True
-grasp	VERB	VB	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+huge	JJ	-	-	-	-	-	False
+vested	JJ	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+partly	RB	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+education	NN	-	-	-	Agent	2117	True
+that	WDT	-	-	-	Agent	2117	True
+'s	VBZ	-	-	-	-	-	False
+meant	VBN	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+take	VB	take.v	Bringing	240	-	-	False
+us	PRP	-	-	-	Theme	2121	True
+into	IN	-	-	-	Goal	2118	True
+this	DT	-	-	-	Goal	2118	True
+future	NN	-	-	-	Goal	2118	True
+that	IN	-	-	-	Goal	2118	True
+we	PRP	-	-	-	Goal	2118	True
+ca	MD	-	-	-	Goal	2118	True
+n't	RB	-	-	-	Goal	2118	True
+grasp	VB	-	-	-	Goal	2118	True
+.	.	-	-	-	-	-	False
 
-Nos	INTJ	FW	-	-	-	False
-interessamos	X	FW	-	-	-	False
-tanto	X	FW	-	-	-	False
-por	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-parte	X	FW	-	-	-	False
-porque	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	Agent	True
-o	X	FW	-	-	-	False
-papel	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-nos	X	FW	-	-	Theme	True
-conduzir	X	FW	conduzir.v	Bringing	-	False
-a	X	FW	-	-	Goal	True
-esse	X	FW	-	-	Goal	True
-futuro	X	FW	-	-	Goal	True
-misterioso	X	FW	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+Nos	FW	-	-	-	-	-	False
+interessamos	FW	-	-	-	-	-	False
+tanto	FW	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+parte	FW	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	Agent	2117	True
+o	FW	-	-	-	-	-	False
+papel	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+nos	FW	-	-	-	Theme	2121	True
+conduzir	FW	conduzir.v	Bringing	240	-	-	False
+a	FW	-	-	-	Goal	2118	True
+esse	FW	-	-	-	Goal	2118	True
+futuro	FW	-	-	-	Goal	2118	True
+misterioso	FW	-	-	-	Goal	2118	True
+.	.	-	-	-	-	-	False

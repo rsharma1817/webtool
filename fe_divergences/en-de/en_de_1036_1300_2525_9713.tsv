@@ -1,59 +1,59 @@
-Nobody	NOUN	NN	-	-	Main_assertion	True
-has	VERB	VBZ	-	-	Main_assertion	True
-a	DET	DT	-	-	Main_assertion	True
-clue	NOUN	NN	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-despite	ADP	IN	despite.prep	Concessive	-	False
-all	DET	PDT	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-expertise	NOUN	NN	-	-	Conceded_state_of_affairs	True
-that	PRON	WDT	-	-	Conceded_state_of_affairs	True
-'s	VERB	VBZ	-	-	Conceded_state_of_affairs	True
-been	VERB	VBN	-	-	Conceded_state_of_affairs	True
-on	ADP	IN	-	-	Conceded_state_of_affairs	True
-parade	NOUN	NN	-	-	Conceded_state_of_affairs	True
-for	ADP	IN	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-past	ADJ	JJ	-	-	Conceded_state_of_affairs	True
-four	NUM	CD	-	-	Conceded_state_of_affairs	True
-days	NOUN	NNS	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	Main_assertion	True
-the	DET	DT	-	-	Main_assertion	True
-world	NOUN	NN	-	-	Main_assertion	True
-will	AUX	MD	-	-	Main_assertion	True
-look	VERB	VB	-	-	Main_assertion	True
-like	ADP	IN	-	-	Main_assertion	True
-in	ADP	IN	-	-	Main_assertion	True
-five	NUM	CD	-	-	Main_assertion	True
-years'	NOUN	JJ	-	-	Main_assertion	True
-time	NOUN	NN	-	-	Main_assertion	True
-.	PUNCT	.	-	-	-	False
+Nobody	NN	-	-	-	Main_assertion	13312	True
+has	VBZ	-	-	-	Main_assertion	13312	True
+a	DT	-	-	-	Main_assertion	13312	True
+clue	NN	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+despite	IN	despite.prep	Concessive	2150	-	-	False
+all	PDT	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+expertise	NN	-	-	-	Conceded_state_of_affairs	13302	True
+that	WDT	-	-	-	Conceded_state_of_affairs	13302	True
+'s	VBZ	-	-	-	Conceded_state_of_affairs	13302	True
+been	VBN	-	-	-	Conceded_state_of_affairs	13302	True
+on	IN	-	-	-	Conceded_state_of_affairs	13302	True
+parade	NN	-	-	-	Conceded_state_of_affairs	13302	True
+for	IN	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+past	JJ	-	-	-	Conceded_state_of_affairs	13302	True
+four	CD	-	-	-	Conceded_state_of_affairs	13302	True
+days	NNS	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	Main_assertion	13312	True
+the	DT	-	-	-	Main_assertion	13312	True
+world	NN	-	-	-	Main_assertion	13312	True
+will	MD	-	-	-	Main_assertion	13312	True
+look	VB	-	-	-	Main_assertion	13312	True
+like	IN	-	-	-	Main_assertion	13312	True
+in	IN	-	-	-	Main_assertion	13312	True
+five	CD	-	-	-	Main_assertion	13312	True
+years'	JJ	-	-	-	Main_assertion	13312	True
+time	NN	-	-	-	Main_assertion	13312	True
+.	.	-	-	-	-	-	False
 
-Keiner	PROPN	NNP	-	-	Main_assertion	True
-hat	INTJ	VBD	-	-	Main_assertion	True
-eine	INTJ	NNP	-	-	Main_assertion	True
-Ahnung	PROPN	NNP	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-trotz	VERB	NN	trotz.prep	Concessive	-	False
-jeglicher	NOUN	NN	-	-	Conceded_state_of_affairs	True
-Expertise	NOUN	NNP	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	Conceded_state_of_affairs	True
-die	X	VB	-	-	Conceded_state_of_affairs	True
-wir	X	NN	-	-	Conceded_state_of_affairs	True
-die	X	VBP	-	-	Conceded_state_of_affairs	True
-letzten	X	FW	-	-	Conceded_state_of_affairs	True
-vier	X	FW	-	-	Conceded_state_of_affairs	True
-Tage	X	FW	-	-	Conceded_state_of_affairs	True
-erleben	X	FW	-	-	Conceded_state_of_affairs	True
-durften	X	FW	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	-	False
-wie	PRON	UH	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Welt	PROPN	NNP	-	-	-	False
-in	ADP	IN	-	-	-	False
-fünf	NOUN	NN	-	-	-	False
-Jahren	PROPN	NNP	-	-	-	False
-aussehen	PROPN	NNP	-	-	-	False
-wird	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Keiner	NNP	-	-	-	Main_assertion	13312	True
+hat	VBD	-	-	-	Main_assertion	13312	True
+eine	NNP	-	-	-	Main_assertion	13312	True
+Ahnung	NNP	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+trotz	NN	trotz.prep	Concessive	2150	-	-	False
+jeglicher	NN	-	-	-	Conceded_state_of_affairs	13302	True
+Expertise	NNP	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	Conceded_state_of_affairs	13302	True
+die	VB	-	-	-	Conceded_state_of_affairs	13302	True
+wir	NN	-	-	-	Conceded_state_of_affairs	13302	True
+die	VBP	-	-	-	Conceded_state_of_affairs	13302	True
+letzten	FW	-	-	-	Conceded_state_of_affairs	13302	True
+vier	FW	-	-	-	Conceded_state_of_affairs	13302	True
+Tage	FW	-	-	-	Conceded_state_of_affairs	13302	True
+erleben	FW	-	-	-	Conceded_state_of_affairs	13302	True
+durften	FW	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	-	-	False
+wie	UH	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Welt	NNP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+fünf	NN	-	-	-	-	-	False
+Jahren	NNP	-	-	-	-	-	False
+aussehen	NNP	-	-	-	-	-	False
+wird	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

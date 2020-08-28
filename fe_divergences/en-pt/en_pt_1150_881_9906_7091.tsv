@@ -1,81 +1,81 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-'d	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-conclude	VERB	VB	conclude.v	Coming_to_believe	-	False
-the	DET	DT	-	-	Content	True
-whole	ADJ	JJ	-	-	Content	True
-purpose	NOUN	NN	-	-	Content	True
-of	ADP	IN	-	-	Content	True
-public	ADJ	JJ	-	-	Content	True
-education	NOUN	NN	-	-	Content	True
-throughout	ADP	IN	-	-	Content	True
-the	DET	DT	-	-	Content	True
-world	NOUN	NN	-	-	Content	True
-is	VERB	VBZ	-	-	Content	True
-to	PART	TO	-	-	Content	True
-produce	VERB	VB	-	-	Content	True
-university	NOUN	NN	-	-	Content	True
-professors	NOUN	NNS	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	98	True
+'d	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+conclude	VB	conclude.v	Coming_to_believe	23	-	-	False
+the	DT	-	-	-	Content	100	True
+whole	JJ	-	-	-	Content	100	True
+purpose	NN	-	-	-	Content	100	True
+of	IN	-	-	-	Content	100	True
+public	JJ	-	-	-	Content	100	True
+education	NN	-	-	-	Content	100	True
+throughout	IN	-	-	-	Content	100	True
+the	DT	-	-	-	Content	100	True
+world	NN	-	-	-	Content	100	True
+is	VBZ	-	-	-	Content	100	True
+to	TO	-	-	-	Content	100	True
+produce	VB	-	-	-	Content	100	True
+university	NN	-	-	-	Content	100	True
+professors	NNS	-	-	-	Content	100	True
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	conclusão.n	Coming_to_believe	-	False
-obrigatória	X	FW	-	-	Depictive	False
-seria	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-olhando	X	FW	-	-	Evidence	True
-para	X	FW	-	-	Evidence	True
-o	X	FW	-	-	Evidence	True
-resultado	X	FW	-	-	Evidence	True
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-quem	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-bem	X	FW	-	-	-	False
-sucedido	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-faz	X	FW	-	-	-	False
-tudo	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-deve	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-ganha	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-estrelinhas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-vencedores	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	-	-	-	False
-seria	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-objetivo	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-pública	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-produzir	X	FW	-	-	-	False
-professores	X	FW	-	-	-	False
-universitários	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	conclusão.n	Coming_to_believe	23	-	-	False
+obrigatória	FW	-	-	-	Depictive	989	False
+seria	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+olhando	FW	-	-	-	Evidence	99	True
+para	FW	-	-	-	Evidence	99	True
+o	FW	-	-	-	Evidence	99	True
+resultado	FW	-	-	-	Evidence	99	True
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+sucedido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+faz	FW	-	-	-	-	-	False
+tudo	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+deve	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+ganha	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+estrelinhas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+vencedores	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	-	-	-	-	-	False
+seria	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+objetivo	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+pública	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+produzir	FW	-	-	-	-	-	False
+professores	FW	-	-	-	-	-	False
+universitários	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

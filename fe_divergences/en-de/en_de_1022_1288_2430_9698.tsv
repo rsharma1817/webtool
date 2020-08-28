@@ -1,48 +1,48 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-at	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-dinner	NOUN	NN	-	-	-	False
-party	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	Employee	True
-work	VERB	VBP	work.v	Being_employed	-	False
-in	ADP	IN	-	-	Field	True
-education	NOUN	NN	-	-	Field	True
---	PUNCT	:	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+dinner	NN	-	-	-	-	-	False
+party	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	Employee	2796	True
+work	VBP	work.v	Being_employed	282	-	-	False
+in	IN	-	-	-	Field	2804	True
+education	NN	-	-	-	Field	2804	True
+--	:	-	-	-	-	-	False
 
-Wenn	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-auf	PROPN	NNP	-	-	-	False
-einer	PROPN	NNP	-	-	-	False
-Dinner-Party	PROPN	NNP	-	-	-	False
-sind	NOUN	NN	-	-	-	False
-und	NOUN	FW	-	-	-	False
-erzählen	NOUN	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	FW	-	-	-	False
-sie	X	FW	-	-	Employee	True
-im	X	FW	-	-	Field	True
-Bildungswesen	PROPN	NNP	-	-	Field	True
-arbeiten	PROPN	NNP	arbeiten.v	Being_employed	-	False
---	PUNCT	:	-	-	-	False
-offen	NOUN	VBP	-	-	-	False
-gesagt	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ist	X	NN	-	-	-	False
-man	X	NN	-	-	-	False
-nicht	X	NN	-	-	-	False
-oft	X	FW	-	-	-	False
-bei	X	FW	-	-	-	False
-Dinner-Parties	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wenn	NOUN	NN	-	-	-	False
-man	NOUN	UH	-	-	-	False
-im	VERB	UH	-	-	-	False
-Bildungswesen	PROPN	NNP	-	-	-	False
-arbeitet	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Wenn	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+auf	NNP	-	-	-	-	-	False
+einer	NNP	-	-	-	-	-	False
+Dinner-Party	NNP	-	-	-	-	-	False
+sind	NN	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+erzählen	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+sie	FW	-	-	-	Employee	2796	True
+im	FW	-	-	-	Field	2804	True
+Bildungswesen	NNP	-	-	-	Field	2804	True
+arbeiten	NNP	arbeiten.v	Being_employed	282	-	-	False
+--	:	-	-	-	-	-	False
+offen	VBP	-	-	-	-	-	False
+gesagt	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+man	NN	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+oft	FW	-	-	-	-	-	False
+bei	FW	-	-	-	-	-	False
+Dinner-Parties	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wenn	NN	-	-	-	-	-	False
+man	UH	-	-	-	-	-	False
+im	UH	-	-	-	-	-	False
+Bildungswesen	NNP	-	-	-	-	-	False
+arbeitet	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

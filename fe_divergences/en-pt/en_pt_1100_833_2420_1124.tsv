@@ -1,21 +1,21 @@
-So	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	Entity	True
-can	AUX	MD	can.v	Capability	-	False
-imagine	VERB	VB	-	-	Event	False
-what	PRON	WP	-	-	Event	False
-a	DET	DT	-	-	Event	False
-seamless	ADJ	JJ	-	-	Event	False
-transition	NOUN	NN	-	-	Event	False
-that	PRON	WDT	-	-	Event	False
-was	VERB	VBD	-	-	Event	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+you	PRP	-	-	-	Entity	5981	True
+can	MD	can.v	Capability	990	-	-	False
+imagine	VB	-	-	-	Event	5982	False
+what	WP	-	-	-	Event	5982	False
+a	DT	-	-	-	Event	5982	False
+seamless	JJ	-	-	-	Event	5982	False
+transition	NN	-	-	-	Event	5982	False
+that	WDT	-	-	-	Event	5982	False
+was	VBD	-	-	-	Event	5982	False
+.	.	-	-	-	-	-	False
 
-Vocês	NOUN	NNS	-	-	Entity	True
-podem	NOUN	NN	poder.v	Capability	-	False
-imaginar	VERB	VBP	-	-	Event	False
-a	DET	DT	-	-	Event	False
-mudança	X	FW	-	-	Event	False
-suave	X	FW	-	-	Event	False
-que	X	FW	-	-	Event	False
-foi	X	FW	-	-	Event	False
-.	PUNCT	.	-	-	-	False
+Vocês	NNS	-	-	-	Entity	5981	True
+podem	NN	poder.v	Capability	990	-	-	False
+imaginar	VBP	-	-	-	Event	5982	False
+a	DT	-	-	-	Event	5982	False
+mudança	FW	-	-	-	Event	5982	False
+suave	FW	-	-	-	Event	5982	False
+que	FW	-	-	-	Event	5982	False
+foi	FW	-	-	-	Event	5982	False
+.	.	-	-	-	-	-	False

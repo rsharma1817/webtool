@@ -1,26 +1,26 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-third	ADJ	JJ	-	-	-	False
-boy	NOUN	NN	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Frank	PROPN	NNP	-	-	Sender	True
-sent	VERB	VBD	send.v	Sending	-	False
-this	DET	DT	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+third	JJ	-	-	-	-	-	False
+boy	NN	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Frank	NNP	-	-	-	Sender	2212	True
+sent	VBD	send.v	Sending	243	-	-	False
+this	DT	-	-	-	Theme	2216	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-o	X	FW	-	-	-	False
-terceiro	X	FW	-	-	-	False
-garoto	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-O	INTJ	UH	-	-	Sender	True
-Frank	PROPN	NNP	-	-	Sender	True
-mandou	PROPN	FW	mandar.v	Sending	-	False
-isso	PROPN	FW	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+terceiro	FW	-	-	-	-	-	False
+garoto	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+O	UH	-	-	-	Sender	2212	True
+Frank	NNP	-	-	-	Sender	2212	True
+mandou	FW	mandar.v	Sending	243	-	-	False
+isso	FW	-	-	-	Theme	2216	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

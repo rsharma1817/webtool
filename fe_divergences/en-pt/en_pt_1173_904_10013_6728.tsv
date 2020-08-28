@@ -1,66 +1,66 @@
-So	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-probably	ADV	RB	-	-	-	False
-steered	VERB	VBN	-	-	-	False
-benignly	ADV	RB	-	-	-	False
-away	ADV	RB	-	-	-	False
-from	ADP	IN	-	-	-	False
-things	NOUN	NNS	-	-	-	False
-at	ADP	IN	-	-	-	False
-school	NOUN	NN	-	-	-	False
-when	ADV	WRB	-	-	-	False
-you	PRON	PRP	-	-	Person	True
-were	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-kid	NOUN	NN	kid.n	People_by_age	-	False
-,	PUNCT	,	-	-	-	False
-things	NOUN	NNS	-	-	-	False
-you	PRON	PRP	-	-	-	False
-liked	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-grounds	NOUN	NNS	-	-	-	False
-that	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-would	AUX	MD	-	-	-	False
-never	ADV	RB	-	-	-	False
-get	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-job	NOUN	NN	-	-	-	False
-doing	VERB	VBG	-	-	-	False
-that	DET	DT	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+probably	RB	-	-	-	-	-	False
+steered	VBN	-	-	-	-	-	False
+benignly	RB	-	-	-	-	-	False
+away	RB	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+things	NNS	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+when	WRB	-	-	-	-	-	False
+you	PRP	-	-	-	Person	5937	True
+were	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+kid	NN	kid.n	People_by_age	973	-	-	False
+,	,	-	-	-	-	-	False
+things	NNS	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+liked	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+grounds	NNS	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+would	MD	-	-	-	-	-	False
+never	RB	-	-	-	-	-	False
+get	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+doing	VBG	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Então	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-bondosamente	X	FW	-	-	-	False
-afastado	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-escola	X	FW	-	-	-	False
-quando	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-criança	X	FW	criança.n	People_by_age	-	False
-de	X	FW	-	-	-	False
-certas	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-coisas	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-gostava	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-com	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-premissa	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-nunca	X	FW	-	-	-	False
-iria	X	FW	-	-	-	False
-conseguir	X	FW	-	-	-	False
-um	INTJ	FW	-	-	-	False
-emprego	X	FW	-	-	-	False
-fazendo	X	FW	-	-	-	False
-aquilo	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Então	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+bondosamente	FW	-	-	-	-	-	False
+afastado	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+escola	FW	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+criança	FW	criança.n	People_by_age	973	-	-	False
+de	FW	-	-	-	-	-	False
+certas	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+gostava	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+premissa	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+nunca	FW	-	-	-	-	-	False
+iria	FW	-	-	-	-	-	False
+conseguir	FW	-	-	-	-	-	False
+um	FW	-	-	-	-	-	False
+emprego	FW	-	-	-	-	-	False
+fazendo	FW	-	-	-	-	-	False
+aquilo	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

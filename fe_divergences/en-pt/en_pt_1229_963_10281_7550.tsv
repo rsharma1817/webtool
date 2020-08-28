@@ -1,52 +1,52 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-school	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-'	PUNCT	''	-	-	-	False
-30s	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wrote	VERB	VBD	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP$	-	-	Ego	True
-parents	NOUN	NNS	parent.n	Kinship	Alter	True
-and	CCONJ	CC	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-We	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-has	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-learning	NOUN	NN	-	-	-	False
-disorder	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+30s	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wrote	VBD	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP$	-	-	-	Ego	517	True
+parents	NNS	parent.n	Kinship	104	Alter	516	True
+and	CC	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+We	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+has	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+learning	NN	-	-	-	-	-	False
+disorder	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-escola	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nos	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-30	NUM	CD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-escreveu	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-pais	X	FW	pai.n	Kinship	-	False
-dizendo	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Achamos	PROPN	NNP	-	-	-	False
-que	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-tem	X	FW	-	-	-	False
-dificuldade	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-aprendizado	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+escola	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+30	CD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+escreveu	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+pais	FW	pai.n	Kinship	104	-	-	False
+dizendo	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Achamos	NNP	-	-	-	-	-	False
+que	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+tem	FW	-	-	-	-	-	False
+dificuldade	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+aprendizado	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

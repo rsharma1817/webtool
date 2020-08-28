@@ -1,29 +1,29 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-have	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-job	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-it	PRON	PRP	-	-	Effect	False
-'s	VERB	VBZ	-	-	-	False
-because	ADP	IN	because.c	Causation	-	False
-you	PRON	PRP	-	-	Cause	False
-did	VERB	VBD	-	-	Cause	False
-n't	ADV	RB	-	-	Cause	False
-want	VERB	VB	-	-	Cause	False
-one	NUM	CD	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+it	PRP	-	-	-	Effect	20	False
+'s	VBZ	-	-	-	-	-	False
+because	IN	because.c	Causation	5	-	-	False
+you	PRP	-	-	-	Cause	18	False
+did	VBD	-	-	-	Cause	18	False
+n't	RB	-	-	-	Cause	18	False
+want	VB	-	-	-	Cause	18	False
+one	CD	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False
 
-Quem	X	FW	-	-	Effect	False
-não	X	FW	-	-	Effect	False
-tinha	X	FW	-	-	Effect	False
-um	INTJ	UH	-	-	Effect	False
-emprego	NOUN	FW	-	-	Effect	False
-,	PUNCT	,	-	-	-	False
-era	X	NN	-	-	-	False
-porque	X	NN	porque.c	Causation	-	False
-não	X	FW	-	-	Cause	False
-queria	X	FW	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+Quem	FW	-	-	-	Effect	20	False
+não	FW	-	-	-	Effect	20	False
+tinha	FW	-	-	-	Effect	20	False
+um	UH	-	-	-	Effect	20	False
+emprego	FW	-	-	-	Effect	20	False
+,	,	-	-	-	-	-	False
+era	NN	-	-	-	-	-	False
+porque	NN	porque.c	Causation	5	-	-	False
+não	FW	-	-	-	Cause	18	False
+queria	FW	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False

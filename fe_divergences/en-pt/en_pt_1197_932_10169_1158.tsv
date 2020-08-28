@@ -1,21 +1,21 @@
-We	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Awareness	-	False
-in	ADP	IN	-	-	Manner	False
-abstract	ADJ	JJ	-	-	Manner	False
-terms	NOUN	NNS	-	-	Manner	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-in	ADP	IN	-	-	-	False
-movement	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Cognizer	83	True
+think	VBP	think.v	Awareness	19	-	-	False
+in	IN	-	-	-	Manner	946	False
+abstract	JJ	-	-	-	Manner	946	False
+terms	NNS	-	-	-	Manner	946	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+movement	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Pensamos	X	NNP	pensar.v	Awareness	-	False
-em	X	FW	-	-	Manner	False
-termo	X	FW	-	-	Manner	False
-abstratos	X	FW	-	-	Manner	False
-,	PUNCT	,	-	-	-	False
-pensamos	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-movimento	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Pensamos	NNP	pensar.v	Awareness	19	-	-	False
+em	FW	-	-	-	Manner	946	False
+termo	FW	-	-	-	Manner	946	False
+abstratos	FW	-	-	-	Manner	946	False
+,	,	-	-	-	-	-	False
+pensamos	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+movimento	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

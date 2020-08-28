@@ -1,59 +1,59 @@
-I	PRON	PRP	-	-	Trajector_event	True
-'m	VERB	VBP	-	-	Trajector_event	True
-doing	VERB	VBG	-	-	Trajector_event	True
-a	DET	DT	-	-	Trajector_event	True
-new	ADJ	JJ	-	-	Trajector_event	True
-book	NOUN	NN	-	-	Trajector_event	True
-at	ADP	IN	at.prep	Temporal_collocation	-	False
-the	DET	DT	-	-	Landmark_entity	True
-moment	NOUN	NN	-	-	Landmark_entity	True
-called	VERB	VBN	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epiphany	PROPN	NNP	-	-	-	False
-,'	PUNCT	''	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-based	VERB	VBN	-	-	-	False
-on	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-series	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-interviews	NOUN	NNS	-	-	-	False
-with	ADP	IN	-	-	-	False
-people	NOUN	NNS	-	-	-	False
-about	ADP	IN	-	-	-	False
-how	ADV	WRB	-	-	-	False
-they	PRON	PRP	-	-	-	False
-discovered	VERB	VBD	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-talent	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	Trajector_event	12064	True
+'m	VBP	-	-	-	Trajector_event	12064	True
+doing	VBG	-	-	-	Trajector_event	12064	True
+a	DT	-	-	-	Trajector_event	12064	True
+new	JJ	-	-	-	Trajector_event	12064	True
+book	NN	-	-	-	Trajector_event	12064	True
+at	IN	at.prep	Temporal_collocation	1895	-	-	False
+the	DT	-	-	-	Landmark_entity	12350	True
+moment	NN	-	-	-	Landmark_entity	12350	True
+called	VBN	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epiphany	NNP	-	-	-	-	-	False
+,'	''	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+based	VBN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+series	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+interviews	NNS	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+people	NNS	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+how	WRB	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+discovered	VBD	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+talent	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Estou	PROPN	NNP	-	-	Landmark_event	True
-escrevendo	NOUN	NNP	-	-	Landmark_event	True
-um	INTJ	UH	-	-	Landmark_event	True
-livro	X	FW	-	-	Landmark_event	True
-atualmente	X	FW	atualmente.adv	Temporal_collocation	-	False
-chamado	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epifania	PROPN	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-baseado	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-série	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-entrevistas	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-fiz	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-as	ADP	FW	-	-	-	False
-pessoas	X	FW	-	-	-	False
-descobriram	X	FW	-	-	-	False
-seus	X	FW	-	-	-	False
-talentos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Estou	NNP	-	-	-	Landmark_event	11269	True
+escrevendo	NNP	-	-	-	Landmark_event	11269	True
+um	UH	-	-	-	Landmark_event	11269	True
+livro	FW	-	-	-	Landmark_event	11269	True
+atualmente	FW	atualmente.adv	Temporal_collocation	1895	-	-	False
+chamado	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epifania	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+baseado	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+série	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+entrevistas	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+fiz	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	-	-	False
+descobriram	FW	-	-	-	-	-	False
+seus	FW	-	-	-	-	-	False
+talentos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

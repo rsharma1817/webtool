@@ -1,48 +1,48 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	Resident	True
-lived	VERB	VBD	live.v	Residence	-	False
-in	ADP	IN	-	-	Location	True
-a	DET	DT	-	-	Location	True
-place	NOUN	NN	-	-	Location	True
-called	VERB	VBN	-	-	Location	True
-Snitterfield	PROPN	NNP	-	-	Location	True
-,	PUNCT	,	-	-	Location	True
-just	ADV	RB	-	-	Location	True
-outside	ADP	IN	-	-	Location	True
-Stratford	PROPN	NNP	-	-	Location	True
-,	PUNCT	,	-	-	Location	True
-which	PRON	WDT	-	-	Location	True
-is	VERB	VBZ	-	-	Location	True
-where	ADV	WRB	-	-	Location	True
-Shakespeare	PROPN	NNP	-	-	Location	True
-'s	PART	POS	-	-	Location	True
-father	NOUN	NN	-	-	Location	True
-was	VERB	VBD	-	-	Location	True
-born	VERB	VBN	-	-	Location	True
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	Resident	535	True
+lived	VBD	live.v	Residence	110	-	-	False
+in	IN	-	-	-	Location	536	True
+a	DT	-	-	-	Location	536	True
+place	NN	-	-	-	Location	536	True
+called	VBN	-	-	-	Location	536	True
+Snitterfield	NNP	-	-	-	Location	536	True
+,	,	-	-	-	Location	536	True
+just	RB	-	-	-	Location	536	True
+outside	IN	-	-	-	Location	536	True
+Stratford	NNP	-	-	-	Location	536	True
+,	,	-	-	-	Location	536	True
+which	WDT	-	-	-	Location	536	True
+is	VBZ	-	-	-	Location	536	True
+where	WRB	-	-	-	Location	536	True
+Shakespeare	NNP	-	-	-	Location	536	True
+'s	POS	-	-	-	Location	536	True
+father	NN	-	-	-	Location	536	True
+was	VBD	-	-	-	Location	536	True
+born	VBN	-	-	-	Location	536	True
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-verdade	X	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nós	X	FW	-	-	Resident	True
-moramos	X	FW	morar.v	Residence	-	False
-numa	X	FW	-	-	Location	True
-cidade	X	FW	-	-	Location	True
-chamada	X	FW	-	-	Location	True
-Snitterfield	X	FW	-	-	Location	True
-,	PUNCT	,	-	-	Location	True
-na	X	FW	-	-	Location	True
-periferia	X	FW	-	-	Location	True
-de	X	FW	-	-	Location	True
-Stratford	X	NNP	-	-	Location	True
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-onde	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-pai	X	FW	-	-	-	False
-do	VERB	VBP	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-nasceu	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+verdade	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nós	FW	-	-	-	Resident	535	True
+moramos	FW	morar.v	Residence	110	-	-	False
+numa	FW	-	-	-	Location	536	True
+cidade	FW	-	-	-	Location	536	True
+chamada	FW	-	-	-	Location	536	True
+Snitterfield	FW	-	-	-	Location	536	True
+,	,	-	-	-	Location	536	True
+na	FW	-	-	-	Location	536	True
+periferia	FW	-	-	-	Location	536	True
+de	FW	-	-	-	Location	536	True
+Stratford	NNP	-	-	-	Location	536	True
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+onde	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+pai	FW	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+nasceu	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

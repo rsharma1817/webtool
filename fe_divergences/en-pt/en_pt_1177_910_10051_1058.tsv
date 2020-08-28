@@ -1,18 +1,18 @@
-The	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-world	NOUN	NN	world.n	Political_locales	Locale	True
-is	VERB	VBZ	-	-	-	False
-engulfed	VERB	VBN	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-revolution	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+The	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+world	NN	world.n	Political_locales	195	Locale	1583	True
+is	VBZ	-	-	-	-	-	False
+engulfed	VBN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+revolution	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-mundo	X	FW	mundo.n	Political_locales	-	False
-inteiro	X	FW	-	-	Constituent_parts	False
-está	X	FW	-	-	Descriptor	False
-envolto	X	FW	-	-	Descriptor	False
-numa	X	FW	-	-	Descriptor	False
-revolução	X	FW	-	-	Descriptor	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+mundo	FW	mundo.n	Political_locales	195	-	-	False
+inteiro	FW	-	-	-	Constituent_parts	1580	False
+está	FW	-	-	-	Descriptor	7151	False
+envolto	FW	-	-	-	Descriptor	7151	False
+numa	FW	-	-	-	Descriptor	7151	False
+revolução	FW	-	-	-	Descriptor	7151	False
+.	.	-	-	-	-	-	False

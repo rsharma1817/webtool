@@ -1,70 +1,70 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-all	DET	DT	-	-	Profiled_possibility	True
-human	ADJ	JJ	-	-	Profiled_possibility	True
-beings	NOUN	NNS	-	-	Profiled_possibility	True
-disappeared	VERB	VBD	-	-	Profiled_possibility	True
-from	ADP	IN	-	-	Profiled_possibility	True
-the	DET	DT	-	-	Profiled_possibility	True
-Earth	PROPN	NNP	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-within	ADP	IN	-	-	Consequence	True
-50	NUM	CD	-	-	Consequence	True
-years	NOUN	NNS	-	-	Consequence	True
-all	DET	DT	-	-	Consequence	True
-forms	NOUN	NNS	-	-	Consequence	True
-of	ADP	IN	-	-	Consequence	True
-life	NOUN	NN	-	-	Consequence	True
-would	AUX	MD	-	-	Consequence	True
-flourish	VERB	VB	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+all	DT	-	-	-	Profiled_possibility	16290	True
+human	JJ	-	-	-	Profiled_possibility	16290	True
+beings	NNS	-	-	-	Profiled_possibility	16290	True
+disappeared	VBD	-	-	-	Profiled_possibility	16290	True
+from	IN	-	-	-	Profiled_possibility	16290	True
+the	DT	-	-	-	Profiled_possibility	16290	True
+Earth	NNP	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+within	IN	-	-	-	Consequence	16292	True
+50	CD	-	-	-	Consequence	16292	True
+years	NNS	-	-	-	Consequence	16292	True
+all	DT	-	-	-	Consequence	16292	True
+forms	NNS	-	-	-	Consequence	16292	True
+of	IN	-	-	-	Consequence	16292	True
+life	NN	-	-	-	Consequence	16292	True
+would	MD	-	-	-	Consequence	16292	True
+flourish	VB	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Existe	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-frase	X	FW	-	-	-	False
-maravilhosa	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Jonas	PROPN	NNP	-	-	-	False
-Salk	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-diz	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-insetos	X	FW	-	-	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-50	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-toda	X	FW	-	-	-	False
-vida	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-Terra	X	FW	-	-	-	False
-desapareceria.Se	X	FW	-	-	-	False
-todos	X	FW	-	-	Profiled_possibility	True
-os	X	FW	-	-	Profiled_possibility	True
-humanos	X	FW	-	-	Profiled_possibility	True
-desaparecessem	X	FW	-	-	Profiled_possibility	True
-da	X	FW	-	-	Profiled_possibility	True
-Terra	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	Consequence	True
-de	X	FW	-	-	Consequence	True
-50	X	FW	-	-	Consequence	True
-anos	X	FW	-	-	Consequence	True
-todas	X	FW	-	-	Consequence	True
-as	X	FW	-	-	Consequence	True
-formas	X	FW	-	-	Consequence	True
-de	X	FW	-	-	Consequence	True
-vida	X	FW	-	-	Consequence	True
-floresceriam	X	FW	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Existe	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+frase	FW	-	-	-	-	-	False
+maravilhosa	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Jonas	NNP	-	-	-	-	-	False
+Salk	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+diz	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+insetos	FW	-	-	-	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+50	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+toda	FW	-	-	-	-	-	False
+vida	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+Terra	FW	-	-	-	-	-	False
+desapareceria.Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	Profiled_possibility	16290	True
+os	FW	-	-	-	Profiled_possibility	16290	True
+humanos	FW	-	-	-	Profiled_possibility	16290	True
+desaparecessem	FW	-	-	-	Profiled_possibility	16290	True
+da	FW	-	-	-	Profiled_possibility	16290	True
+Terra	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	Consequence	16292	True
+de	FW	-	-	-	Consequence	16292	True
+50	FW	-	-	-	Consequence	16292	True
+anos	FW	-	-	-	Consequence	16292	True
+todas	FW	-	-	-	Consequence	16292	True
+as	FW	-	-	-	Consequence	16292	True
+formas	FW	-	-	-	Consequence	16292	True
+de	FW	-	-	-	Consequence	16292	True
+vida	FW	-	-	-	Consequence	16292	True
+floresceriam	FW	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

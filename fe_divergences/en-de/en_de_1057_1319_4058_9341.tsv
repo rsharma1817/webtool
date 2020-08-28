@@ -1,30 +1,30 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-girl	NOUN	NN	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	-	False
-'m	VERB	VBP	-	-	-	False
-drawing	VERB	VBG	-	-	-	False
-a	DET	DT	-	-	-	False
-picture	NOUN	NN	picture.n	Physical_artworks	Artifact	True
-of	ADP	IN	-	-	Represented	False
-God	PROPN	NNP	-	-	Represented	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+girl	NN	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'m	VBP	-	-	-	-	-	False
+drawing	VBG	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+picture	NN	picture.n	Physical_artworks	1656	Artifact	9403	True
+of	IN	-	-	-	Represented	9410	False
+God	NNP	-	-	-	Represented	9410	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Und	CCONJ	NNP	-	-	-	False
-das	PROPN	NNP	-	-	-	False
-Mädchen	PROPN	NNP	-	-	-	False
-sagte	VERB	VBP	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ich	INTJ	NNP	-	-	-	False
-zeichne	NOUN	NNP	-	-	-	False
-ein	VERB	NNP	-	-	-	False
-Bild	PROPN	NNP	bild.n	Physical_artworks	-	False
-von	PROPN	NNP	-	-	Represented	False
-Gott	PROPN	NNP	-	-	Represented	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Und	NNP	-	-	-	-	-	False
+das	NNP	-	-	-	-	-	False
+Mädchen	NNP	-	-	-	-	-	False
+sagte	VBP	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ich	NNP	-	-	-	-	-	False
+zeichne	NNP	-	-	-	-	-	False
+ein	NNP	-	-	-	-	-	False
+Bild	NNP	bild.n	Physical_artworks	1656	-	-	False
+von	NNP	-	-	-	Represented	9410	False
+Gott	NNP	-	-	-	Represented	9410	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

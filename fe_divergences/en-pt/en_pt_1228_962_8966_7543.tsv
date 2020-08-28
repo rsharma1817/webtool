@@ -1,29 +1,29 @@
-When	ADV	WRB	when.adv	Temporal_collocation	-	False
-she	PRON	PRP	-	-	Landmark_event	True
-was	VERB	VBD	-	-	Landmark_event	True
-at	ADP	IN	-	-	Landmark_event	True
-school	NOUN	NN	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-she	PRON	PRP	-	-	Trajector_event	True
-was	VERB	VBD	-	-	Trajector_event	True
-really	ADV	RB	-	-	Trajector_event	True
-hopeless	ADJ	JJ	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+When	WRB	when.adv	Temporal_collocation	1895	-	-	False
+she	PRP	-	-	-	Landmark_event	11269	True
+was	VBD	-	-	-	Landmark_event	11269	True
+at	IN	-	-	-	Landmark_event	11269	True
+school	NN	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	-	-	False
+she	PRP	-	-	-	Trajector_event	12064	True
+was	VBD	-	-	-	Trajector_event	12064	True
+really	RB	-	-	-	Trajector_event	12064	True
+hopeless	JJ	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-ela	X	FW	-	-	-	False
-respondeu	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-interessante	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quando	X	FW	quando.c	Temporal_collocation	-	False
-ela	X	FW	-	-	Landmark_event	True
-estava	X	FW	-	-	Landmark_event	True
-na	X	FW	-	-	Landmark_event	True
-escola	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	Trajector_event	True
-estava	X	FW	-	-	Trajector_event	True
-desanimada	X	FW	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+respondeu	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+interessante	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quando	FW	quando.c	Temporal_collocation	1895	-	-	False
+ela	FW	-	-	-	Landmark_event	11269	True
+estava	FW	-	-	-	Landmark_event	11269	True
+na	FW	-	-	-	Landmark_event	11269	True
+escola	FW	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	Trajector_event	12064	True
+estava	FW	-	-	-	Trajector_event	12064	True
+desanimada	FW	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False

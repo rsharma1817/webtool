@@ -1,29 +1,29 @@
-When	ADV	WRB	-	-	-	False
-she	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-at	ADP	IN	-	-	-	False
-school	NOUN	NN	school.n	Locale_by_use	Locale	True
-,	PUNCT	,	-	-	-	False
-she	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-really	ADV	RB	-	-	-	False
-hopeless	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+When	WRB	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+school	NN	school.n	Locale_by_use	196	Locale	1588	True
+,	,	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+hopeless	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-ela	X	FW	-	-	-	False
-respondeu	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-interessante	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quando	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-escola	X	FW	escola.n	Locale_by_use	-	False
-,	PUNCT	,	-	-	-	False
-ela	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-desanimada	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+respondeu	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+interessante	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+escola	FW	escola.n	Locale_by_use	196	-	-	False
+,	,	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+desanimada	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

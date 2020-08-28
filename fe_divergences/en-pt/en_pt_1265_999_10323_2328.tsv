@@ -1,84 +1,84 @@
-There	PRON	EX	-	-	-	False
-was	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-wonderful	ADJ	JJ	wonderful.a	Desirability	-	False
-quote	NOUN	NN	-	-	Evaluee	True
-by	ADP	IN	-	-	Evaluee	True
-Jonas	PROPN	NNP	-	-	Evaluee	True
-Salk	PROPN	NNP	-	-	Evaluee	True
-,	PUNCT	,	-	-	-	False
-who	PRON	WP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-If	ADP	IN	-	-	-	False
-all	DET	PDT	-	-	-	False
-the	DET	DT	-	-	-	False
-insects	NOUN	NNS	-	-	-	False
-were	VERB	VBD	-	-	-	False
-to	PART	TO	-	-	-	False
-disappear	VERB	VB	-	-	-	False
-from	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Earth	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-within	ADP	IN	-	-	-	False
-50	NUM	CD	-	-	-	False
-years	NOUN	NNS	-	-	-	False
-all	DET	DT	-	-	-	False
-life	NOUN	NN	-	-	-	False
-on	ADP	IN	-	-	-	False
-Earth	PROPN	NNP	-	-	-	False
-would	AUX	MD	-	-	-	False
-end	VERB	VB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+wonderful	JJ	wonderful.a	Desirability	354	-	-	False
+quote	NN	-	-	-	Evaluee	3153	True
+by	IN	-	-	-	Evaluee	3153	True
+Jonas	NNP	-	-	-	Evaluee	3153	True
+Salk	NNP	-	-	-	Evaluee	3153	True
+,	,	-	-	-	-	-	False
+who	WP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+If	IN	-	-	-	-	-	False
+all	PDT	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+insects	NNS	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+disappear	VB	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Earth	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+within	IN	-	-	-	-	-	False
+50	CD	-	-	-	-	-	False
+years	NNS	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+life	NN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+Earth	NNP	-	-	-	-	-	False
+would	MD	-	-	-	-	-	False
+end	VB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Existe	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-frase	X	FW	-	-	Evaluee	True
-maravilhosa	X	FW	maravilhoso.a	Desirability	-	False
-de	X	FW	-	-	-	False
-Jonas	PROPN	NNP	-	-	-	False
-Salk	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-diz	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-insetos	X	FW	-	-	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-50	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-toda	X	FW	-	-	-	False
-vida	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-Terra	X	FW	-	-	-	False
-desapareceria.Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-humanos	X	FW	-	-	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-Terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-50	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-todas	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-formas	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-vida	X	FW	-	-	-	False
-floresceriam	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Existe	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+frase	FW	-	-	-	Evaluee	3153	True
+maravilhosa	FW	maravilhoso.a	Desirability	354	-	-	False
+de	FW	-	-	-	-	-	False
+Jonas	NNP	-	-	-	-	-	False
+Salk	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+diz	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+insetos	FW	-	-	-	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+50	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+toda	FW	-	-	-	-	-	False
+vida	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+Terra	FW	-	-	-	-	-	False
+desapareceria.Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+humanos	FW	-	-	-	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+Terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+50	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+formas	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+vida	FW	-	-	-	-	-	False
+floresceriam	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

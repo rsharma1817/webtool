@@ -1,21 +1,21 @@
-And	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	Experiencer	True
-were	VERB	VBD	-	-	-	False
-rather	ADV	RB	-	-	Degree	False
-pleased	ADJ	JJ	pleased.a	Emotion_directed	-	False
-about	ADP	IN	-	-	Stimulus	True
-that	DET	DT	-	-	Stimulus	True
-,	PUNCT	,	-	-	-	False
-frankly	ADV	RB	-	-	-	False
---	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+we	PRP	-	-	-	Experiencer	194	True
+were	VBD	-	-	-	-	-	False
+rather	RB	-	-	-	Degree	1891	False
+pleased	JJ	pleased.a	Emotion_directed	46	-	-	False
+about	IN	-	-	-	Stimulus	197	True
+that	DT	-	-	-	Stimulus	197	True
+,	,	-	-	-	-	-	False
+frankly	RB	-	-	-	-	-	False
+--	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-nós	X	FW	-	-	Experiencer	True
-ficamos	X	FW	-	-	-	False
-bastante	X	FW	-	-	Degree	False
-contentes	X	FW	contente.a	Emotion_directed	-	False
-com	X	FW	-	-	Stimulus	True
-isso	X	FW	-	-	Stimulus	True
-,	PUNCT	,	-	-	-	False
-francamente	X	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+nós	FW	-	-	-	Experiencer	194	True
+ficamos	FW	-	-	-	-	-	False
+bastante	FW	-	-	-	Degree	1891	False
+contentes	FW	contente.a	Emotion_directed	46	-	-	False
+com	FW	-	-	-	Stimulus	197	True
+isso	FW	-	-	-	Stimulus	197	True
+,	,	-	-	-	-	-	False
+francamente	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

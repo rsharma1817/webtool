@@ -1,61 +1,61 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-real	ADJ	JJ	-	-	Degree	False
-evidence	NOUN	NN	evidence.n	Evidence	-	False
-of	ADP	IN	-	-	Proposition	True
-out-of-body	ADJ	JJ	-	-	Proposition	True
-experiences	NOUN	NNS	-	-	Proposition	True
-,	PUNCT	,	-	-	-	False
-get	VERB	VB	-	-	-	False
-yourself	PRON	PRP	-	-	-	False
-along	ADP	RP	-	-	-	False
-to	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-residential	ADJ	JJ	-	-	-	False
-conference	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-senior	ADJ	JJ	-	-	-	False
-academics	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-pop	VERB	VB	-	-	-	False
-into	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-discotheque	NOUN	NN	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-final	ADJ	JJ	-	-	-	False
-night	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+real	JJ	-	-	-	Degree	1016	False
+evidence	NN	evidence.n	Evidence	25	-	-	False
+of	IN	-	-	-	Proposition	108	True
+out-of-body	JJ	-	-	-	Proposition	108	True
+experiences	NNS	-	-	-	Proposition	108	True
+,	,	-	-	-	-	-	False
+get	VB	-	-	-	-	-	False
+yourself	PRP	-	-	-	-	-	False
+along	RP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+residential	JJ	-	-	-	-	-	False
+conference	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+senior	JJ	-	-	-	-	-	False
+academics	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+pop	VB	-	-	-	-	-	False
+into	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+discotheque	NN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+final	JJ	-	-	-	-	-	False
+night	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-quiser	X	FW	-	-	-	False
-evidências	X	FW	evidência.n	Evidence	-	False
-concretas	X	FW	-	-	Depictive	False
-de	X	FW	-	-	Proposition	True
-experiências	X	FW	-	-	Proposition	True
-extra-corpóreas	X	FW	-	-	Proposition	True
-,	PUNCT	,	-	-	-	False
-por	X	FW	-	-	-	False
-sinal	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-é	INTJ	FW	-	-	-	False
-só	ADV	FW	-	-	-	False
-participar	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-conferência	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-acadêmicos	X	FW	-	-	-	False
-sênior	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-aparecer	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-discoteca	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-noite	X	FW	-	-	-	False
-final	X	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+quiser	FW	-	-	-	-	-	False
+evidências	FW	evidência.n	Evidence	25	-	-	False
+concretas	FW	-	-	-	Depictive	1023	False
+de	FW	-	-	-	Proposition	108	True
+experiências	FW	-	-	-	Proposition	108	True
+extra-corpóreas	FW	-	-	-	Proposition	108	True
+,	,	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+sinal	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+só	FW	-	-	-	-	-	False
+participar	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+conferência	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+acadêmicos	FW	-	-	-	-	-	False
+sênior	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+aparecer	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+discoteca	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+noite	FW	-	-	-	-	-	False
+final	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

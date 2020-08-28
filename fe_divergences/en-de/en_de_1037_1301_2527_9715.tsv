@@ -1,21 +1,21 @@
-And	CCONJ	CC	-	-	-	False
-yet	ADV	RB	-	-	-	False
-we	PRON	PRP	-	-	Teacher	True
-'re	VERB	VBP	-	-	-	False
-meant	VERB	VBN	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-educating	VERB	VBG	educate.v	Education_teaching	-	False
-them	PRON	PRP	-	-	Student	True
-for	ADP	IN	-	-	Skill	True
-it	PRON	PRP	-	-	Skill	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+yet	RB	-	-	-	-	-	False
+we	PRP	-	-	-	Teacher	541	True
+'re	VBP	-	-	-	-	-	False
+meant	VBN	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+educating	VBG	educate.v	Education_teaching	111	-	-	False
+them	PRP	-	-	-	Student	542	True
+for	IN	-	-	-	Skill	6513	True
+it	PRP	-	-	-	Skill	6513	True
+.	.	-	-	-	-	-	False
 
-Und	NOUN	CC	-	-	-	False
-trotzdem	X	NNP	-	-	-	False
-sollen	X	NNP	-	-	-	False
-wir	X	NNP	-	-	Teacher	True
-sie	X	FW	-	-	Student	True
-dafür	X	FW	-	-	Purpose	False
-ausbilden	X	FW	ausbilden.v	Education_teaching	-	False
-.	PUNCT	.	-	-	-	False
+Und	CC	-	-	-	-	-	False
+trotzdem	NNP	-	-	-	-	-	False
+sollen	NNP	-	-	-	-	-	False
+wir	NNP	-	-	-	Teacher	541	True
+sie	FW	-	-	-	Student	542	True
+dafür	FW	-	-	-	Purpose	10463	False
+ausbilden	FW	ausbilden.v	Education_teaching	111	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,28 +1,28 @@
-We	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-about	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	world.n	Political_locales	Locale	True
-in	ADP	IN	-	-	-	False
-all	DET	PDT	-	-	-	False
-the	DET	DT	-	-	-	False
-ways	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-experience	VERB	VBP	-	-	-	False
-it	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	world.n	Political_locales	195	Locale	1583	True
+in	IN	-	-	-	-	-	False
+all	PDT	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+ways	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+experience	VBP	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Pensamos	PROPN	NNP	-	-	-	False
-a	DET	DT	-	-	-	False
-respeito	NOUN	NN	-	-	-	False
-do	VERB	VB	-	-	-	False
-mundo	X	FW	mundo.n	Political_locales	-	False
-de	X	FW	-	-	-	False
-todas	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-formas	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-vivenciamos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Pensamos	NNP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+respeito	NN	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+mundo	FW	mundo.n	Political_locales	195	-	-	False
+de	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+formas	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+vivenciamos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

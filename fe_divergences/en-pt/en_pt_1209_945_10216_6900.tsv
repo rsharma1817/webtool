@@ -1,50 +1,50 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-I	PRON	PRP	-	-	Profiled_possibility	True
-'m	VERB	VBP	-	-	Profiled_possibility	True
-cooking	VERB	VBG	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	Consequence	True
-door	NOUN	NN	-	-	Consequence	True
-is	VERB	VBZ	-	-	Consequence	True
-shut	VERB	VBN	-	-	Consequence	True
-,	PUNCT	,	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-kids	NOUN	NNS	-	-	Consequence	True
-are	VERB	VBP	-	-	Consequence	True
-out	ADV	RB	-	-	Consequence	True
-,	PUNCT	,	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-phone	NOUN	NN	-	-	Consequence	True
-'s	VERB	VBZ	-	-	Consequence	True
-on	ADP	IN	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-hook	NOUN	NN	-	-	Consequence	True
-,	PUNCT	,	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+I	PRP	-	-	-	Profiled_possibility	16290	True
+'m	VBP	-	-	-	Profiled_possibility	16290	True
+cooking	VBG	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	Consequence	16292	True
+door	NN	-	-	-	Consequence	16292	True
+is	VBZ	-	-	-	Consequence	16292	True
+shut	VBN	-	-	-	Consequence	16292	True
+,	,	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+kids	NNS	-	-	-	Consequence	16292	True
+are	VBP	-	-	-	Consequence	16292	True
+out	RB	-	-	-	Consequence	16292	True
+,	,	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+phone	NN	-	-	-	Consequence	16292	True
+'s	VBZ	-	-	-	Consequence	16292	True
+on	IN	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+hook	NN	-	-	-	Consequence	16292	True
+,	,	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-eu	X	FW	-	-	-	False
-cozinho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-porta	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-fechada	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-as	ADP	IN	-	-	-	False
-crianças	X	FW	-	-	-	False
-saíram	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-o	X	FW	-	-	-	False
-telefone	X	FW	-	-	-	False
-está	X	FW	-	-	-	False
-fora	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-gancho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-se	X	FW	se.c	Conditional_occurrence	-	False
-ela	X	FW	-	-	Profiled_possibility	True
-aparece	X	FW	-	-	Profiled_possibility	True
-eu	X	FW	-	-	Consequence	True
-me	X	FW	-	-	Consequence	True
-irrito	X	FW	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+cozinho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+porta	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+fechada	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+saíram	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+telefone	FW	-	-	-	-	-	False
+está	FW	-	-	-	-	-	False
+fora	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+gancho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+se	FW	se.c	Conditional_occurrence	2903	-	-	False
+ela	FW	-	-	-	Profiled_possibility	16290	True
+aparece	FW	-	-	-	Profiled_possibility	16290	True
+eu	FW	-	-	-	Consequence	16292	True
+me	FW	-	-	-	Consequence	16292	True
+irrito	FW	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

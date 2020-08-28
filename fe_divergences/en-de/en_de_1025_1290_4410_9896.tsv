@@ -1,18 +1,18 @@
-And	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	Feature	True
-'re	VERB	VBP	-	-	Feature	True
-never	ADV	RB	-	-	Feature	True
-asked	VERB	VBN	-	-	Feature	True
-back	ADP	RP	-	-	Feature	True
-,	PUNCT	,	-	-	-	False
-curiously	ADV	RB	curiously.adv	Typicality	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+you	PRP	-	-	-	Feature	6565	True
+'re	VBP	-	-	-	Feature	6565	True
+never	RB	-	-	-	Feature	6565	True
+asked	VBN	-	-	-	Feature	6565	True
+back	RP	-	-	-	Feature	6565	True
+,	,	-	-	-	-	-	False
+curiously	RB	curiously.adv	Typicality	1134	-	-	False
+.	.	-	-	-	-	-	False
 
-Auf	INTJ	NNP	-	-	-	False
-jeden	PROPN	NNP	-	-	-	False
-Fall	PROPN	NNP	-	-	-	False
-nicht	NOUN	NN	-	-	-	False
-zweimal	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-seltsamerweise	NOUN	NN	seltsamerweise.adv	Typicality	-	False
-.	PUNCT	.	-	-	-	False
+Auf	NNP	-	-	-	-	-	False
+jeden	NNP	-	-	-	-	-	False
+Fall	NNP	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+zweimal	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+seltsamerweise	NN	seltsamerweise.adv	Typicality	1134	-	-	False
+.	.	-	-	-	-	-	False

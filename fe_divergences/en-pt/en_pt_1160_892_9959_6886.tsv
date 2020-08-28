@@ -1,29 +1,29 @@
-They	PRON	PRP	-	-	-	False
-look	VERB	VBP	-	-	-	False
-upon	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-body	NOUN	NN	-	-	-	False
-as	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-form	NOUN	NN	form.n	Type	-	False
-of	ADP	IN	-	-	Category	True
-transport	NOUN	NN	-	-	Category	True
-for	ADP	IN	-	-	Category	True
-their	PRON	PRP$	-	-	Category	True
-heads	NOUN	NNS	-	-	Category	True
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	-	-	False
+look	VBP	-	-	-	-	-	False
+upon	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+body	NN	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+form	NN	form.n	Type	128	-	-	False
+of	IN	-	-	-	Category	849	True
+transport	NN	-	-	-	Category	849	True
+for	IN	-	-	-	Category	849	True
+their	PRP$	-	-	-	Category	849	True
+heads	NNS	-	-	-	Category	849	True
+.	.	-	-	-	-	-	False
 
-Eles	X	FW	-	-	-	False
-vêem	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-próprio	X	FW	-	-	-	False
-corpo	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-forma	X	FW	-	-	Subtype	True
-de	X	FW	de.prep	Type	-	False
-transporte	X	FW	-	-	Category	True
-para	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-cabeça	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eles	FW	-	-	-	-	-	False
+vêem	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+próprio	FW	-	-	-	-	-	False
+corpo	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+forma	FW	-	-	-	Subtype	848	True
+de	FW	de.prep	Type	128	-	-	False
+transporte	FW	-	-	-	Category	849	True
+para	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+cabeça	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

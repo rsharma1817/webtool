@@ -1,43 +1,43 @@
-And	CCONJ	CC	-	-	-	False
-when	ADV	WRB	-	-	Time	False
-they	PRON	PRP	-	-	Time	False
-got	VERB	VBD	-	-	Time	False
-out	ADP	RP	-	-	Time	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-to	ADP	IN	-	-	Addressee	False
-her	PRON	PRP$	-	-	Addressee	False
-mother	NOUN	NN	-	-	Addressee	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Just	ADV	RB	-	-	Message	True
-stand	VERB	VB	-	-	Message	True
-and	CCONJ	CC	-	-	Message	True
-watch	VERB	VB	-	-	Message	True
-her	PRON	PRP	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+when	WRB	-	-	-	Time	4380	False
+they	PRP	-	-	-	Time	4380	False
+got	VBD	-	-	-	Time	4380	False
+out	RP	-	-	-	Time	4380	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+to	IN	-	-	-	Addressee	184	False
+her	PRP$	-	-	-	Addressee	184	False
+mother	NN	-	-	-	Addressee	184	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Just	RB	-	-	-	Message	185	True
+stand	VB	-	-	-	Message	185	True
+and	CC	-	-	-	Message	185	True
+watch	VB	-	-	-	Message	185	True
+her	PRP	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-quando	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-saíram	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-sala	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	Speaker	True
-disse	X	FW	dizer.v	Statement	-	False
-para	X	FW	-	-	Addressee	False
-a	X	FW	-	-	Addressee	False
-mãe	X	FW	-	-	Addressee	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Só	ADV	RB	-	-	Message	True
-a	DET	DT	-	-	Message	True
-escute	ADJ	NN	-	-	Message	True
-e	NOUN	NN	-	-	Message	True
-a	DET	DT	-	-	Message	True
-observe	NOUN	NN	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+quando	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+saíram	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+sala	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	Speaker	183	True
+disse	FW	dizer.v	Statement	43	-	-	False
+para	FW	-	-	-	Addressee	184	False
+a	FW	-	-	-	Addressee	184	False
+mãe	FW	-	-	-	Addressee	184	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Só	RB	-	-	-	Message	185	True
+a	DT	-	-	-	Message	185	True
+escute	NN	-	-	-	Message	185	True
+e	NN	-	-	-	Message	185	True
+a	DT	-	-	-	Message	185	True
+observe	NN	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

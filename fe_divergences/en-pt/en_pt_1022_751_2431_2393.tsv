@@ -1,29 +1,29 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-you	PRON	PRP	-	-	Profiled_possibility	True
-'re	VERB	VBP	-	-	Profiled_possibility	True
-at	ADP	IN	-	-	Profiled_possibility	True
-a	DET	DT	-	-	Profiled_possibility	True
-dinner	NOUN	NN	-	-	Profiled_possibility	True
-party	NOUN	NN	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-and	CCONJ	CC	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-say	VERB	VBP	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-work	VERB	VBP	-	-	Profiled_possibility	True
-in	ADP	IN	-	-	Profiled_possibility	True
-education	NOUN	NN	-	-	Profiled_possibility	True
---	PUNCT	:	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+you	PRP	-	-	-	Profiled_possibility	16290	True
+'re	VBP	-	-	-	Profiled_possibility	16290	True
+at	IN	-	-	-	Profiled_possibility	16290	True
+a	DT	-	-	-	Profiled_possibility	16290	True
+dinner	NN	-	-	-	Profiled_possibility	16290	True
+party	NN	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+and	CC	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+say	VBP	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+work	VBP	-	-	-	Profiled_possibility	16290	True
+in	IN	-	-	-	Profiled_possibility	16290	True
+education	NN	-	-	-	Profiled_possibility	16290	True
+--	:	-	-	-	-	-	False
 
-Se	X	FW	se.c	Conditional_occurrence	-	False
-você	X	FW	-	-	Profiled_possibility	True
-estiver	X	FW	-	-	Profiled_possibility	True
-numa	X	FW	-	-	Profiled_possibility	True
-festa	X	FW	-	-	Profiled_possibility	True
-e	X	FW	-	-	Profiled_possibility	True
-disser	X	FW	-	-	Profiled_possibility	True
-que	X	FW	-	-	Profiled_possibility	True
-trabalha	X	FW	-	-	Profiled_possibility	True
-com	X	FW	-	-	Profiled_possibility	True
-educação	X	FW	-	-	Profiled_possibility	True
-...	PUNCT	.	-	-	-	False
+Se	FW	se.c	Conditional_occurrence	2903	-	-	False
+você	FW	-	-	-	Profiled_possibility	16290	True
+estiver	FW	-	-	-	Profiled_possibility	16290	True
+numa	FW	-	-	-	Profiled_possibility	16290	True
+festa	FW	-	-	-	Profiled_possibility	16290	True
+e	FW	-	-	-	Profiled_possibility	16290	True
+disser	FW	-	-	-	Profiled_possibility	16290	True
+que	FW	-	-	-	Profiled_possibility	16290	True
+trabalha	FW	-	-	-	Profiled_possibility	16290	True
+com	FW	-	-	-	Profiled_possibility	16290	True
+educação	FW	-	-	-	Profiled_possibility	16290	True
+...	.	-	-	-	-	-	False

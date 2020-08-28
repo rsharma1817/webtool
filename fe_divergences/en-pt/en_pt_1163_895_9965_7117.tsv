@@ -1,61 +1,61 @@
-If	ADP	IN	if.scon	Conditional_occurrence	-	False
-you	PRON	PRP	-	-	Profiled_possibility	True
-want	VERB	VBP	-	-	Profiled_possibility	True
-real	ADJ	JJ	-	-	Profiled_possibility	True
-evidence	NOUN	NN	-	-	Profiled_possibility	True
-of	ADP	IN	-	-	Profiled_possibility	True
-out-of-body	ADJ	JJ	-	-	Profiled_possibility	True
-experiences	NOUN	NNS	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-get	VERB	VB	-	-	Consequence	True
-yourself	PRON	PRP	-	-	Consequence	True
-along	ADP	RP	-	-	Consequence	True
-to	ADP	IN	-	-	Consequence	True
-a	DET	DT	-	-	Consequence	True
-residential	ADJ	JJ	-	-	Consequence	True
-conference	NOUN	NN	-	-	Consequence	True
-of	ADP	IN	-	-	Consequence	True
-senior	ADJ	JJ	-	-	Consequence	True
-academics	NOUN	NNS	-	-	Consequence	True
-,	PUNCT	,	-	-	Consequence	True
-and	CCONJ	CC	-	-	Consequence	True
-pop	VERB	VB	-	-	Consequence	True
-into	ADP	IN	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-discotheque	NOUN	NN	-	-	Consequence	True
-on	ADP	IN	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-final	ADJ	JJ	-	-	Consequence	True
-night	NOUN	NN	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+If	IN	if.scon	Conditional_occurrence	2903	-	-	False
+you	PRP	-	-	-	Profiled_possibility	16290	True
+want	VBP	-	-	-	Profiled_possibility	16290	True
+real	JJ	-	-	-	Profiled_possibility	16290	True
+evidence	NN	-	-	-	Profiled_possibility	16290	True
+of	IN	-	-	-	Profiled_possibility	16290	True
+out-of-body	JJ	-	-	-	Profiled_possibility	16290	True
+experiences	NNS	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+get	VB	-	-	-	Consequence	16292	True
+yourself	PRP	-	-	-	Consequence	16292	True
+along	RP	-	-	-	Consequence	16292	True
+to	IN	-	-	-	Consequence	16292	True
+a	DT	-	-	-	Consequence	16292	True
+residential	JJ	-	-	-	Consequence	16292	True
+conference	NN	-	-	-	Consequence	16292	True
+of	IN	-	-	-	Consequence	16292	True
+senior	JJ	-	-	-	Consequence	16292	True
+academics	NNS	-	-	-	Consequence	16292	True
+,	,	-	-	-	Consequence	16292	True
+and	CC	-	-	-	Consequence	16292	True
+pop	VB	-	-	-	Consequence	16292	True
+into	IN	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+discotheque	NN	-	-	-	Consequence	16292	True
+on	IN	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+final	JJ	-	-	-	Consequence	16292	True
+night	NN	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
 
-Se	X	FW	se.c	Conditional_occurrence	-	False
-você	X	FW	-	-	Profiled_possibility	True
-quiser	X	FW	-	-	Profiled_possibility	True
-evidências	X	FW	-	-	Profiled_possibility	True
-concretas	X	FW	-	-	Profiled_possibility	True
-de	X	FW	-	-	Profiled_possibility	True
-experiências	X	FW	-	-	Profiled_possibility	True
-extra-corpóreas	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-por	X	FW	-	-	Profiled_possibility	True
-sinal	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-é	INTJ	FW	-	-	Consequence	True
-só	ADV	FW	-	-	Consequence	True
-participar	X	FW	-	-	Consequence	True
-de	X	FW	-	-	Consequence	True
-uma	X	FW	-	-	Consequence	True
-conferência	X	FW	-	-	Consequence	True
-de	X	FW	-	-	Consequence	True
-acadêmicos	X	FW	-	-	Consequence	True
-sênior	X	FW	-	-	Consequence	True
-,	PUNCT	,	-	-	Consequence	True
-e	X	FW	-	-	Consequence	True
-aparecer	X	FW	-	-	Consequence	True
-na	X	FW	-	-	Consequence	True
-discoteca	X	FW	-	-	Consequence	True
-na	X	FW	-	-	Consequence	True
-noite	X	FW	-	-	Consequence	True
-final	X	JJ	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Se	FW	se.c	Conditional_occurrence	2903	-	-	False
+você	FW	-	-	-	Profiled_possibility	16290	True
+quiser	FW	-	-	-	Profiled_possibility	16290	True
+evidências	FW	-	-	-	Profiled_possibility	16290	True
+concretas	FW	-	-	-	Profiled_possibility	16290	True
+de	FW	-	-	-	Profiled_possibility	16290	True
+experiências	FW	-	-	-	Profiled_possibility	16290	True
+extra-corpóreas	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+por	FW	-	-	-	Profiled_possibility	16290	True
+sinal	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+é	FW	-	-	-	Consequence	16292	True
+só	FW	-	-	-	Consequence	16292	True
+participar	FW	-	-	-	Consequence	16292	True
+de	FW	-	-	-	Consequence	16292	True
+uma	FW	-	-	-	Consequence	16292	True
+conferência	FW	-	-	-	Consequence	16292	True
+de	FW	-	-	-	Consequence	16292	True
+acadêmicos	FW	-	-	-	Consequence	16292	True
+sênior	FW	-	-	-	Consequence	16292	True
+,	,	-	-	-	Consequence	16292	True
+e	FW	-	-	-	Consequence	16292	True
+aparecer	FW	-	-	-	Consequence	16292	True
+na	FW	-	-	-	Consequence	16292	True
+discoteca	FW	-	-	-	Consequence	16292	True
+na	FW	-	-	-	Consequence	16292	True
+noite	FW	-	-	-	Consequence	16292	True
+final	JJ	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

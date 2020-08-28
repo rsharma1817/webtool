@@ -1,26 +1,26 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-four	NUM	CD	four.num	Cardinal_numbers	Number	True
-everywhere	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-honest	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+four	CD	four.num	Cardinal_numbers	218	Number	3622	True
+everywhere	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+honest	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-verdade	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-quatro	X	FW	quatro.num	Cardinal_numbers	-	False
-anos	X	FW	-	-	Unit	True
-em	X	FW	-	-	-	False
-qualquer	X	FW	-	-	-	False
-lugar	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-pra	X	FW	-	-	-	False
-ser	X	FW	-	-	-	False
-sincero	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+verdade	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+quatro	FW	quatro.num	Cardinal_numbers	218	-	-	False
+anos	FW	-	-	-	Unit	16740	True
+em	FW	-	-	-	-	-	False
+qualquer	FW	-	-	-	-	-	False
+lugar	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+pra	FW	-	-	-	-	-	False
+ser	FW	-	-	-	-	-	False
+sincero	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

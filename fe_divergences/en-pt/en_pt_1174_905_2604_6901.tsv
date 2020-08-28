@@ -1,7 +1,7 @@
-Is	VERB	VBZ	-	-	-	False
-that	DET	DT	-	-	Information	True
-right	ADJ	JJ	right.a	Correctness	-	False
-?	PUNCT	.	-	-	-	False
+Is	VBZ	-	-	-	-	-	False
+that	DT	-	-	-	Information	8230	True
+right	JJ	right.a	Correctness	1512	-	-	False
+?	.	-	-	-	-	-	False
 
-Correto	PROPN	NNP	correto.a	Correctness	-	False
-?	PUNCT	.	-	-	-	False
+Correto	NNP	correto.a	Correctness	1512	-	-	False
+?	.	-	-	-	-	-	False

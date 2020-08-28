@@ -1,49 +1,49 @@
-She	PRON	PRP	-	-	Agent	True
-eventually	ADV	RB	-	-	-	False
-graduated	VERB	VBD	graduate.v	Activity_finish	-	False
-from	ADP	IN	-	-	Activity	True
-the	DET	DT	-	-	Activity	True
-Royal	PROPN	NNP	-	-	Activity	True
-Ballet	PROPN	NNP	-	-	Activity	True
-School	PROPN	NNP	-	-	Activity	True
-,	PUNCT	,	-	-	-	False
-founded	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-Lynne	PROPN	NNP	-	-	-	False
-Dance	PROPN	NNP	-	-	-	False
-Company	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-met	VERB	VBD	-	-	-	False
-Andrew	PROPN	NNP	-	-	-	False
-Lloyd	PROPN	NNP	-	-	-	False
-Webber	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	Agent	2577	True
+eventually	RB	-	-	-	-	-	False
+graduated	VBD	graduate.v	Activity_finish	165	-	-	False
+from	IN	-	-	-	Activity	2578	True
+the	DT	-	-	-	Activity	2578	True
+Royal	NNP	-	-	-	Activity	2578	True
+Ballet	NNP	-	-	-	Activity	2578	True
+School	NNP	-	-	-	Activity	2578	True
+,	,	-	-	-	-	-	False
+founded	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+Lynne	NNP	-	-	-	-	-	False
+Dance	NNP	-	-	-	-	-	False
+Company	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+met	VBD	-	-	-	-	-	False
+Andrew	NNP	-	-	-	-	-	False
+Lloyd	NNP	-	-	-	-	-	False
+Webber	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ela	X	FW	-	-	Agent	True
-eventualmente	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-formou	X	FW	formar.v	Activity_finish	-	False
-na	X	FW	-	-	Place	False
-Royal	PROPN	NNP	-	-	Place	False
-Ballet	PROPN	NNP	-	-	Place	False
-School	PROPN	NNP	-	-	Place	False
-,	PUNCT	,	-	-	-	False
-fundou	X	FW	-	-	-	False
-sua	X	FW	-	-	-	False
-própria	X	FW	-	-	-	False
-empresa	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-Companhia	PROPN	NNP	-	-	-	False
-de	ADP	NNP	-	-	-	False
-Dança	PROPN	NNP	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-Lynne	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-conheceu	X	FW	-	-	-	False
-Andrew	PROPN	NNP	-	-	-	False
-Lloyd	PROPN	NNP	-	-	-	False
-Weber	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ela	FW	-	-	-	Agent	2577	True
+eventualmente	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+formou	FW	formar.v	Activity_finish	165	-	-	False
+na	FW	-	-	-	Place	2234	False
+Royal	NNP	-	-	-	Place	2234	False
+Ballet	NNP	-	-	-	Place	2234	False
+School	NNP	-	-	-	Place	2234	False
+,	,	-	-	-	-	-	False
+fundou	FW	-	-	-	-	-	False
+sua	FW	-	-	-	-	-	False
+própria	FW	-	-	-	-	-	False
+empresa	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+Companhia	NNP	-	-	-	-	-	False
+de	NNP	-	-	-	-	-	False
+Dança	NNP	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+Lynne	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+conheceu	FW	-	-	-	-	-	False
+Andrew	NNP	-	-	-	-	-	False
+Lloyd	NNP	-	-	-	-	-	False
+Weber	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,43 +1,43 @@
-And	CCONJ	CC	-	-	Main_assertion	True
-I	PRON	PRP	-	-	Main_assertion	True
-like	VERB	VBP	-	-	Main_assertion	True
-university	NOUN	NN	-	-	Main_assertion	True
-professors	NOUN	NNS	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	but.c	Concessive	-	False
-you	PRON	PRP	-	-	Conceded_state_of_affairs	True
-know	VERB	VBP	-	-	Conceded_state_of_affairs	True
-,	PUNCT	,	-	-	Conceded_state_of_affairs	True
-we	PRON	PRP	-	-	Conceded_state_of_affairs	True
-should	AUX	MD	-	-	Conceded_state_of_affairs	True
-n't	ADV	RB	-	-	Conceded_state_of_affairs	True
-hold	VERB	VB	-	-	Conceded_state_of_affairs	True
-them	PRON	PRP	-	-	Conceded_state_of_affairs	True
-up	ADP	RP	-	-	Conceded_state_of_affairs	True
-as	ADP	IN	-	-	Conceded_state_of_affairs	True
-the	DET	DT	-	-	Conceded_state_of_affairs	True
-high-water	ADJ	JJ	-	-	Conceded_state_of_affairs	True
-mark	NOUN	NN	-	-	Conceded_state_of_affairs	True
-of	ADP	IN	-	-	Conceded_state_of_affairs	True
-all	DET	DT	-	-	Conceded_state_of_affairs	True
-human	ADJ	JJ	-	-	Conceded_state_of_affairs	True
-achievement	NOUN	NN	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	Main_assertion	13312	True
+I	PRP	-	-	-	Main_assertion	13312	True
+like	VBP	-	-	-	Main_assertion	13312	True
+university	NN	-	-	-	Main_assertion	13312	True
+professors	NNS	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+but	CC	but.c	Concessive	2150	-	-	False
+you	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+know	VBP	-	-	-	Conceded_state_of_affairs	13302	True
+,	,	-	-	-	Conceded_state_of_affairs	13302	True
+we	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+should	MD	-	-	-	Conceded_state_of_affairs	13302	True
+n't	RB	-	-	-	Conceded_state_of_affairs	13302	True
+hold	VB	-	-	-	Conceded_state_of_affairs	13302	True
+them	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+up	RP	-	-	-	Conceded_state_of_affairs	13302	True
+as	IN	-	-	-	Conceded_state_of_affairs	13302	True
+the	DT	-	-	-	Conceded_state_of_affairs	13302	True
+high-water	JJ	-	-	-	Conceded_state_of_affairs	13302	True
+mark	NN	-	-	-	Conceded_state_of_affairs	13302	True
+of	IN	-	-	-	Conceded_state_of_affairs	13302	True
+all	DT	-	-	-	Conceded_state_of_affairs	13302	True
+human	JJ	-	-	-	Conceded_state_of_affairs	13302	True
+achievement	NN	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-gosto	X	FW	-	-	Conceded_state_of_affairs	True
-de	X	FW	-	-	-	False
-professores	X	FW	-	-	Topic	True
-universitários	X	FW	-	-	Topic	True
-,	PUNCT	,	-	-	Topic	True
-mas	X	FW	mas.c	Concessive	-	False
-nós	X	FW	-	-	-	False
-não	X	FW	-	-	Main_assertion	True
-devemos	X	FW	-	-	Main_assertion	True
-colocá-los	X	FW	-	-	Main_assertion	True
-no	X	FW	-	-	Main_assertion	True
-topo	X	FW	-	-	Main_assertion	True
-das	X	FW	-	-	Main_assertion	True
-realizações	X	FW	-	-	Main_assertion	True
-humanas	X	FW	-	-	Main_assertion	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+gosto	FW	-	-	-	Conceded_state_of_affairs	13302	True
+de	FW	-	-	-	-	-	False
+professores	FW	-	-	-	Topic	13303	True
+universitários	FW	-	-	-	Topic	13303	True
+,	,	-	-	-	Topic	13303	True
+mas	FW	mas.c	Concessive	2150	-	-	False
+nós	FW	-	-	-	-	-	False
+não	FW	-	-	-	Main_assertion	13312	True
+devemos	FW	-	-	-	Main_assertion	13312	True
+colocá-los	FW	-	-	-	Main_assertion	13312	True
+no	FW	-	-	-	Main_assertion	13312	True
+topo	FW	-	-	-	Main_assertion	13312	True
+das	FW	-	-	-	Main_assertion	13312	True
+realizações	FW	-	-	-	Main_assertion	13312	True
+humanas	FW	-	-	-	Main_assertion	13312	True
+.	.	-	-	-	-	-	False

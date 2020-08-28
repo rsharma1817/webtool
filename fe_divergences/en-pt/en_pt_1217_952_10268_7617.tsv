@@ -1,59 +1,59 @@
-I	PRON	PRP	-	-	-	False
-'m	VERB	VBP	-	-	-	False
-doing	VERB	VBG	-	-	-	False
-a	DET	DT	-	-	-	False
-new	ADJ	JJ	-	-	-	False
-book	NOUN	NN	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-moment	NOUN	NN	-	-	-	False
-called	VERB	VBN	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epiphany	PROPN	NNP	-	-	-	False
-,'	PUNCT	''	-	-	-	False
-which	PRON	WDT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-based	VERB	VBN	-	-	-	False
-on	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-series	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-interviews	NOUN	NNS	-	-	-	False
-with	ADP	IN	-	-	-	False
-people	NOUN	NNS	-	-	-	False
-about	ADP	IN	-	-	-	False
-how	ADV	WRB	-	-	-	False
-they	PRON	PRP	-	-	Cognizer	True
-discovered	VERB	VBD	discover.v	Becoming_aware	-	False
-their	PRON	PRP$	-	-	Phenomenon	True
-talent	NOUN	NN	-	-	Phenomenon	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'m	VBP	-	-	-	-	-	False
+doing	VBG	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+new	JJ	-	-	-	-	-	False
+book	NN	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+moment	NN	-	-	-	-	-	False
+called	VBN	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epiphany	NNP	-	-	-	-	-	False
+,'	''	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+based	VBN	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+series	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+interviews	NNS	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+people	NNS	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+how	WRB	-	-	-	-	-	False
+they	PRP	-	-	-	Cognizer	87	True
+discovered	VBD	discover.v	Becoming_aware	20	-	-	False
+their	PRP$	-	-	-	Phenomenon	88	True
+talent	NN	-	-	-	Phenomenon	88	True
+.	.	-	-	-	-	-	False
 
-Estou	PROPN	NNP	-	-	-	False
-escrevendo	NOUN	NNP	-	-	-	False
-um	INTJ	UH	-	-	-	False
-livro	X	FW	-	-	-	False
-atualmente	X	FW	-	-	-	False
-chamado	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epifania	PROPN	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-baseado	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-série	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-entrevistas	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-fiz	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-as	ADP	FW	-	-	Cognizer	True
-pessoas	X	FW	-	-	Cognizer	True
-descobriram	X	FW	descobrir.v	Becoming_aware	-	False
-seus	X	FW	-	-	Topic	True
-talentos	X	FW	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Estou	NNP	-	-	-	-	-	False
+escrevendo	NNP	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+livro	FW	-	-	-	-	-	False
+atualmente	FW	-	-	-	-	-	False
+chamado	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epifania	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+baseado	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+série	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+entrevistas	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+fiz	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+as	FW	-	-	-	Cognizer	87	True
+pessoas	FW	-	-	-	Cognizer	87	True
+descobriram	FW	descobrir.v	Becoming_aware	20	-	-	False
+seus	FW	-	-	-	Topic	963	True
+talentos	FW	-	-	-	Topic	963	True
+.	.	-	-	-	-	-	False

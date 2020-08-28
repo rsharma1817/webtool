@@ -1,50 +1,50 @@
-My	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-now	ADV	RB	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-as	ADV	RB	-	-	-	False
-important	ADJ	JJ	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-as	ADP	IN	-	-	-	False
-literacy	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	-	False
-should	AUX	MD	-	-	-	False
-treat	VERB	VB	-	-	-	False
-it	PRON	PRP	-	-	-	False
-with	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-same	ADJ	JJ	-	-	-	False
-status	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+My	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+as	RB	-	-	-	-	-	False
+important	JJ	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+as	IN	-	-	-	-	-	False
+literacy	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+should	MD	-	-	-	-	-	False
+treat	VB	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+same	JJ	-	-	-	-	-	False
+status	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Minha	X	NNP	-	-	-	False
-convicção	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-criatividade	X	FW	-	-	-	False
-hoje	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-tão	X	FW	-	-	-	False
-importante	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-educação	X	FW	educação.n	Education_teaching	-	False
-como	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-alfabetização	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-deve	X	FW	-	-	-	False
-ser	X	FW	-	-	-	False
-tratada	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-mesma	X	FW	-	-	-	False
-importância	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Minha	NNP	-	-	-	-	-	False
+convicção	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+criatividade	FW	-	-	-	-	-	False
+hoje	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+tão	FW	-	-	-	-	-	False
+importante	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+educação	FW	educação.n	Education_teaching	111	-	-	False
+como	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+alfabetização	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+deve	FW	-	-	-	-	-	False
+ser	FW	-	-	-	-	-	False
+tratada	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+mesma	FW	-	-	-	-	-	False
+importância	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

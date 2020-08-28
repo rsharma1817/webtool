@@ -1,21 +1,21 @@
-I	PRON	PRP	-	-	-	False
-mean	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-seven	NUM	CD	seven.num	Cardinal_numbers	Number	True
-at	ADP	IN	-	-	-	False
-some	DET	DT	-	-	-	False
-point	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+mean	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+seven	CD	seven.num	Cardinal_numbers	218	Number	3622	True
+at	IN	-	-	-	-	-	False
+some	DT	-	-	-	-	-	False
+point	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Quero	X	NNP	-	-	-	False
-dizer	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	-	False
-algum	X	FW	-	-	-	False
-dia	X	FW	-	-	-	False
-teve	X	FW	-	-	-	False
-sete	X	FW	sete.num	Cardinal_numbers	-	False
-anos	X	FW	-	-	Unit	True
-.	PUNCT	.	-	-	-	False
+Quero	NNP	-	-	-	-	-	False
+dizer	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+algum	FW	-	-	-	-	-	False
+dia	FW	-	-	-	-	-	False
+teve	FW	-	-	-	-	-	False
+sete	FW	sete.num	Cardinal_numbers	218	-	-	False
+anos	FW	-	-	-	Unit	16740	True
+.	.	-	-	-	-	-	False

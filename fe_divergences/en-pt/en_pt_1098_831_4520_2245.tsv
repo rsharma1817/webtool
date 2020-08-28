@@ -1,20 +1,20 @@
-I	PRON	PRP	-	-	Event	True
-lived	VERB	VBD	-	-	Event	True
-in	ADP	IN	-	-	Event	True
-Stratford-on-Avon	PROPN	NNP	-	-	Event	True
-until	ADP	IN	until.prep	Time_vector	-	False
-about	ADV	RB	-	-	Landmark_event	True
-five	NUM	CD	-	-	Landmark_event	True
-years	NOUN	NNS	-	-	Landmark_event	True
-ago	ADV	RB	-	-	Landmark_event	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	Event	4832	True
+lived	VBD	-	-	-	Event	4832	True
+in	IN	-	-	-	Event	4832	True
+Stratford-on-Avon	NNP	-	-	-	Event	4832	True
+until	IN	until.prep	Time_vector	379	-	-	False
+about	RB	-	-	-	Landmark_event	3396	True
+five	CD	-	-	-	Landmark_event	3396	True
+years	NNS	-	-	-	Landmark_event	3396	True
+ago	RB	-	-	-	Landmark_event	3396	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Event	True
-morei	X	FW	-	-	Event	True
-em	INTJ	FW	-	-	Event	True
-Stratford-on-Avon	PROPN	NNP	-	-	Event	True
-até	VERB	FW	-	-	Distance	True
-cinco	X	FW	-	-	Distance	True
-anos	X	FW	-	-	Distance	True
-atrás	X	FW	atrás.adv	Time_vector	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Event	4832	True
+morei	FW	-	-	-	Event	4832	True
+em	FW	-	-	-	Event	4832	True
+Stratford-on-Avon	NNP	-	-	-	Event	4832	True
+até	FW	-	-	-	Distance	3397	True
+cinco	FW	-	-	-	Distance	3397	True
+anos	FW	-	-	-	Distance	3397	True
+atrás	FW	atrás.adv	Time_vector	379	-	-	False
+.	.	-	-	-	-	-	False

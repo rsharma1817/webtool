@@ -1,30 +1,30 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-result	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-educating	VERB	VBG	-	-	-	False
-people	NOUN	NNS	people.n	People	Person	True
-out	ADP	IN	-	-	-	False
-of	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-creative	ADJ	JJ	-	-	-	False
-capacities	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+result	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+educating	VBG	-	-	-	-	-	False
+people	NNS	people.n	People	304	Person	2618	True
+out	IN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+creative	JJ	-	-	-	-	-	False
+capacities	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-resultado	X	FW	-	-	-	False
-disso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-estamos	X	FW	-	-	-	False
-educando	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-pessoas	X	FW	pessoa.n	People	-	False
-para	X	FW	-	-	-	False
-serem	X	FW	-	-	-	False
-menos	X	FW	-	-	-	False
-criativas	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+resultado	FW	-	-	-	-	-	False
+disso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+estamos	FW	-	-	-	-	-	False
+educando	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+pessoas	FW	pessoa.n	People	304	-	-	False
+para	FW	-	-	-	-	-	False
+serem	FW	-	-	-	-	-	False
+menos	FW	-	-	-	-	-	False
+criativas	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,14 +1,14 @@
-We	PRON	PRP	-	-	Cognizer	True
-know	VERB	VBP	know.v	Awareness	-	False
-three	NUM	CD	-	-	Content	True
-things	NOUN	NNS	-	-	Content	True
-about	ADP	IN	-	-	Topic	True
-intelligence	NOUN	NN	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Cognizer	83	True
+know	VBP	know.v	Awareness	19	-	-	False
+three	CD	-	-	-	Content	84	True
+things	NNS	-	-	-	Content	84	True
+about	IN	-	-	-	Topic	86	True
+intelligence	NN	-	-	-	Topic	86	True
+.	.	-	-	-	-	-	False
 
-Sabemos	X	FW	saber.v	Awareness	-	False
-três	X	FW	-	-	Content	True
-coisas	X	FW	-	-	Content	True
-sobre	X	FW	-	-	Topic	True
-inteligência	X	FW	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Sabemos	FW	saber.v	Awareness	19	-	-	False
+três	FW	-	-	-	Content	84	True
+coisas	FW	-	-	-	Content	84	True
+sobre	FW	-	-	-	Topic	86	True
+inteligência	FW	-	-	-	Topic	86	True
+.	.	-	-	-	-	-	False

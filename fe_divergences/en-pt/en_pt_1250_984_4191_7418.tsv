@@ -1,24 +1,24 @@
-We	PRON	PRP	-	-	-	False
-walked	VERB	VBD	-	-	-	False
-in	ADP	IN	-	-	-	False
-this	DET	DT	-	-	-	False
-room	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-it	PRON	PRP	-	-	Location	True
-was	VERB	VBD	-	-	-	False
-full	ADJ	JJ	full.a	Abounding_with	-	False
-of	ADP	IN	-	-	Theme	True
-people	NOUN	NNS	-	-	Theme	True
-like	ADP	IN	-	-	Theme	True
-me	PRON	PRP	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+walked	VBD	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+room	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+it	PRP	-	-	-	Location	2261	True
+was	VBD	-	-	-	-	-	False
+full	JJ	full.a	Abounding_with	262	-	-	False
+of	IN	-	-	-	Theme	2260	True
+people	NNS	-	-	-	Theme	2260	True
+like	IN	-	-	-	Theme	2260	True
+me	PRP	-	-	-	Theme	2260	True
+.	.	-	-	-	-	-	False
 
-Entramos	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-sala	X	FW	-	-	Location	True
-cheia	X	FW	cheio.a	Abounding_with	-	False
-de	X	FW	-	-	Theme	True
-pessoas	X	FW	-	-	Theme	True
-como	X	FW	-	-	Theme	True
-eu	X	FW	-	-	Theme	True
-.	PUNCT	.	-	-	-	False
+Entramos	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+sala	FW	-	-	-	Location	2261	True
+cheia	FW	cheio.a	Abounding_with	262	-	-	False
+de	FW	-	-	-	Theme	2260	True
+pessoas	FW	-	-	-	Theme	2260	True
+como	FW	-	-	-	Theme	2260	True
+eu	FW	-	-	-	Theme	2260	True
+.	.	-	-	-	-	-	False

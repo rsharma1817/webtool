@@ -1,25 +1,25 @@
-You	PRON	PRP	-	-	Cognizer	True
-do	VERB	VBP	-	-	-	False
-n't	ADV	RB	-	-	-	False
-think	VERB	VB	think.v	Awareness	-	False
-of	ADP	IN	-	-	Content	True
-Shakespeare	PROPN	NNP	-	-	Content	True
-having	VERB	VBG	-	-	Content	True
-a	DET	DT	-	-	Content	True
-father	NOUN	NN	-	-	Content	True
-,	PUNCT	,	-	-	-	False
-do	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+You	PRP	-	-	-	Cognizer	83	True
+do	VBP	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+think	VB	think.v	Awareness	19	-	-	False
+of	IN	-	-	-	Content	84	True
+Shakespeare	NNP	-	-	-	Content	84	True
+having	VBG	-	-	-	Content	84	True
+a	DT	-	-	-	Content	84	True
+father	NN	-	-	-	Content	84	True
+,	,	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Você	X	FW	-	-	-	False
-nunca	X	FW	-	-	-	False
-pensou	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-Shakespeare	X	NNP	-	-	-	False
-teve	X	NN	-	-	-	False
-um	INTJ	UH	-	-	-	False
-pai	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-pensou	NOUN	NN	pensar.v	Awareness	-	False
-?	PUNCT	.	-	-	-	False
+Você	FW	-	-	-	-	-	False
+nunca	FW	-	-	-	-	-	False
+pensou	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+teve	NN	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+pai	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+pensou	NN	pensar.v	Awareness	19	-	-	False
+?	.	-	-	-	-	-	False

@@ -1,15 +1,15 @@
-Just	ADV	RB	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-what	PRON	WP	-	-	Event	False
-she	PRON	PRP	-	-	Entity	True
-could	AUX	MD	can.v	Capability	-	False
-do	VERB	VB	-	-	Event	False
-.	PUNCT	.	-	-	-	False
+Just	RB	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+what	WP	-	-	-	Event	5982	False
+she	PRP	-	-	-	Entity	5981	True
+could	MD	can.v	Capability	990	-	-	False
+do	VB	-	-	-	Event	5982	False
+.	.	-	-	-	-	-	False
 
-Ver	PROPN	UH	-	-	-	False
-do	VERB	VB	-	-	Event	False
-que	X	FW	-	-	Event	False
-ela	X	FW	-	-	Entity	True
-é	X	FW	-	-	-	False
-capaz	X	FW	capaz.a	Capability	-	False
-.	PUNCT	.	-	-	-	False
+Ver	UH	-	-	-	-	-	False
+do	VB	-	-	-	Event	5982	False
+que	FW	-	-	-	Event	5982	False
+ela	FW	-	-	-	Entity	5981	True
+é	FW	-	-	-	-	-	False
+capaz	FW	capaz.a	Capability	990	-	-	False
+.	.	-	-	-	-	-	False

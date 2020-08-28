@@ -1,54 +1,54 @@
-One	NUM	CD	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-evidence	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-human	ADJ	JJ	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-all	DET	DT	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-presentations	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-had	VERB	VBN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-in	ADP	IN	-	-	-	False
-all	DET	DT	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-people	NOUN	NNS	people.n	People	Person	True
-here	ADV	RB	-	-	Context_of_acquaintance	False
-.	PUNCT	.	-	-	-	False
+One	CD	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+evidence	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+human	JJ	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+presentations	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+had	VBN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+people	NNS	people.n	People	304	Person	2618	True
+here	RB	-	-	-	Context_of_acquaintance	3561	False
+.	.	-	-	-	-	-	False
 
-Eines	INTJ	NNP	-	-	-	False
-sind	INTJ	NN	-	-	-	False
-die	X	VBP	-	-	-	False
-überwältigenden	X	NNP	-	-	-	False
-Zeugnisse	PROPN	NNP	-	-	-	False
-menschlicher	PROPN	NN	menschlich.a	People	-	False
-Kreativität	PROPN	NNP	-	-	-	False
-in	ADP	IN	-	-	-	False
-allen	PROPN	NNP	-	-	-	False
-Vorträgen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-wir	X	NN	-	-	-	False
-gehört	X	FW	-	-	-	False
-haben	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-in	ADP	IN	-	-	-	False
-allen	PROPN	NN	-	-	-	False
-Menschen	PROPN	NNP	-	-	-	False
-hier	ADJ	NN	-	-	-	False
---	PUNCT	:	-	-	-	False
-allein	X	FW	-	-	-	False
-ihre	X	FW	-	-	-	False
-Vielfalt	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-ihre	X	FW	-	-	-	False
-Bandbreite	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eines	NNP	-	-	-	-	-	False
+sind	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+überwältigenden	NNP	-	-	-	-	-	False
+Zeugnisse	NNP	-	-	-	-	-	False
+menschlicher	NN	menschlich.a	People	304	-	-	False
+Kreativität	NNP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+allen	NNP	-	-	-	-	-	False
+Vorträgen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+wir	NN	-	-	-	-	-	False
+gehört	FW	-	-	-	-	-	False
+haben	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+allen	NN	-	-	-	-	-	False
+Menschen	NNP	-	-	-	-	-	False
+hier	NN	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+allein	FW	-	-	-	-	-	False
+ihre	FW	-	-	-	-	-	False
+Vielfalt	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+ihre	FW	-	-	-	-	-	False
+Bandbreite	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

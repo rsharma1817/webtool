@@ -1,29 +1,29 @@
-So	ADV	RB	-	-	-	False
-I	PRON	PRP	-	-	Speaker	True
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	talk.v	Statement	-	False
-about	ADP	IN	-	-	Topic	True
-education	NOUN	NN	-	-	Topic	True
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	-	-	-	False
-about	ADP	IN	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+I	PRP	-	-	-	Speaker	183	True
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	talk.v	Statement	43	-	-	False
+about	IN	-	-	-	Topic	186	True
+education	NN	-	-	-	Topic	186	True
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Por	NOUN	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-eu	X	FW	-	-	Speaker	True
-quero	X	FW	-	-	-	False
-falar	X	FW	falar.v	Statement	-	False
-sobre	X	FW	-	-	Topic	True
-educação	X	FW	-	-	Topic	True
-e	X	FW	-	-	-	False
-quero	X	FW	-	-	-	False
-falar	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-criatividade	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Por	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Speaker	183	True
+quero	FW	-	-	-	-	-	False
+falar	FW	falar.v	Statement	43	-	-	False
+sobre	FW	-	-	-	Topic	186	True
+educação	FW	-	-	-	Topic	186	True
+e	FW	-	-	-	-	-	False
+quero	FW	-	-	-	-	-	False
+falar	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+criatividade	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

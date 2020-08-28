@@ -1,51 +1,51 @@
-We	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-huge	ADJ	JJ	-	-	-	False
-vested	VERB	JJ	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-partly	ADV	RB	-	-	-	False
-because	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-that	PRON	WDT	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-meant	VERB	VBN	-	-	-	False
-to	PART	TO	-	-	-	False
-take	VERB	VB	-	-	-	False
-us	PRON	PRP	-	-	-	False
-into	ADP	IN	-	-	-	False
-this	DET	DT	-	-	-	False
-future	NOUN	NN	-	-	-	False
-that	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-ca	AUX	MD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-grasp	VERB	VB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+huge	JJ	-	-	-	-	-	False
+vested	JJ	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+partly	RB	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+that	WDT	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+meant	VBN	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+take	VB	-	-	-	-	-	False
+us	PRP	-	-	-	-	-	False
+into	IN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+future	NN	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+ca	MD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+grasp	VB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Nos	INTJ	FW	-	-	-	False
-interessamos	X	FW	-	-	-	False
-tanto	X	FW	-	-	-	False
-por	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-parte	X	FW	-	-	-	False
-porque	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	educação.n	Education_teaching	-	False
-o	X	FW	-	-	-	False
-papel	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-nos	X	FW	-	-	-	False
-conduzir	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-esse	X	FW	-	-	-	False
-futuro	X	FW	-	-	-	False
-misterioso	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Nos	FW	-	-	-	-	-	False
+interessamos	FW	-	-	-	-	-	False
+tanto	FW	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+parte	FW	-	-	-	-	-	False
+porque	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	educação.n	Education_teaching	111	-	-	False
+o	FW	-	-	-	-	-	False
+papel	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+nos	FW	-	-	-	-	-	False
+conduzir	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+esse	FW	-	-	-	-	-	False
+futuro	FW	-	-	-	-	-	False
+misterioso	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

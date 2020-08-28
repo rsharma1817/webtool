@@ -1,49 +1,49 @@
-She	PRON	PRP	-	-	Individual_1	True
-eventually	ADV	RB	-	-	-	False
-graduated	VERB	VBD	-	-	-	False
-from	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-School	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-founded	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-Lynne	PROPN	NNP	-	-	-	False
-Dance	PROPN	NNP	-	-	-	False
-Company	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-met	VERB	VBD	meet.v	Make_acquaintance	-	False
-Andrew	PROPN	NNP	-	-	Individual_2	True
-Lloyd	PROPN	NNP	-	-	Individual_2	True
-Webber	PROPN	NNP	-	-	Individual_2	True
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	Individual_1	6332	True
+eventually	RB	-	-	-	-	-	False
+graduated	VBD	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+School	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+founded	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+Lynne	NNP	-	-	-	-	-	False
+Dance	NNP	-	-	-	-	-	False
+Company	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+met	VBD	meet.v	Make_acquaintance	1085	-	-	False
+Andrew	NNP	-	-	-	Individual_2	6333	True
+Lloyd	NNP	-	-	-	Individual_2	6333	True
+Webber	NNP	-	-	-	Individual_2	6333	True
+.	.	-	-	-	-	-	False
 
-Ela	X	FW	-	-	-	False
-eventualmente	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-formou	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-Royal	PROPN	NNP	-	-	-	False
-Ballet	PROPN	NNP	-	-	-	False
-School	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-fundou	X	FW	-	-	-	False
-sua	X	FW	-	-	-	False
-própria	X	FW	-	-	-	False
-empresa	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-Companhia	PROPN	NNP	-	-	-	False
-de	ADP	NNP	-	-	-	False
-Dança	PROPN	NNP	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-Lynne	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-conheceu	X	FW	conhecer.v	Make_acquaintance	-	False
-Andrew	PROPN	NNP	-	-	Individual_2	True
-Lloyd	PROPN	NNP	-	-	Individual_2	True
-Weber	PROPN	NNP	-	-	Individual_2	True
-.	PUNCT	.	-	-	-	False
+Ela	FW	-	-	-	-	-	False
+eventualmente	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+formou	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+Royal	NNP	-	-	-	-	-	False
+Ballet	NNP	-	-	-	-	-	False
+School	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+fundou	FW	-	-	-	-	-	False
+sua	FW	-	-	-	-	-	False
+própria	FW	-	-	-	-	-	False
+empresa	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+Companhia	NNP	-	-	-	-	-	False
+de	NNP	-	-	-	-	-	False
+Dança	NNP	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+Lynne	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+conheceu	FW	conhecer.v	Make_acquaintance	1085	-	-	False
+Andrew	NNP	-	-	-	Individual_2	6333	True
+Lloyd	NNP	-	-	-	Individual_2	6333	True
+Weber	NNP	-	-	-	Individual_2	6333	True
+.	.	-	-	-	-	-	False

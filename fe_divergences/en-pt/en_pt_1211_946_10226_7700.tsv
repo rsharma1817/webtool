@@ -1,40 +1,40 @@
-I	PRON	PRP	-	-	-	False
-say	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-please	INTJ	UH	-	-	-	False
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	-	False
-'m	VERB	VBP	-	-	-	False
-trying	VERB	VBG	-	-	-	False
-to	PART	TO	-	-	-	False
-fry	VERB	VB	-	-	-	False
-an	DET	DT	-	-	-	False
-egg	NOUN	NN	egg.n	Food	Food	True
-in	ADV	RB	-	-	-	False
-here	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+I	PRP	-	-	-	-	-	False
+say	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+please	UH	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'m	VBP	-	-	-	-	-	False
+trying	VBG	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+fry	VB	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+egg	NN	egg.n	Food	277	Food	9696	True
+in	RB	-	-	-	-	-	False
+here	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-digo	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Terry	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-por	X	FW	-	-	-	False
-favor	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-tentando	X	FW	-	-	-	False
-fritar	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-ovo	X	FW	ovo.n	Food	-	False
-aqui.Me	X	FW	-	-	-	False
-deixa	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-paz	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+digo	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Terry	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+favor	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+tentando	FW	-	-	-	-	-	False
+fritar	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+ovo	FW	ovo.n	Food	277	-	-	False
+aqui.Me	FW	-	-	-	-	-	False
+deixa	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+paz	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

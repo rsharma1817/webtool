@@ -1,61 +1,61 @@
-We	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-sitting	VERB	VBG	-	-	-	False
-there	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Opinion	-	False
-they	PRON	PRP	-	-	Opinion	True
-just	ADV	RB	-	-	Opinion	True
-went	VERB	VBD	-	-	Opinion	True
-out	ADP	IN	-	-	Opinion	True
-of	ADP	IN	-	-	Opinion	True
-sequence	NOUN	NN	-	-	Opinion	True
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-talked	VERB	VBD	-	-	-	False
-to	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-little	ADJ	JJ	-	-	-	False
-boy	NOUN	NN	-	-	-	False
-afterward	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-You	PRON	PRP	-	-	-	False
-OK	ADJ	JJ	-	-	-	False
-with	ADP	IN	-	-	-	False
-that	DET	DT	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+We	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+sitting	VBG	-	-	-	-	-	False
+there	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Cognizer	7869	True
+think	VBP	think.v	Opinion	1412	-	-	False
+they	PRP	-	-	-	Opinion	7870	True
+just	RB	-	-	-	Opinion	7870	True
+went	VBD	-	-	-	Opinion	7870	True
+out	IN	-	-	-	Opinion	7870	True
+of	IN	-	-	-	Opinion	7870	True
+sequence	NN	-	-	-	Opinion	7870	True
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+talked	VBD	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+little	JJ	-	-	-	-	-	False
+boy	NN	-	-	-	-	-	False
+afterward	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+You	PRP	-	-	-	-	-	False
+OK	JJ	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Estávamos	X	NNP	-	-	-	False
-lá	X	FW	-	-	-	False
-sentados	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	Cognizer	True
-acho	X	FW	achar.v	Opinion	-	False
-que	X	FW	-	-	Opinion	True
-eles	X	FW	-	-	Opinion	True
-não	X	FW	-	-	Opinion	True
-seguiram	X	FW	-	-	Opinion	True
-a	X	FW	-	-	Opinion	True
-ordem	X	FW	-	-	Opinion	True
-porque	X	FW	-	-	-	False
-nós	X	FW	-	-	-	False
-conversamos	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-garotinho	X	FW	-	-	-	False
-depois	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-perguntamos	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Tudo	PROPN	NNP	-	-	-	False
-certo	PROPN	NNP	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Estávamos	NNP	-	-	-	-	-	False
+lá	FW	-	-	-	-	-	False
+sentados	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	Cognizer	7869	True
+acho	FW	achar.v	Opinion	1412	-	-	False
+que	FW	-	-	-	Opinion	7870	True
+eles	FW	-	-	-	Opinion	7870	True
+não	FW	-	-	-	Opinion	7870	True
+seguiram	FW	-	-	-	Opinion	7870	True
+a	FW	-	-	-	Opinion	7870	True
+ordem	FW	-	-	-	Opinion	7870	True
+porque	FW	-	-	-	-	-	False
+nós	FW	-	-	-	-	-	False
+conversamos	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+garotinho	FW	-	-	-	-	-	False
+depois	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+perguntamos	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Tudo	NNP	-	-	-	-	-	False
+certo	NNP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

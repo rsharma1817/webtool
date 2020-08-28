@@ -1,30 +1,30 @@
-We	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-rethink	VERB	VB	-	-	-	False
-the	DET	DT	-	-	-	False
-fundamental	ADJ	JJ	fundamental.a	Importance	-	False
-principles	NOUN	NNS	-	-	Factor	True
-on	ADP	IN	-	-	-	False
-which	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-educating	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+rethink	VB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+fundamental	JJ	fundamental.a	Importance	407	-	-	False
+principles	NNS	-	-	-	Factor	3749	True
+on	IN	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+educating	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Temos	X	NNP	-	-	-	False
-que	X	FW	-	-	-	False
-repensar	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-princípios	X	FW	-	-	Factor	True
-fundamentais	X	FW	fundamental.a	Importance	-	False
-que	X	FW	-	-	-	False
-baseamos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-nossas	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Temos	NNP	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+repensar	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+princípios	FW	-	-	-	Factor	3749	True
+fundamentais	FW	fundamental.a	Importance	407	-	-	False
+que	FW	-	-	-	-	-	False
+baseamos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+nossas	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

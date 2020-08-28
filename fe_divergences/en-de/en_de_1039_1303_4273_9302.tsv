@@ -1,58 +1,58 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-third	ADJ	JJ	-	-	-	False
-part	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-this	DET	DT	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-all	DET	DT	-	-	-	False
-agreed	VERB	VBN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-nonetheless	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-really	ADV	RB	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-capacities	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-children	NOUN	NNS	child.n	People_by_age	Person	True
-have	VERB	VBP	-	-	-	False
---	PUNCT	:	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-capacities	NOUN	NNS	-	-	-	False
-for	ADP	IN	-	-	-	False
-innovation	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+third	JJ	-	-	-	-	-	False
+part	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+agreed	VBN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+nonetheless	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+capacities	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+children	NNS	child.n	People_by_age	973	Person	5937	True
+have	VBP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+capacities	NNS	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+innovation	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Und	X	FW	-	-	-	False
-das	X	FW	-	-	-	False
-dritte	X	FW	-	-	-	False
-Thema	X	NNP	-	-	-	False
-ist	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-uns	X	FW	-	-	-	False
-trotzdem	X	FW	-	-	-	False
-alle	X	FW	-	-	-	False
-einig	X	FW	-	-	-	False
-sind	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	NNP	-	-	-	False
-Kinder	X	NNP	kind.n	People_by_age	-	False
-wirklich	X	NNP	-	-	-	False
-außergewöhnliche	X	NNP	-	-	-	False
-Fähigkeiten	PROPN	NNP	-	-	-	False
-haben	PROPN	NNP	-	-	-	False
---	PUNCT	:	-	-	-	False
-Fähigkeiten	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-neue	PROPN	FW	-	-	-	False
-Wege	PROPN	NNP	-	-	-	False
-zu	PROPN	NNP	-	-	-	False
-gehen	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Und	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+dritte	FW	-	-	-	-	-	False
+Thema	NNP	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+uns	FW	-	-	-	-	-	False
+trotzdem	FW	-	-	-	-	-	False
+alle	FW	-	-	-	-	-	False
+einig	FW	-	-	-	-	-	False
+sind	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	NNP	-	-	-	-	-	False
+Kinder	NNP	kind.n	People_by_age	973	-	-	False
+wirklich	NNP	-	-	-	-	-	False
+außergewöhnliche	NNP	-	-	-	-	-	False
+Fähigkeiten	NNP	-	-	-	-	-	False
+haben	NNP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+Fähigkeiten	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+neue	FW	-	-	-	-	-	False
+Wege	NNP	-	-	-	-	-	False
+zu	NNP	-	-	-	-	-	False
+gehen	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

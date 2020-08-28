@@ -1,49 +1,49 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-system	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-public	ADJ	JJ	-	-	-	False
-education	NOUN	NN	-	-	-	False
-around	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-protracted	ADJ	JJ	-	-	Manner	False
-process	NOUN	NN	process.n	Process	-	False
-of	ADP	IN	-	-	Process	False
-university	NOUN	NN	-	-	Process	False
-entrance	NOUN	NN	-	-	Process	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+system	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+public	JJ	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+around	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+protracted	JJ	-	-	-	Manner	2023	False
+process	NN	process.n	Process	233	-	-	False
+of	IN	-	-	-	Process	2018	False
+university	NN	-	-	-	Process	2018	False
+entrance	NN	-	-	-	Process	2018	False
+.	.	-	-	-	-	-	False
 
-Se	VERB	FW	-	-	-	False
-você	NOUN	FW	-	-	-	False
-for	ADP	IN	-	-	-	False
-pensar	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-todo	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-sistema	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-pública	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	VB	-	-	-	False
-mundo	X	NN	-	-	-	False
-é	X	UH	-	-	-	False
-um	INTJ	UH	-	-	-	False
-extensão	X	NN	-	-	-	False
-do	X	VB	-	-	-	False
-processo	X	FW	processo.n	Process	-	False
-de	X	FW	-	-	Result	False
-ingresso	X	FW	-	-	Result	False
-à	X	FW	-	-	Result	False
-universidade	X	FW	-	-	Result	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+pensar	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+sistema	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+pública	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+mundo	NN	-	-	-	-	-	False
+é	UH	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+extensão	NN	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+processo	FW	processo.n	Process	233	-	-	False
+de	FW	-	-	-	Result	2024	False
+ingresso	FW	-	-	-	Result	2024	False
+à	FW	-	-	-	Result	2024	False
+universidade	FW	-	-	-	Result	2024	False
+.	.	-	-	-	-	-	False

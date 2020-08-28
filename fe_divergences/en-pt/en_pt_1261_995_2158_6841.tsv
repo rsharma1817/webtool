@@ -1,69 +1,69 @@
-I	PRON	PRP	-	-	-	False
-believe	VERB	VBP	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-only	ADJ	JJ	-	-	-	False
-hope	NOUN	NN	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-future	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	-	False
-adopt	VERB	VB	adopt.v	Adopt_selection	-	False
-a	DET	DT	-	-	Value	True
-new	ADJ	JJ	-	-	Value	True
-conception	NOUN	NN	-	-	Value	True
-of	ADP	IN	-	-	Value	True
-human	ADJ	JJ	-	-	Value	True
-ecology	NOUN	NN	-	-	Value	True
-,	PUNCT	,	-	-	Value	True
-one	NUM	CD	-	-	Value	True
-in	ADP	IN	-	-	Value	True
-which	PRON	WDT	-	-	Value	True
-we	PRON	PRP	-	-	Value	True
-start	VERB	VBP	-	-	Value	True
-to	PART	TO	-	-	Value	True
-reconstitute	VERB	VB	-	-	Value	True
-our	PRON	PRP$	-	-	Value	True
-conception	NOUN	NN	-	-	Value	True
-of	ADP	IN	-	-	Value	True
-the	DET	DT	-	-	Value	True
-richness	NOUN	NN	-	-	Value	True
-of	ADP	IN	-	-	Value	True
-human	ADJ	JJ	-	-	Value	True
-capacity	NOUN	NN	-	-	Value	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+believe	VBP	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+only	JJ	-	-	-	-	-	False
+hope	NN	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+future	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+adopt	VB	adopt.v	Adopt_selection	1590	-	-	False
+a	DT	-	-	-	Value	8686	True
+new	JJ	-	-	-	Value	8686	True
+conception	NN	-	-	-	Value	8686	True
+of	IN	-	-	-	Value	8686	True
+human	JJ	-	-	-	Value	8686	True
+ecology	NN	-	-	-	Value	8686	True
+,	,	-	-	-	Value	8686	True
+one	CD	-	-	-	Value	8686	True
+in	IN	-	-	-	Value	8686	True
+which	WDT	-	-	-	Value	8686	True
+we	PRP	-	-	-	Value	8686	True
+start	VBP	-	-	-	Value	8686	True
+to	TO	-	-	-	Value	8686	True
+reconstitute	VB	-	-	-	Value	8686	True
+our	PRP$	-	-	-	Value	8686	True
+conception	NN	-	-	-	Value	8686	True
+of	IN	-	-	-	Value	8686	True
+the	DT	-	-	-	Value	8686	True
+richness	NN	-	-	-	Value	8686	True
+of	IN	-	-	-	Value	8686	True
+human	JJ	-	-	-	Value	8686	True
+capacity	NN	-	-	-	Value	8686	True
+.	.	-	-	-	-	-	False
 
-Eu	X	FW	-	-	-	False
-acredito	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-única	X	FW	-	-	-	False
-esperança	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-futuro	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-adoção	X	FW	adoção.n	Adopt_selection	-	False
-de	X	FW	-	-	Value	True
-uma	X	FW	-	-	Value	True
-nova	X	FW	-	-	Value	True
-concepção	X	FW	-	-	Value	True
-de	X	FW	-	-	Value	True
-ecologia	X	FW	-	-	Value	True
-humana	X	FW	-	-	Value	True
-,	PUNCT	,	-	-	Value	True
-uma	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-começamos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-reconstituir	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-concepção	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-riqueza	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-capacidade	X	FW	-	-	-	False
-humana	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Eu	FW	-	-	-	-	-	False
+acredito	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+única	FW	-	-	-	-	-	False
+esperança	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+futuro	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+adoção	FW	adoção.n	Adopt_selection	1590	-	-	False
+de	FW	-	-	-	Value	8686	True
+uma	FW	-	-	-	Value	8686	True
+nova	FW	-	-	-	Value	8686	True
+concepção	FW	-	-	-	Value	8686	True
+de	FW	-	-	-	Value	8686	True
+ecologia	FW	-	-	-	Value	8686	True
+humana	FW	-	-	-	Value	8686	True
+,	,	-	-	-	Value	8686	True
+uma	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+começamos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+reconstituir	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+concepção	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+riqueza	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+capacidade	FW	-	-	-	-	-	False
+humana	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,19 +1,19 @@
-We	PRON	PRP	-	-	Cognizer	True
-need	VERB	VBP	need.v	Needing	-	False
-to	PART	TO	-	-	Requirement	True
-radically	ADV	RB	-	-	Requirement	True
-rethink	VERB	VB	-	-	Requirement	True
-our	PRON	PRP$	-	-	Requirement	True
-view	NOUN	NN	-	-	Requirement	True
-of	ADP	IN	-	-	Requirement	True
-intelligence	NOUN	NN	-	-	Requirement	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Cognizer	7709	True
+need	VBP	need.v	Needing	1375	-	-	False
+to	TO	-	-	-	Requirement	7710	True
+radically	RB	-	-	-	Requirement	7710	True
+rethink	VB	-	-	-	Requirement	7710	True
+our	PRP$	-	-	-	Requirement	7710	True
+view	NN	-	-	-	Requirement	7710	True
+of	IN	-	-	-	Requirement	7710	True
+intelligence	NN	-	-	-	Requirement	7710	True
+.	.	-	-	-	-	-	False
 
-Precisamos	X	FW	precisar.v	Needing	-	False
-repensar	X	FW	-	-	Requirement	True
-radicalmente	X	FW	-	-	Requirement	True
-nossa	X	FW	-	-	Requirement	True
-visão	X	FW	-	-	Requirement	True
-de	X	FW	-	-	Requirement	True
-inteligência	X	FW	-	-	Requirement	True
-.	PUNCT	.	-	-	-	False
+Precisamos	FW	precisar.v	Needing	1375	-	-	False
+repensar	FW	-	-	-	Requirement	7710	True
+radicalmente	FW	-	-	-	Requirement	7710	True
+nossa	FW	-	-	-	Requirement	7710	True
+visão	FW	-	-	-	Requirement	7710	True
+de	FW	-	-	-	Requirement	7710	True
+inteligência	FW	-	-	-	Requirement	7710	True
+.	.	-	-	-	-	-	False

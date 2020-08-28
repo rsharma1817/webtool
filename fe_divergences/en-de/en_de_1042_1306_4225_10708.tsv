@@ -1,47 +1,47 @@
-And	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-exceptional	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Opinion	-	False
-she	PRON	PRP	-	-	Opinion	True
-'s	VERB	VBZ	-	-	Opinion	True
-not	ADV	RB	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-so	ADV	RB	-	-	Opinion	True
-to	PART	TO	-	-	Opinion	True
-speak	VERB	VB	-	-	Opinion	True
-,	PUNCT	,	-	-	Opinion	True
-exceptional	ADJ	JJ	-	-	Opinion	True
-in	ADP	IN	-	-	Opinion	True
-the	DET	DT	-	-	Opinion	True
-whole	NOUN	NN	-	-	Opinion	True
-of	ADP	IN	-	-	Opinion	True
-childhood	NOUN	NN	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+exceptional	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Cognizer	7869	True
+think	VBP	think.v	Opinion	1412	-	-	False
+she	PRP	-	-	-	Opinion	7870	True
+'s	VBZ	-	-	-	Opinion	7870	True
+not	RB	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+so	RB	-	-	-	Opinion	7870	True
+to	TO	-	-	-	Opinion	7870	True
+speak	VB	-	-	-	Opinion	7870	True
+,	,	-	-	-	Opinion	7870	True
+exceptional	JJ	-	-	-	Opinion	7870	True
+in	IN	-	-	-	Opinion	7870	True
+the	DT	-	-	-	Opinion	7870	True
+whole	NN	-	-	-	Opinion	7870	True
+of	IN	-	-	-	Opinion	7870	True
+childhood	NN	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
 
-Sie	X	VB	-	-	-	False
-ist	X	NN	-	-	-	False
-außergewöhnlich	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-aber	X	FW	-	-	-	False
-ich	X	FW	-	-	Cognizer	True
-denke	X	FW	denken.v	Opinion	-	False
-,	PUNCT	,	-	-	-	False
-sie	X	FW	-	-	-	False
-ist	X	NN	-	-	-	False
-nicht	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-sozusagen	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-außergewöhnlich	X	FW	-	-	-	False
-in	ADP	IN	-	-	-	False
-Bezug	PROPN	NNP	-	-	-	False
-auf	PROPN	NNP	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Gesamtheit	PROPN	NNP	-	-	-	False
-aller	PROPN	NNP	-	-	-	False
-Kinder	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sie	VB	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+außergewöhnlich	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+aber	FW	-	-	-	-	-	False
+ich	FW	-	-	-	Cognizer	7869	True
+denke	FW	denken.v	Opinion	1412	-	-	False
+,	,	-	-	-	-	-	False
+sie	FW	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+nicht	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+sozusagen	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+außergewöhnlich	FW	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+Bezug	NNP	-	-	-	-	-	False
+auf	NNP	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Gesamtheit	NNP	-	-	-	-	-	False
+aller	NNP	-	-	-	-	-	False
+Kinder	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

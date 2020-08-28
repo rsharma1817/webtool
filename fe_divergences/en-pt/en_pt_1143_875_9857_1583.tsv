@@ -1,18 +1,18 @@
-We	PRON	PRP	-	-	Owner	True
-all	DET	DT	-	-	Owner	True
-have	VERB	VBP	have.v	Possession	-	False
-bodies	NOUN	NNS	-	-	Possession	True
-,	PUNCT	,	-	-	-	False
-do	VERB	VBP	-	-	-	False
-n't	ADV	RB	-	-	-	False
-we	PRON	PRP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	Owner	573	True
+all	DT	-	-	-	Owner	573	True
+have	VBP	have.v	Possession	118	-	-	False
+bodies	NNS	-	-	-	Possession	582	True
+,	,	-	-	-	-	-	False
+do	VBP	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Nós	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-temos	X	FW	-	-	-	False
-corpos	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-não	X	FW	-	-	-	False
-temos	X	NNS	ter.v	Possession	-	False
-?	PUNCT	.	-	-	-	False
+Nós	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+temos	FW	-	-	-	-	-	False
+corpos	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+temos	NNS	ter.v	Possession	118	-	-	False
+?	.	-	-	-	-	-	False

@@ -1,27 +1,27 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-girl	NOUN	NN	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-They	PRON	PRP	-	-	-	False
-will	AUX	MD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-minute	NOUN	NN	minute.n	Measure_duration	Unit	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+girl	NN	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+They	PRP	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+minute	NN	minute.n	Measure_duration	224	Unit	1806	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-menina	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	``	-	-	-	False
-Vão	PROPN	NNP	-	-	-	False
-conhecer	X	FW	-	-	-	False
-num	X	FW	-	-	Count	True
-minuto	X	FW	minuto.n	Measure_duration	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+menina	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	``	-	-	-	-	-	False
+Vão	NNP	-	-	-	-	-	False
+conhecer	FW	-	-	-	-	-	False
+num	FW	-	-	-	Count	1805	True
+minuto	FW	minuto.n	Measure_duration	224	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

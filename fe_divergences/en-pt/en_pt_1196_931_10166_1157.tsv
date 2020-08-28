@@ -1,23 +1,23 @@
-We	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-visually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Awareness	-	False
-in	ADP	IN	-	-	Manner	False
-sound	NOUN	NN	-	-	Manner	False
-,	PUNCT	,	-	-	-	False
-we	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-kinesthetically	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+visually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	Cognizer	83	True
+think	VBP	think.v	Awareness	19	-	-	False
+in	IN	-	-	-	Manner	946	False
+sound	NN	-	-	-	Manner	946	False
+,	,	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+kinesthetically	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Pensamos	X	NNP	-	-	-	False
-visualmente	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-pensamos	X	FW	-	-	-	False
-auditivamente	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-pensamos	X	FW	pensar.v	Awareness	-	False
-cinestesicamente	X	FW	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+Pensamos	NNP	-	-	-	-	-	False
+visualmente	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+pensamos	FW	-	-	-	-	-	False
+auditivamente	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+pensamos	FW	pensar.v	Awareness	19	-	-	False
+cinestesicamente	FW	-	-	-	Manner	946	False
+.	.	-	-	-	-	-	False

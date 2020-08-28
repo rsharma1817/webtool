@@ -1,31 +1,31 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Speaker	True
-teacher	NOUN	NN	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-But	CCONJ	CC	-	-	Message	True
-nobody	NOUN	NN	-	-	Message	True
-knows	VERB	VBZ	-	-	Message	True
-what	PRON	WP	-	-	Message	True
-God	PROPN	NNP	-	-	Message	True
-looks	VERB	VBZ	-	-	Message	True
-like	ADP	IN	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Speaker	183	True
+teacher	NN	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+But	CC	-	-	-	Message	185	True
+nobody	NN	-	-	-	Message	185	True
+knows	VBZ	-	-	-	Message	185	True
+what	WP	-	-	-	Message	185	True
+God	NNP	-	-	-	Message	185	True
+looks	VBZ	-	-	-	Message	185	True
+like	IN	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	Speaker	True
-professora	NOUN	NN	-	-	Speaker	True
-disse	NOUN	NN	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Mas	X	NNP	-	-	Message	True
-ninguém	X	NNP	-	-	Message	True
-conhece	X	FW	-	-	Message	True
-a	X	FW	-	-	Message	True
-aparência	X	FW	-	-	Message	True
-de	X	FW	-	-	Message	True
-Deus	PROPN	NNP	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	DT	-	-	-	Speaker	183	True
+professora	NN	-	-	-	Speaker	183	True
+disse	NN	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Mas	NNP	-	-	-	Message	185	True
+ninguém	NNP	-	-	-	Message	185	True
+conhece	FW	-	-	-	Message	185	True
+a	FW	-	-	-	Message	185	True
+aparência	FW	-	-	-	Message	185	True
+de	FW	-	-	-	Message	185	True
+Deus	NNP	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

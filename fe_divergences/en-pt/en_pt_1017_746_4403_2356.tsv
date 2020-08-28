@@ -1,16 +1,16 @@
-No	DET	DT	-	-	-	False
-idea	NOUN	NN	idea.n	Awareness	-	False
-how	ADV	WRB	-	-	Content	True
-this	DET	DT	-	-	Content	True
-may	AUX	MD	-	-	Content	True
-play	VERB	VB	-	-	Content	True
-out	ADP	RP	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+No	DT	-	-	-	-	-	False
+idea	NN	idea.n	Awareness	19	-	-	False
+how	WRB	-	-	-	Content	84	True
+this	DT	-	-	-	Content	84	True
+may	MD	-	-	-	Content	84	True
+play	VB	-	-	-	Content	84	True
+out	RP	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False
 
-Nenhuma	PROPN	NNP	-	-	-	False
-idéia	PROPN	NNP	ideia.n	Awareness	-	False
-do	VERB	VBP	-	-	Content	True
-que	X	FW	-	-	Content	True
-nos	X	FW	-	-	Content	True
-espera	X	FW	-	-	Content	True
-.	PUNCT	.	-	-	-	False
+Nenhuma	NNP	-	-	-	-	-	False
+idéia	NNP	ideia.n	Awareness	19	-	-	False
+do	VBP	-	-	-	Content	84	True
+que	FW	-	-	-	Content	84	True
+nos	FW	-	-	-	Content	84	True
+espera	FW	-	-	-	Content	84	True
+.	.	-	-	-	-	-	False

@@ -1,23 +1,23 @@
-He	PRON	PRP	-	-	-	False
-loved	VERB	VBD	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-he	PRON	PRP	-	-	Partner_1	True
-had	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-girlfriend	NOUN	NN	girlfriend.n	Personal_relationship	Partner_2	True
-in	ADP	IN	-	-	-	False
-England	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	-	-	False
+loved	VBD	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+he	PRP	-	-	-	Partner_1	487	True
+had	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+girlfriend	NN	girlfriend.n	Personal_relationship	102	Partner_2	488	True
+in	IN	-	-	-	-	-	False
+England	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Partner_1	True
-adorava	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-namorada	X	FW	namorado.n	Personal_relationship	-	False
-na	X	FW	-	-	-	False
-Inglaterra	X	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Partner_1	487	True
+adorava	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+namorada	FW	namorado.n	Personal_relationship	102	-	-	False
+na	FW	-	-	-	-	-	False
+Inglaterra	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

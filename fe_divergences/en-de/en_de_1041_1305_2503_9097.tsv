@@ -1,19 +1,19 @@
-Just	ADV	RB	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-what	PRON	WP	-	-	Event	False
-she	PRON	PRP	-	-	Entity	True
-could	AUX	MD	can.v	Capability	-	False
-do	VERB	VB	-	-	Event	False
-.	PUNCT	.	-	-	-	False
+Just	RB	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+what	WP	-	-	-	Event	5982	False
+she	PRP	-	-	-	Entity	5981	True
+could	MD	can.v	Capability	990	-	-	False
+do	VB	-	-	-	Event	5982	False
+.	.	-	-	-	-	-	False
 
-Allein	PROPN	NNP	-	-	-	False
-zu	PROPN	NNP	-	-	-	False
-sehen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wozu	NOUN	NNP	-	-	Event	False
-sie	NUM	NNP	-	-	Entity	True
-in	ADP	IN	in der Lage sein.v	Capability	-	False
-der	X	NNP	in der Lage sein.v	Capability	-	False
-Lage	X	NNP	in der Lage sein.v	Capability	-	False
-ist	X	NN	in der Lage sein.v	Capability	-	False
-.	PUNCT	.	-	-	-	False
+Allein	NNP	-	-	-	-	-	False
+zu	NNP	-	-	-	-	-	False
+sehen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wozu	NNP	-	-	-	Event	5982	False
+sie	NNP	-	-	-	Entity	5981	True
+in	IN	in der Lage sein.v	Capability	990	-	-	False
+der	NNP	in der Lage sein.v	Capability	990	-	-	False
+Lage	NNP	in der Lage sein.v	Capability	990	-	-	False
+ist	NN	in der Lage sein.v	Capability	990	-	-	False
+.	.	-	-	-	-	-	False

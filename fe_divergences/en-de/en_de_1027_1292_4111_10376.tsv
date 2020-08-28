@@ -1,85 +1,85 @@
-But	CCONJ	CC	-	-	-	False
-if	ADP	IN	if.scon	Conditional_occurrence	-	False
-you	PRON	PRP	-	-	Profiled_possibility	True
-are	VERB	VBP	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-and	CCONJ	CC	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-say	VERB	VBP	-	-	Profiled_possibility	True
-to	ADP	IN	-	-	Profiled_possibility	True
-somebody	NOUN	NN	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-know	VERB	VBP	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-they	PRON	PRP	-	-	Profiled_possibility	True
-say	VERB	VBP	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	Profiled_possibility	True
-'	PUNCT	''	-	-	Profiled_possibility	True
-What	PRON	WP	-	-	Profiled_possibility	True
-do	VERB	VBP	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-do	VERB	VB	-	-	Profiled_possibility	True
-?'	PUNCT	''	-	-	Profiled_possibility	True
-and	CCONJ	CC	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-say	VERB	VBP	-	-	Profiled_possibility	True
-you	PRON	PRP	-	-	Profiled_possibility	True
-work	VERB	VBP	-	-	Profiled_possibility	True
-in	ADP	IN	-	-	Profiled_possibility	True
-education	NOUN	NN	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	Consequence	True
-can	AUX	MD	-	-	Consequence	True
-see	VERB	VB	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-blood	NOUN	NN	-	-	Consequence	True
-run	VERB	VBN	-	-	Consequence	True
-from	ADP	IN	-	-	Consequence	True
-their	PRON	PRP$	-	-	Consequence	True
-face	NOUN	NN	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+if	IN	if.scon	Conditional_occurrence	2903	-	-	False
+you	PRP	-	-	-	Profiled_possibility	16290	True
+are	VBP	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+and	CC	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+say	VBP	-	-	-	Profiled_possibility	16290	True
+to	IN	-	-	-	Profiled_possibility	16290	True
+somebody	NN	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+know	VBP	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+they	PRP	-	-	-	Profiled_possibility	16290	True
+say	VBP	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	Profiled_possibility	16290	True
+'	''	-	-	-	Profiled_possibility	16290	True
+What	WP	-	-	-	Profiled_possibility	16290	True
+do	VBP	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+do	VB	-	-	-	Profiled_possibility	16290	True
+?'	''	-	-	-	Profiled_possibility	16290	True
+and	CC	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+say	VBP	-	-	-	Profiled_possibility	16290	True
+you	PRP	-	-	-	Profiled_possibility	16290	True
+work	VBP	-	-	-	Profiled_possibility	16290	True
+in	IN	-	-	-	Profiled_possibility	16290	True
+education	NN	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	Consequence	16292	True
+can	MD	-	-	-	Consequence	16292	True
+see	VB	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+blood	NN	-	-	-	Consequence	16292	True
+run	VBN	-	-	-	Consequence	16292	True
+from	IN	-	-	-	Consequence	16292	True
+their	PRP$	-	-	-	Consequence	16292	True
+face	NN	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
 
-Sind	ADJ	NN	sind sie.v	Conditional_occurrence	Profiled_possibility	True
-Sie	NOUN	FW	sind sie.v	Conditional_occurrence	Profiled_possibility	True
-aber	X	FW	-	-	Profiled_possibility	True
-eingeladen	X	FW	-	-	Profiled_possibility	True
-und	X	FW	-	-	Profiled_possibility	True
-reden	X	FW	-	-	Profiled_possibility	True
-mit	X	FW	-	-	Profiled_possibility	True
-jemandem	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-also	ADV	RB	-	-	-	False
-wenn	VERB	VBD	-	-	-	False
-jemand	X	FW	-	-	-	False
-fragt	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Was	VERB	VBD	-	-	-	False
-machen	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-so	ADV	RB	-	-	-	False
-?'	PUNCT	''	-	-	-	False
-und	CCONJ	VB	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ich	INTJ	FW	-	-	-	False
-arbeite	X	FW	-	-	-	False
-im	X	FW	-	-	-	False
-Bildungswesen	X	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-sieht	ADJ	NN	-	-	Consequence	True
-man	NOUN	NN	-	-	Consequence	True
-,	PUNCT	,	-	-	Consequence	True
-wie	X	FW	-	-	Consequence	True
-den	X	FW	-	-	Consequence	True
-anderen	X	FW	-	-	Consequence	True
-das	X	FW	-	-	Consequence	True
-Blut	X	FW	-	-	Consequence	True
-aus	X	FW	-	-	Consequence	True
-dem	X	FW	-	-	Consequence	True
-Gesicht	X	FW	-	-	Consequence	True
-weicht	X	FW	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Sind	NN	sind sie.v	Conditional_occurrence	2903	Profiled_possibility	16290	True
+Sie	FW	sind sie.v	Conditional_occurrence	2903	Profiled_possibility	16290	True
+aber	FW	-	-	-	Profiled_possibility	16290	True
+eingeladen	FW	-	-	-	Profiled_possibility	16290	True
+und	FW	-	-	-	Profiled_possibility	16290	True
+reden	FW	-	-	-	Profiled_possibility	16290	True
+mit	FW	-	-	-	Profiled_possibility	16290	True
+jemandem	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+also	RB	-	-	-	-	-	False
+wenn	VBD	-	-	-	-	-	False
+jemand	FW	-	-	-	-	-	False
+fragt	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Was	VBD	-	-	-	-	-	False
+machen	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+so	RB	-	-	-	-	-	False
+?'	''	-	-	-	-	-	False
+und	VB	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ich	FW	-	-	-	-	-	False
+arbeite	FW	-	-	-	-	-	False
+im	FW	-	-	-	-	-	False
+Bildungswesen	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+sieht	NN	-	-	-	Consequence	16292	True
+man	NN	-	-	-	Consequence	16292	True
+,	,	-	-	-	Consequence	16292	True
+wie	FW	-	-	-	Consequence	16292	True
+den	FW	-	-	-	Consequence	16292	True
+anderen	FW	-	-	-	Consequence	16292	True
+das	FW	-	-	-	Consequence	16292	True
+Blut	FW	-	-	-	Consequence	16292	True
+aus	FW	-	-	-	Consequence	16292	True
+dem	FW	-	-	-	Consequence	16292	True
+Gesicht	FW	-	-	-	Consequence	16292	True
+weicht	FW	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

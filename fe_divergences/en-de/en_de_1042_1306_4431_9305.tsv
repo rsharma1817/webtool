@@ -1,47 +1,47 @@
-And	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-exceptional	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-she	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-not	ADV	RB	not.adv	Negation	-	False
-,	PUNCT	,	-	-	-	False
-so	ADV	RB	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-exceptional	ADJ	JJ	-	-	Negated_proposition	True
-in	ADP	IN	-	-	Negated_proposition	True
-the	DET	DT	-	-	Negated_proposition	True
-whole	NOUN	NN	-	-	Negated_proposition	True
-of	ADP	IN	-	-	Negated_proposition	True
-childhood	NOUN	NN	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+exceptional	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+not	RB	not.adv	Negation	2860	-	-	False
+,	,	-	-	-	-	-	False
+so	RB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+exceptional	JJ	-	-	-	Negated_proposition	16210	True
+in	IN	-	-	-	Negated_proposition	16210	True
+the	DT	-	-	-	Negated_proposition	16210	True
+whole	NN	-	-	-	Negated_proposition	16210	True
+of	IN	-	-	-	Negated_proposition	16210	True
+childhood	NN	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
 
-Sie	X	VB	-	-	-	False
-ist	X	NN	-	-	-	False
-außergewöhnlich	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-aber	X	FW	-	-	-	False
-ich	X	FW	-	-	-	False
-denke	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-sie	X	FW	-	-	Negated_proposition	True
-ist	X	NN	-	-	Negated_proposition	True
-nicht	X	NN	nicht.adv	Negation	-	False
-,	PUNCT	,	-	-	-	False
-sozusagen	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-außergewöhnlich	X	FW	-	-	-	False
-in	ADP	IN	-	-	-	False
-Bezug	PROPN	NNP	-	-	-	False
-auf	PROPN	NNP	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Gesamtheit	PROPN	NNP	-	-	-	False
-aller	PROPN	NNP	-	-	-	False
-Kinder	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sie	VB	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+außergewöhnlich	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+aber	FW	-	-	-	-	-	False
+ich	FW	-	-	-	-	-	False
+denke	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+sie	FW	-	-	-	Negated_proposition	16210	True
+ist	NN	-	-	-	Negated_proposition	16210	True
+nicht	NN	nicht.adv	Negation	2860	-	-	False
+,	,	-	-	-	-	-	False
+sozusagen	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+außergewöhnlich	FW	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+Bezug	NNP	-	-	-	-	-	False
+auf	NNP	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Gesamtheit	NNP	-	-	-	-	-	False
+aller	NNP	-	-	-	-	-	False
+Kinder	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

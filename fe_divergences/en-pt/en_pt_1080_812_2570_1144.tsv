@@ -1,26 +1,26 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Speaker	True
-third	ADJ	JJ	-	-	Speaker	True
-boy	NOUN	NN	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Frank	PROPN	NNP	-	-	Message	True
-sent	VERB	VBD	-	-	Message	True
-this	DET	DT	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Speaker	183	True
+third	JJ	-	-	-	Speaker	183	True
+boy	NN	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Frank	NNP	-	-	-	Message	185	True
+sent	VBD	-	-	-	Message	185	True
+this	DT	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-o	X	FW	-	-	Speaker	True
-terceiro	X	FW	-	-	Speaker	True
-garoto	X	FW	-	-	Speaker	True
-disse	X	FW	dizer.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-O	INTJ	UH	-	-	Message	True
-Frank	PROPN	NNP	-	-	Message	True
-mandou	PROPN	FW	-	-	Message	True
-isso	PROPN	FW	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+o	FW	-	-	-	Speaker	183	True
+terceiro	FW	-	-	-	Speaker	183	True
+garoto	FW	-	-	-	Speaker	183	True
+disse	FW	dizer.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+O	UH	-	-	-	Message	185	True
+Frank	NNP	-	-	-	Message	185	True
+mandou	FW	-	-	-	Message	185	True
+isso	FW	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

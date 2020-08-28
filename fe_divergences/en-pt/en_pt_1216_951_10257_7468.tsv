@@ -1,24 +1,24 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-third	ADJ	JJ	third.a	Ordinal_numbers	Item	True
-thing	NOUN	NN	-	-	Item	True
-about	ADP	IN	-	-	-	False
-intelligence	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-distinct	ADJ	JJ	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+third	JJ	third.a	Ordinal_numbers	1147	Item	6633	True
+thing	NN	-	-	-	Item	6633	True
+about	IN	-	-	-	-	-	False
+intelligence	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+distinct	JJ	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-terceiro	X	FW	terceiro.a	Ordinal_numbers	-	False
-ponto	X	FW	-	-	Item	True
-sobre	X	FW	-	-	Comparison_set	True
-a	X	FW	-	-	Comparison_set	True
-inteligência	X	FW	-	-	Comparison_set	True
-é	X	FW	-	-	Basis_of_order	True
-que	X	FW	-	-	Basis_of_order	True
-é	X	FW	-	-	Basis_of_order	True
-distinta	X	FW	-	-	Basis_of_order	True
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+terceiro	FW	terceiro.a	Ordinal_numbers	1147	-	-	False
+ponto	FW	-	-	-	Item	6633	True
+sobre	FW	-	-	-	Comparison_set	6634	True
+a	FW	-	-	-	Comparison_set	6634	True
+inteligência	FW	-	-	-	Comparison_set	6634	True
+é	FW	-	-	-	Basis_of_order	6632	True
+que	FW	-	-	-	Basis_of_order	6632	True
+é	FW	-	-	-	Basis_of_order	6632	True
+distinta	FW	-	-	-	Basis_of_order	6632	True
+.	.	-	-	-	-	-	False

@@ -1,40 +1,40 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Cogitation	-	False
-of	ADP	IN	-	-	Topic	True
-it	PRON	PRP	-	-	Topic	True
-,	PUNCT	,	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-starting	VERB	VBG	-	-	-	False
-school	NOUN	NN	-	-	-	False
-this	DET	DT	-	-	-	False
-year	NOUN	NN	-	-	-	False
-will	AUX	MD	-	-	-	False
-be	VERB	VB	-	-	-	False
-retiring	VERB	VBG	-	-	-	False
-in	ADP	IN	-	-	-	False
-2065	NUM	CD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	Cognizer	96	True
+think	VBP	think.v	Cogitation	22	-	-	False
+of	IN	-	-	-	Topic	97	True
+it	PRP	-	-	-	Topic	97	True
+,	,	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+starting	VBG	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+year	NN	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+retiring	VBG	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+2065	CD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Denken	PROPN	NNP	denken.v	Cogitation	-	False
-Sie	PROPN	NNP	-	-	Cognizer	True
-nur	NOUN	NN	-	-	-	False
-:	PUNCT	:	-	-	-	False
-Kinder	PROPN	NNP	-	-	Topic	True
-,	PUNCT	,	-	-	Topic	True
-die	VERB	VBP	-	-	Topic	True
-dieses	NOUN	VBZ	-	-	Topic	True
-Jahr	PROPN	NNP	-	-	Topic	True
-in	ADP	IN	-	-	Topic	True
-die	VERB	FW	-	-	Topic	True
-Schule	PROPN	FW	-	-	Topic	True
-kommen	PROPN	FW	-	-	Topic	True
-,	PUNCT	,	-	-	Topic	True
-werden	NOUN	NN	-	-	Topic	True
-im	ADP	IN	-	-	Topic	True
-Jahr	PROPN	NNP	-	-	Topic	True
-2065	NUM	CD	-	-	Topic	True
-in	ADP	IN	-	-	Topic	True
-Rente	PROPN	NNP	-	-	Topic	True
-gehen	PROPN	NNP	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+Denken	NNP	denken.v	Cogitation	22	-	-	False
+Sie	NNP	-	-	-	Cognizer	96	True
+nur	NN	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+Kinder	NNP	-	-	-	Topic	97	True
+,	,	-	-	-	Topic	97	True
+die	VBP	-	-	-	Topic	97	True
+dieses	VBZ	-	-	-	Topic	97	True
+Jahr	NNP	-	-	-	Topic	97	True
+in	IN	-	-	-	Topic	97	True
+die	FW	-	-	-	Topic	97	True
+Schule	FW	-	-	-	Topic	97	True
+kommen	FW	-	-	-	Topic	97	True
+,	,	-	-	-	Topic	97	True
+werden	NN	-	-	-	Topic	97	True
+im	IN	-	-	-	Topic	97	True
+Jahr	NNP	-	-	-	Topic	97	True
+2065	CD	-	-	-	Topic	97	True
+in	IN	-	-	-	Topic	97	True
+Rente	NNP	-	-	-	Topic	97	True
+gehen	NNP	-	-	-	Topic	97	True
+.	.	-	-	-	-	-	False

@@ -1,54 +1,54 @@
-One	NUM	CD	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-evidence	NOUN	NN	evidence.n	Evidence	-	False
-of	ADP	IN	-	-	Proposition	True
-human	ADJ	JJ	-	-	Proposition	True
-creativity	NOUN	NN	-	-	Proposition	True
-in	ADP	IN	-	-	Support	True
-all	DET	DT	-	-	Support	True
-of	ADP	IN	-	-	Support	True
-the	DET	DT	-	-	Support	True
-presentations	NOUN	NNS	-	-	Support	True
-that	PRON	WDT	-	-	Support	True
-we	PRON	PRP	-	-	Support	True
-'ve	VERB	VBP	-	-	Support	True
-had	VERB	VBN	-	-	Support	True
-and	CCONJ	CC	-	-	Support	True
-in	ADP	IN	-	-	Support	True
-all	DET	DT	-	-	Support	True
-of	ADP	IN	-	-	Support	True
-the	DET	DT	-	-	Support	True
-people	NOUN	NNS	-	-	Support	True
-here	ADV	RB	-	-	Support	True
-.	PUNCT	.	-	-	-	False
+One	CD	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+evidence	NN	evidence.n	Evidence	25	-	-	False
+of	IN	-	-	-	Proposition	108	True
+human	JJ	-	-	-	Proposition	108	True
+creativity	NN	-	-	-	Proposition	108	True
+in	IN	-	-	-	Support	107	True
+all	DT	-	-	-	Support	107	True
+of	IN	-	-	-	Support	107	True
+the	DT	-	-	-	Support	107	True
+presentations	NNS	-	-	-	Support	107	True
+that	WDT	-	-	-	Support	107	True
+we	PRP	-	-	-	Support	107	True
+'ve	VBP	-	-	-	Support	107	True
+had	VBN	-	-	-	Support	107	True
+and	CC	-	-	-	Support	107	True
+in	IN	-	-	-	Support	107	True
+all	DT	-	-	-	Support	107	True
+of	IN	-	-	-	Support	107	True
+the	DT	-	-	-	Support	107	True
+people	NNS	-	-	-	Support	107	True
+here	RB	-	-	-	Support	107	True
+.	.	-	-	-	-	-	False
 
-Eines	INTJ	NNP	-	-	-	False
-sind	INTJ	NN	-	-	-	False
-die	X	VBP	-	-	-	False
-überwältigenden	X	NNP	-	-	-	False
-Zeugnisse	PROPN	NNP	zeugnis.n	Evidence	-	False
-menschlicher	PROPN	NN	-	-	Proposition	True
-Kreativität	PROPN	NNP	-	-	Proposition	True
-in	ADP	IN	-	-	Depictive	False
-allen	PROPN	NNP	-	-	Depictive	False
-Vorträgen	PROPN	NNP	-	-	Depictive	False
-,	PUNCT	,	-	-	Depictive	False
-die	VERB	VBP	-	-	Depictive	False
-wir	X	NN	-	-	Depictive	False
-gehört	X	FW	-	-	Depictive	False
-haben	X	FW	-	-	Depictive	False
-und	X	FW	-	-	Depictive	False
-in	ADP	IN	-	-	Depictive	False
-allen	PROPN	NN	-	-	Depictive	False
-Menschen	PROPN	NNP	-	-	Depictive	False
-hier	ADJ	NN	-	-	Depictive	False
---	PUNCT	:	-	-	-	False
-allein	X	FW	-	-	Support	True
-ihre	X	FW	-	-	Support	True
-Vielfalt	X	FW	-	-	Support	True
-und	X	FW	-	-	Support	True
-ihre	X	FW	-	-	Support	True
-Bandbreite	PROPN	NNP	-	-	Support	True
-.	PUNCT	.	-	-	-	False
+Eines	NNP	-	-	-	-	-	False
+sind	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+überwältigenden	NNP	-	-	-	-	-	False
+Zeugnisse	NNP	zeugnis.n	Evidence	25	-	-	False
+menschlicher	NN	-	-	-	Proposition	108	True
+Kreativität	NNP	-	-	-	Proposition	108	True
+in	IN	-	-	-	Depictive	1023	False
+allen	NNP	-	-	-	Depictive	1023	False
+Vorträgen	NNP	-	-	-	Depictive	1023	False
+,	,	-	-	-	Depictive	1023	False
+die	VBP	-	-	-	Depictive	1023	False
+wir	NN	-	-	-	Depictive	1023	False
+gehört	FW	-	-	-	Depictive	1023	False
+haben	FW	-	-	-	Depictive	1023	False
+und	FW	-	-	-	Depictive	1023	False
+in	IN	-	-	-	Depictive	1023	False
+allen	NN	-	-	-	Depictive	1023	False
+Menschen	NNP	-	-	-	Depictive	1023	False
+hier	NN	-	-	-	Depictive	1023	False
+--	:	-	-	-	-	-	False
+allein	FW	-	-	-	Support	107	True
+ihre	FW	-	-	-	Support	107	True
+Vielfalt	FW	-	-	-	Support	107	True
+und	FW	-	-	-	Support	107	True
+ihre	FW	-	-	-	Support	107	True
+Bandbreite	NNP	-	-	-	Support	107	True
+.	.	-	-	-	-	-	False

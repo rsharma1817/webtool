@@ -1,29 +1,29 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'re	VERB	VBP	-	-	-	False
-at	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-dinner	NOUN	NN	-	-	-	False
-party	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	Speaker	True
-say	VERB	VBP	say.v	Statement	-	False
-you	PRON	PRP	-	-	Message	True
-work	VERB	VBP	-	-	Message	True
-in	ADP	IN	-	-	Message	True
-education	NOUN	NN	-	-	Message	True
---	PUNCT	:	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'re	VBP	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+dinner	NN	-	-	-	-	-	False
+party	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+you	PRP	-	-	-	Speaker	183	True
+say	VBP	say.v	Statement	43	-	-	False
+you	PRP	-	-	-	Message	185	True
+work	VBP	-	-	-	Message	185	True
+in	IN	-	-	-	Message	185	True
+education	NN	-	-	-	Message	185	True
+--	:	-	-	-	-	-	False
 
-Se	X	FW	-	-	-	False
-você	X	FW	-	-	Speaker	True
-estiver	X	FW	-	-	-	False
-numa	X	FW	-	-	Occasion	False
-festa	X	FW	-	-	Occasion	False
-e	X	FW	-	-	-	False
-disser	X	FW	dizer.v	Statement	-	False
-que	X	FW	-	-	Message	True
-trabalha	X	FW	-	-	Message	True
-com	X	FW	-	-	Message	True
-educação	X	FW	-	-	Message	True
-...	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	Speaker	183	True
+estiver	FW	-	-	-	-	-	False
+numa	FW	-	-	-	Occasion	4533	False
+festa	FW	-	-	-	Occasion	4533	False
+e	FW	-	-	-	-	-	False
+disser	FW	dizer.v	Statement	43	-	-	False
+que	FW	-	-	-	Message	185	True
+trabalha	FW	-	-	-	Message	185	True
+com	FW	-	-	-	Message	185	True
+educação	FW	-	-	-	Message	185	True
+...	.	-	-	-	-	-	False

@@ -1,59 +1,59 @@
-I	PRON	PRP	-	-	-	False
-'m	VERB	VBP	-	-	-	False
-doing	VERB	VBG	-	-	-	False
-a	DET	DT	-	-	-	False
-new	ADJ	JJ	-	-	Descriptor	False
-book	NOUN	NN	book.n	Text	Text	True
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-moment	NOUN	NN	-	-	-	False
-called	VERB	VBN	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epiphany	PROPN	NNP	-	-	-	False
-,'	PUNCT	''	-	-	-	False
-which	PRON	WDT	-	-	Topic	False
-is	VERB	VBZ	-	-	Topic	False
-based	VERB	VBN	-	-	Topic	False
-on	ADP	IN	-	-	Topic	False
-a	DET	DT	-	-	Topic	False
-series	NOUN	NN	-	-	Topic	False
-of	ADP	IN	-	-	Topic	False
-interviews	NOUN	NNS	-	-	Topic	False
-with	ADP	IN	-	-	Topic	False
-people	NOUN	NNS	-	-	Topic	False
-about	ADP	IN	-	-	Topic	False
-how	ADV	WRB	-	-	Topic	False
-they	PRON	PRP	-	-	Topic	False
-discovered	VERB	VBD	-	-	Topic	False
-their	PRON	PRP$	-	-	Topic	False
-talent	NOUN	NN	-	-	Topic	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'m	VBP	-	-	-	-	-	False
+doing	VBG	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+new	JJ	-	-	-	Descriptor	14620	False
+book	NN	book.n	Text	298	Text	2545	True
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+moment	NN	-	-	-	-	-	False
+called	VBN	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epiphany	NNP	-	-	-	-	-	False
+,'	''	-	-	-	-	-	False
+which	WDT	-	-	-	Topic	2554	False
+is	VBZ	-	-	-	Topic	2554	False
+based	VBN	-	-	-	Topic	2554	False
+on	IN	-	-	-	Topic	2554	False
+a	DT	-	-	-	Topic	2554	False
+series	NN	-	-	-	Topic	2554	False
+of	IN	-	-	-	Topic	2554	False
+interviews	NNS	-	-	-	Topic	2554	False
+with	IN	-	-	-	Topic	2554	False
+people	NNS	-	-	-	Topic	2554	False
+about	IN	-	-	-	Topic	2554	False
+how	WRB	-	-	-	Topic	2554	False
+they	PRP	-	-	-	Topic	2554	False
+discovered	VBD	-	-	-	Topic	2554	False
+their	PRP$	-	-	-	Topic	2554	False
+talent	NN	-	-	-	Topic	2554	False
+.	.	-	-	-	-	-	False
 
-Estou	PROPN	NNP	-	-	-	False
-escrevendo	NOUN	NNP	-	-	-	False
-um	INTJ	UH	-	-	-	False
-livro	X	FW	livro.n	Text	-	False
-atualmente	X	FW	-	-	-	False
-chamado	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Epifania	PROPN	NNP	-	-	Title	False
-'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-baseado	X	FW	-	-	-	False
-numa	X	FW	-	-	-	False
-série	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-entrevistas	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-fiz	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-as	ADP	FW	-	-	-	False
-pessoas	X	FW	-	-	-	False
-descobriram	X	FW	-	-	-	False
-seus	X	FW	-	-	-	False
-talentos	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Estou	NNP	-	-	-	-	-	False
+escrevendo	NNP	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+livro	FW	livro.n	Text	298	-	-	False
+atualmente	FW	-	-	-	-	-	False
+chamado	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Epifania	NNP	-	-	-	Title	2555	False
+'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+baseado	FW	-	-	-	-	-	False
+numa	FW	-	-	-	-	-	False
+série	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+entrevistas	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+fiz	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	-	-	False
+descobriram	FW	-	-	-	-	-	False
+seus	FW	-	-	-	-	-	False
+talentos	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

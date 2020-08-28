@@ -1,32 +1,32 @@
-But	CCONJ	CC	-	-	-	False
-if	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-ask	VERB	VBP	-	-	-	False
-about	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	Student	True
-education	NOUN	NN	education.n	Education_teaching	-	False
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	-	False
-pin	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-to	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-wall	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+if	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+ask	VBP	-	-	-	-	-	False
+about	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	Student	542	True
+education	NN	education.n	Education_teaching	111	-	-	False
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+pin	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+wall	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-você	X	FW	-	-	-	False
-perguntar	X	FW	-	-	-	False
-sobre	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-educação	X	FW	educação.n	Education_teaching	-	False
-deles	X	FW	-	-	Student	True
-,	PUNCT	,	-	-	-	False
-eles	X	FW	-	-	-	False
-te	X	FW	-	-	-	False
-põem	X	FW	-	-	-	False
-contra	X	FW	-	-	-	False
-a	DET	FW	-	-	-	False
-parede	NOUN	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+perguntar	FW	-	-	-	-	-	False
+sobre	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+educação	FW	educação.n	Education_teaching	111	-	-	False
+deles	FW	-	-	-	Student	542	True
+,	,	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+te	FW	-	-	-	-	-	False
+põem	FW	-	-	-	-	-	False
+contra	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+parede	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

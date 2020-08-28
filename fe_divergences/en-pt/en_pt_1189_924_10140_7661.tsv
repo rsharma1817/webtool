@@ -1,72 +1,72 @@
-But	CCONJ	CC	-	-	-	False
-now	ADV	RB	-	-	-	False
-kids	NOUN	NNS	-	-	-	False
-with	ADP	IN	-	-	-	False
-degrees	NOUN	NNS	-	-	-	False
-are	VERB	VBP	-	-	-	False
-often	ADV	RB	-	-	-	False
-heading	VERB	VBG	-	-	-	False
-home	ADV	RB	-	-	-	False
-to	PART	TO	-	-	-	False
-carry	VERB	VB	-	-	-	False
-on	ADP	RP	-	-	-	False
-playing	VERB	VBG	-	-	-	False
-video	NOUN	NN	-	-	-	False
-games	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-an	DET	DT	-	-	-	False
-MA	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-the	DET	DT	-	-	-	False
-previous	ADJ	JJ	-	-	-	False
-job	NOUN	NN	-	-	-	False
-required	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-BA	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-now	ADV	RB	now.adv	Temporal_collocation	Landmark_period	True
-you	PRON	PRP	-	-	Trajector_event	True
-need	VERB	VBP	-	-	Trajector_event	True
-a	DET	DT	-	-	Trajector_event	True
-PhD	NOUN	NN	-	-	Trajector_event	True
-for	ADP	IN	-	-	Trajector_event	True
-the	DET	DT	-	-	Trajector_event	True
-other	ADJ	JJ	-	-	Trajector_event	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+kids	NNS	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+degrees	NNS	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+often	RB	-	-	-	-	-	False
+heading	VBG	-	-	-	-	-	False
+home	RB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+carry	VB	-	-	-	-	-	False
+on	RP	-	-	-	-	-	False
+playing	VBG	-	-	-	-	-	False
+video	NN	-	-	-	-	-	False
+games	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+MA	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+previous	JJ	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+required	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+BA	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+now	RB	now.adv	Temporal_collocation	1895	Landmark_period	12063	True
+you	PRP	-	-	-	Trajector_event	12064	True
+need	VBP	-	-	-	Trajector_event	12064	True
+a	DT	-	-	-	Trajector_event	12064	True
+PhD	NN	-	-	-	Trajector_event	12064	True
+for	IN	-	-	-	Trajector_event	12064	True
+the	DT	-	-	-	Trajector_event	12064	True
+other	JJ	-	-	-	Trajector_event	12064	True
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	-	False
-agora	X	FW	agora.adv	Temporal_collocation	-	False
-garotos	X	FW	-	-	Landmark_event	True
-com	X	FW	-	-	Landmark_event	True
-diplomas	X	FW	-	-	Landmark_event	True
-estão	X	FW	-	-	Landmark_event	True
-voltando	X	FW	-	-	Landmark_event	True
-para	X	FW	-	-	Landmark_event	True
-casa	X	FW	-	-	Landmark_event	True
-para	X	FW	-	-	Landmark_event	True
-jogar	X	FW	-	-	Landmark_event	True
-video	X	FW	-	-	Landmark_event	True
-game	X	FW	-	-	Landmark_event	True
-porque	X	FW	-	-	Landmark_event	True
-pedem	X	FW	-	-	Landmark_event	True
-mestrado	X	FW	-	-	Landmark_event	True
-para	X	FW	-	-	Landmark_event	True
-o	X	FW	-	-	Landmark_event	True
-trabalho	X	FW	-	-	Landmark_event	True
-que	X	FW	-	-	Landmark_event	True
-necessitava	X	FW	-	-	Landmark_event	True
-bacharelado	X	FW	-	-	Landmark_event	True
-,	PUNCT	,	-	-	Landmark_event	True
-e	X	FW	-	-	Landmark_event	True
-doutorado	X	FW	-	-	Landmark_event	True
-para	X	FW	-	-	Landmark_event	True
-o	X	FW	-	-	Landmark_event	True
-trabalho	X	FW	-	-	Landmark_event	True
-que	X	FW	-	-	Landmark_event	True
-necessitava	X	FW	-	-	Landmark_event	True
-mestrado	X	FW	-	-	Landmark_event	True
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	-	-	False
+agora	FW	agora.adv	Temporal_collocation	1895	-	-	False
+garotos	FW	-	-	-	Landmark_event	11269	True
+com	FW	-	-	-	Landmark_event	11269	True
+diplomas	FW	-	-	-	Landmark_event	11269	True
+estão	FW	-	-	-	Landmark_event	11269	True
+voltando	FW	-	-	-	Landmark_event	11269	True
+para	FW	-	-	-	Landmark_event	11269	True
+casa	FW	-	-	-	Landmark_event	11269	True
+para	FW	-	-	-	Landmark_event	11269	True
+jogar	FW	-	-	-	Landmark_event	11269	True
+video	FW	-	-	-	Landmark_event	11269	True
+game	FW	-	-	-	Landmark_event	11269	True
+porque	FW	-	-	-	Landmark_event	11269	True
+pedem	FW	-	-	-	Landmark_event	11269	True
+mestrado	FW	-	-	-	Landmark_event	11269	True
+para	FW	-	-	-	Landmark_event	11269	True
+o	FW	-	-	-	Landmark_event	11269	True
+trabalho	FW	-	-	-	Landmark_event	11269	True
+que	FW	-	-	-	Landmark_event	11269	True
+necessitava	FW	-	-	-	Landmark_event	11269	True
+bacharelado	FW	-	-	-	Landmark_event	11269	True
+,	,	-	-	-	Landmark_event	11269	True
+e	FW	-	-	-	Landmark_event	11269	True
+doutorado	FW	-	-	-	Landmark_event	11269	True
+para	FW	-	-	-	Landmark_event	11269	True
+o	FW	-	-	-	Landmark_event	11269	True
+trabalho	FW	-	-	-	Landmark_event	11269	True
+que	FW	-	-	-	Landmark_event	11269	True
+necessitava	FW	-	-	-	Landmark_event	11269	True
+mestrado	FW	-	-	-	Landmark_event	11269	True
+.	.	-	-	-	-	-	False

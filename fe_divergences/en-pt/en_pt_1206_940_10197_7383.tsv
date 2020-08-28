@@ -1,29 +1,29 @@
-There	PRON	EX	-	-	Main_assertion	True
-'s	VERB	VBZ	-	-	Main_assertion	True
-a	DET	DT	-	-	Main_assertion	True
-raft	NOUN	NN	-	-	Main_assertion	True
-of	ADP	IN	-	-	Main_assertion	True
-research	NOUN	NN	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	but.c	Concessive	-	False
-I	PRON	PRP	-	-	Conceded_state_of_affairs	True
-know	VERB	VBP	-	-	Conceded_state_of_affairs	True
-it	PRON	PRP	-	-	Conceded_state_of_affairs	True
-from	ADP	IN	-	-	Conceded_state_of_affairs	True
-my	PRON	PRP$	-	-	Conceded_state_of_affairs	True
-personal	ADJ	JJ	-	-	Conceded_state_of_affairs	True
-life	NOUN	NN	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	Main_assertion	13312	True
+'s	VBZ	-	-	-	Main_assertion	13312	True
+a	DT	-	-	-	Main_assertion	13312	True
+raft	NN	-	-	-	Main_assertion	13312	True
+of	IN	-	-	-	Main_assertion	13312	True
+research	NN	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+but	CC	but.c	Concessive	2150	-	-	False
+I	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+know	VBP	-	-	-	Conceded_state_of_affairs	13302	True
+it	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+from	IN	-	-	-	Conceded_state_of_affairs	13302	True
+my	PRP$	-	-	-	Conceded_state_of_affairs	13302	True
+personal	JJ	-	-	-	Conceded_state_of_affairs	13302	True
+life	NN	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False
 
-As	ADP	IN	-	-	Main_assertion	True
-pesquisas	X	FW	-	-	Main_assertion	True
-são	X	FW	-	-	Main_assertion	True
-abundantes	NOUN	FW	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	mas.c	Concessive	-	False
-eu	X	FW	-	-	Conceded_state_of_affairs	True
-sei	X	FW	-	-	Conceded_state_of_affairs	True
-por	X	FW	-	-	Conceded_state_of_affairs	True
-experiência	X	FW	-	-	Conceded_state_of_affairs	True
-própria	X	FW	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+As	IN	-	-	-	Main_assertion	13312	True
+pesquisas	FW	-	-	-	Main_assertion	13312	True
+são	FW	-	-	-	Main_assertion	13312	True
+abundantes	FW	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+mas	FW	mas.c	Concessive	2150	-	-	False
+eu	FW	-	-	-	Conceded_state_of_affairs	13302	True
+sei	FW	-	-	-	Conceded_state_of_affairs	13302	True
+por	FW	-	-	-	Conceded_state_of_affairs	13302	True
+experiência	FW	-	-	-	Conceded_state_of_affairs	13302	True
+própria	FW	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False

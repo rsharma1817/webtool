@@ -1,18 +1,18 @@
-People	NOUN	NNS	people.n	People	Person	True
-who	PRON	WP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-to	PART	TO	-	-	-	False
-move	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-think	VERB	VB	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+People	NNS	people.n	People	304	Person	2618	True
+who	WP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+move	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+think	VB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Pessoas	X	NNP	pessoa.n	People	-	False
-que	X	FW	-	-	-	False
-precisavam	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-mexer	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-pensar	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Pessoas	NNP	pessoa.n	People	304	-	-	False
+que	FW	-	-	-	-	-	False
+precisavam	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+mexer	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+pensar	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

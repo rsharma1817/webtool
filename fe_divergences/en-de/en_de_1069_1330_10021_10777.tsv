@@ -1,36 +1,36 @@
-We	PRON	PRP	-	-	-	False
-considered	VERB	VBD	-	-	-	False
-this	DET	DT	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-one	NUM	CD	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-lead	ADJ	JJ	lead.n	Performers_and_roles	-	False
-parts	NOUN	NNS	-	-	Performer2	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+considered	VBD	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+lead	JJ	lead.n	Performers_and_roles	413	-	-	False
+parts	NNS	-	-	-	Performer2	3859	True
+.	.	-	-	-	-	-	False
 
-'	PUNCT	''	-	-	-	False
-Die	VERB	VB	-	-	-	False
-Geburt	PROPN	NNP	-	-	-	False
-II	PROPN	NNP	-	-	-	False
-'	PUNCT	''	-	-	-	False
-James	PROPN	NNP	-	-	-	False
-spielte	PROPN	NNP	-	-	-	False
-den	PROPN	NNP	-	-	-	False
-Joseph	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-begeistert	X	FW	-	-	-	False
-waren	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-weil	X	NN	-	-	-	False
-wir	X	NN	-	-	-	False
-das	X	FW	-	-	Role	True
-als	X	FW	-	-	-	False
-eine	X	FW	-	-	-	False
-der	X	FW	-	-	-	False
-Hauptrollen	X	FW	Hauptrolle.n	Performers_and_roles	-	False
-betrachten	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+'	''	-	-	-	-	-	False
+Die	VB	-	-	-	-	-	False
+Geburt	NNP	-	-	-	-	-	False
+II	NNP	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+James	NNP	-	-	-	-	-	False
+spielte	NNP	-	-	-	-	-	False
+den	NNP	-	-	-	-	-	False
+Joseph	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+begeistert	FW	-	-	-	-	-	False
+waren	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+weil	NN	-	-	-	-	-	False
+wir	NN	-	-	-	-	-	False
+das	FW	-	-	-	Role	3796	True
+als	FW	-	-	-	-	-	False
+eine	FW	-	-	-	-	-	False
+der	FW	-	-	-	-	-	False
+Hauptrollen	FW	Hauptrolle.n	Performers_and_roles	413	-	-	False
+betrachten	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,70 +1,70 @@
-If	ADP	IN	-	-	-	False
-all	DET	DT	-	-	-	False
-human	ADJ	JJ	human being.n	People	Person	True
-beings	NOUN	NNS	human being.n	People	Person	True
-disappeared	VERB	VBD	-	-	-	False
-from	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-Earth	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-within	ADP	IN	-	-	-	False
-50	NUM	CD	-	-	-	False
-years	NOUN	NNS	-	-	-	False
-all	DET	DT	-	-	-	False
-forms	NOUN	NNS	-	-	-	False
-of	ADP	IN	-	-	-	False
-life	NOUN	NN	-	-	-	False
-would	AUX	MD	-	-	-	False
-flourish	VERB	VB	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+If	IN	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+human	JJ	human being.n	People	304	Person	2618	True
+beings	NNS	human being.n	People	304	Person	2618	True
+disappeared	VBD	-	-	-	-	-	False
+from	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+Earth	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+within	IN	-	-	-	-	-	False
+50	CD	-	-	-	-	-	False
+years	NNS	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+forms	NNS	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+life	NN	-	-	-	-	-	False
+would	MD	-	-	-	-	-	False
+flourish	VB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Existe	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-frase	X	FW	-	-	-	False
-maravilhosa	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-Jonas	PROPN	NNP	-	-	-	False
-Salk	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-diz	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-insetos	X	FW	-	-	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-50	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-toda	X	FW	-	-	-	False
-vida	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-Terra	X	FW	-	-	-	False
-desapareceria.Se	X	FW	-	-	-	False
-todos	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-humanos	X	FW	humano.n	People	-	False
-desaparecessem	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-Terra	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dentro	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-50	X	FW	-	-	-	False
-anos	X	FW	-	-	-	False
-todas	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-formas	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-vida	X	FW	-	-	-	False
-floresceriam	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Existe	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+frase	FW	-	-	-	-	-	False
+maravilhosa	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+Jonas	NNP	-	-	-	-	-	False
+Salk	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+diz	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+insetos	FW	-	-	-	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+50	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+toda	FW	-	-	-	-	-	False
+vida	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+Terra	FW	-	-	-	-	-	False
+desapareceria.Se	FW	-	-	-	-	-	False
+todos	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+humanos	FW	humano.n	People	304	-	-	False
+desaparecessem	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+Terra	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dentro	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+50	FW	-	-	-	-	-	False
+anos	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+formas	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+vida	FW	-	-	-	-	-	False
+floresceriam	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

@@ -1,31 +1,31 @@
-When	ADV	WRB	-	-	-	False
-I	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-student	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-if	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	Owner	True
-had	VERB	VBD	have.v	Possession	-	False
-a	DET	DT	-	-	Possession	True
-degree	NOUN	NN	-	-	Possession	True
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-had	VERB	VBD	-	-	-	False
-a	DET	DT	-	-	-	False
-job	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+When	WRB	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+student	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+if	IN	-	-	-	-	-	False
+you	PRP	-	-	-	Owner	573	True
+had	VBD	have.v	Possession	118	-	-	False
+a	DT	-	-	-	Possession	582	True
+degree	NN	-	-	-	Possession	582	True
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+had	VBD	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+job	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-eu	X	FW	-	-	-	False
-estudava	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	Owner	True
-tinha	X	FW	-	-	Owner	True
-um	INTJ	UH	-	-	Owner	True
-diploma	NOUN	NN	-	-	Owner	True
-,	PUNCT	,	-	-	-	False
-tinha	NOUN	NN	ter.v	Possession	-	False
-um	INTJ	UH	-	-	Possession	True
-emprego	NOUN	NN	-	-	Possession	True
-.	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+estudava	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	Owner	573	True
+tinha	FW	-	-	-	Owner	573	True
+um	UH	-	-	-	Owner	573	True
+diploma	NN	-	-	-	Owner	573	True
+,	,	-	-	-	-	-	False
+tinha	NN	ter.v	Possession	118	-	-	False
+um	UH	-	-	-	Possession	582	True
+emprego	NN	-	-	-	Possession	582	True
+.	.	-	-	-	-	-	False

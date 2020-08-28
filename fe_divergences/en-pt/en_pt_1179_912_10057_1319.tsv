@@ -1,49 +1,49 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-system	NOUN	NN	system.n	System	-	False
-of	ADP	IN	-	-	Function	True
-public	ADJ	JJ	-	-	Function	True
-education	NOUN	NN	-	-	Function	True
-around	ADP	IN	-	-	Descriptor	False
-the	DET	DT	-	-	Descriptor	False
-world	NOUN	NN	-	-	Descriptor	False
-is	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	Complex	True
-protracted	ADJ	JJ	-	-	Complex	True
-process	NOUN	NN	-	-	Complex	True
-of	ADP	IN	-	-	Complex	True
-university	NOUN	NN	-	-	Complex	True
-entrance	NOUN	NN	-	-	Complex	True
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+system	NN	system.n	System	1610	-	-	False
+of	IN	-	-	-	Function	8914	True
+public	JJ	-	-	-	Function	8914	True
+education	NN	-	-	-	Function	8914	True
+around	IN	-	-	-	Descriptor	8924	False
+the	DT	-	-	-	Descriptor	8924	False
+world	NN	-	-	-	Descriptor	8924	False
+is	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	Complex	8913	True
+protracted	JJ	-	-	-	Complex	8913	True
+process	NN	-	-	-	Complex	8913	True
+of	IN	-	-	-	Complex	8913	True
+university	NN	-	-	-	Complex	8913	True
+entrance	NN	-	-	-	Complex	8913	True
+.	.	-	-	-	-	-	False
 
-Se	VERB	FW	-	-	-	False
-você	NOUN	FW	-	-	-	False
-for	ADP	IN	-	-	-	False
-pensar	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-todo	X	FW	-	-	Component_entities	True
-o	X	FW	-	-	-	False
-sistema	X	FW	sistema.n	System	-	False
-de	X	FW	-	-	Function	True
-educação	X	FW	-	-	Function	True
-pública	X	FW	-	-	Function	True
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	VB	-	-	-	False
-mundo	X	NN	-	-	-	False
-é	X	UH	-	-	-	False
-um	INTJ	UH	-	-	-	False
-extensão	X	NN	-	-	-	False
-do	X	VB	-	-	-	False
-processo	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-ingresso	X	FW	-	-	-	False
-à	X	FW	-	-	-	False
-universidade	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Se	FW	-	-	-	-	-	False
+você	FW	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+pensar	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+todo	FW	-	-	-	Component_entities	8912	True
+o	FW	-	-	-	-	-	False
+sistema	FW	sistema.n	System	1610	-	-	False
+de	FW	-	-	-	Function	8914	True
+educação	FW	-	-	-	Function	8914	True
+pública	FW	-	-	-	Function	8914	True
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+mundo	NN	-	-	-	-	-	False
+é	UH	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+extensão	NN	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+processo	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+ingresso	FW	-	-	-	-	-	False
+à	FW	-	-	-	-	-	False
+universidade	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

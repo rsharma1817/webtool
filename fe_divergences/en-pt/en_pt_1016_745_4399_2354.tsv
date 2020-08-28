@@ -1,48 +1,48 @@
-The	DET	DT	-	-	-	False
-second	ADJ	JJ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-put	VERB	VBN	-	-	-	False
-us	PRON	PRP	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-place	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-we	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-no	DET	DT	-	-	-	False
-idea	NOUN	NN	-	-	-	False
-what	PRON	WP	-	-	Event	False
-'s	VERB	VBZ	-	-	-	False
-going	VERB	VBG	-	-	-	False
-to	PART	TO	-	-	-	False
-happen	VERB	VB	happen.v	Event	-	False
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	-	-	Manner	False
-terms	NOUN	NNS	-	-	Manner	False
-of	ADP	IN	-	-	Manner	False
-the	DET	DT	-	-	Manner	False
-future	NOUN	NN	-	-	Manner	False
-.	PUNCT	.	-	-	-	False
+The	DT	-	-	-	-	-	False
+second	JJ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+put	VBN	-	-	-	-	-	False
+us	PRP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+place	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+no	DT	-	-	-	-	-	False
+idea	NN	-	-	-	-	-	False
+what	WP	-	-	-	Event	1443	False
+'s	VBZ	-	-	-	-	-	False
+going	VBG	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+happen	VB	happen.v	Event	187	-	-	False
+,	,	-	-	-	-	-	False
+in	IN	-	-	-	Manner	4961	False
+terms	NNS	-	-	-	Manner	4961	False
+of	IN	-	-	-	Manner	4961	False
+the	DT	-	-	-	Manner	4961	False
+future	NN	-	-	-	Manner	4961	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-segundo	X	NN	-	-	-	False
-é	X	NN	-	-	-	False
-o	X	UH	-	-	-	False
-fato	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-fazemos	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-menor	X	FW	-	-	-	False
-idéia	X	FW	-	-	-	False
-do	X	VBP	-	-	Event	False
-que	X	FW	-	-	Event	False
-vai	X	FW	-	-	-	False
-acontecer	X	FW	acontecer.v	Event	-	False
-no	DET	DT	-	-	Time	True
-futuro	NOUN	NN	-	-	Time	True
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+segundo	NN	-	-	-	-	-	False
+é	NN	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+fato	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+fazemos	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+menor	FW	-	-	-	-	-	False
+idéia	FW	-	-	-	-	-	False
+do	VBP	-	-	-	Event	1443	False
+que	FW	-	-	-	Event	1443	False
+vai	FW	-	-	-	-	-	False
+acontecer	FW	acontecer.v	Event	187	-	-	False
+no	DT	-	-	-	Time	1446	True
+futuro	NN	-	-	-	Time	1446	True
+.	.	-	-	-	-	-	False

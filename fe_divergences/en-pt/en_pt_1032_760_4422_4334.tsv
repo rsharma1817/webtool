@@ -1,30 +1,30 @@
-Like	ADP	IN	-	-	-	False
-religion	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-money	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-other	ADJ	JJ	other.a	Increment	Added_set	True
-things	NOUN	NNS	-	-	Added_set	True
-.	PUNCT	.	-	-	-	False
+Like	IN	-	-	-	-	-	False
+religion	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+money	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+other	JJ	other.a	Increment	1001	Added_set	6124	True
+things	NNS	-	-	-	Added_set	6124	True
+.	.	-	-	-	-	-	False
 
-Porque	NOUN	NNP	-	-	-	False
-é	NOUN	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-dessas	X	FW	-	-	-	False
-coisas	X	FW	-	-	-	False
-arraigadas	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-pessoas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-estou	X	FW	-	-	-	False
-certo	X	FW	-	-	-	False
-?	PUNCT	.	-	-	-	False
-Como	X	NNP	-	-	-	False
-religião	X	NN	-	-	Initial_set	True
-,	PUNCT	,	-	-	Initial_set	True
-dinheiro	X	FW	-	-	Initial_set	True
-e	X	FW	-	-	-	False
-outras	X	FW	outro.a	Increment	Added_set	True
-coisas	X	FW	-	-	Added_set	True
-.	PUNCT	.	-	-	-	False
+Porque	NNP	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+dessas	FW	-	-	-	-	-	False
+coisas	FW	-	-	-	-	-	False
+arraigadas	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+pessoas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+estou	FW	-	-	-	-	-	False
+certo	FW	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+Como	NNP	-	-	-	-	-	False
+religião	NN	-	-	-	Initial_set	6125	True
+,	,	-	-	-	Initial_set	6125	True
+dinheiro	FW	-	-	-	Initial_set	6125	True
+e	FW	-	-	-	-	-	False
+outras	FW	outro.a	Increment	1001	Added_set	6124	True
+coisas	FW	-	-	-	Added_set	6124	True
+.	.	-	-	-	-	-	False

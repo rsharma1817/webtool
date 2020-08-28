@@ -1,20 +1,20 @@
-I	PRON	PRP	-	-	-	False
-lived	VERB	VBD	live.v	Residence	-	False
-in	ADP	IN	-	-	Location	True
-Stratford-on-Avon	PROPN	NNP	-	-	Location	True
-until	ADP	IN	-	-	Time	False
-about	ADV	RB	-	-	Time	False
-five	NUM	CD	-	-	Time	False
-years	NOUN	NNS	-	-	Time	False
-ago	ADV	RB	-	-	Time	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+lived	VBD	live.v	Residence	110	-	-	False
+in	IN	-	-	-	Location	536	True
+Stratford-on-Avon	NNP	-	-	-	Location	536	True
+until	IN	-	-	-	Time	11199	False
+about	RB	-	-	-	Time	11199	False
+five	CD	-	-	-	Time	11199	False
+years	NNS	-	-	-	Time	11199	False
+ago	RB	-	-	-	Time	11199	False
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Resident	True
-morei	X	FW	morar.v	Residence	-	False
-em	INTJ	FW	-	-	Location	True
-Stratford-on-Avon	PROPN	NNP	-	-	Location	True
-até	VERB	FW	-	-	Time	False
-cinco	X	FW	-	-	Time	False
-anos	X	FW	-	-	Time	False
-atrás	X	FW	-	-	Time	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Resident	535	True
+morei	FW	morar.v	Residence	110	-	-	False
+em	FW	-	-	-	Location	536	True
+Stratford-on-Avon	NNP	-	-	-	Location	536	True
+até	FW	-	-	-	Time	11199	False
+cinco	FW	-	-	-	Time	11199	False
+anos	FW	-	-	-	Time	11199	False
+atrás	FW	-	-	-	Time	11199	False
+.	.	-	-	-	-	-	False

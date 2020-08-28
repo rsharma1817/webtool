@@ -1,62 +1,62 @@
-She	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-six	NUM	CD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-back	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-drawing	VERB	VBG	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-teacher	NOUN	NN	teacher.n	Education_teaching	Teacher	True
-said	VERB	VBD	-	-	-	False
-this	DET	DT	-	-	-	False
-girl	NOUN	NN	-	-	-	False
-hardly	ADV	RB	-	-	-	False
-ever	ADV	RB	-	-	-	False
-paid	VERB	VBD	-	-	-	False
-attention	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-in	ADP	IN	-	-	-	False
-this	DET	DT	-	-	-	False
-drawing	NOUN	NN	-	-	-	False
-lesson	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-she	PRON	PRP	-	-	-	False
-did	VERB	VBD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+six	CD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+back	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+drawing	VBG	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+teacher	NN	teacher.n	Education_teaching	111	Teacher	541	True
+said	VBD	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+girl	NN	-	-	-	-	-	False
+hardly	RB	-	-	-	-	-	False
+ever	RB	-	-	-	-	-	False
+paid	VBD	-	-	-	-	-	False
+attention	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+drawing	NN	-	-	-	-	-	False
+lesson	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Sie	PROPN	UH	-	-	-	False
-war	NOUN	NN	-	-	-	False
-6	NUM	CD	-	-	-	False
-und	NOUN	FW	-	-	-	False
-malte	NOUN	FW	-	-	-	False
-hinten	VERB	FW	-	-	-	False
-in	ADP	FW	-	-	-	False
-der	X	FW	-	-	-	False
-letzten	X	FW	-	-	-	False
-Reihe	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-die	X	FW	-	-	-	False
-Lehrerin	X	FW	lehrerin.n	Education_teaching	-	False
-sagte	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	NNP	-	-	-	False
-dieses	X	NNP	-	-	-	False
-kleine	X	NNP	-	-	-	False
-Mädchen	X	NNP	-	-	-	False
-fast	X	NN	-	-	-	False
-nie	X	FW	-	-	-	False
-aufpasste	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-außer	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-der	X	NNP	-	-	-	False
-Zeichenstunde	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Sie	UH	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+6	CD	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+malte	FW	-	-	-	-	-	False
+hinten	FW	-	-	-	-	-	False
+in	FW	-	-	-	-	-	False
+der	FW	-	-	-	-	-	False
+letzten	FW	-	-	-	-	-	False
+Reihe	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+die	FW	-	-	-	-	-	False
+Lehrerin	FW	lehrerin.n	Education_teaching	111	-	-	False
+sagte	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	NNP	-	-	-	-	-	False
+dieses	NNP	-	-	-	-	-	False
+kleine	NNP	-	-	-	-	-	False
+Mädchen	NNP	-	-	-	-	-	False
+fast	NN	-	-	-	-	-	False
+nie	FW	-	-	-	-	-	False
+aufpasste	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+außer	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+der	NNP	-	-	-	-	-	False
+Zeichenstunde	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

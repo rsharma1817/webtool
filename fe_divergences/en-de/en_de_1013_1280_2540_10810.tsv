@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-have	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-three	NUM	CD	-	-	-	False
-themes	NOUN	NNS	-	-	-	False
-running	VERB	VBG	-	-	-	False
-through	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-conference	NOUN	NN	-	-	-	False
-which	PRON	WDT	-	-	-	False
-are	VERB	VBP	-	-	-	False
-relevant	ADJ	JJ	-	-	-	False
-to	ADP	IN	-	-	-	False
-what	PRON	WP	-	-	Topic	True
-I	PRON	PRP	-	-	Interlocutor_1	True
-want	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-talk	VERB	VB	talk (to).v	Discussion	-	False
-about	ADP	IN	-	-	Topic	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+three	CD	-	-	-	-	-	False
+themes	NNS	-	-	-	-	-	False
+running	VBG	-	-	-	-	-	False
+through	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+conference	NN	-	-	-	-	-	False
+which	WDT	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+relevant	JJ	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+what	WP	-	-	-	Topic	143	True
+I	PRP	-	-	-	Interlocutor_1	140	True
+want	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+talk	VB	talk (to).v	Discussion	34	-	-	False
+about	IN	-	-	-	Topic	143	True
+.	.	-	-	-	-	-	False
 
-Es	X	FW	-	-	-	False
-gab	X	FW	-	-	-	False
-drei	X	FW	-	-	-	False
-Leitmotive	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-sich	ADJ	JJ	-	-	-	False
-durch	NOUN	NN	-	-	-	False
-die	VERB	VBP	-	-	-	False
-Konferenz	PROPN	NNP	konferenz.n	Discussion	-	False
-zogen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-wichtig	NOUN	FW	-	-	-	False
-sind	NOUN	FW	-	-	-	False
-für	NOUN	FW	-	-	-	False
-das	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-worüber	X	FW	-	-	-	False
-ich	X	FW	-	-	-	False
-sprechen	X	FW	-	-	-	False
-will	NOUN	MD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Es	FW	-	-	-	-	-	False
+gab	FW	-	-	-	-	-	False
+drei	FW	-	-	-	-	-	False
+Leitmotive	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+sich	JJ	-	-	-	-	-	False
+durch	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+Konferenz	NNP	konferenz.n	Discussion	34	-	-	False
+zogen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+wichtig	FW	-	-	-	-	-	False
+sind	FW	-	-	-	-	-	False
+für	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+worüber	FW	-	-	-	-	-	False
+ich	FW	-	-	-	-	-	False
+sprechen	FW	-	-	-	-	-	False
+will	MD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

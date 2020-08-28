@@ -1,50 +1,50 @@
-My	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-now	ADV	RB	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-as	ADV	RB	-	-	-	False
-important	ADJ	JJ	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-as	ADP	IN	-	-	-	False
-literacy	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	Agent	True
-should	AUX	MD	-	-	-	False
-treat	VERB	VB	treat.v	Treating_and_mistreating	-	False
-it	PRON	PRP	-	-	Affected_party	True
-with	ADP	IN	-	-	Manner	True
-the	DET	DT	-	-	Manner	True
-same	ADJ	JJ	-	-	Manner	True
-status	NOUN	NN	-	-	Manner	True
-.	PUNCT	.	-	-	-	False
+My	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+as	RB	-	-	-	-	-	False
+important	JJ	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+literacy	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	Agent	15770	True
+should	MD	-	-	-	-	-	False
+treat	VB	treat.v	Treating_and_mistreating	2770	-	-	False
+it	PRP	-	-	-	Affected_party	15773	True
+with	IN	-	-	-	Manner	15771	True
+the	DT	-	-	-	Manner	15771	True
+same	JJ	-	-	-	Manner	15771	True
+status	NN	-	-	-	Manner	15771	True
+.	.	-	-	-	-	-	False
 
-Meine	PROPN	NNP	-	-	-	False
-Überzeugung	PROPN	NNP	-	-	-	False
-ist	PROPN	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	NN	-	-	-	False
-Kreativität	X	NNP	-	-	-	False
-heute	X	FW	-	-	-	False
-genauso	X	FW	-	-	-	False
-wichtig	X	FW	-	-	-	False
-für	X	FW	-	-	-	False
-Bildung	PROPN	NNP	-	-	-	False
-ist	PROPN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	X	NNP	-	-	-	False
-Lesen	X	NNP	-	-	-	False
-und	X	NNP	-	-	-	False
-Schreiben	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-wir	X	FW	-	-	Agent	True
-sollten	X	FW	-	-	-	False
-sie	X	FW	-	-	Affected_party	True
-gleichwertig	X	FW	-	-	Manner	True
-behandeln	X	FW	behandeln.v	Treating_and_mistreating	-	False
-.	PUNCT	.	-	-	-	False
+Meine	NNP	-	-	-	-	-	False
+Überzeugung	NNP	-	-	-	-	-	False
+ist	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	NN	-	-	-	-	-	False
+Kreativität	NNP	-	-	-	-	-	False
+heute	FW	-	-	-	-	-	False
+genauso	FW	-	-	-	-	-	False
+wichtig	FW	-	-	-	-	-	False
+für	FW	-	-	-	-	-	False
+Bildung	NNP	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	NNP	-	-	-	-	-	False
+Lesen	NNP	-	-	-	-	-	False
+und	NNP	-	-	-	-	-	False
+Schreiben	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+wir	FW	-	-	-	Agent	15770	True
+sollten	FW	-	-	-	-	-	False
+sie	FW	-	-	-	Affected_party	15773	True
+gleichwertig	FW	-	-	-	Manner	15771	True
+behandeln	FW	behandeln.v	Treating_and_mistreating	2770	-	-	False
+.	.	-	-	-	-	-	False

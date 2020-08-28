@@ -1,24 +1,24 @@
-You	PRON	PRP	-	-	Main_assertion	True
-'d	AUX	MD	-	-	Main_assertion	True
-think	VERB	VB	-	-	Main_assertion	True
-it	PRON	PRP	-	-	Main_assertion	True
-would	AUX	MD	-	-	Main_assertion	True
-be	VERB	VB	-	-	Main_assertion	True
-otherwise	ADV	RB	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	but.c	Concessive	-	False
-it	PRON	PRP	-	-	Conceded_state_of_affairs	True
-is	VERB	VBZ	-	-	Conceded_state_of_affairs	True
-n't	ADV	RB	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+You	PRP	-	-	-	Main_assertion	13312	True
+'d	MD	-	-	-	Main_assertion	13312	True
+think	VB	-	-	-	Main_assertion	13312	True
+it	PRP	-	-	-	Main_assertion	13312	True
+would	MD	-	-	-	Main_assertion	13312	True
+be	VB	-	-	-	Main_assertion	13312	True
+otherwise	RB	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+but	CC	but.c	Concessive	2150	-	-	False
+it	PRP	-	-	-	Conceded_state_of_affairs	13302	True
+is	VBZ	-	-	-	Conceded_state_of_affairs	13302	True
+n't	RB	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False
 
-Você	X	FW	-	-	Main_assertion	True
-pensa	X	FW	-	-	Main_assertion	True
-que	X	FW	-	-	Main_assertion	True
-seria	X	FW	-	-	Main_assertion	True
-diferente	X	FW	-	-	Main_assertion	True
-,	PUNCT	,	-	-	-	False
-mas	X	FW	mas.c	Concessive	-	False
-não	X	FW	-	-	Conceded_state_of_affairs	True
-é	X	FW	-	-	Conceded_state_of_affairs	True
-.	PUNCT	.	-	-	-	False
+Você	FW	-	-	-	Main_assertion	13312	True
+pensa	FW	-	-	-	Main_assertion	13312	True
+que	FW	-	-	-	Main_assertion	13312	True
+seria	FW	-	-	-	Main_assertion	13312	True
+diferente	FW	-	-	-	Main_assertion	13312	True
+,	,	-	-	-	-	-	False
+mas	FW	mas.c	Concessive	2150	-	-	False
+não	FW	-	-	-	Conceded_state_of_affairs	13302	True
+é	FW	-	-	-	Conceded_state_of_affairs	13302	True
+.	.	-	-	-	-	-	False

@@ -1,50 +1,50 @@
-My	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-creativity	NOUN	NN	-	-	Factor	True
-now	ADV	RB	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-as	ADV	RB	-	-	Degree	False
-important	ADJ	JJ	important.a	Importance	-	False
-in	ADP	IN	-	-	Field	True
-education	NOUN	NN	-	-	Field	True
-as	ADP	IN	-	-	Degree	False
-literacy	NOUN	NN	-	-	Degree	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	-	False
-should	AUX	MD	-	-	-	False
-treat	VERB	VB	-	-	-	False
-it	PRON	PRP	-	-	-	False
-with	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-same	ADJ	JJ	-	-	-	False
-status	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+My	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+creativity	NN	-	-	-	Factor	3749	True
+now	RB	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+as	RB	-	-	-	Degree	3752	False
+important	JJ	important.a	Importance	407	-	-	False
+in	IN	-	-	-	Field	3772	True
+education	NN	-	-	-	Field	3772	True
+as	IN	-	-	-	Degree	3752	False
+literacy	NN	-	-	-	Degree	3752	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+should	MD	-	-	-	-	-	False
+treat	VB	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+with	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+same	JJ	-	-	-	-	-	False
+status	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Meine	PROPN	NNP	-	-	-	False
-Überzeugung	PROPN	NNP	-	-	-	False
-ist	PROPN	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	NN	-	-	-	False
-Kreativität	X	NNP	-	-	Factor	True
-heute	X	FW	-	-	Time	False
-genauso	X	FW	-	-	-	False
-wichtig	X	FW	wichtig.a	Importance	-	False
-für	X	FW	-	-	Field	True
-Bildung	PROPN	NNP	-	-	Field	True
-ist	PROPN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	X	NNP	-	-	-	False
-Lesen	X	NNP	-	-	-	False
-und	X	NNP	-	-	-	False
-Schreiben	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-sollten	X	FW	-	-	-	False
-sie	X	FW	-	-	-	False
-gleichwertig	X	FW	-	-	-	False
-behandeln	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Meine	NNP	-	-	-	-	-	False
+Überzeugung	NNP	-	-	-	-	-	False
+ist	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	NN	-	-	-	-	-	False
+Kreativität	NNP	-	-	-	Factor	3749	True
+heute	FW	-	-	-	Time	10106	False
+genauso	FW	-	-	-	-	-	False
+wichtig	FW	wichtig.a	Importance	407	-	-	False
+für	FW	-	-	-	Field	3772	True
+Bildung	NNP	-	-	-	Field	3772	True
+ist	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	NNP	-	-	-	-	-	False
+Lesen	NNP	-	-	-	-	-	False
+und	NNP	-	-	-	-	-	False
+Schreiben	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+sollten	FW	-	-	-	-	-	False
+sie	FW	-	-	-	-	-	False
+gleichwertig	FW	-	-	-	-	-	False
+behandeln	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

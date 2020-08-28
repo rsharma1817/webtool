@@ -1,45 +1,45 @@
-And	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-exceptional	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-she	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-not	ADV	RB	not.adv	Negation	-	False
-,	PUNCT	,	-	-	-	False
-so	ADV	RB	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-exceptional	ADJ	JJ	-	-	Negated_proposition	True
-in	ADP	IN	-	-	Negated_proposition	True
-the	DET	DT	-	-	Negated_proposition	True
-whole	NOUN	NN	-	-	Negated_proposition	True
-of	ADP	IN	-	-	Negated_proposition	True
-childhood	NOUN	NN	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+exceptional	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+not	RB	not.adv	Negation	2860	-	-	False
+,	,	-	-	-	-	-	False
+so	RB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+exceptional	JJ	-	-	-	Negated_proposition	16210	True
+in	IN	-	-	-	Negated_proposition	16210	True
+the	DT	-	-	-	Negated_proposition	16210	True
+whole	NN	-	-	-	Negated_proposition	16210	True
+of	IN	-	-	-	Negated_proposition	16210	True
+childhood	NN	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
 
-Ela	INTJ	UH	-	-	-	False
-é	INTJ	UH	-	-	-	False
-excepcional	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-mas	X	FW	-	-	-	False
-não	X	FW	não.adv	Negation	-	False
-acho	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-por	X	FW	-	-	-	False
-assim	X	FW	-	-	-	False
-dizer	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	Negated_proposition	True
-seja	X	FW	-	-	Negated_proposition	True
-uma	X	FW	-	-	Negated_proposition	True
-exceção	X	FW	-	-	Negated_proposition	True
-entre	X	FW	-	-	Negated_proposition	True
-todas	X	FW	-	-	Negated_proposition	True
-as	ADP	IN	-	-	Negated_proposition	True
-crianças	NOUN	FW	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+Ela	UH	-	-	-	-	-	False
+é	UH	-	-	-	-	-	False
+excepcional	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+mas	FW	-	-	-	-	-	False
+não	FW	não.adv	Negation	2860	-	-	False
+acho	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+assim	FW	-	-	-	-	-	False
+dizer	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	Negated_proposition	16210	True
+seja	FW	-	-	-	Negated_proposition	16210	True
+uma	FW	-	-	-	Negated_proposition	16210	True
+exceção	FW	-	-	-	Negated_proposition	16210	True
+entre	FW	-	-	-	Negated_proposition	16210	True
+todas	FW	-	-	-	Negated_proposition	16210	True
+as	IN	-	-	-	Negated_proposition	16210	True
+crianças	FW	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False

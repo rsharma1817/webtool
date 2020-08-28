@@ -1,19 +1,19 @@
-If	ADP	IN	-	-	-	False
-you	PRON	PRP	-	-	-	False
-work	VERB	VBP	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	Negated_proposition	True
-'re	VERB	VBP	-	-	Negated_proposition	True
-not	ADV	RB	not.adv	Negation	-	False
-asked	VERB	VBN	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+If	IN	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+work	VBP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	Negated_proposition	16210	True
+'re	VBP	-	-	-	Negated_proposition	16210	True
+not	RB	not.adv	Negation	2860	-	-	False
+asked	VBN	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False
 
-Man	INTJ	UH	-	-	Negated_proposition	True
-wird	NOUN	NN	-	-	Negated_proposition	True
-erst	X	NN	-	-	-	False
-gar	X	NN	gar nicht.adv	Negation	-	False
-nicht	X	NN	gar nicht.adv	Negation	-	False
-eingeladen	X	NN	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+Man	UH	-	-	-	Negated_proposition	16210	True
+wird	NN	-	-	-	Negated_proposition	16210	True
+erst	NN	-	-	-	-	-	False
+gar	NN	gar nicht.adv	Negation	2860	-	-	False
+nicht	NN	gar nicht.adv	Negation	2860	-	-	False
+eingeladen	NN	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False

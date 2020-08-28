@@ -1,62 +1,62 @@
-She	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-six	NUM	CD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-she	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-at	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-back	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-drawing	VERB	VBG	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Speaker	True
-teacher	NOUN	NN	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-this	DET	DT	-	-	Message	True
-girl	NOUN	NN	-	-	Message	True
-hardly	ADV	RB	-	-	Message	True
-ever	ADV	RB	-	-	Message	True
-paid	VERB	VBD	-	-	Message	True
-attention	NOUN	NN	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-and	CCONJ	CC	-	-	Message	True
-in	ADP	IN	-	-	Message	True
-this	DET	DT	-	-	Message	True
-drawing	NOUN	NN	-	-	Message	True
-lesson	NOUN	NN	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-she	PRON	PRP	-	-	Message	True
-did	VERB	VBD	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+She	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+six	CD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+she	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+back	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+drawing	VBG	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+the	DT	-	-	-	Speaker	183	True
+teacher	NN	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+this	DT	-	-	-	Message	185	True
+girl	NN	-	-	-	Message	185	True
+hardly	RB	-	-	-	Message	185	True
+ever	RB	-	-	-	Message	185	True
+paid	VBD	-	-	-	Message	185	True
+attention	NN	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+and	CC	-	-	-	Message	185	True
+in	IN	-	-	-	Message	185	True
+this	DT	-	-	-	Message	185	True
+drawing	NN	-	-	-	Message	185	True
+lesson	NN	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+she	PRP	-	-	-	Message	185	True
+did	VBD	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
 
-Sie	PROPN	UH	-	-	-	False
-war	NOUN	NN	-	-	-	False
-6	NUM	CD	-	-	-	False
-und	NOUN	FW	-	-	-	False
-malte	NOUN	FW	-	-	-	False
-hinten	VERB	FW	-	-	-	False
-in	ADP	FW	-	-	-	False
-der	X	FW	-	-	-	False
-letzten	X	FW	-	-	-	False
-Reihe	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-die	X	FW	-	-	Speaker	True
-Lehrerin	X	FW	-	-	Speaker	True
-sagte	X	FW	sagen.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	NNP	-	-	Message	True
-dieses	X	NNP	-	-	Message	True
-kleine	X	NNP	-	-	Message	True
-Mädchen	X	NNP	-	-	Message	True
-fast	X	NN	-	-	Message	True
-nie	X	FW	-	-	Message	True
-aufpasste	X	FW	-	-	Message	True
-,	PUNCT	,	-	-	Message	True
-außer	NOUN	NN	-	-	Message	True
-in	ADP	IN	-	-	Message	True
-der	X	NNP	-	-	Message	True
-Zeichenstunde	PROPN	NNP	-	-	Message	True
-.	PUNCT	.	-	-	-	False
+Sie	UH	-	-	-	-	-	False
+war	NN	-	-	-	-	-	False
+6	CD	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+malte	FW	-	-	-	-	-	False
+hinten	FW	-	-	-	-	-	False
+in	FW	-	-	-	-	-	False
+der	FW	-	-	-	-	-	False
+letzten	FW	-	-	-	-	-	False
+Reihe	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+die	FW	-	-	-	Speaker	183	True
+Lehrerin	FW	-	-	-	Speaker	183	True
+sagte	FW	sagen.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+dass	NNP	-	-	-	Message	185	True
+dieses	NNP	-	-	-	Message	185	True
+kleine	NNP	-	-	-	Message	185	True
+Mädchen	NNP	-	-	-	Message	185	True
+fast	NN	-	-	-	Message	185	True
+nie	FW	-	-	-	Message	185	True
+aufpasste	FW	-	-	-	Message	185	True
+,	,	-	-	-	Message	185	True
+außer	NN	-	-	-	Message	185	True
+in	IN	-	-	-	Message	185	True
+der	NNP	-	-	-	Message	185	True
+Zeichenstunde	NNP	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False

@@ -1,33 +1,33 @@
-And	CCONJ	CC	-	-	-	False
-by	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-time	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-get	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-adults	NOUN	NNS	-	-	-	False
-,	PUNCT	,	-	-	-	False
-most	ADJ	JJS	-	-	Descriptor	False
-kids	NOUN	NNS	kid.n	People_by_age	Person	True
-have	VERB	VBP	-	-	-	False
-lost	VERB	VBN	-	-	-	False
-that	DET	DT	-	-	-	False
-capacity	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+time	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+get	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+adults	NNS	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+most	JJS	-	-	-	Descriptor	5939	False
+kids	NNS	kid.n	People_by_age	973	Person	5937	True
+have	VBP	-	-	-	-	-	False
+lost	VBN	-	-	-	-	-	False
+that	DT	-	-	-	-	-	False
+capacity	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	X	NN	-	-	-	False
-quando	X	NN	-	-	-	False
-chegam	X	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-fase	ADJ	JJ	-	-	-	False
-adulta	NOUN	NN	adulto.a	People_by_age	-	False
-,	PUNCT	,	-	-	-	False
-a	DET	DT	-	-	-	False
-maioria	X	FW	-	-	-	False
-das	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-perdeu	X	FW	-	-	-	False
-essa	X	FW	-	-	-	False
-capacidade	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+quando	NN	-	-	-	-	-	False
+chegam	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+fase	JJ	-	-	-	-	-	False
+adulta	NN	adulto.a	People_by_age	973	-	-	False
+,	,	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+maioria	FW	-	-	-	-	-	False
+das	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+perdeu	FW	-	-	-	-	-	False
+essa	FW	-	-	-	-	-	False
+capacidade	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

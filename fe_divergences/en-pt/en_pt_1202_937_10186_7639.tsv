@@ -1,53 +1,53 @@
-By	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-way	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-a	DET	DT	-	-	-	False
-shaft	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-nerves	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-joins	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-two	NUM	CD	two.num	Cardinal_numbers	Number	True
-halves	NOUN	NNS	-	-	Entity	True
-of	ADP	IN	-	-	Entity	True
-the	DET	DT	-	-	Entity	True
-brain	NOUN	NN	-	-	Entity	True
-called	VERB	VBN	-	-	-	False
-the	DET	DT	-	-	-	False
-corpus	NOUN	NN	-	-	-	False
-callosum	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+By	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+there	EX	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+shaft	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+nerves	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+joins	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+two	CD	two.num	Cardinal_numbers	218	Number	3622	True
+halves	NNS	-	-	-	Entity	3623	True
+of	IN	-	-	-	Entity	3623	True
+the	DT	-	-	-	Entity	3623	True
+brain	NN	-	-	-	Entity	3623	True
+called	VBN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+corpus	NN	-	-	-	-	-	False
+callosum	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-cérebro	NOUN	NN	-	-	-	False
-é	NOUN	NN	-	-	-	False
-intencionalmente	NOUN	NN	-	-	-	False
-...	PUNCT	NFP	-	-	-	False
-Por	NOUN	IN	-	-	-	False
-sinal	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-existe	INTJ	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-feixe	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-filamentos	X	FW	-	-	-	False
-nervosos	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-conecta	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-dois	X	FW	dois.num	Cardinal_numbers	-	False
-lados	X	FW	-	-	Entity	True
-do	X	FW	-	-	Entity	True
-cérebro	X	FW	-	-	Entity	True
-chamado	X	FW	-	-	-	False
-corpo	X	FW	-	-	-	False
-caloso.É	X	FW	-	-	-	False
-mais	X	FW	-	-	-	False
-espesso	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-mulheres	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+cérebro	NN	-	-	-	-	-	False
+é	NN	-	-	-	-	-	False
+intencionalmente	NN	-	-	-	-	-	False
+...	NFP	-	-	-	-	-	False
+Por	IN	-	-	-	-	-	False
+sinal	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+existe	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+feixe	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+filamentos	FW	-	-	-	-	-	False
+nervosos	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+conecta	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+dois	FW	dois.num	Cardinal_numbers	218	-	-	False
+lados	FW	-	-	-	Entity	3623	True
+do	FW	-	-	-	Entity	3623	True
+cérebro	FW	-	-	-	Entity	3623	True
+chamado	FW	-	-	-	-	-	False
+corpo	FW	-	-	-	-	-	False
+caloso.É	FW	-	-	-	-	-	False
+mais	FW	-	-	-	-	-	False
+espesso	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+mulheres	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

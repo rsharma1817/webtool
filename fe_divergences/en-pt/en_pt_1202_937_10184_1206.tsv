@@ -1,53 +1,53 @@
-By	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-way	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-there	PRON	EX	there be.v	Existence	-	False
-'s	VERB	VBZ	there be.v	Existence	-	False
-a	DET	DT	-	-	Entity	True
-shaft	NOUN	NN	-	-	Entity	True
-of	ADP	IN	-	-	Entity	True
-nerves	NOUN	NNS	-	-	Entity	True
-that	PRON	WDT	-	-	Entity	True
-joins	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-two	NUM	CD	-	-	-	False
-halves	NOUN	NNS	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-brain	NOUN	NN	-	-	-	False
-called	VERB	VBN	-	-	-	False
-the	DET	DT	-	-	-	False
-corpus	NOUN	NN	-	-	-	False
-callosum	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+By	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+there	EX	there be.v	Existence	660	-	-	False
+'s	VBZ	there be.v	Existence	660	-	-	False
+a	DT	-	-	-	Entity	4381	True
+shaft	NN	-	-	-	Entity	4381	True
+of	IN	-	-	-	Entity	4381	True
+nerves	NNS	-	-	-	Entity	4381	True
+that	WDT	-	-	-	Entity	4381	True
+joins	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+two	CD	-	-	-	-	-	False
+halves	NNS	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+brain	NN	-	-	-	-	-	False
+called	VBN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+corpus	NN	-	-	-	-	-	False
+callosum	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-cérebro	NOUN	NN	-	-	-	False
-é	NOUN	NN	-	-	-	False
-intencionalmente	NOUN	NN	-	-	-	False
-...	PUNCT	NFP	-	-	-	False
-Por	NOUN	IN	-	-	-	False
-sinal	ADJ	JJ	-	-	-	False
-,	PUNCT	,	-	-	-	False
-existe	INTJ	FW	existir.v	Existence	-	False
-um	INTJ	UH	-	-	Entity	True
-feixe	X	FW	-	-	Entity	True
-de	X	FW	-	-	Entity	True
-filamentos	X	FW	-	-	Entity	True
-nervosos	X	FW	-	-	Entity	True
-que	X	FW	-	-	Entity	True
-conecta	X	FW	-	-	Entity	True
-os	X	FW	-	-	Entity	True
-dois	X	FW	-	-	Entity	True
-lados	X	FW	-	-	Entity	True
-do	X	FW	-	-	Entity	True
-cérebro	X	FW	-	-	Entity	True
-chamado	X	FW	-	-	Entity	True
-corpo	X	FW	-	-	Entity	True
-caloso.É	X	FW	-	-	-	False
-mais	X	FW	-	-	-	False
-espesso	X	FW	-	-	-	False
-nas	X	FW	-	-	-	False
-mulheres	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+cérebro	NN	-	-	-	-	-	False
+é	NN	-	-	-	-	-	False
+intencionalmente	NN	-	-	-	-	-	False
+...	NFP	-	-	-	-	-	False
+Por	IN	-	-	-	-	-	False
+sinal	JJ	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+existe	FW	existir.v	Existence	660	-	-	False
+um	UH	-	-	-	Entity	4381	True
+feixe	FW	-	-	-	Entity	4381	True
+de	FW	-	-	-	Entity	4381	True
+filamentos	FW	-	-	-	Entity	4381	True
+nervosos	FW	-	-	-	Entity	4381	True
+que	FW	-	-	-	Entity	4381	True
+conecta	FW	-	-	-	Entity	4381	True
+os	FW	-	-	-	Entity	4381	True
+dois	FW	-	-	-	Entity	4381	True
+lados	FW	-	-	-	Entity	4381	True
+do	FW	-	-	-	Entity	4381	True
+cérebro	FW	-	-	-	Entity	4381	True
+chamado	FW	-	-	-	Entity	4381	True
+corpo	FW	-	-	-	Entity	4381	True
+caloso.É	FW	-	-	-	-	-	False
+mais	FW	-	-	-	-	-	False
+espesso	FW	-	-	-	-	-	False
+nas	FW	-	-	-	-	-	False
+mulheres	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

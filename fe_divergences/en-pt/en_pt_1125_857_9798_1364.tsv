@@ -1,48 +1,48 @@
-He	PRON	PRP	-	-	-	False
-was	VERB	VBD	-	-	-	False
-really	ADV	RB	-	-	-	False
-upset	ADJ	JJ	-	-	-	False
-on	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-plane	NOUN	NN	plane.n	Vehicle	Vehicle	True
-,	PUNCT	,	-	-	-	False
-he	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	-	False
-'ll	AUX	MD	-	-	-	False
-never	ADV	RB	-	-	-	False
-find	VERB	VB	-	-	-	False
-another	DET	DT	-	-	-	False
-girl	NOUN	NN	-	-	-	False
-like	ADP	IN	-	-	-	False
-Sarah	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+He	PRP	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+upset	JJ	-	-	-	-	-	False
+on	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+plane	NN	plane.n	Vehicle	429	Vehicle	3958	True
+,	,	-	-	-	-	-	False
+he	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+'ll	MD	-	-	-	-	-	False
+never	RB	-	-	-	-	-	False
+find	VB	-	-	-	-	-	False
+another	DT	-	-	-	-	-	False
+girl	NN	-	-	-	-	-	False
+like	IN	-	-	-	-	-	False
+Sarah	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Em	INTJ	UH	-	-	-	False
-todo	X	FW	-	-	-	False
-caso	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ele	X	FW	-	-	-	False
-estava	X	FW	-	-	-	False
-chateado	X	FW	-	-	-	False
-no	X	FW	-	-	-	False
-avião	X	FW	avião.n	Vehicle	-	False
-e	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Eu	X	FW	-	-	-	False
-nunca	X	FW	-	-	-	False
-mais	X	FW	-	-	-	False
-vou	X	FW	-	-	-	False
-encontrar	X	FW	-	-	-	False
-uma	X	FW	-	-	-	False
-garota	X	FW	-	-	-	False
-como	X	FW	-	-	-	False
-a	DET	DT	-	-	-	False
-Sarah	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Em	UH	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+caso	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ele	FW	-	-	-	-	-	False
+estava	FW	-	-	-	-	-	False
+chateado	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+avião	FW	avião.n	Vehicle	429	-	-	False
+e	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Eu	FW	-	-	-	-	-	False
+nunca	FW	-	-	-	-	-	False
+mais	FW	-	-	-	-	-	False
+vou	FW	-	-	-	-	-	False
+encontrar	FW	-	-	-	-	-	False
+uma	FW	-	-	-	-	-	False
+garota	FW	-	-	-	-	-	False
+como	FW	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+Sarah	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

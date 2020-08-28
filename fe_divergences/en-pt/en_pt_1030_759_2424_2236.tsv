@@ -1,32 +1,32 @@
-But	CCONJ	CC	-	-	-	False
-if	ADP	IN	if.scon	Conditional_occurrence	-	False
-you	PRON	PRP	-	-	Profiled_possibility	True
-ask	VERB	VBP	-	-	Profiled_possibility	True
-about	ADP	IN	-	-	Profiled_possibility	True
-their	PRON	PRP$	-	-	Profiled_possibility	True
-education	NOUN	NN	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-they	PRON	PRP	-	-	Consequence	True
-pin	VERB	VBP	-	-	Consequence	True
-you	PRON	PRP	-	-	Consequence	True
-to	ADP	IN	-	-	Consequence	True
-the	DET	DT	-	-	Consequence	True
-wall	NOUN	NN	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+But	CC	-	-	-	-	-	False
+if	IN	if.scon	Conditional_occurrence	2903	-	-	False
+you	PRP	-	-	-	Profiled_possibility	16290	True
+ask	VBP	-	-	-	Profiled_possibility	16290	True
+about	IN	-	-	-	Profiled_possibility	16290	True
+their	PRP$	-	-	-	Profiled_possibility	16290	True
+education	NN	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+they	PRP	-	-	-	Consequence	16292	True
+pin	VBP	-	-	-	Consequence	16292	True
+you	PRP	-	-	-	Consequence	16292	True
+to	IN	-	-	-	Consequence	16292	True
+the	DT	-	-	-	Consequence	16292	True
+wall	NN	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False
 
-Mas	X	FW	-	-	-	False
-se	X	FW	se.c	Conditional_occurrence	-	False
-você	X	FW	-	-	Profiled_possibility	True
-perguntar	X	FW	-	-	Profiled_possibility	True
-sobre	X	FW	-	-	Profiled_possibility	True
-a	X	FW	-	-	Profiled_possibility	True
-educação	X	FW	-	-	Profiled_possibility	True
-deles	X	FW	-	-	Profiled_possibility	True
-,	PUNCT	,	-	-	-	False
-eles	X	FW	-	-	Consequence	True
-te	X	FW	-	-	Consequence	True
-põem	X	FW	-	-	Consequence	True
-contra	X	FW	-	-	Consequence	True
-a	DET	FW	-	-	Consequence	True
-parede	NOUN	FW	-	-	Consequence	True
-.	PUNCT	.	-	-	-	False
+Mas	FW	-	-	-	-	-	False
+se	FW	se.c	Conditional_occurrence	2903	-	-	False
+você	FW	-	-	-	Profiled_possibility	16290	True
+perguntar	FW	-	-	-	Profiled_possibility	16290	True
+sobre	FW	-	-	-	Profiled_possibility	16290	True
+a	FW	-	-	-	Profiled_possibility	16290	True
+educação	FW	-	-	-	Profiled_possibility	16290	True
+deles	FW	-	-	-	Profiled_possibility	16290	True
+,	,	-	-	-	-	-	False
+eles	FW	-	-	-	Consequence	16292	True
+te	FW	-	-	-	Consequence	16292	True
+põem	FW	-	-	-	Consequence	16292	True
+contra	FW	-	-	-	Consequence	16292	True
+a	FW	-	-	-	Consequence	16292	True
+parede	FW	-	-	-	Consequence	16292	True
+.	.	-	-	-	-	-	False

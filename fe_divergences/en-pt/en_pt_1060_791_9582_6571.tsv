@@ -1,18 +1,18 @@
-When	ADV	WRB	-	-	-	False
-my	PRON	PRP$	-	-	-	False
-son	NOUN	NN	-	-	-	False
-was	VERB	VBD	-	-	-	False
-four	NUM	CD	four.num	Cardinal_numbers	Number	True
-in	ADP	IN	-	-	-	False
-England	PROPN	NNP	-	-	-	False
---	PUNCT	:	-	-	-	False
+When	WRB	-	-	-	-	-	False
+my	PRP$	-	-	-	-	-	False
+son	NN	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+four	CD	four.num	Cardinal_numbers	218	Number	3622	True
+in	IN	-	-	-	-	-	False
+England	NNP	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
 
-Quando	X	NNP	-	-	-	False
-meu	X	FW	-	-	-	False
-filho	X	FW	-	-	-	False
-tinha	X	FW	-	-	-	False
-quatro	X	FW	quatro.num	Cardinal_numbers	-	False
-anos	X	FW	-	-	Entity	True
-na	X	FW	-	-	-	False
-Inglaterra	X	NNP	-	-	-	False
-...	PUNCT	.	-	-	-	False
+Quando	NNP	-	-	-	-	-	False
+meu	FW	-	-	-	-	-	False
+filho	FW	-	-	-	-	-	False
+tinha	FW	-	-	-	-	-	False
+quatro	FW	quatro.num	Cardinal_numbers	218	-	-	False
+anos	FW	-	-	-	Entity	3623	True
+na	FW	-	-	-	-	-	False
+Inglaterra	NNP	-	-	-	-	-	False
+...	.	-	-	-	-	-	False

@@ -1,23 +1,23 @@
-'	PUNCT	''	-	-	-	False
-James	PROPN	NNP	-	-	Performer	True
-Robinson	PROPN	NNP	-	-	Performer	True
-IS	VERB	VBZ	be.v	Performers_and_roles	-	False
-Joseph	PROPN	NNP	-	-	Role	True
-!	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+'	''	-	-	-	-	-	False
+James	NNP	-	-	-	Performer	3790	True
+Robinson	NNP	-	-	-	Performer	3790	True
+IS	VBZ	be.v	Performers_and_roles	413	-	-	False
+Joseph	NNP	-	-	-	Role	3796	True
+!	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Lotamos	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-teatro	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-representantes	X	FW	-	-	-	False
-usando	X	FW	-	-	-	False
-camisetas	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-James	PROPN	NNP	-	-	Performer	True
-Robinson	PROPN	NNP	-	-	Performer	True
-É	PROPN	NNP	ser.v	Performers_and_roles	-	False
-José	PROPN	NNP	-	-	Role	True
-!	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Lotamos	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+teatro	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+representantes	FW	-	-	-	-	-	False
+usando	FW	-	-	-	-	-	False
+camisetas	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+James	NNP	-	-	-	Performer	3790	True
+Robinson	NNP	-	-	-	Performer	3790	True
+É	NNP	ser.v	Performers_and_roles	413	-	-	False
+José	NNP	-	-	-	Role	3796	True
+!	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

@@ -1,30 +1,30 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	Speaker	True
-girl	NOUN	NN	-	-	Speaker	True
-said	VERB	VBD	say.v	Statement	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	Message	True
-'m	VERB	VBP	-	-	Message	True
-drawing	VERB	VBG	-	-	Message	True
-a	DET	DT	-	-	Message	True
-picture	NOUN	NN	-	-	Message	True
-of	ADP	IN	-	-	Message	True
-God	PROPN	NNP	-	-	Message	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	Speaker	183	True
+girl	NN	-	-	-	Speaker	183	True
+said	VBD	say.v	Statement	43	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	Message	185	True
+'m	VBP	-	-	-	Message	185	True
+drawing	VBG	-	-	-	Message	185	True
+a	DT	-	-	-	Message	185	True
+picture	NN	-	-	-	Message	185	True
+of	IN	-	-	-	Message	185	True
+God	NNP	-	-	-	Message	185	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Und	CCONJ	NNP	-	-	-	False
-das	PROPN	NNP	-	-	Speaker	True
-Mädchen	PROPN	NNP	-	-	Speaker	True
-sagte	VERB	VBP	sagen.v	Statement	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Ich	INTJ	NNP	-	-	Message	True
-zeichne	NOUN	NNP	-	-	Message	True
-ein	VERB	NNP	-	-	Message	True
-Bild	PROPN	NNP	-	-	Message	True
-von	PROPN	NNP	-	-	Message	True
-Gott	PROPN	NNP	-	-	Message	True
-.	PUNCT	.	-	-	Message	True
-'	PUNCT	''	-	-	-	False
+Und	NNP	-	-	-	-	-	False
+das	NNP	-	-	-	Speaker	183	True
+Mädchen	NNP	-	-	-	Speaker	183	True
+sagte	VBP	sagen.v	Statement	43	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Ich	NNP	-	-	-	Message	185	True
+zeichne	NNP	-	-	-	Message	185	True
+ein	NNP	-	-	-	Message	185	True
+Bild	NNP	-	-	-	Message	185	True
+von	NNP	-	-	-	Message	185	True
+Gott	NNP	-	-	-	Message	185	True
+.	.	-	-	-	Message	185	True
+'	''	-	-	-	-	-	False

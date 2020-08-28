@@ -1,81 +1,81 @@
-I	PRON	PRP	-	-	-	False
-think	VERB	VBP	-	-	-	False
-you	PRON	PRP	-	-	-	False
-'d	AUX	MD	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-conclude	VERB	VB	-	-	-	False
-the	DET	DT	-	-	-	False
-whole	ADJ	JJ	-	-	-	False
-purpose	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-public	ADJ	JJ	-	-	Depictive	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-throughout	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-world	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-to	PART	TO	-	-	-	False
-produce	VERB	VB	-	-	-	False
-university	NOUN	NN	-	-	-	False
-professors	NOUN	NNS	-	-	-	False
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+think	VBP	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+'d	MD	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+conclude	VB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+whole	JJ	-	-	-	-	-	False
+purpose	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+public	JJ	-	-	-	Depictive	575	False
+education	NN	education.n	Education_teaching	111	-	-	False
+throughout	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+world	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+produce	VB	-	-	-	-	-	False
+university	NN	-	-	-	-	-	False
+professors	NNS	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eu	INTJ	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	-	-	-	False
-obrigatória	X	FW	-	-	-	False
-seria	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-olhando	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-resultado	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	-	False
-quem	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-bem	X	FW	-	-	-	False
-sucedido	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-faz	X	FW	-	-	-	False
-tudo	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-deve	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-ganha	X	FW	-	-	-	False
-as	X	FW	-	-	-	False
-estrelinhas	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-quem	X	FW	-	-	-	False
-são	X	FW	-	-	-	False
-os	X	FW	-	-	-	False
-vencedores	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-conclusão	X	FW	-	-	-	False
-seria	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-objetivo	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-educação	X	FW	-	-	-	False
-pública	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-redor	X	FW	-	-	-	False
-do	X	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-produzir	X	FW	-	-	-	False
-professores	X	FW	-	-	Teacher	True
-universitários	X	FW	universitário.a	Education_teaching	-	False
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	-	-	-	-	-	False
+obrigatória	FW	-	-	-	-	-	False
+seria	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+olhando	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+resultado	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+bem	FW	-	-	-	-	-	False
+sucedido	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+faz	FW	-	-	-	-	-	False
+tudo	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+deve	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+ganha	FW	-	-	-	-	-	False
+as	FW	-	-	-	-	-	False
+estrelinhas	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+quem	FW	-	-	-	-	-	False
+são	FW	-	-	-	-	-	False
+os	FW	-	-	-	-	-	False
+vencedores	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+conclusão	FW	-	-	-	-	-	False
+seria	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+objetivo	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+educação	FW	-	-	-	-	-	False
+pública	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+redor	FW	-	-	-	-	-	False
+do	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+produzir	FW	-	-	-	-	-	False
+professores	FW	-	-	-	Teacher	541	True
+universitários	FW	universitário.a	Education_teaching	111	-	-	False
+.	.	-	-	-	-	-	False

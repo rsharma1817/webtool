@@ -1,71 +1,71 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-consequence	NOUN	NN	consequence.n	Causation	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	Effect	False
-many	ADJ	JJ	-	-	Effect	False
-highly-talented	ADJ	JJ	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-brilliant	ADJ	JJ	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-creative	ADJ	JJ	-	-	Effect	False
-people	NOUN	NNS	-	-	Effect	False
-think	VERB	VBP	-	-	Effect	False
-they	PRON	PRP	-	-	Effect	False
-'re	VERB	VBP	-	-	Effect	False
-not	ADV	RB	-	-	Effect	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-thing	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-good	ADJ	JJ	-	-	-	False
-at	ADP	IN	-	-	-	False
-at	ADP	IN	-	-	-	False
-school	NOUN	NN	-	-	-	False
-was	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-valued	VERB	VBN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-or	CCONJ	CC	-	-	-	False
-was	VERB	VBD	-	-	-	False
-actually	ADV	RB	-	-	-	False
-stigmatized	VERB	VBN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+consequence	NN	consequence.n	Causation	5	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	Effect	20	False
+many	JJ	-	-	-	Effect	20	False
+highly-talented	JJ	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+brilliant	JJ	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+creative	JJ	-	-	-	Effect	20	False
+people	NNS	-	-	-	Effect	20	False
+think	VBP	-	-	-	Effect	20	False
+they	PRP	-	-	-	Effect	20	False
+'re	VBP	-	-	-	Effect	20	False
+not	RB	-	-	-	Effect	20	False
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+thing	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+good	JJ	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+at	IN	-	-	-	-	-	False
+school	NN	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+valued	VBN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+or	CC	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+actually	RB	-	-	-	-	-	False
+stigmatized	VBN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-consequência	NOUN	FW	consequência.n	Causation	-	False
-disso	X	FW	-	-	Cause	False
-é	X	FW	-	-	-	False
-que	X	FW	-	-	Effect	False
-muitas	X	FW	-	-	Effect	False
-pessoas	X	FW	-	-	Effect	False
-altamente	X	FW	-	-	Effect	False
-talentosas	X	FW	-	-	Effect	False
-brilhantes	X	FW	-	-	Effect	False
-e	X	FW	-	-	Effect	False
-criativas	X	FW	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-pensam	X	FW	-	-	Effect	False
-que	X	FW	-	-	Effect	False
-não	X	FW	-	-	Effect	False
-são	X	FW	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-porque	X	FW	-	-	-	False
-aquilo	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-elas	X	FW	-	-	-	False
-eram	X	FW	-	-	-	False
-boas	X	FW	-	-	-	False
-na	X	FW	-	-	-	False
-escola	X	FW	-	-	-	False
-não	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-valorizado	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-ou	X	FW	-	-	-	False
-era	X	FW	-	-	-	False
-até	X	FW	-	-	-	False
-estigmatizado	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+consequência	FW	consequência.n	Causation	5	-	-	False
+disso	FW	-	-	-	Cause	18	False
+é	FW	-	-	-	-	-	False
+que	FW	-	-	-	Effect	20	False
+muitas	FW	-	-	-	Effect	20	False
+pessoas	FW	-	-	-	Effect	20	False
+altamente	FW	-	-	-	Effect	20	False
+talentosas	FW	-	-	-	Effect	20	False
+brilhantes	FW	-	-	-	Effect	20	False
+e	FW	-	-	-	Effect	20	False
+criativas	FW	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+pensam	FW	-	-	-	Effect	20	False
+que	FW	-	-	-	Effect	20	False
+não	FW	-	-	-	Effect	20	False
+são	FW	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+porque	FW	-	-	-	-	-	False
+aquilo	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+elas	FW	-	-	-	-	-	False
+eram	FW	-	-	-	-	-	False
+boas	FW	-	-	-	-	-	False
+na	FW	-	-	-	-	-	False
+escola	FW	-	-	-	-	-	False
+não	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+valorizado	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+ou	FW	-	-	-	-	-	False
+era	FW	-	-	-	-	-	False
+até	FW	-	-	-	-	-	False
+estigmatizado	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

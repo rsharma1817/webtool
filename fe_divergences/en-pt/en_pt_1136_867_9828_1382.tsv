@@ -1,33 +1,33 @@
-Art	NOUN	NN	-	-	Event	True
-and	CCONJ	CC	-	-	Event	True
-music	NOUN	NN	-	-	Event	True
-are	VERB	VBP	-	-	Event	True
-normally	ADV	RB	normally.adv	Frequency	-	False
-given	VERB	VBN	-	-	Event	True
-a	DET	DT	-	-	Event	True
-higher	ADJ	JJR	-	-	Event	True
-status	NOUN	NN	-	-	Event	True
-in	ADP	IN	-	-	Event	True
-schools	NOUN	NNS	-	-	Event	True
-than	ADP	IN	-	-	Event	True
-drama	NOUN	NN	-	-	Event	True
-and	CCONJ	CC	-	-	Event	True
-dance	NOUN	NN	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+Art	NN	-	-	-	Event	371	True
+and	CC	-	-	-	Event	371	True
+music	NN	-	-	-	Event	371	True
+are	VBP	-	-	-	Event	371	True
+normally	RB	normally.adv	Frequency	80	-	-	False
+given	VBN	-	-	-	Event	371	True
+a	DT	-	-	-	Event	371	True
+higher	JJR	-	-	-	Event	371	True
+status	NN	-	-	-	Event	371	True
+in	IN	-	-	-	Event	371	True
+schools	NNS	-	-	-	Event	371	True
+than	IN	-	-	-	Event	371	True
+drama	NN	-	-	-	Event	371	True
+and	CC	-	-	-	Event	371	True
+dance	NN	-	-	-	Event	371	True
+.	.	-	-	-	-	-	False
 
-Arte	X	FW	-	-	Salient_entity	True
-e	X	FW	-	-	Salient_entity	True
-música	X	FW	-	-	Salient_entity	True
-normalmente	X	FW	normalmente.adv	Frequency	-	False
-tem	X	FW	-	-	Event	True
-uma	X	FW	-	-	Event	True
-importância	X	FW	-	-	Event	True
-maior	X	FW	-	-	Event	True
-nas	X	FW	-	-	Event	True
-escolas	X	FW	-	-	Event	True
-do	VERB	VBP	-	-	Event	True
-que	X	FW	-	-	Event	True
-drama	X	FW	-	-	Event	True
-e	X	FW	-	-	Event	True
-dança	X	FW	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+Arte	FW	-	-	-	Salient_entity	8922	True
+e	FW	-	-	-	Salient_entity	8922	True
+música	FW	-	-	-	Salient_entity	8922	True
+normalmente	FW	normalmente.adv	Frequency	80	-	-	False
+tem	FW	-	-	-	Event	371	True
+uma	FW	-	-	-	Event	371	True
+importância	FW	-	-	-	Event	371	True
+maior	FW	-	-	-	Event	371	True
+nas	FW	-	-	-	Event	371	True
+escolas	FW	-	-	-	Event	371	True
+do	VBP	-	-	-	Event	371	True
+que	FW	-	-	-	Event	371	True
+drama	FW	-	-	-	Event	371	True
+e	FW	-	-	-	Event	371	True
+dança	FW	-	-	-	Event	371	True
+.	.	-	-	-	-	-	False

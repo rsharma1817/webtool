@@ -1,18 +1,18 @@
-I	PRON	PRP	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-What	PRON	WP	-	-	Event	False
-happened	VERB	VBD	happen.v	Event	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+I	PRP	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+What	WP	-	-	-	Event	1443	False
+happened	VBD	happen.v	Event	187	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-perguntei	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-O	INTJ	UH	-	-	Event	False
-que	X	FW	-	-	Event	False
-aconteceu	X	FW	acontecer.v	Event	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+perguntei	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+O	UH	-	-	-	Event	1443	False
+que	FW	-	-	-	Event	1443	False
+aconteceu	FW	acontecer.v	Event	187	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

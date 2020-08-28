@@ -1,27 +1,27 @@
-Actually	ADV	RB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-what	PRON	WP	-	-	-	False
-I	PRON	PRP	-	-	-	False
-find	VERB	VBP	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-everybody	NOUN	NN	-	-	-	False
-has	VERB	VBZ	-	-	-	False
-an	DET	DT	-	-	-	False
-interest	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	education.n	Education_teaching	-	False
-.	PUNCT	.	-	-	-	False
+Actually	RB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+find	VBP	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+everybody	NN	-	-	-	-	-	False
+has	VBZ	-	-	-	-	-	False
+an	DT	-	-	-	-	-	False
+interest	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	education.n	Education_teaching	111	-	-	False
+.	.	-	-	-	-	-	False
 
-Na	X	UH	-	-	-	False
-verdade	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	-	False
-descobri	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-todo	X	FW	-	-	-	False
-mundo	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-interessa	X	FW	-	-	-	False
-por	X	FW	-	-	-	False
-educação	X	FW	educação.n	Education_teaching	-	False
-.	PUNCT	.	-	-	-	False
+Na	UH	-	-	-	-	-	False
+verdade	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+descobri	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+todo	FW	-	-	-	-	-	False
+mundo	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+interessa	FW	-	-	-	-	-	False
+por	FW	-	-	-	-	-	False
+educação	FW	educação.n	Education_teaching	111	-	-	False
+.	.	-	-	-	-	-	False

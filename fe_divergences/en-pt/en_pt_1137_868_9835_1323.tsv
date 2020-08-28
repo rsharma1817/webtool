@@ -1,44 +1,44 @@
-There	PRON	EX	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-n't	ADV	RB	-	-	-	False
-an	DET	DT	-	-	Event	True
-education	NOUN	NN	-	-	Event	True
-system	NOUN	NN	-	-	Event	True
-on	ADP	IN	-	-	Event	True
-the	DET	DT	-	-	Event	True
-planet	NOUN	NN	-	-	Event	True
-that	PRON	WDT	-	-	Event	True
-teaches	VERB	VBZ	-	-	Event	True
-dance	NOUN	NN	-	-	Event	True
-every	DET	DT	every.prep	Frequency	Rate	True
-day	NOUN	NN	-	-	Rate	True
-to	ADP	IN	-	-	Event	True
-children	NOUN	NNS	-	-	Event	True
-the	DET	DT	-	-	Event	True
-way	NOUN	NN	-	-	Event	True
-we	PRON	PRP	-	-	Event	True
-teach	VERB	VBP	-	-	Event	True
-them	PRON	PRP	-	-	Event	True
-mathematics	NOUN	NNS	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+an	DT	-	-	-	Event	371	True
+education	NN	-	-	-	Event	371	True
+system	NN	-	-	-	Event	371	True
+on	IN	-	-	-	Event	371	True
+the	DT	-	-	-	Event	371	True
+planet	NN	-	-	-	Event	371	True
+that	WDT	-	-	-	Event	371	True
+teaches	VBZ	-	-	-	Event	371	True
+dance	NN	-	-	-	Event	371	True
+every	DT	every.prep	Frequency	80	Rate	8921	True
+day	NN	-	-	-	Rate	8921	True
+to	IN	-	-	-	Event	371	True
+children	NNS	-	-	-	Event	371	True
+the	DT	-	-	-	Event	371	True
+way	NN	-	-	-	Event	371	True
+we	PRP	-	-	-	Event	371	True
+teach	VBP	-	-	-	Event	371	True
+them	PRP	-	-	-	Event	371	True
+mathematics	NNS	-	-	-	Event	371	True
+.	.	-	-	-	-	-	False
 
-Não	PROPN	NNP	-	-	-	False
-existe	NOUN	VBP	-	-	-	False
-um	INTJ	UH	-	-	-	False
-sistema	NOUN	FW	-	-	-	False
-educacional	ADJ	FW	-	-	-	False
-no	INTJ	FW	-	-	-	False
-planeta	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ensina	X	FW	-	-	Event	True
-dança	X	FW	-	-	Event	True
-diariamente	X	FW	diariamente.adv	Frequency	-	False
-às	X	FW	-	-	Salient_entity	True
-crianças	X	FW	-	-	Salient_entity	True
-da	X	FW	-	-	-	False
-mesma	X	FW	-	-	-	False
-forma	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ensina	X	FW	-	-	-	False
-matemática	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Não	NNP	-	-	-	-	-	False
+existe	VBP	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+sistema	FW	-	-	-	-	-	False
+educacional	FW	-	-	-	-	-	False
+no	FW	-	-	-	-	-	False
+planeta	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ensina	FW	-	-	-	Event	371	True
+dança	FW	-	-	-	Event	371	True
+diariamente	FW	diariamente.adv	Frequency	80	-	-	False
+às	FW	-	-	-	Salient_entity	8922	True
+crianças	FW	-	-	-	Salient_entity	8922	True
+da	FW	-	-	-	-	-	False
+mesma	FW	-	-	-	-	-	False
+forma	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ensina	FW	-	-	-	-	-	False
+matemática	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

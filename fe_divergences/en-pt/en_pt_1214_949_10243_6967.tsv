@@ -1,11 +1,11 @@
-Remember	VERB	VB	remember.v	Memory	-	False
-that	DET	DT	-	-	Content	True
-old	ADJ	JJ	-	-	Content	True
-chestnut	NOUN	NN	-	-	Content	True
-?	PUNCT	.	-	-	-	False
+Remember	VB	remember.v	Memory	135	-	-	False
+that	DT	-	-	-	Content	875	True
+old	JJ	-	-	-	Content	875	True
+chestnut	NN	-	-	-	Content	875	True
+?	.	-	-	-	-	-	False
 
-Lembram	X	NNP	lembrar.v	Memory	-	False
-dessa	X	FW	-	-	Content	True
-piada	X	FW	-	-	Content	True
-velha	X	FW	-	-	Content	True
-?	PUNCT	.	-	-	-	False
+Lembram	NNP	lembrar.v	Memory	135	-	-	False
+dessa	FW	-	-	-	Content	875	True
+piada	FW	-	-	-	Content	875	True
+velha	FW	-	-	-	Content	875	True
+?	.	-	-	-	-	-	False

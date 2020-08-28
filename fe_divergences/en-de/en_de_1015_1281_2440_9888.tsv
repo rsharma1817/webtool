@@ -1,40 +1,40 @@
-Just	ADV	RB	-	-	-	False
-the	DET	DT	-	-	-	False
-variety	NOUN	NN	variety.n	Diversity	-	False
-of	ADP	IN	-	-	Dimension	True
-it	PRON	PRP	-	-	Dimension	True
-and	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-range	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Just	RB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+variety	NN	variety.n	Diversity	1893	-	-	False
+of	IN	-	-	-	Dimension	11246	True
+it	PRP	-	-	-	Dimension	11246	True
+and	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+range	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Eines	INTJ	NNP	-	-	-	False
-sind	INTJ	NN	-	-	-	False
-die	X	VBP	-	-	-	False
-überwältigenden	X	NNP	-	-	-	False
-Zeugnisse	PROPN	NNP	-	-	-	False
-menschlicher	PROPN	NN	-	-	-	False
-Kreativität	PROPN	NNP	-	-	-	False
-in	ADP	IN	-	-	-	False
-allen	PROPN	NNP	-	-	-	False
-Vorträgen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VBP	-	-	-	False
-wir	X	NN	-	-	-	False
-gehört	X	FW	-	-	-	False
-haben	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-in	ADP	IN	-	-	-	False
-allen	PROPN	NN	-	-	-	False
-Menschen	PROPN	NNP	-	-	-	False
-hier	ADJ	NN	-	-	-	False
---	PUNCT	:	-	-	-	False
-allein	X	FW	-	-	-	False
-ihre	X	FW	-	-	-	False
-Vielfalt	X	FW	-	-	-	False
-und	X	FW	-	-	-	False
-ihre	X	FW	-	-	Group	True
-Bandbreite	PROPN	NNP	Bandbreite.n	Diversity	-	False
-.	PUNCT	.	-	-	-	False
+Eines	NNP	-	-	-	-	-	False
+sind	NN	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+überwältigenden	NNP	-	-	-	-	-	False
+Zeugnisse	NNP	-	-	-	-	-	False
+menschlicher	NN	-	-	-	-	-	False
+Kreativität	NNP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+allen	NNP	-	-	-	-	-	False
+Vorträgen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VBP	-	-	-	-	-	False
+wir	NN	-	-	-	-	-	False
+gehört	FW	-	-	-	-	-	False
+haben	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+allen	NN	-	-	-	-	-	False
+Menschen	NNP	-	-	-	-	-	False
+hier	NN	-	-	-	-	-	False
+--	:	-	-	-	-	-	False
+allein	FW	-	-	-	-	-	False
+ihre	FW	-	-	-	-	-	False
+Vielfalt	FW	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+ihre	FW	-	-	-	Group	11243	True
+Bandbreite	NNP	Bandbreite.n	Diversity	1893	-	-	False
+.	.	-	-	-	-	-	False

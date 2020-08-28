@@ -1,48 +1,48 @@
-The	DET	DT	-	-	-	False
-second	ADJ	JJ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-put	VERB	VBN	-	-	-	False
-us	PRON	PRP	-	-	-	False
-in	ADP	IN	-	-	-	False
-a	DET	DT	-	-	-	False
-place	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-we	PRON	PRP	-	-	-	False
-have	VERB	VBP	-	-	-	False
-no	DET	DT	no.art	Negation	-	False
-idea	NOUN	NN	-	-	Negated_proposition	True
-what	PRON	WP	-	-	-	False
-'s	VERB	VBZ	-	-	-	False
-going	VERB	VBG	-	-	-	False
-to	PART	TO	-	-	-	False
-happen	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	-	-	-	False
-terms	NOUN	NNS	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-future	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+The	DT	-	-	-	-	-	False
+second	JJ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+put	VBN	-	-	-	-	-	False
+us	PRP	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+place	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+no	DT	no.art	Negation	2860	-	-	False
+idea	NN	-	-	-	Negated_proposition	16210	True
+what	WP	-	-	-	-	-	False
+'s	VBZ	-	-	-	-	-	False
+going	VBG	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+happen	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+terms	NNS	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+future	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-segundo	X	NN	-	-	-	False
-é	X	NN	-	-	-	False
-o	X	UH	-	-	-	False
-fato	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-não	X	FW	não.adv	Negation	-	False
-fazemos	X	FW	-	-	Negated_proposition	True
-a	X	FW	-	-	Negated_proposition	True
-menor	X	FW	-	-	Negated_proposition	True
-idéia	X	FW	-	-	Negated_proposition	True
-do	X	VBP	-	-	Negated_proposition	True
-que	X	FW	-	-	Negated_proposition	True
-vai	X	FW	-	-	Negated_proposition	True
-acontecer	X	FW	-	-	Negated_proposition	True
-no	DET	DT	-	-	Negated_proposition	True
-futuro	NOUN	NN	-	-	Negated_proposition	True
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+segundo	NN	-	-	-	-	-	False
+é	NN	-	-	-	-	-	False
+o	UH	-	-	-	-	-	False
+fato	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+não	FW	não.adv	Negation	2860	-	-	False
+fazemos	FW	-	-	-	Negated_proposition	16210	True
+a	FW	-	-	-	Negated_proposition	16210	True
+menor	FW	-	-	-	Negated_proposition	16210	True
+idéia	FW	-	-	-	Negated_proposition	16210	True
+do	VBP	-	-	-	Negated_proposition	16210	True
+que	FW	-	-	-	Negated_proposition	16210	True
+vai	FW	-	-	-	Negated_proposition	16210	True
+acontecer	FW	-	-	-	Negated_proposition	16210	True
+no	DT	-	-	-	Negated_proposition	16210	True
+futuro	NN	-	-	-	Negated_proposition	16210	True
+.	.	-	-	-	-	-	False

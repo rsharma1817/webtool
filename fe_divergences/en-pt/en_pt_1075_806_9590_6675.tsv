@@ -1,61 +1,61 @@
-We	PRON	PRP	-	-	-	False
-were	VERB	VBD	-	-	-	False
-sitting	VERB	VBG	-	-	-	False
-there	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Effect	False
-think	VERB	VBP	-	-	Effect	False
-they	PRON	PRP	-	-	Effect	False
-just	ADV	RB	-	-	Effect	False
-went	VERB	VBD	-	-	Effect	False
-out	ADP	IN	-	-	Effect	False
-of	ADP	IN	-	-	Effect	False
-sequence	NOUN	NN	-	-	Effect	False
-,	PUNCT	,	-	-	Effect	False
-because	ADP	IN	because.c	Causation	-	False
-we	PRON	PRP	-	-	Cause	False
-talked	VERB	VBD	-	-	Cause	False
-to	ADP	IN	-	-	Cause	False
-the	DET	DT	-	-	Cause	False
-little	ADJ	JJ	-	-	Cause	False
-boy	NOUN	NN	-	-	Cause	False
-afterward	ADV	RB	-	-	Cause	False
-and	CCONJ	CC	-	-	Cause	False
-we	PRON	PRP	-	-	Cause	False
-said	VERB	VBD	-	-	Cause	False
-,	PUNCT	,	-	-	Cause	False
-'	PUNCT	''	-	-	Cause	False
-You	PRON	PRP	-	-	Cause	False
-OK	ADJ	JJ	-	-	Cause	False
-with	ADP	IN	-	-	Cause	False
-that	DET	DT	-	-	Cause	False
-?	PUNCT	.	-	-	Cause	False
-'	PUNCT	''	-	-	-	False
+We	PRP	-	-	-	-	-	False
+were	VBD	-	-	-	-	-	False
+sitting	VBG	-	-	-	-	-	False
+there	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Effect	20	False
+think	VBP	-	-	-	Effect	20	False
+they	PRP	-	-	-	Effect	20	False
+just	RB	-	-	-	Effect	20	False
+went	VBD	-	-	-	Effect	20	False
+out	IN	-	-	-	Effect	20	False
+of	IN	-	-	-	Effect	20	False
+sequence	NN	-	-	-	Effect	20	False
+,	,	-	-	-	Effect	20	False
+because	IN	because.c	Causation	5	-	-	False
+we	PRP	-	-	-	Cause	18	False
+talked	VBD	-	-	-	Cause	18	False
+to	IN	-	-	-	Cause	18	False
+the	DT	-	-	-	Cause	18	False
+little	JJ	-	-	-	Cause	18	False
+boy	NN	-	-	-	Cause	18	False
+afterward	RB	-	-	-	Cause	18	False
+and	CC	-	-	-	Cause	18	False
+we	PRP	-	-	-	Cause	18	False
+said	VBD	-	-	-	Cause	18	False
+,	,	-	-	-	Cause	18	False
+'	''	-	-	-	Cause	18	False
+You	PRP	-	-	-	Cause	18	False
+OK	JJ	-	-	-	Cause	18	False
+with	IN	-	-	-	Cause	18	False
+that	DT	-	-	-	Cause	18	False
+?	.	-	-	-	Cause	18	False
+'	''	-	-	-	-	-	False
 
-Estávamos	X	NNP	-	-	-	False
-lá	X	FW	-	-	-	False
-sentados	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-acho	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-eles	X	FW	-	-	Effect	False
-não	X	FW	-	-	Effect	False
-seguiram	X	FW	-	-	Effect	False
-a	X	FW	-	-	Effect	False
-ordem	X	FW	-	-	Effect	False
-porque	X	FW	porque.c	Causation	-	False
-nós	X	FW	-	-	Cause	False
-conversamos	X	FW	-	-	Cause	False
-com	X	FW	-	-	Cause	False
-o	X	FW	-	-	Cause	False
-garotinho	X	FW	-	-	Cause	False
-depois	X	FW	-	-	Cause	False
-e	X	FW	-	-	-	False
-perguntamos	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Tudo	PROPN	NNP	-	-	-	False
-certo	PROPN	NNP	-	-	-	False
-?	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+Estávamos	NNP	-	-	-	-	-	False
+lá	FW	-	-	-	-	-	False
+sentados	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+eles	FW	-	-	-	Effect	20	False
+não	FW	-	-	-	Effect	20	False
+seguiram	FW	-	-	-	Effect	20	False
+a	FW	-	-	-	Effect	20	False
+ordem	FW	-	-	-	Effect	20	False
+porque	FW	porque.c	Causation	5	-	-	False
+nós	FW	-	-	-	Cause	18	False
+conversamos	FW	-	-	-	Cause	18	False
+com	FW	-	-	-	Cause	18	False
+o	FW	-	-	-	Cause	18	False
+garotinho	FW	-	-	-	Cause	18	False
+depois	FW	-	-	-	Cause	18	False
+e	FW	-	-	-	-	-	False
+perguntamos	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Tudo	NNP	-	-	-	-	-	False
+certo	NNP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

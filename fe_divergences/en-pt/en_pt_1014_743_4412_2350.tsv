@@ -1,48 +1,48 @@
-One	NUM	CD	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-the	DET	DT	-	-	-	False
-extraordinary	ADJ	JJ	-	-	-	False
-evidence	NOUN	NN	-	-	-	False
-of	ADP	IN	-	-	-	False
-human	ADJ	JJ	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-all	DET	DT	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-presentations	NOUN	NNS	-	-	-	False
-that	PRON	WDT	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'ve	VERB	VBP	-	-	-	False
-had	VERB	VBN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-in	ADP	IN	-	-	-	False
-all	DET	DT	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-people	NOUN	NNS	people.n	People	Person	True
-here	ADV	RB	-	-	Context_of_acquaintance	False
-.	PUNCT	.	-	-	-	False
+One	CD	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+extraordinary	JJ	-	-	-	-	-	False
+evidence	NN	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+human	JJ	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+presentations	NNS	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'ve	VBP	-	-	-	-	-	False
+had	VBN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+all	DT	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+people	NNS	people.n	People	304	Person	2618	True
+here	RB	-	-	-	Context_of_acquaintance	3561	False
+.	.	-	-	-	-	-	False
 
-O	INTJ	UH	-	-	-	False
-primeiro	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-extraordinária	X	FW	-	-	-	False
-evidência	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-criatividade	X	FW	-	-	-	False
-humana	X	FW	-	-	-	False
-em	INTJ	FW	-	-	-	False
-todas	NOUN	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-apresentações	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-tivemos	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-em	X	FW	-	-	-	False
-todas	X	FW	-	-	-	False
-as	ADP	IN	-	-	-	False
-pessoas	NOUN	FW	pessoa.n	People	-	False
-presentes	VERB	VBZ	-	-	Context_of_acquaintance	False
-.	PUNCT	.	-	-	-	False
+O	UH	-	-	-	-	-	False
+primeiro	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+extraordinária	FW	-	-	-	-	-	False
+evidência	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+criatividade	FW	-	-	-	-	-	False
+humana	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+apresentações	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+tivemos	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+em	FW	-	-	-	-	-	False
+todas	FW	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+pessoas	FW	pessoa.n	People	304	-	-	False
+presentes	VBZ	-	-	-	Context_of_acquaintance	3561	False
+.	.	-	-	-	-	-	False

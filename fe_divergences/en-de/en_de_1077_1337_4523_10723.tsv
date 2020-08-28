@@ -1,11 +1,11 @@
-They	PRON	PRP	-	-	Exchangers	True
-just	ADV	RB	-	-	-	False
-switched	VERB	VBD	switch.v	Exchange	-	False
-.	PUNCT	.	-	-	-	False
+They	PRP	-	-	-	Exchangers	6789	True
+just	RB	-	-	-	-	-	False
+switched	VBD	switch.v	Exchange	1170	-	-	False
+.	.	-	-	-	-	-	False
 
-Sie	PROPN	NNP	-	-	Exchangers	True
-hatten	VERB	NNP	-	-	-	False
-die	VERB	VBP	-	-	Themes	True
-Rollen	PROPN	NNP	-	-	Themes	True
-getauscht	PROPN	FW	tauschen.v	Exchange	-	False
-.	PUNCT	.	-	-	-	False
+Sie	NNP	-	-	-	Exchangers	6789	True
+hatten	NNP	-	-	-	-	-	False
+die	VBP	-	-	-	Themes	6793	True
+Rollen	NNP	-	-	-	Themes	6793	True
+getauscht	FW	tauschen.v	Exchange	1170	-	-	False
+.	.	-	-	-	-	-	False

@@ -1,32 +1,32 @@
-Waiting	VERB	VBG	-	-	-	False
-until	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-ends	VERB	VBZ	-	-	-	False
-so	ADP	IN	-	-	-	False
-they	PRON	PRP	-	-	Author	False
-can	AUX	MD	-	-	-	False
-go	VERB	VB	-	-	-	False
-home	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-write	VERB	VB	-	-	-	False
-a	DET	DT	-	-	-	False
-paper	NOUN	NN	paper [article].n	Text	Text	True
-about	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Waiting	VBG	-	-	-	-	-	False
+until	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+ends	VBZ	-	-	-	-	-	False
+so	IN	-	-	-	-	-	False
+they	PRP	-	-	-	Author	2544	False
+can	MD	-	-	-	-	-	False
+go	VB	-	-	-	-	-	False
+home	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+write	VB	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+paper	NN	paper [article].n	Text	298	Text	2545	True
+about	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Só	ADV	RB	-	-	-	False
-esperando	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-evento	X	FW	-	-	-	False
-acabe	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-eles	X	FW	-	-	-	False
-possam	X	FW	-	-	-	False
-escrever	X	FW	-	-	-	False
-um	INTJ	UH	-	-	-	False
-artigo	X	FW	artigo.n	Text	-	False
-a	X	FW	-	-	-	False
-respeito	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Só	RB	-	-	-	-	-	False
+esperando	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+evento	FW	-	-	-	-	-	False
+acabe	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eles	FW	-	-	-	-	-	False
+possam	FW	-	-	-	-	-	False
+escrever	FW	-	-	-	-	-	False
+um	UH	-	-	-	-	-	False
+artigo	FW	artigo.n	Text	298	-	-	False
+a	FW	-	-	-	-	-	False
+respeito	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

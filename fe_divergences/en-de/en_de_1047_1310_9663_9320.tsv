@@ -1,50 +1,50 @@
-My	PRON	PRP$	-	-	-	False
-contention	NOUN	NN	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-that	ADP	IN	-	-	-	False
-creativity	NOUN	NN	-	-	-	False
-now	ADV	RB	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-as	ADV	RB	-	-	-	False
-important	ADJ	JJ	-	-	-	False
-in	ADP	IN	-	-	-	False
-education	NOUN	NN	-	-	-	False
-as	ADP	IN	-	-	-	False
-literacy	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-we	PRON	PRP	-	-	State_of_affairs	True
-should	AUX	MD	should.v	Desirable_event	-	False
-treat	VERB	VB	-	-	State_of_affairs	True
-it	PRON	PRP	-	-	State_of_affairs	True
-with	ADP	IN	-	-	State_of_affairs	True
-the	DET	DT	-	-	State_of_affairs	True
-same	ADJ	JJ	-	-	State_of_affairs	True
-status	NOUN	NN	-	-	State_of_affairs	True
-.	PUNCT	.	-	-	-	False
+My	PRP$	-	-	-	-	-	False
+contention	NN	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+that	IN	-	-	-	-	-	False
+creativity	NN	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+as	RB	-	-	-	-	-	False
+important	JJ	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+education	NN	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+literacy	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+we	PRP	-	-	-	State_of_affairs	7756	True
+should	MD	should.v	Desirable_event	1383	-	-	False
+treat	VB	-	-	-	State_of_affairs	7756	True
+it	PRP	-	-	-	State_of_affairs	7756	True
+with	IN	-	-	-	State_of_affairs	7756	True
+the	DT	-	-	-	State_of_affairs	7756	True
+same	JJ	-	-	-	State_of_affairs	7756	True
+status	NN	-	-	-	State_of_affairs	7756	True
+.	.	-	-	-	-	-	False
 
-Meine	PROPN	NNP	-	-	-	False
-Überzeugung	PROPN	NNP	-	-	-	False
-ist	PROPN	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-dass	X	NN	-	-	-	False
-Kreativität	X	NNP	-	-	-	False
-heute	X	FW	-	-	-	False
-genauso	X	FW	-	-	-	False
-wichtig	X	FW	-	-	-	False
-für	X	FW	-	-	-	False
-Bildung	PROPN	NNP	-	-	-	False
-ist	PROPN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	X	NNP	-	-	-	False
-Lesen	X	NNP	-	-	-	False
-und	X	NNP	-	-	-	False
-Schreiben	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-und	X	FW	-	-	-	False
-wir	X	FW	-	-	-	False
-sollten	X	FW	sollen.v	Desirable_event	-	False
-sie	X	FW	-	-	-	False
-gleichwertig	X	FW	-	-	State_of_affairs	True
-behandeln	X	FW	-	-	State_of_affairs	True
-.	PUNCT	.	-	-	-	False
+Meine	NNP	-	-	-	-	-	False
+Überzeugung	NNP	-	-	-	-	-	False
+ist	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+dass	NN	-	-	-	-	-	False
+Kreativität	NNP	-	-	-	-	-	False
+heute	FW	-	-	-	-	-	False
+genauso	FW	-	-	-	-	-	False
+wichtig	FW	-	-	-	-	-	False
+für	FW	-	-	-	-	-	False
+Bildung	NNP	-	-	-	-	-	False
+ist	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	NNP	-	-	-	-	-	False
+Lesen	NNP	-	-	-	-	-	False
+und	NNP	-	-	-	-	-	False
+Schreiben	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+und	FW	-	-	-	-	-	False
+wir	FW	-	-	-	-	-	False
+sollten	FW	sollen.v	Desirable_event	1383	-	-	False
+sie	FW	-	-	-	-	-	False
+gleichwertig	FW	-	-	-	State_of_affairs	7756	True
+behandeln	FW	-	-	-	State_of_affairs	7756	True
+.	.	-	-	-	-	-	False

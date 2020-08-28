@@ -1,27 +1,27 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-girl	NOUN	NN	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-They	PRON	PRP	-	-	Trajector_event	True
-will	AUX	MD	-	-	Trajector_event	True
-,	PUNCT	,	-	-	-	False
-in	ADP	IN	in.prep	Temporal_collocation	-	False
-a	DET	DT	-	-	Landmark_period	True
-minute	NOUN	NN	-	-	Landmark_period	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+girl	NN	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+They	PRP	-	-	-	Trajector_event	12064	True
+will	MD	-	-	-	Trajector_event	12064	True
+,	,	-	-	-	-	-	False
+in	IN	in.prep	Temporal_collocation	1895	-	-	False
+a	DT	-	-	-	Landmark_period	12063	True
+minute	NN	-	-	-	Landmark_period	12063	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	DT	-	-	-	False
-menina	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	``	-	-	-	False
-Vão	PROPN	NNP	-	-	Trajector_event	True
-conhecer	X	FW	-	-	Trajector_event	True
-num	X	FW	em.prep	Temporal_collocation	-	False
-minuto	X	FW	-	-	Landmark_period	True
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+menina	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	``	-	-	-	-	-	False
+Vão	NNP	-	-	-	Trajector_event	12064	True
+conhecer	FW	-	-	-	Trajector_event	12064	True
+num	FW	em.prep	Temporal_collocation	1895	-	-	False
+minuto	FW	-	-	-	Landmark_period	12063	True
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

@@ -1,20 +1,20 @@
-We	PRON	PRP	-	-	-	False
-considered	VERB	VBD	-	-	-	False
-this	DET	DT	-	-	-	False
-to	PART	TO	-	-	-	False
-be	VERB	VB	-	-	-	False
-one	NUM	CD	-	-	-	False
-of	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-lead	ADJ	JJ	lead.n	Performers_and_roles	-	False
-parts	NOUN	NNS	-	-	Performer2	True
-.	PUNCT	.	-	-	-	False
+We	PRP	-	-	-	-	-	False
+considered	VBD	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+be	VB	-	-	-	-	-	False
+one	CD	-	-	-	-	-	False
+of	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+lead	JJ	lead.n	Performers_and_roles	413	-	-	False
+parts	NNS	-	-	-	Performer2	3859	True
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-gente	X	FW	-	-	-	False
-considerava	X	FW	-	-	-	False
-ser	X	FW	ser.v	Performers_and_roles	-	False
-um	INTJ	UH	-	-	Performance	True
-dos	X	FW	-	-	Performance	True
-protagonistas	X	FW	-	-	Performance	True
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+gente	FW	-	-	-	-	-	False
+considerava	FW	-	-	-	-	-	False
+ser	FW	ser.v	Performers_and_roles	413	-	-	False
+um	UH	-	-	-	Performance	3789	True
+dos	FW	-	-	-	Performance	3789	True
+protagonistas	FW	-	-	-	Performance	3789	True
+.	.	-	-	-	-	-	False

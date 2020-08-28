@@ -1,13 +1,13 @@
-I	PRON	PRP	-	-	-	False
-find	VERB	VBP	-	-	-	False
-this	DET	DT	-	-	-	False
-very	ADV	RB	very.adv	Degree	-	False
-interesting	ADJ	JJ	-	-	Gradable_attribute	True
-.	PUNCT	.	-	-	-	False
+I	PRP	-	-	-	-	-	False
+find	VBP	-	-	-	-	-	False
+this	DT	-	-	-	-	-	False
+very	RB	very.adv	Degree	2001	-	-	False
+interesting	JJ	-	-	-	Gradable_attribute	12081	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	-	False
-acho	X	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-muito	X	FW	muito.adv	Degree	-	False
-interessante	X	FW	-	-	Gradable_attribute	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	-	-	False
+acho	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+muito	FW	muito.adv	Degree	2001	-	-	False
+interessante	FW	-	-	-	Gradable_attribute	12081	True
+.	.	-	-	-	-	-	False

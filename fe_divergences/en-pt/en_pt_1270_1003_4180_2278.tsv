@@ -1,57 +1,57 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-only	ADJ	JJ	-	-	-	False
-way	NOUN	NN	-	-	-	False
-we	PRON	PRP	-	-	-	False
-'ll	AUX	MD	-	-	-	False
-do	VERB	VB	-	-	-	False
-it	PRON	PRP	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-by	ADP	IN	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	Entity	True
-creative	ADJ	JJ	-	-	Event	False
-capacities	NOUN	NNS	capacity.n	Capability	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-richness	NOUN	NN	-	-	-	False
-they	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-seeing	VERB	VBG	-	-	-	False
-our	PRON	PRP$	-	-	-	False
-children	NOUN	NNS	-	-	-	False
-for	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-hope	NOUN	NN	-	-	-	False
-that	PRON	WDT	-	-	-	False
-they	PRON	PRP	-	-	-	False
-are	VERB	VBP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+only	JJ	-	-	-	-	-	False
+way	NN	-	-	-	-	-	False
+we	PRP	-	-	-	-	-	False
+'ll	MD	-	-	-	-	-	False
+do	VB	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	Entity	5981	True
+creative	JJ	-	-	-	Event	5982	False
+capacities	NNS	capacity.n	Capability	990	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+richness	NN	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+seeing	VBG	-	-	-	-	-	False
+our	PRP$	-	-	-	-	-	False
+children	NNS	-	-	-	-	-	False
+for	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+hope	NN	-	-	-	-	-	False
+that	WDT	-	-	-	-	-	False
+they	PRP	-	-	-	-	-	False
+are	VBP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-a	DET	FW	-	-	-	False
-única	X	FW	-	-	-	False
-maneira	X	FW	-	-	-	False
-de	X	FW	-	-	-	False
-fazer	X	FW	-	-	-	False
-isso	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-encarando	X	FW	-	-	-	False
-nossa	X	FW	-	-	-	False
-capacidade	X	FW	capacidade.n	Capability	-	False
-criativa	X	FW	-	-	Relevant_feature	False
-pela	X	FW	-	-	-	False
-riqueza	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-representa	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-nossas	X	FW	-	-	-	False
-crianças	X	FW	-	-	-	False
-pela	X	FW	-	-	-	False
-esperança	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-elas	X	FW	-	-	-	False
-representam	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+única	FW	-	-	-	-	-	False
+maneira	FW	-	-	-	-	-	False
+de	FW	-	-	-	-	-	False
+fazer	FW	-	-	-	-	-	False
+isso	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+encarando	FW	-	-	-	-	-	False
+nossa	FW	-	-	-	-	-	False
+capacidade	FW	capacidade.n	Capability	990	-	-	False
+criativa	FW	-	-	-	Relevant_feature	7438	False
+pela	FW	-	-	-	-	-	False
+riqueza	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+representa	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+nossas	FW	-	-	-	-	-	False
+crianças	FW	-	-	-	-	-	False
+pela	FW	-	-	-	-	-	False
+esperança	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+elas	FW	-	-	-	-	-	False
+representam	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

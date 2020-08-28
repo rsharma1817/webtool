@@ -1,19 +1,19 @@
-He	PRON	PRP	-	-	Experiencer	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-want	VERB	VB	want.v	Desiring	-	False
-to	PART	TO	-	-	Event	True
-come	VERB	VB	-	-	Event	True
-to	ADP	IN	-	-	Event	True
-Los	PROPN	NNP	-	-	Event	True
-Angeles	PROPN	NNP	-	-	Event	True
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	Experiencer	3361	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+want	VB	want.v	Desiring	366	-	-	False
+to	TO	-	-	-	Event	3363	True
+come	VB	-	-	-	Event	3363	True
+to	IN	-	-	-	Event	3363	True
+Los	NNP	-	-	-	Event	3363	True
+Angeles	NNP	-	-	-	Event	3363	True
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Experiencer	True
-não	X	FW	-	-	-	False
-queria	X	FW	querer.v	Desiring	-	False
-vir	X	FW	-	-	Event	True
-para	X	FW	-	-	Location_of_event	True
-Los	PROPN	NNP	-	-	Location_of_event	True
-Angeles	PROPN	NNP	-	-	Location_of_event	True
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Experiencer	3361	True
+não	FW	-	-	-	-	-	False
+queria	FW	querer.v	Desiring	366	-	-	False
+vir	FW	-	-	-	Event	3363	True
+para	FW	-	-	-	Location_of_event	3380	True
+Los	NNP	-	-	-	Location_of_event	3380	True
+Angeles	NNP	-	-	-	Location_of_event	3380	True
+.	.	-	-	-	-	-	False

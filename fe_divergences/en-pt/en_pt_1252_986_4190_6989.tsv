@@ -1,18 +1,18 @@
-People	NOUN	NNS	-	-	Cognizer	True
-who	PRON	WP	-	-	Cognizer	True
-had	VERB	VBD	-	-	-	False
-to	PART	TO	-	-	-	False
-move	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-think	VERB	VB	think.v	Cogitation	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+People	NNS	-	-	-	Cognizer	96	True
+who	WP	-	-	-	Cognizer	96	True
+had	VBD	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+move	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+think	VB	think.v	Cogitation	22	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
 
-Pessoas	X	NNP	-	-	Cognizer	True
-que	X	FW	-	-	-	False
-precisavam	X	FW	-	-	-	False
-se	X	FW	-	-	-	False
-mexer	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-pensar	X	FW	pensar.v	Cogitation	-	False
-.	PUNCT	.	-	-	-	False
+Pessoas	NNP	-	-	-	Cognizer	96	True
+que	FW	-	-	-	-	-	False
+precisavam	FW	-	-	-	-	-	False
+se	FW	-	-	-	-	-	False
+mexer	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+pensar	FW	pensar.v	Cogitation	22	-	-	False
+.	.	-	-	-	-	-	False

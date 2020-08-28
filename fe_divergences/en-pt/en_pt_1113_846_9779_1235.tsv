@@ -1,41 +1,41 @@
-Being	VERB	VBG	-	-	-	False
-sent	VERB	VBN	-	-	-	False
-to	ADP	IN	-	-	-	False
-bed	NOUN	NN	-	-	-	False
-by	ADP	IN	-	-	-	False
-his	PRON	PRP$	-	-	Ego	True
-dad	NOUN	NN	dad.n	Kinship	Alter	True
-,	PUNCT	,	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-to	ADP	IN	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Go	VERB	VB	-	-	-	False
-to	ADP	IN	-	-	-	False
-bed	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-now	ADV	RB	-	-	-	False
-!	PUNCT	.	-	-	-	False
+Being	VBG	-	-	-	-	-	False
+sent	VBN	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+bed	NN	-	-	-	-	-	False
+by	IN	-	-	-	-	-	False
+his	PRP$	-	-	-	Ego	517	True
+dad	NN	dad.n	Kinship	104	Alter	516	True
+,	,	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Go	VB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+bed	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+now	RB	-	-	-	-	-	False
+!	.	-	-	-	-	-	False
 
-Ser	X	FW	-	-	-	False
-mandado	X	FW	-	-	-	False
-para	X	FW	-	-	-	False
-cama	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-pai	X	FW	pai.n	Kinship	-	False
-dizendo	X	FW	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Para	PROPN	NNP	-	-	-	False
-cama	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-agora	NOUN	NN	-	-	-	False
-!'	PUNCT	''	-	-	-	False
-,	PUNCT	,	-	-	-	False
-para	NOUN	NN	-	-	-	False
-William	PROPN	NNP	-	-	-	False
-Shakespeare	PROPN	NNP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Ser	FW	-	-	-	-	-	False
+mandado	FW	-	-	-	-	-	False
+para	FW	-	-	-	-	-	False
+cama	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+pai	FW	pai.n	Kinship	104	-	-	False
+dizendo	FW	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Para	NNP	-	-	-	-	-	False
+cama	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+agora	NN	-	-	-	-	-	False
+!'	''	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+para	NN	-	-	-	-	-	False
+William	NNP	-	-	-	-	-	False
+Shakespeare	NNP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

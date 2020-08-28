@@ -1,56 +1,56 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-second	ADJ	JJ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-academic	ADJ	JJ	-	-	-	False
-ability	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	Effect	False
-has	VERB	VBZ	-	-	Effect	False
-really	ADV	RB	-	-	Effect	False
-come	VERB	VBN	-	-	Effect	False
-to	PART	TO	-	-	Effect	False
-dominate	VERB	VB	-	-	Effect	False
-our	PRON	PRP$	-	-	Effect	False
-view	NOUN	NN	-	-	Effect	False
-of	ADP	IN	-	-	Effect	False
-intelligence	NOUN	NN	-	-	Effect	False
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	because.c	Causation	-	False
-the	DET	DT	-	-	Cause	False
-universities	NOUN	NNS	-	-	Cause	False
-designed	VERB	VBD	-	-	Cause	False
-the	DET	DT	-	-	Cause	False
-system	NOUN	NN	-	-	Cause	False
-in	ADP	IN	-	-	Cause	False
-their	PRON	PRP$	-	-	Cause	False
-image	NOUN	NN	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+second	JJ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+academic	JJ	-	-	-	-	-	False
+ability	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	Effect	20	False
+has	VBZ	-	-	-	Effect	20	False
+really	RB	-	-	-	Effect	20	False
+come	VBN	-	-	-	Effect	20	False
+to	TO	-	-	-	Effect	20	False
+dominate	VB	-	-	-	Effect	20	False
+our	PRP$	-	-	-	Effect	20	False
+view	NN	-	-	-	Effect	20	False
+of	IN	-	-	-	Effect	20	False
+intelligence	NN	-	-	-	Effect	20	False
+,	,	-	-	-	-	-	False
+because	IN	because.c	Causation	5	-	-	False
+the	DT	-	-	-	Cause	18	False
+universities	NNS	-	-	-	Cause	18	False
+designed	VBD	-	-	-	Cause	18	False
+the	DT	-	-	-	Cause	18	False
+system	NN	-	-	-	Cause	18	False
+in	IN	-	-	-	Cause	18	False
+their	PRP$	-	-	-	Cause	18	False
+image	NN	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-segunda	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-aptidão	X	FW	-	-	-	False
-acadêmica	X	FW	-	-	-	False
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	Effect	False
-veio	X	FW	-	-	Effect	False
-a	X	FW	-	-	Effect	False
-dominar	X	FW	-	-	Effect	False
-nossa	X	FW	-	-	Effect	False
-visão	X	FW	-	-	Effect	False
-de	X	FW	-	-	Effect	False
-inteligência	X	FW	-	-	Effect	False
-,	PUNCT	,	-	-	-	False
-porque	NOUN	NN	porque.c	Causation	-	False
-as	ADP	IN	-	-	Cause	False
-universidades	X	FW	-	-	Cause	False
-planejaram	X	FW	-	-	Cause	False
-o	X	FW	-	-	Cause	False
-sistema	X	FW	-	-	Cause	False
-à	X	FW	-	-	Cause	False
-sua	X	FW	-	-	Cause	False
-própria	X	FW	-	-	Cause	False
-imagem	X	FW	-	-	Cause	False
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+segunda	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+aptidão	FW	-	-	-	-	-	False
+acadêmica	FW	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	Effect	20	False
+veio	FW	-	-	-	Effect	20	False
+a	FW	-	-	-	Effect	20	False
+dominar	FW	-	-	-	Effect	20	False
+nossa	FW	-	-	-	Effect	20	False
+visão	FW	-	-	-	Effect	20	False
+de	FW	-	-	-	Effect	20	False
+inteligência	FW	-	-	-	Effect	20	False
+,	,	-	-	-	-	-	False
+porque	NN	porque.c	Causation	5	-	-	False
+as	IN	-	-	-	Cause	18	False
+universidades	FW	-	-	-	Cause	18	False
+planejaram	FW	-	-	-	Cause	18	False
+o	FW	-	-	-	Cause	18	False
+sistema	FW	-	-	-	Cause	18	False
+à	FW	-	-	-	Cause	18	False
+sua	FW	-	-	-	Cause	18	False
+própria	FW	-	-	-	Cause	18	False
+imagem	FW	-	-	-	Cause	18	False
+.	.	-	-	-	-	-	False

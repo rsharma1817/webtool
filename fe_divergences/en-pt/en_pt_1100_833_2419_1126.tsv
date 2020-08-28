@@ -1,21 +1,21 @@
-So	ADV	RB	-	-	-	False
-you	PRON	PRP	-	-	-	False
-can	AUX	MD	-	-	-	False
-imagine	VERB	VB	-	-	-	False
-what	PRON	WP	-	-	-	False
-a	DET	DT	-	-	-	False
-seamless	ADJ	JJ	-	-	Manner	False
-transition	NOUN	NN	transition.n	Undergo_change	-	False
-that	PRON	WDT	-	-	-	False
-was	VERB	VBD	-	-	-	False
-.	PUNCT	.	-	-	-	False
+So	RB	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+can	MD	-	-	-	-	-	False
+imagine	VB	-	-	-	-	-	False
+what	WP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+seamless	JJ	-	-	-	Manner	6842	False
+transition	NN	transition.n	Undergo_change	1172	-	-	False
+that	WDT	-	-	-	-	-	False
+was	VBD	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Vocês	NOUN	NNS	-	-	-	False
-podem	NOUN	NN	-	-	-	False
-imaginar	VERB	VBP	-	-	-	False
-a	DET	DT	-	-	-	False
-mudança	X	FW	mudança.n	Undergo_change	-	False
-suave	X	FW	-	-	Manner	False
-que	X	FW	-	-	-	False
-foi	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Vocês	NNS	-	-	-	-	-	False
+podem	NN	-	-	-	-	-	False
+imaginar	VBP	-	-	-	-	-	False
+a	DT	-	-	-	-	-	False
+mudança	FW	mudança.n	Undergo_change	1172	-	-	False
+suave	FW	-	-	-	Manner	6842	False
+que	FW	-	-	-	-	-	False
+foi	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

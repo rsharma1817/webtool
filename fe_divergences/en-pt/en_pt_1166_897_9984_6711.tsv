@@ -1,32 +1,32 @@
-Waiting	VERB	VBG	-	-	-	False
-until	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-ends	VERB	VBZ	-	-	-	False
-so	ADP	IN	-	-	-	False
-they	PRON	PRP	-	-	Author	True
-can	AUX	MD	-	-	-	False
-go	VERB	VB	-	-	-	False
-home	ADV	RB	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-write	VERB	VB	write.v	Text_creation	-	False
-a	DET	DT	-	-	Text	True
-paper	NOUN	NN	-	-	Text	True
-about	ADP	IN	-	-	-	False
-it	PRON	PRP	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Waiting	VBG	-	-	-	-	-	False
+until	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+ends	VBZ	-	-	-	-	-	False
+so	IN	-	-	-	-	-	False
+they	PRP	-	-	-	Author	2428	True
+can	MD	-	-	-	-	-	False
+go	VB	-	-	-	-	-	False
+home	RB	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+write	VB	write.v	Text_creation	278	-	-	False
+a	DT	-	-	-	Text	2430	True
+paper	NN	-	-	-	Text	2430	True
+about	IN	-	-	-	-	-	False
+it	PRP	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-Só	ADV	RB	-	-	-	False
-esperando	X	FW	-	-	-	False
-que	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-evento	X	FW	-	-	-	False
-acabe	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-eles	X	FW	-	-	Author	True
-possam	X	FW	-	-	-	False
-escrever	X	FW	escrever.v	Text_creation	-	False
-um	INTJ	UH	-	-	Text	True
-artigo	X	FW	-	-	Text	True
-a	X	FW	-	-	-	False
-respeito	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+Só	RB	-	-	-	-	-	False
+esperando	FW	-	-	-	-	-	False
+que	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+evento	FW	-	-	-	-	-	False
+acabe	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eles	FW	-	-	-	Author	2428	True
+possam	FW	-	-	-	-	-	False
+escrever	FW	escrever.v	Text_creation	278	-	-	False
+um	UH	-	-	-	Text	2430	True
+artigo	FW	-	-	-	Text	2430	True
+a	FW	-	-	-	-	-	False
+respeito	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

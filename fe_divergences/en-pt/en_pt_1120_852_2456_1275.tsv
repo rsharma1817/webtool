@@ -1,19 +1,19 @@
-He	PRON	PRP	-	-	Theme	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-want	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-come	VERB	VB	come.v	Arriving	-	False
-to	ADP	IN	-	-	Goal	True
-Los	PROPN	NNP	-	-	Goal	True
-Angeles	PROPN	NNP	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	Theme	223	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+want	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+come	VB	come.v	Arriving	54	-	-	False
+to	IN	-	-	-	Goal	226	True
+Los	NNP	-	-	-	Goal	226	True
+Angeles	NNP	-	-	-	Goal	226	True
+.	.	-	-	-	-	-	False
 
-Ele	X	FW	-	-	Theme	True
-não	X	FW	-	-	-	False
-queria	X	FW	-	-	-	False
-vir	X	FW	vir.v	Arriving	-	False
-para	X	FW	-	-	Goal	True
-Los	PROPN	NNP	-	-	Goal	True
-Angeles	PROPN	NNP	-	-	Goal	True
-.	PUNCT	.	-	-	-	False
+Ele	FW	-	-	-	Theme	223	True
+não	FW	-	-	-	-	-	False
+queria	FW	-	-	-	-	-	False
+vir	FW	vir.v	Arriving	54	-	-	False
+para	FW	-	-	-	Goal	226	True
+Los	NNP	-	-	-	Goal	226	True
+Angeles	NNP	-	-	-	Goal	226	True
+.	.	-	-	-	-	-	False

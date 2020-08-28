@@ -1,39 +1,39 @@
-There	PRON	EX	-	-	-	False
-have	VERB	VBP	-	-	-	False
-been	VERB	VBN	-	-	-	False
-three	NUM	CD	-	-	Phenomenon	True
-themes	NOUN	NNS	-	-	Phenomenon	True
-running	VERB	VBG	-	-	Phenomenon	True
-through	ADP	IN	-	-	Phenomenon	True
-the	DET	DT	-	-	Phenomenon	True
-conference	NOUN	NN	-	-	Phenomenon	True
-which	PRON	WDT	-	-	Phenomenon	True
-are	VERB	VBP	-	-	-	False
-relevant	ADJ	JJ	relevant.a	Being_relevant	-	False
-to	ADP	IN	-	-	Endeavor	True
-what	PRON	WP	-	-	Endeavor	True
-I	PRON	PRP	-	-	Endeavor	True
-want	VERB	VBP	-	-	Endeavor	True
-to	PART	TO	-	-	Endeavor	True
-talk	VERB	VB	-	-	Endeavor	True
-about	ADP	IN	-	-	Endeavor	True
-.	PUNCT	.	-	-	-	False
+There	EX	-	-	-	-	-	False
+have	VBP	-	-	-	-	-	False
+been	VBN	-	-	-	-	-	False
+three	CD	-	-	-	Phenomenon	14410	True
+themes	NNS	-	-	-	Phenomenon	14410	True
+running	VBG	-	-	-	Phenomenon	14410	True
+through	IN	-	-	-	Phenomenon	14410	True
+the	DT	-	-	-	Phenomenon	14410	True
+conference	NN	-	-	-	Phenomenon	14410	True
+which	WDT	-	-	-	Phenomenon	14410	True
+are	VBP	-	-	-	-	-	False
+relevant	JJ	relevant.a	Being_relevant	2530	-	-	False
+to	IN	-	-	-	Endeavor	14411	True
+what	WP	-	-	-	Endeavor	14411	True
+I	PRP	-	-	-	Endeavor	14411	True
+want	VBP	-	-	-	Endeavor	14411	True
+to	TO	-	-	-	Endeavor	14411	True
+talk	VB	-	-	-	Endeavor	14411	True
+about	IN	-	-	-	Endeavor	14411	True
+.	.	-	-	-	-	-	False
 
-Existem	X	FW	-	-	-	False
-três	X	FW	-	-	Phenomenon	True
-tópicos	X	FW	-	-	Phenomenon	True
-abordados	X	FW	-	-	Phenomenon	True
-ao	X	FW	-	-	Phenomenon	True
-longo	X	FW	-	-	Phenomenon	True
-da	X	FW	-	-	Phenomenon	True
-conferência	X	FW	-	-	Phenomenon	True
-que	X	FW	-	-	Phenomenon	True
-são	X	FW	-	-	-	False
-relevantes	X	FW	relevante.a	Being_relevant	-	False
-para	X	FW	-	-	Endeavor	True
-o	X	FW	-	-	Endeavor	True
-que	X	FW	-	-	Endeavor	True
-eu	X	FW	-	-	Endeavor	True
-vou	X	FW	-	-	Endeavor	True
-falar	X	FW	-	-	Endeavor	True
-.	PUNCT	.	-	-	-	False
+Existem	FW	-	-	-	-	-	False
+três	FW	-	-	-	Phenomenon	14410	True
+tópicos	FW	-	-	-	Phenomenon	14410	True
+abordados	FW	-	-	-	Phenomenon	14410	True
+ao	FW	-	-	-	Phenomenon	14410	True
+longo	FW	-	-	-	Phenomenon	14410	True
+da	FW	-	-	-	Phenomenon	14410	True
+conferência	FW	-	-	-	Phenomenon	14410	True
+que	FW	-	-	-	Phenomenon	14410	True
+são	FW	-	-	-	-	-	False
+relevantes	FW	relevante.a	Being_relevant	2530	-	-	False
+para	FW	-	-	-	Endeavor	14411	True
+o	FW	-	-	-	Endeavor	14411	True
+que	FW	-	-	-	Endeavor	14411	True
+eu	FW	-	-	-	Endeavor	14411	True
+vou	FW	-	-	-	Endeavor	14411	True
+falar	FW	-	-	-	Endeavor	14411	True
+.	.	-	-	-	-	-	False

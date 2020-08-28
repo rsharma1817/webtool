@@ -1,39 +1,39 @@
-He	PRON	PRP	-	-	-	False
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-have	VERB	VB	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-,	PUNCT	,	-	-	-	False
-but	CCONJ	CC	-	-	-	False
-you	PRON	PRP	-	-	-	False
-know	VERB	VBP	-	-	-	False
-the	DET	DT	-	-	-	False
-bit	NOUN	NN	-	-	-	False
-where	ADV	WRB	-	-	-	False
-the	DET	DT	-	-	-	False
-three	NUM	CD	three.num	Cardinal_numbers	Number	True
-kings	NOUN	NNS	-	-	Entity	True
-come	VERB	VBP	-	-	-	False
-in	ADP	RP	-	-	-	False
-?	PUNCT	.	-	-	-	False
+He	PRP	-	-	-	-	-	False
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+have	VB	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+but	CC	-	-	-	-	-	False
+you	PRP	-	-	-	-	-	False
+know	VBP	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+bit	NN	-	-	-	-	-	False
+where	WRB	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+three	CD	three.num	Cardinal_numbers	218	Number	3622	True
+kings	NNS	-	-	-	Entity	3623	True
+come	VBP	-	-	-	-	-	False
+in	RP	-	-	-	-	-	False
+?	.	-	-	-	-	-	False
 
-Er	INTJ	UH	-	-	-	False
-musste	X	NNP	-	-	-	False
-nicht	X	NNP	-	-	-	False
-reden	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-aber	PROPN	NNP	-	-	-	False
-wissen	PROPN	NNP	-	-	-	False
-Sie	PROPN	NNP	-	-	-	False
-noch	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-der	X	FW	-	-	-	False
-Teil	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wo	AUX	MD	-	-	-	False
-die	VERB	VB	-	-	-	False
-drei	PROPN	NNP	drei.num	Cardinal_numbers	Number	True
-Könige	PROPN	NNP	-	-	Entity	True
-kommen	PROPN	NNS	-	-	-	False
-?	PUNCT	.	-	-	-	False
+Er	UH	-	-	-	-	-	False
+musste	NNP	-	-	-	-	-	False
+nicht	NNP	-	-	-	-	-	False
+reden	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+aber	NNP	-	-	-	-	-	False
+wissen	NNP	-	-	-	-	-	False
+Sie	NNP	-	-	-	-	-	False
+noch	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+der	FW	-	-	-	-	-	False
+Teil	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wo	MD	-	-	-	-	-	False
+die	VB	-	-	-	-	-	False
+drei	NNP	drei.num	Cardinal_numbers	218	Number	3622	True
+Könige	NNP	-	-	-	Entity	3623	True
+kommen	NNS	-	-	-	-	-	False
+?	.	-	-	-	-	-	False

@@ -1,56 +1,56 @@
-And	CCONJ	CC	-	-	-	False
-the	DET	DT	-	-	-	False
-second	ADJ	JJ	-	-	-	False
-is	VERB	VBZ	-	-	-	False
-academic	ADJ	JJ	-	-	Agent	True
-ability	NOUN	NN	-	-	Agent	True
-,	PUNCT	,	-	-	-	False
-which	PRON	WDT	-	-	Agent	True
-has	VERB	VBZ	-	-	-	False
-really	ADV	RB	-	-	-	False
-come	VERB	VBN	-	-	-	False
-to	PART	TO	-	-	-	False
-dominate	VERB	VB	dominate.v	Dominate_situation	-	False
-our	PRON	PRP$	-	-	Situation	True
-view	NOUN	NN	-	-	Situation	True
-of	ADP	IN	-	-	Situation	True
-intelligence	NOUN	NN	-	-	Situation	True
-,	PUNCT	,	-	-	-	False
-because	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-universities	NOUN	NNS	-	-	-	False
-designed	VERB	VBD	-	-	-	False
-the	DET	DT	-	-	-	False
-system	NOUN	NN	-	-	-	False
-in	ADP	IN	-	-	-	False
-their	PRON	PRP$	-	-	-	False
-image	NOUN	NN	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+second	JJ	-	-	-	-	-	False
+is	VBZ	-	-	-	-	-	False
+academic	JJ	-	-	-	Agent	10643	True
+ability	NN	-	-	-	Agent	10643	True
+,	,	-	-	-	-	-	False
+which	WDT	-	-	-	Agent	10643	True
+has	VBZ	-	-	-	-	-	False
+really	RB	-	-	-	-	-	False
+come	VBN	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+dominate	VB	dominate.v	Dominate_situation	1795	-	-	False
+our	PRP$	-	-	-	Situation	10644	True
+view	NN	-	-	-	Situation	10644	True
+of	IN	-	-	-	Situation	10644	True
+intelligence	NN	-	-	-	Situation	10644	True
+,	,	-	-	-	-	-	False
+because	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+universities	NNS	-	-	-	-	-	False
+designed	VBD	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+system	NN	-	-	-	-	-	False
+in	IN	-	-	-	-	-	False
+their	PRP$	-	-	-	-	-	False
+image	NN	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-A	DET	DT	-	-	-	False
-segunda	X	FW	-	-	-	False
-é	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-aptidão	X	FW	-	-	Agent	True
-acadêmica	X	FW	-	-	Agent	True
-,	PUNCT	,	-	-	-	False
-que	X	FW	-	-	Agent	True
-veio	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-dominar	X	FW	dominar.v	Dominate_situation	-	False
-nossa	X	FW	-	-	Situation	True
-visão	X	FW	-	-	Situation	True
-de	X	FW	-	-	Situation	True
-inteligência	X	FW	-	-	Situation	True
-,	PUNCT	,	-	-	-	False
-porque	NOUN	NN	-	-	-	False
-as	ADP	IN	-	-	-	False
-universidades	X	FW	-	-	-	False
-planejaram	X	FW	-	-	-	False
-o	X	FW	-	-	-	False
-sistema	X	FW	-	-	-	False
-à	X	FW	-	-	-	False
-sua	X	FW	-	-	-	False
-própria	X	FW	-	-	-	False
-imagem	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+A	DT	-	-	-	-	-	False
+segunda	FW	-	-	-	-	-	False
+é	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+aptidão	FW	-	-	-	Agent	10643	True
+acadêmica	FW	-	-	-	Agent	10643	True
+,	,	-	-	-	-	-	False
+que	FW	-	-	-	Agent	10643	True
+veio	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+dominar	FW	dominar.v	Dominate_situation	1795	-	-	False
+nossa	FW	-	-	-	Situation	10644	True
+visão	FW	-	-	-	Situation	10644	True
+de	FW	-	-	-	Situation	10644	True
+inteligência	FW	-	-	-	Situation	10644	True
+,	,	-	-	-	-	-	False
+porque	NN	-	-	-	-	-	False
+as	IN	-	-	-	-	-	False
+universidades	FW	-	-	-	-	-	False
+planejaram	FW	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+sistema	FW	-	-	-	-	-	False
+à	FW	-	-	-	-	-	False
+sua	FW	-	-	-	-	-	False
+própria	FW	-	-	-	-	-	False
+imagem	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False

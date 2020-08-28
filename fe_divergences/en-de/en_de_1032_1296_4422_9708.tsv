@@ -1,30 +1,30 @@
-Like	ADP	IN	-	-	-	False
-religion	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-money	NOUN	NN	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-other	ADJ	JJ	other.a	Increment	Added_set	True
-things	NOUN	NNS	-	-	Added_set	True
-.	PUNCT	.	-	-	-	False
+Like	IN	-	-	-	-	-	False
+religion	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+money	NN	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+other	JJ	other.a	Increment	1001	Added_set	6124	True
+things	NNS	-	-	-	Added_set	6124	True
+.	.	-	-	-	-	-	False
 
-Denn	PROPN	NNP	-	-	-	False
-es	X	FW	-	-	-	False
-ist	X	FW	-	-	-	False
-eines	X	FW	-	-	-	False
-dieser	X	FW	-	-	-	False
-Themen	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-die	VERB	VB	-	-	-	False
-Leute	PROPN	NNP	-	-	-	False
-tief	X	NN	-	-	-	False
-berühren	X	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-wie	INTJ	NN	-	-	-	False
-Religion	NOUN	NNP	-	-	Initial_set	True
-,	PUNCT	,	-	-	Initial_set	True
-Geld	PROPN	NNP	-	-	Initial_set	True
-und	X	XX	-	-	-	False
-andere	X	FW	andere.n	Increment	Added_set	True
-Sachen	PROPN	NNP	-	-	Added_set	True
-.	PUNCT	.	-	-	-	False
+Denn	NNP	-	-	-	-	-	False
+es	FW	-	-	-	-	-	False
+ist	FW	-	-	-	-	-	False
+eines	FW	-	-	-	-	-	False
+dieser	FW	-	-	-	-	-	False
+Themen	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+die	VB	-	-	-	-	-	False
+Leute	NNP	-	-	-	-	-	False
+tief	NN	-	-	-	-	-	False
+berühren	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+wie	NN	-	-	-	-	-	False
+Religion	NNP	-	-	-	Initial_set	6125	True
+,	,	-	-	-	Initial_set	6125	True
+Geld	NNP	-	-	-	Initial_set	6125	True
+und	XX	-	-	-	-	-	False
+andere	FW	andere.n	Increment	1001	Added_set	6124	True
+Sachen	NNP	-	-	-	Added_set	6124	True
+.	.	-	-	-	-	-	False

@@ -1,29 +1,29 @@
-And	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Cognizer	True
-think	VERB	VBP	think.v	Opinion	-	False
-we	PRON	PRP	-	-	Opinion	True
-ca	AUX	MD	-	-	Opinion	True
-n't	ADV	RB	-	-	Opinion	True
-afford	VERB	VB	-	-	Opinion	True
-to	PART	TO	-	-	Opinion	True
-go	VERB	VB	-	-	Opinion	True
-on	ADP	IN	-	-	Opinion	True
-that	DET	DT	-	-	Opinion	True
-way	NOUN	NN	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Cognizer	7869	True
+think	VBP	think.v	Opinion	1412	-	-	False
+we	PRP	-	-	-	Opinion	7870	True
+ca	MD	-	-	-	Opinion	7870	True
+n't	RB	-	-	-	Opinion	7870	True
+afford	VB	-	-	-	Opinion	7870	True
+to	TO	-	-	-	Opinion	7870	True
+go	VB	-	-	-	Opinion	7870	True
+on	IN	-	-	-	Opinion	7870	True
+that	DT	-	-	-	Opinion	7870	True
+way	NN	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False
 
-Eu	X	NNP	-	-	Cognizer	True
-acho	X	FW	achar.v	Opinion	-	False
-que	X	FW	-	-	Opinion	True
-não	X	FW	-	-	Opinion	True
-podemos	X	FW	-	-	Opinion	True
-nos	X	FW	-	-	Opinion	True
-dar	X	FW	-	-	Opinion	True
-ao	X	FW	-	-	Opinion	True
-luxo	X	FW	-	-	Opinion	True
-de	X	FW	-	-	Opinion	True
-ir	X	FW	-	-	Opinion	True
-por	X	FW	-	-	Opinion	True
-esse	X	FW	-	-	Opinion	True
-caminho	X	FW	-	-	Opinion	True
-.	PUNCT	.	-	-	-	False
+Eu	NNP	-	-	-	Cognizer	7869	True
+acho	FW	achar.v	Opinion	1412	-	-	False
+que	FW	-	-	-	Opinion	7870	True
+não	FW	-	-	-	Opinion	7870	True
+podemos	FW	-	-	-	Opinion	7870	True
+nos	FW	-	-	-	Opinion	7870	True
+dar	FW	-	-	-	Opinion	7870	True
+ao	FW	-	-	-	Opinion	7870	True
+luxo	FW	-	-	-	Opinion	7870	True
+de	FW	-	-	-	Opinion	7870	True
+ir	FW	-	-	-	Opinion	7870	True
+por	FW	-	-	-	Opinion	7870	True
+esse	FW	-	-	-	Opinion	7870	True
+caminho	FW	-	-	-	Opinion	7870	True
+.	.	-	-	-	-	-	False

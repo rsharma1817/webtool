@@ -1,75 +1,75 @@
-In	ADP	IN	-	-	-	False
-the	DET	DT	-	-	-	False
-end	NOUN	NN	-	-	-	False
-,	PUNCT	,	-	-	-	False
-the	DET	DT	-	-	-	False
-doctor	NOUN	NN	-	-	-	False
-went	VERB	VBD	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-sat	VERB	VBD	-	-	-	False
-next	ADV	RB	-	-	-	False
-to	ADP	IN	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-and	CCONJ	CC	-	-	-	False
-said	VERB	VBD	-	-	-	False
-,	PUNCT	,	-	-	-	False
-'	PUNCT	''	-	-	-	False
-I	PRON	PRP	-	-	Perceiver_agentive	True
-'ve	VERB	VBP	-	-	-	False
-listened	VERB	VBN	listen.v	Perception_active	-	False
-to	ADP	IN	-	-	Phenomenon	True
-all	DET	PDT	-	-	Phenomenon	True
-these	DET	DT	-	-	Phenomenon	True
-things	NOUN	NNS	-	-	Phenomenon	True
-your	PRON	PRP$	-	-	Phenomenon	True
-mother	NOUN	NN	-	-	Phenomenon	True
-'s	VERB	POS	-	-	Phenomenon	True
-told	VERB	VBD	-	-	Phenomenon	True
-me	PRON	PRP	-	-	Phenomenon	True
-,	PUNCT	,	-	-	-	False
-I	PRON	PRP	-	-	-	False
-need	VERB	VBP	-	-	-	False
-to	PART	TO	-	-	-	False
-speak	VERB	VB	-	-	-	False
-to	ADP	IN	-	-	-	False
-her	PRON	PRP	-	-	-	False
-privately	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+In	IN	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+end	NN	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+the	DT	-	-	-	-	-	False
+doctor	NN	-	-	-	-	-	False
+went	VBD	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+sat	VBD	-	-	-	-	-	False
+next	RB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+and	CC	-	-	-	-	-	False
+said	VBD	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+I	PRP	-	-	-	Perceiver_agentive	301	True
+'ve	VBP	-	-	-	-	-	False
+listened	VBN	listen.v	Perception_active	66	-	-	False
+to	IN	-	-	-	Phenomenon	302	True
+all	PDT	-	-	-	Phenomenon	302	True
+these	DT	-	-	-	Phenomenon	302	True
+things	NNS	-	-	-	Phenomenon	302	True
+your	PRP$	-	-	-	Phenomenon	302	True
+mother	NN	-	-	-	Phenomenon	302	True
+'s	POS	-	-	-	Phenomenon	302	True
+told	VBD	-	-	-	Phenomenon	302	True
+me	PRP	-	-	-	Phenomenon	302	True
+,	,	-	-	-	-	-	False
+I	PRP	-	-	-	-	-	False
+need	VBP	-	-	-	-	-	False
+to	TO	-	-	-	-	-	False
+speak	VB	-	-	-	-	-	False
+to	IN	-	-	-	-	-	False
+her	PRP	-	-	-	-	-	False
+privately	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-No	DET	DT	-	-	-	False
-final	ADJ	JJ	-	-	-	False
-o	X	FW	-	-	-	False
-médico	X	FW	-	-	-	False
-sentou	X	FW	-	-	-	False
-ao	X	FW	-	-	-	False
-lado	X	FW	-	-	-	False
-da	X	FW	-	-	-	False
-Gillian	X	FW	-	-	-	False
-e	X	FW	-	-	-	False
-disse	X	FW	-	-	-	False
-:	PUNCT	:	-	-	-	False
-'	PUNCT	''	-	-	-	False
-Gillian	PROPN	NNP	-	-	-	False
-,	PUNCT	,	-	-	-	False
-eu	X	FW	-	-	Perceiver_agentive	True
-ouvi	X	FW	ouvir.v	Perception_active	-	False
-todas	X	FW	-	-	Phenomenon	True
-as	ADP	IN	-	-	Phenomenon	True
-coisas	X	FW	-	-	Phenomenon	True
-que	X	FW	-	-	Phenomenon	True
-sua	X	FW	-	-	Phenomenon	True
-mãe	X	FW	-	-	Phenomenon	True
-me	PRON	FW	-	-	Phenomenon	True
-disse	NOUN	FW	-	-	Phenomenon	True
-,	PUNCT	,	-	-	-	False
-e	X	FW	-	-	-	False
-eu	X	FW	-	-	-	False
-preciso	X	FW	-	-	-	False
-conversar	X	FW	-	-	-	False
-a	X	FW	-	-	-	False
-sós	X	FW	-	-	-	False
-com	X	FW	-	-	-	False
-ela	X	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
-'	PUNCT	''	-	-	-	False
+No	DT	-	-	-	-	-	False
+final	JJ	-	-	-	-	-	False
+o	FW	-	-	-	-	-	False
+médico	FW	-	-	-	-	-	False
+sentou	FW	-	-	-	-	-	False
+ao	FW	-	-	-	-	-	False
+lado	FW	-	-	-	-	-	False
+da	FW	-	-	-	-	-	False
+Gillian	FW	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+disse	FW	-	-	-	-	-	False
+:	:	-	-	-	-	-	False
+'	''	-	-	-	-	-	False
+Gillian	NNP	-	-	-	-	-	False
+,	,	-	-	-	-	-	False
+eu	FW	-	-	-	Perceiver_agentive	301	True
+ouvi	FW	ouvir.v	Perception_active	66	-	-	False
+todas	FW	-	-	-	Phenomenon	302	True
+as	IN	-	-	-	Phenomenon	302	True
+coisas	FW	-	-	-	Phenomenon	302	True
+que	FW	-	-	-	Phenomenon	302	True
+sua	FW	-	-	-	Phenomenon	302	True
+mãe	FW	-	-	-	Phenomenon	302	True
+me	FW	-	-	-	Phenomenon	302	True
+disse	FW	-	-	-	Phenomenon	302	True
+,	,	-	-	-	-	-	False
+e	FW	-	-	-	-	-	False
+eu	FW	-	-	-	-	-	False
+preciso	FW	-	-	-	-	-	False
+conversar	FW	-	-	-	-	-	False
+a	FW	-	-	-	-	-	False
+sós	FW	-	-	-	-	-	False
+com	FW	-	-	-	-	-	False
+ela	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
+'	''	-	-	-	-	-	False

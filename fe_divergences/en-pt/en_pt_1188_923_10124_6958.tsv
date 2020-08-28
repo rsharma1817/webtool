@@ -1,17 +1,17 @@
-And	CCONJ	CC	-	-	-	False
-I	PRON	PRP	-	-	Experiencer	True
-did	VERB	VBD	-	-	-	False
-n't	ADV	RB	-	-	-	False
-want	VERB	VB	want.v	Desiring	-	False
-one	NUM	CD	-	-	Focal_participant	True
-,	PUNCT	,	-	-	-	False
-frankly	ADV	RB	-	-	-	False
-.	PUNCT	.	-	-	-	False
+And	CC	-	-	-	-	-	False
+I	PRP	-	-	-	Experiencer	3361	True
+did	VBD	-	-	-	-	-	False
+n't	RB	-	-	-	-	-	False
+want	VB	want.v	Desiring	366	-	-	False
+one	CD	-	-	-	Focal_participant	3366	True
+,	,	-	-	-	-	-	False
+frankly	RB	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
 
-E	NOUN	NN	-	-	-	False
-eu	X	FW	-	-	Experiencer	True
-não	X	FW	-	-	-	False
-queria	X	FW	querer.v	Desiring	-	False
-,	PUNCT	,	-	-	-	False
-francamente	INTJ	FW	-	-	-	False
-.	PUNCT	.	-	-	-	False
+E	NN	-	-	-	-	-	False
+eu	FW	-	-	-	Experiencer	3361	True
+não	FW	-	-	-	-	-	False
+queria	FW	querer.v	Desiring	366	-	-	False
+,	,	-	-	-	-	-	False
+francamente	FW	-	-	-	-	-	False
+.	.	-	-	-	-	-	False
