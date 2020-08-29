@@ -1,5 +1,5 @@
 ## Coding Phase 1
-### Tasks scheduled for this month (Jun 1- Jul 1)- Week 1- Week 4
+### Tasks scheduled for this month (Jun 1- Jul 1): Week 1-4
 1. User import a video file (via direct upload or importing from a url) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 2. File/URL is validated (checking that the URL points to a video file) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 3. Check the database for duplicates (inform user/drop duplicate file) ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
@@ -17,11 +17,11 @@
 15. Reviewed file is uploaded to the FrameNet Webtool ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 
 ## Coding Phase 2
-### Tasks scheduled for this month (Jun 1- Jul 1)- Week 1- Week 4
+### Tasks scheduled for this month (Jun 1- Jul 1)- Week 5-8
 
 
 ## Coding Phase 3
-### Tasks scheduled for this month (Aug 1- Aug 27)
+### Tasks scheduled for this month (Aug 1- Aug 27)- Week 9-12
 
 1. Add code to generate XML for VATIC object tracking ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 2. Frames annotated in text and in the video per corpus ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)
