@@ -17,7 +17,19 @@
 15. Reviewed file is uploaded to the FrameNet Webtool ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 
 ## Coding Phase 2
-### Tasks scheduled for this month (Jun 1- Jul 1)- Week 5-8
+### Tasks scheduled for this month (Jul 3- Jul 27)- Week 5-8
+1. The preprocessed video from the previous pipeline is imported into the webtool from the server. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+2. To annotate a sentence, the start and end timestamps of that sentence are chosen. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+3. Run the video with each frame having a time gap of 1 second. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+4. Objects in a frame will be detected automatically using YOLO (You Look Only Once), which will also create bounding boxes around them. In case COCO does not perform well, a new model will be trained using the Open Images dataset, and in addition, changes to the code for obtaining the actual pixel coordinates will also be made. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+5. The coordinates of the pixels that serve as corners to a detected object's bounding box will be saved in a list. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+6. For the following 5 frames, the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm will track these objects by interpolating the current coordinates of the detected objects. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+7. The 5 frame constraint is kept for each detected object that is to be tracked, to ensure that it is present in the video for at least five seconds, otherwise tracking it is not useful and won't help in annotation. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+8. If the image for an object is generated after the previous step is performed, a minimum size constraint and image quality resolution will have to be met to save the image. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+9. The generated images will be stored in the OBJECTS_STORE folder. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+10. Using a windowing technique, the same object detection and tracking process from steps 4 to 9 will be followed for the duration of the video. Every new object that is tracked successfully will be added to the list storing the coordinates. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+11. The generated images will be shown to the user for validation. An option for manual creation of bounding boxes will be provided if the user is not satisfied. ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
+12. Identified objects in the video will be stored in the ObjectMM table of the webtool database ![completed](https://img.shields.io/static/v1?label=&message=completed&color=green)  
 
 
 ## Coding Phase 3
